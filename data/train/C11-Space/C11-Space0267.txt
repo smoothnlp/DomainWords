@@ -1,0 +1,95 @@
+　宇航学报
+JOURNAL OF ASTRONAUTICS
+1999年 第20卷 第3期 vol.20 No.3 1999
+
+
+
+　自适应两步滤波器及其在导弹
+被动制导中的应用*
+周　荻　慕春棣　胡恒章
+　　摘　要　两步滤波器由Kalman滤波器和Gauss-Newton迭代算法所构成，它适用于一类由线性动态模型和非线性测量模型所组成的非线性系统。本文将这种滤波器与时变测量噪声统计估值器相结合，得到一种自适应两步滤波器，在测量噪声统计特性无法验前已知的情况下，此滤波器仍然性能良好。最后，本文将自适应两步滤波器应用于导弹的被动制导问题，数字仿真结果证明了这种算法的有效性。
+　　主题词　两步滤波器　自适应滤波器　导弹被动制导
+ADAPTIVE TWO-STEP FILTER 
+WITH APPLICATIONS TO MISSILE 
+GUIDANCE WITH PASSIVE MEASUREMENTS
+Zhou Di Mu Chundi
+(Department of Automation,Tsinghua University.Beijing.100084)
+Hu Hengzhang
+(Department of Control Engineeringm,Harbin Institute of Technology.Harbin.150001)
+　　Abstract　The two-step filter suits a class of nonlinear systems which include a linear dynamic model and a nonlinear measurement model.This filter consists of a Kalman filter and a Gauss-Newton iterative algorithm.We integrate the two-step filter with a time-varying measurement noise statistical estimator to obtain an adaptive two-step filter,which still performs well in the case where the statistical properties of the measurement noise are unknown apriori.The adaptive two-step filter is applied to missile guidance with passive measurements and the numerical results show that this filter is really effective.
+　　Key words　Two-step filter Adaptive filter Missile guidance with passive measurements
+　　1　引言
+　　非线性系统的状态估计是一个很重要的研究课题。最常用的递推型非线性滤波器是推广Kalman滤波器(EKF)，应用此滤波器需要对非线性系统进行线性化处理。在有些情况下，EKF有较大的估计误差，甚至会发散。本文介绍一种适用于一类特定非线性系统的两步滤波器［1～2］。一类特定的非线性系统指的是由一个线性的动态模型和一个非线性的测量模型所构成的系统。所谓的两步滤波器是指，首先采用一组新的状态量(它是系统真实状态的非线性函数)，使得系统被量测量是这组新状态量的线性函数。在第一步滤波中，应用Kalman滤波器得到新状态的最优估计值。在第二步滤波中，把新状态的估计值作为被量测量，并应用Gauss-Newton迭代算法求出系统真实状态的最优解。在许多实际情况下，测量噪声统计特性是时变的，无法验前已知，这时应用噪声统计估值器可以在线地确定测量噪声的均值和方差。把时变测量噪声统计估值器与两步滤波器相结合，可以得到一种性能优良的自适应非线性滤波器。
+　　2　自适应两步滤波器
+　　考虑非线性系统
+　　　　　　　　　　　　　　　　　　　　　　　　　　(1)
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(2)
+其中F　(　.　，　.　)代表一个非线性向量函数；wk和vk均为高斯白噪声，而且E［wk］=0,E［wk wTk］=Qk,E［vk］=rk,E［vk vTk］=Rk,E［wk vTk］=0。
+　　设性能指标函数为
+　　　　　　　　　　　　　　　　　　(3)
+我们引进一个新的状态向量yk，令测量向量zk为关于yk的线性函数，即
+　　　　　　　　　　　　　　　　　　　　　　　　(4)
+其中yk=fk(xk,tk)，一般可取yk=［xTk　FT(xk,tk)］T。这样，我们取第一步滤波时的性能指标函数为
+　　　　　　　　　　　　　　　　　　　　(5)
+为使Jy达到最小值，可以用Kalman滤波器求出yk的估计值，即进行第一步滤波，
+　　　　　　　　　　　　　(6)
+　　　　　　　　　　　　　　　　　　　　　　　　　　(7)
+其中,。
+　　公式(6)中的rk和Rk是无法验前已知的时变向量和时变矩阵。由于现在求解的是一个线性状态估计问题，所以可以用线性时变测量噪声统计估值器［3］对rk和Rk进行实时估计，即
+　　　　　　　　　　　　　　　　　　　　　　　(8)
+　　　　　　　　　(9)
+其中dk=(1-b)/(1-bk+1),0＜b＜1，b代表遗忘因子；,εk代表新息向量；Kk=PykHTkR-1k。上述算法完成了第一步滤波的测量修正功能。
+　　下面，我们把第一步滤波的估计值yk作为第二步滤波的测量值，测量方程为
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(10)
+其中测量噪声ek的协方差矩阵为Pyk。取第二步滤波时的性能指标函数为
+　　　　　　　　　　　　　　　　　　　　　(11)
+显然，求解xk使Jk达到最小值这一问题是一个非线性估计问题，我们用Gauss-Newton迭代法求最优解，即令
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　(12)
+其中i代表迭代次数，，。忽略f的二阶导数和高阶导数可以保证Lk,i的正定性，即
+　　　　　　　　　　　　　　　　　　(13)
+应用(13)式，(12)式成为
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　(14)
+其中。当时，迭代过程结束。
+　　定义状态xk的估计误差协方差阵为，可以证明［1］
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(15)
+利用(14)式可以完成第二步滤波的测量修正功能。
+　　显然，系统状态xk的一步预报值及预报误差协方差阵可以由下列算法求得：
+　　　　　　　　　　　　　　　　　(16)
+　　　　　　　　　　　　　　　　　　　　　　　　　(17)
+(16)式和(17)式完成了第二步滤波的时间修正功能。
+　　最后，推导出新状态yk的一步预报值及预报误差协方差阵的计算公式：
+由
+　　　　　　　　　　　　　　　　　　　　　　　　　(18)
+可近似求得
+　　　　　　　　　　　　　　　　　　　　　　　　(19)
+定义协方差矩阵
+　　　　　　　　　　　　　　　　　　　(20)
+近似认为,，而且利用定义和，可以求得
+
+(21)
+(19)式和(21)式完成了第一步滤波的时间修正功能。
+　　对以上各推导步骤进行总结，可得如下结论：把(6)～(9)式，(14)式、(16)式、(17)式，(19)式、(21)式按照所给定的顺序执行运算，即可以构成自适应两步滤波器。
+　　3　自适应两步滤波器在导弹被动制导中的应用
+　　假设目标加速度可以用一阶Gauss-Markov随机过程描述，那么，在直角坐标系中目标和导弹相对运动关系可以用线性离散形式的动态方程描述，见文献［6］。被动制导条件下，非线性的测量方程也如文献［6］所述。我们把自适应两步滤波器应用于这一问题，并通过计算机仿真来验证滤波器的有效性。
+　　从实际情况出发，设末制导初始时刻，目标—导弹之间的相对位置为rx0=15km,ry0=8km,rz0=6km，相对速度为vx0=-1100m/s,vy0=-150m/s,vz0=-50m/s,目标加速度为aTy0=aTz0=10m/s2;滤波器的初值为=14km,=7.5km,=5.5km,=-950m/s,=-100m/s,=-100m/s,=0m/s2,取yk=［xTk　［FT(xk,tk)］T，My0=diag［105I3　104I3　102I5］，=10-8I2,b=0.98。其它数据与文献［6］中仿真数据相同，导弹制导指令由线性二次型导引律［4］确定，且利用系统状态的真实值来实现。
+　　经过100次Monte-Carlo仿真，得到了自适应两步滤波器(ATSF)对相对距离、相对速度及目标加速度的估计误差，分别见图1～图3。图1～图3说明，在同样的仿真条件下，这一滤波器的性能明显优于推广Kalman滤波器(EKF)，也优于作者在文献［6］中所提出的自适应推广Kalman滤波器(AEKF)。
+
+图1　相对距离估计误差
+
+图2　相对速度估计误差
+
+图3　目标加速度估计误差
+　
+　　4　结论
+　　本文提出了一种自适应两步滤波器，它适用于一类由线性动态模型和非线性测量模型所组成的非线性系统，而且系统测量噪声统计特性可以是验前未知的。本文将自适应两步滤波器应用于导弹被动制导问题，仿真结果表明这种非线性滤波器具有优良的性能。
+*中国博士后基金资助项目
+作者单位：周　荻　慕春棣；清华大学自动化系.北京.100084
+　　　　　胡恒章：哈尔滨工业大学控制工程系.哈尔滨.150001
+参考文献
+　　1　Haupt GT,Kasdin NJ,Keiser GM,and Parkinson BW.Optimal Recursive Iterative Algorithm for Discrete Nonlinear Least-Squares Estimation.Journal of Guidance,Control,and Dynamics,1996,19(3):643-649
+　　2　Kasdin NJ,and Haupt GT.Second Order Correction and Numerical Considerations for the Two-Step Optimal Estimator.Journal of Guidance,Control,and Dynamics,1997,20(2):362-369
+　　3　邓自立，郭一新.现代时间序列分析—建模、滤波、去卷、预报和控制.知识出版社，1989年6月
+　　4　Hull DG,Speyer JL,and Burris DB.Linear Quadratic Guidance Law for Dual Control of Homing Missiles.Journal of Guidance,Control,and Dynamics,1990,13(1):137-144
+　　5　Song TL,Speyer JL.A Stochastic Analysis of Modified Gain Extended Kalman Filter with Applications to Estimation with Bearings Only Measurements.IEEE Transactions on Automatic Control,1985,AC-30(10):940-949
+　　6　周荻，胡振坤，胡恒章.自适应推广KALMAN滤波应用于导弹的被动制导问题.宇航学报，1997，18(4)：31-36
+　收稿日期:1997年10月21日,修回日期:1998年7月15日

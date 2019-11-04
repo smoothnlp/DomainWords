@@ -1,0 +1,83 @@
+宇航学报 
+JOURNAL OF ASTRONAUTICS
+1998年 第19卷 第1期 No1 Vol.9 1998科技期刊
+
+一类非线性控制器nPI及其在扫描镜
+精密伺服系统中的应用
+梁文宝
+(航天工业总公司三院三部*北京*100074)
+徐立新
+(北京理工大学*北京*100081)
+梅晓容　庄显义
+(哈尔滨工业大学*哈尔滨*150001)
+　　摘　要　本文给出一种非线性控制器,并将它应用于扫描镜精密伺服系统的校正。理论分析和应用结果表明,它能显著改善控制系统的静态和动态性能。
+　　主题词　非线性控制器　描述函数　扫描镜　伺服系统
+A KIND OF NONLINEAR CONTROLLER nPI 
+AND ITS APPLICATION IN SCANNING 
+MIRROR PRECISE SERVO SYSTEM
+Liang Wenbao
+(General Design Institute of The Third Research Academy of 
+China Aerospace Corporation*Beijing*100074)
+Xu Lixin
+(Beijing Institute of Technology*Beijing*100081)
+Mei Xiaorong　Zhuang Xianyi
+(Harbin Institute of Technology*Harbin*150001)
+　　Abstract　A kind of nonlinear controller nPI is presented and used to correct scanning mirror precise servo system in this paper.The theory analysis and experiment result prove that the nPI can improve control system characteristics obviously.
+　　Key words　Nonlinear controller　Description function　Scanning mirror　Servo
+1　引　言
+　　由于线性比例积分控制器(PI)既能保证系统具有较高的静态精度,又能兼顾系统具有良好的动态性能,因此它在控制系统的综合中获得了广泛的应用。但线性积分器会带来90°的相位滞后,这将降低控制系统的性能。为此本文给出一种非线性比例积分控制器(nPI)。理论分析表明,nPI的静态、动态特性都优于PI,nPI应用于扫描镜精密伺服系统的运行结果也证明了这一点。
+2　非线性控制器nPI及其特性分析
+2.1　非线性积分器
+　　设nI的输入为e(t),输出为ui(t),则它的数学模型可以写为
+
+(1)
+
+
+图1　nPI结构图
+式中TI为积分时间常数;tn为满足e(t)=0的时刻。
+2.2　nPI控制器的特性分析
+　　非线性比例积分控制器的结构如图1所示。利用式(1),经过推导得其描述函数为
+N(jω)=H(ω)ejφ(ω)
+(2)
+其中
+
+(3)
+
+(4)
+为了把nPI同PI进行比较,下面给出PI的幅频和相频特性
+
+(5)
+
+(6)
+　　可以看出,nPI和PI的幅频特性相似,并且对任意角频率ω,总有nPI的幅频增益大于PI的幅频增益,即H(ω)＞HL(ω)。这也就说明nPI和PI能更好地降低系统的稳态误差。通过对相频特性的比较可知,采用nPI校正时,将能获得更大的相角稳定裕量,从而使系统的动态性能比采用PI校正时更为优越。
+3　nPI在扫描镜精密伺服系统中的应用
+3.1　扫描镜控制系统设计
+　　扫描镜实际上是一个微型二维转台,在光学成像制导和导弹半实物仿真中常有应用,是关键部件之一。它的典型结构是由两套机组构成,分别控制扫描镜片的俯仰和方位运动。如何实现扫描镜片高精度的方位和俯仰运动,有效地跟踪光路,是航天工程中迫切需要解决的问题。
+　　在经过电流环、速度环回路和系统解耦的设计与调试后,扫描镜系统等价成两个单变量系统——俯仰系统和方位系统。式(7)为俯仰系统的开环传递函数。
+
+(7)
+根据系统的技术要求,推得控制规律如下
+Gbc(S)=0.02S
+(8)
+
+(9)
+其中Gc(S),Gbc(S)分别为串联控制器及前馈环节的传递函数。
+3.2　扫描镜系统的试验结果及分析
+　　图2给出了俯仰系统采用PI和nPI校正的阶跃响应曲线和正弦响应曲线。其中采用PI校正时,系统超调量为36.4%,调节时间为230ms,而采用相同参数(KP;TI)的nPI校正时,系统阶跃响应的超调量为25.6%,调节时间为110ms;再看图3的正弦响应,采用nPI校正不仅具有较小的相位滞后,而且具有更高的跟踪精度。
+
+
+(a)线性校正的阶跃响应　　(b)非线性校正的阶跃响应
+图2　采用nPI与PI校正系统阶跃响应的比较
+
+
+(a)线性校正的正弦响应　　(b)非线性校正的正弦响应
+图3　采用nPI与PI校正系统正弦响应的比较
+4　结　论
+　　本文利用非线性积分器,构造一种非线性控制器nPI。并应用描述函数法分析了nPI的频率特性,从而得出nPI用于系统校正时,其性能明显优于PI校正的结论。另外,又将nPI成功地应用于扫描镜精密伺服系统,系统运行结果再次验证了nPI提高控制性能的有效性。
+参考文献
+  1　牛景汉.一类理想非线性积分器的研究.信息与控制,1986,15(1):1-7
+  2　庄显义等.红外目标背景仿真装置设计报告.哈尔滨工业大学仿真中心,1993
+  3　徐立新.扫描镜精密伺服系统的计算机解耦控制.基础自动化,1994,1(5):27-29
+  4　梁文宝.扫描镜精密伺服系统的计算机控制研究.哈尔滨工业大学硕士学位论文,1996,1　
+本文于1996年5月13日收
+　　*本课题获国防预研基金资助

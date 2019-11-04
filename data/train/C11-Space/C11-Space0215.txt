@@ -1,0 +1,119 @@
+宇航学报
+JOURNAL OF ASTRONAUTICS
+1999年 第2期　No.2 1999
+
+
+
+空间飞行器基于模糊逻辑的
+连续滑模控制
+黄显林　王海斌　周建锁　胡恒章
+　　摘　要　针对空间飞行器姿态控制系统的有模型不确定性和外来干扰的特点,通过组合滑模控制和模糊控制,提出了一种新的非线性控制系统设计方法。仿真结果表明本文的模糊滑模控制,不仅具有常规滑模控制的优点,而且克服了常规滑模控制所固有的抖振现象。
+　　主题词　空间飞行器控制　非线性系统　模糊控制　滑模控制
+CONTINUOUS SLIDING MODE CONTROL BASED 
+ON FUZZY LOGIC OF SPACECRAFT
+Huang Xianlin Wang Haibin Zhou Jiansuo Hu Hengzhang
+(Department of Control Engineering Harbin Institute of Technology.Harbin.150001)
+　　Abstract　This paper presents a new approach to nonlinear control system design for spacecraft attitude regulation in the presence of disturbance torque and model uncertainties,which fuses fuzzy control and sliding mode control.Simulations results show that the fuzzy sliding mode control does not only have the merits of general sliding mode control,but also avoids the chattering phenomenon which is inherent to a sliding mode control.
+　　Key words　Spacecraft control Nonlinear system Fuzzy control Slide mode control
+1　引言
+　　空间飞行器是一个具有参数不确定性和外来干扰的非线性系统,而滑模控制对系统参数的不确定性和干扰具有较强的鲁棒性,又适用于对非线性对象的控制,近来开始被应用到飞行器控制方面。滑模控制所固有的高频抖振必然会给系统带来严重的影响,因此,设计无抖振的滑模控制器对飞行器姿态控制具有十分重要的意义。
+　　为了避免这种抖振现象,文献［1］、［2］综合了滑模控制和模糊控制的设计方法,但这种模糊滑模控制的算法非常复杂,不适于应用在计算机容量有限的飞行器控制上。本文提出了一种能用解析式表达的模糊控制律,这种基于模糊逻辑的连续滑模控制不仅实现了无抖振的滑模控制,而且控制算法简单,适用于空间飞行器的姿态控制。
+2　空间飞行器滑模控制
+　　空间飞行器的非线性动力学模型:
+　　　　　　I11+(1+3cos2θ2)ω20(I2-I3)θ1-ω0(I1-I2+I3)3
+　　　　　　　　　+3(I2-I3)ω20(sinθ2cosθ2)θ3=u1+d1
+　　　　　　I22+3ω20(I1-I3)sinθ2cosθ2=u2+d2　　　　　　　　　　　　(1)
+　　　　　　I33+(1+3sin2θ2)ω20(I2-I1)θ1-ω0(I1-I2+I3)1
+　　　　　　　　　+3(I2-I1)ω20(sinθ2cosθ2)θ1=u3+d3
+其中　θ1、θ2、θ3——为参考坐标系的三个姿态角:俯仰角、滚动角、偏航角;
+　　　ω1、ω2、ω3——为体坐标系的三个角速度;
+　　　　　　　　ω0——为轨道角速度;
+　　　　　I1、I2、I3——为各轴的转动惯量;
+　　　　　d1、d2、d3——是环境干扰力矩。
+　　取状态变量为X=［θ1　1　θ2　2　θ3　3］T=［x1　x2　x3　x4　x5　x6］T,由(1)式得到具有参数不确定性和外干扰力矩的状态方程为:
+　　　　　　
+　　　　　　a1(X)=-I-11［(1+3cos2x2)ω20(I2-I3)x1-ω0(I1-I2+I3)x6
+　　　　　　　　　+3(I2-I3)ω20(sinx2cosx2)x5］
+　　　　　　a2(X)=-I-12［3ω20(I1-I3)cosx3sinx3］
+　　　　　　a3(X)=-I-13［(1+3sin2x2)ω20(I2-I1)x1-ω0(I1-I2+I3)x6
+　　　　　　　　　+3(I2-I1)ω20(sinx2cosx2)x1］
+　　　　　　bi=1/Ii　i=bi(1+Δi)　　　　i=1,2,3　　　　　　　　　　　(2)
+　　本系统可以分解为三个子系统,(Ai,αi(X),βi)构成一个子系统,可以针对每个子系统设计分散滑模控制器。
+　　假定参数的不确定性和外来干扰具有如下的界:
+　　　　　　|Δai(X)|≤Fi(X,t)
+　　　　　　|di|≤Di(X,t)　　　　　　　　　　　　　　　　　　(3)
+　　　　　　|Δi|≤mi
+其中　Fi(X,t)、Di(X,t)、mi是大于0的已知函数。
+　　针对每个子系统设计分散变结构控制器:
+　　令为期望状态,第i个子系统的切换函数:
+　　Si　(X)=ci1ei1+ei2　　　　　　　　　　　　　　　　　　　　(4)
+　　　　(5)
+　　取趋近律:　　　　　i　(X)=-kisgn(Si)　　　　　　　　　　(6)
+　　由式(6)可以验证
+　　　　　　　　　　　Sii=-kiSisgn(Si)=-ki|Si|≤-ki|Si|　　　(7)
+取ki＞0,满足到达滑模条件。
+　　式(5)、(6)联立求得变结构控制为:
+　　　　ui=　　i=1,2,3　　　　(8)
+3　模糊控制器设计
+　　令　　　　　　　　　　　　　　　　　　　(9)
+　　根据式(8)、(9)可知,Si＞0时,Δui＜0;Si＜0时,Δui＞0。下面将利用模糊集理论来确定Δui,用Δui代替切换函数kiisgn(X),以使使控制信号平滑。
+　　对每个子系统来说,设计方法都是完全相同的,为了方便起见,下面去掉下标。
+　　首先,选取正常数K,将切换函数S进行规范化,假设
+　　　　　　Sm(X)=K×S(X)　　　　　　　　　　　　　　　　　　(10)
+式中　Sm是模糊控制器的输入,Δu作为模糊控制器的输出。
+　　其次,定义Sm和Δu的语言值如下:
+　　{Positive Big(PB),Positive Medium(PM),Positive Small(PS),Zero(ZE),Negative Small(NS),Negative Medium(NM),Negative Big(NB)}假设输入Sm和输出Δu的模糊集分别为:
+　　
+其中和(i=-3,-2,-1,0,1,2,3)对应的语言值分别为NB,NM,NS,ZE,PS,PM,PB。定义模糊集和(i=-3,-2,-1,0,1,2,3)的隶属函数如图1(a),1(b)所示。
+　
+　(a)　输入模糊集　　　　(b)　输出模糊集
+图1　隶属函数
+定义如下七条模糊规则:
+　　设模糊集的隶属函数峰值为PV(),则
+　　　　　　　　　　　　　i=-3,-2,-1,0,1,2,3　　　　　　(11)
+于是采用文献［5］非模糊化决策方法,可计算出量化后的模糊控制器的精确输出量:
+　　　　　　　　　　　　　　(12)
+其中(Sm)是模糊集的隶属函数,其表达式由图1a给出,由式(11)给出。
+　　由图1及式(11)、(12)不难推出量化后的模糊控制器的精确输出量:
+　　　　　　　(13)
+　　系统的控制信号取为:　　　　　　　　　　　　　　　　　(14)
+　　模糊增益K的选择:K与切换区间的大小成反比,切换区间越小,系统的抖振就越小;但切换区间如果太小,切换函数经常超出切换区间,抖振就不是变小了,而是变大了。因此一般选择,T为系统过渡过程时间,t＞T后,系统进入稳态。对于本对象来说,根据它的模型不确定性和外干扰力矩的绝对值的上界,取K=10比较合适。
+4　仿真结果
+　　本系统参数选择如下:
+　　　　　　I1=874.6N.m.s2,
+　　　　　　I2=888.2N.m.s2,
+　　　　　　I3=97.6N.m.s2,
+　　　　　　ω0=7.29×105rad/s2。
+　　参数的不确定性确定如下:
+　　　　　　F1(x,t)=F2(x,t)=0.1sint　　　　　F3(x,t)=0.2sin10t
+　　　　　　D1=D2=D3=1N.m　　　　　　　　　　m1=m2=m3=0.01
+　　由于空间飞行器燃料的限制,控制量大小应受到限制,选择控制参数如下:
+　　　　　　n1=n2=n3=0.1　　　　　　　　　　c11=c21=c31=0.1
+　　这里取姿态角的期望值为零,初始误差为1rad。
+　　常规滑模控制的响应曲线如下:
+　　从图2可以看出常规滑模控制的控制信号有明显抖振现象。模糊控制器实质上是用一个模糊化的连续函数替换切换函数sgn(),以解决常规滑模控制的控制量的抖振问题。见图3(a)和4(a),模糊增益K决定了切换区间的大小,由(10)式可知它与切换区间的大小成反比。一般来说,切换区间越小,切换线Δu越接近于符号函数sgn(),系统的动特性就越接近于常规的滑模控制,但常规的滑模控制固有的抖振问题就越严重;但切换区间如果太大,系统就失去了滑模控制原有的良好的动特性。因此,模糊增益K必须取得合适,一般选择,T为系统过渡过程时间,t＞T后,系统进入稳态。本文取K=10比较合适。
+　　
+(a)　俯仰角调节误差响应曲线　　(b)　控制量响应曲线　　　
+图2　常规滑模控制响应曲线
+
+　　　(a)　切换线　　　　(b)　控制量响应　　　　(c)　俯仰角误差响应
+图3　p=0.01,q=0.9
+
+　　(a)　切换线　　　　　(b)　控制量响应　　　(c)　俯仰角误差响应
+图4　p=0.59,q=0.69
+　　最后确定模糊控制器的模糊参数p、q:
+　　从式(8)可以看出:切换线Δu越平滑,控制信号的抖振就越小,所以p、q的选择应尽可能使Δu平滑,也就是说,p、q不仅要使Δu连续,而且应尽量使Δ连续,才能避免常规滑模控制的抖振问题。
+　　对比图3和图4,p=0.59,q=0.60时,Δu和Δ更接近连续,所以性能更好。
+　　如果取p=q=1,式(13)就和常用的边界层法完全一致:
+　　　　　　　　　　　(15)
+这表明常用的避免抖振的边界层法只是模糊滑模控制的一种特例。
+5　结　论
+　　基于模糊逻辑的连续滑模控制可以很好地解决空间飞行器的非线性、参数的不确定性和外来干扰的问题,算法简单,而且可以获得满意的动态性能,变结构控制本身的抖振问题也可以得到抑制。
+　　作者单位：哈尔滨工业大学控制工程系.哈尔滨.150001
+参考文献
+　1　Hwang G C,chang S.A Stability Approach to Fuzzy Control Design for Nonlinear System.Fuzzy Sets and Systems,1992,48:279-287
+　2　Rainer Palm.Robust Control by Fuzzy Sliding Mode.Automatica,1994,30(9):1429-1437
+　3　Sahjendra N.Singh and Ashok Iyer.Nonlinear Regulation of Space Station:A Geometric Approach.Journal of Guidance,Control and Dynamics,1994,17(2):242-249
+　4　Sahjendra N.Singh,Ashok Iyer.Nonlinear Decoulping Sliding Model Control and Attitude Control of Spacecraft.IEEE Transaction on Aerospace and Electric System,1989,25(5):621-633
+　　本文受航天工业总公司“九五”预研课题资助
+收稿日期:1997年1月27日,修回日期:1998年3月20日

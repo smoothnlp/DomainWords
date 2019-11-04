@@ -1,0 +1,105 @@
+　宇航学报
+JOURNAL OF ASTRONAUTICS
+1999年 第20卷 第3期 vol.20 No.3 1999
+
+
+
+　　基于FBM的分形地形模拟原理研究
+佘龙华　沈林成　常文森
+　　摘　要　本文通过分析FBM(Fractional Brownian Motion)的数学特征，指出它能基本吻合真实地形的数学特征。在此基础上，详细研究当地形初始数据集由DEM(Digital Elevation Model)给定时基于FBM的分形地形模拟的基本原理。
+　　主题词　DEM　FBM　分形　地形　插值
+FBM—BASED FRACTAL SIMULATION OF TERRAIN
+She Longhua Shen Lincheng Chang Wensen
+(National University of Defense Technology.Changsha.410073)
+　　Abstract　This paper analyses the mathematical characteristics of realistic terrain and FBM(Fractional Brownian Motion).The the basic principle of FBM—based fractal simulation of terrain is introduced.
+　　Key words　DEM　FBM　Fractal Terrain Interpolation
+　　1　引言
+　　地形模拟有着广泛的应用价值，主要体现在如下方面：(1)地形研究，这主要是指如何根据DEM研究地形的特征和构造；(2)地形视景仿真，这主要是指如何根据DEM构造颇具真实感的地形模型，从而提高如飞行可视化仿真、动画制作、电影场面、电子沙盘等同地景相关的画面的品质；(3)地形特征仿真，这主要是指如何构造符合真实地形特征的地形模型，使得它在诸如卫星遥感地面仿真、地形匹配地面仿真等实验中具有较高的置信度。
+　　地形模拟在这三方面的应用，又可分为两类：(1)地形初始数据集是由算法随机生成的；(2)地形初始数据集是由DEM给定的，本文着重研究后者。经典的DEM地形模拟方法是线性插值和随机插值，然后在此基础上进行三角形剖分，二者的共同不足之处是不能保持自然地形表面的大部分数学特征，从而使得它们在仿真实验中真实感较差或置信度不能满足要求。自然景物具有分形的特征启发人们用分形插值模拟地形。以前关于这方面的文献着重研究各种具体的分形插值方法，具有算法的性质［7］［8］，本文详细研究了基于FBM的分形地形模拟方法的可行性和基本原理，从而为分形地形模拟算法提供了理论依据，并为进一步设计各种算法提供指导。
+　　2　真实地形与FBM
+　　2.1　真实地形的数学特征
+　　到目前为止，还没有一种从纯理论角度推导真实地形数学特征的方法，所以许多地球物理学家从跨越大范围时间和空间尺度的地形数据分析入手，总结了大量与真实地形相关的数学特征［4］［5］，现枚举如下：
+　　(1)分数维
+　　(2)多级分形
+　　(3)各向异性
+　　(4)一定标度范围内统计自相似
+p(X(t)＜x)=p(X(γt)＜γαx
+　　(5)变异差满足
+E［X(t+h)-X(t)］2=k|h|2α
+　　(6)剖面功率谱密度满足
+G(ω)=2πkω-α
+　　(7)非平稳过程
+　　(8)增量平稳
+　　地形模拟要解决的问题就是如何构造地形模型，使该模型尽可能地具备上述数学特征或者具备实际应用领域所需要的数学特征。
+　　2.2　FBM的数学特征
+　　FBM是定义在某概率空间上的一随机过程X∶［0,∞］→R,且满足如下条件：
+　　(a)以概率1，X(t)连续且X(0)=0
+　　(b)对任何t≥0和h＞0,X(t+h)-X(t)服从如下分布：
+　　　(0＜α＜1)　　　(2-1)
+　　FBM的性质之一　X(t)～N(0,t2α)
+　　证明：对式(2-1)取t=0得：
+
+　　因为FBM的条件(b)已经指出式(2-1)对任何h＞0均成立，所以可将上式中的h置换成t，从而
+
+即X(t)～N(0,t2α)
+　　FBM的性质之二　增量平稳
+　　证明：式(2-1)表明X(t+h)-X(t)的分布与t无关，故结论成立。
+　　FBM的性质之三　统计自相似
+　　证明：
+　(u=γ-αu1)
+　　　　　　　　　　　　
+　　　　　　　　　　　　
+
+对上式两边取t=0，然后将h置换为t得到：
+p(X(t)＜x)=p(X(γt)＜γαx)
+此即所谓的统计自相似。
+　　FBM的性质之四　平方变异差为h2α，绝对变异差为
+　　证明：
+　　　　　　　　　　　　　　　　　　　(根据式(2-1))
+　　　　　　　　　　　　　　
+　　　　　　　　　　　　(根据式(2-1))
+
+　　FBM的性质之五　FBM曲面的Hausdorff维数和盒维数以概率1等于(3-α)
+证明：用坐标变量(x,y)代替时间变量t，则随机变量X(x,y)可被认为曲面在点(x,y)的高度，因此FBM曲面可以描述如下：
+　　(a)以概率1，X(0,0)=0且X(x,y)为(x,y)的连续函数
+　　(b)对(x,y)，(h,k)∈R2,高维增量X(x+h,y+k)-X(x,y)服从如下分布
+　　　　　　　
+　　　　　　　　　(0＜α＜1)
+在此基础上，可以推证FBM曲面的维数为3-α(由于推证过程需要用到许多复杂的数学概念，在此暂略之)［3］。FBM还具有许多数学特征，这里暂不推证。
+　　2.3　用FBM模拟真实地形的可行性分析
+　　从2.1和2.2的分析可以发现，FBM在五个性质依次满足了真实地形的数学特征(7)、(8)、(4)、(5)、(1)。因此，从原理上讲，用分形插值的方法产生FBM曲面模拟地形具有较好的真实感和置信度。
+　　3　基于FBM的分形地形模拟的基本原理
+　　为了在从较粗糙的DEM数据集得到具有任意分辨率的DEM数据集的过程中，保持给定数据集的分形特征和统计特征，或适当增强这两方面的特征，首先应该从原DEM数据集抽取特征参数。在此基础上，根据特征参数选择基于原DEM数据集进行插值方法和插值参数，从而可以获得新的DEM数据集。
+　　3.1　抽取DEM的特征参数
+　　DEM数据集表示为
+
+　　FBM的分形维数在任何标度下具有不变性，但真实地形并非如此，它只在一定标度范围内具有恒定的分形维数，这里假设所给定的DEM数据集的分形标度范围已用某种方法求出，记为‖ΔX‖min,‖ΔX‖max。根据2-2中指出FBM的性质之四，有如下关系成立：
+
+此处，σ2为Z(X+ΔX)-Z(X)的方差，α为一特征参数。对上式两边取对数得：
+
+由此可见，logE［|Z(X+ΔX)-Z(X)|］与log‖ΔX‖成线性关系，因此可采用最小二乘法。
+最小方差为
+
+
+通过最小化e2可以求出α和σ，再根据FBM的性质之五可以求出其相应的分形维数α为D=3-α。
+　　3.2　基于DEM的分形插值
+　　在抽取了σ和D以后，就可以对DEM进行插值，假设Xk=(x,y)为待插值点，Xi(i=1,…,k-1)为Xk的邻近点，那么一般的插值方法可统一表示为：
+Z(Xk)=F(Z(Xi))　　(i=1,…,k-1)
+其中F是某种类型的可递归函数，通过选择不同的F，可以产生具有各种特性的地形模型。基于FBM的分形地形模拟可表示成下式：
+Z(Xk)=∑λiZ(Xi)+Y=LTZ+Y
+其中LT为系数矢量，Z为Xk的邻接点矢量，Y为一分数布朗函数。为了保证DEM数据集的宏观标度特征，要求Y为零均值且独立于Z，为了保证初始DEM数据集的分形特征，要求Y的参数由D和σ决定。
+　　4　结论
+　　本文研究了基于DEM的分形地形模拟的可行性和基本原理，为设计各种地形模拟所采用的分形插值算法提供了依据。最后指出，有待进一步研究的两个问题：
+　　(1)真实地形是各向异性的，但按上述原理模拟出的地形是各向同性的，因此，需要进一步研究如何构造有方向特征的模拟方法。
+　　(2)真实地形的分形特征是全域不一致的，但上述原理模拟出的地形特征是全域一致的，因此，需要进一步研究如何为DEM数据集分块，抽取各个局部的分形特征，从而实现局部分形地形模拟。
+作者单位：国防科技大学自动控制系.长沙.410073
+参考文献
+　　1　Mandelbrot B B.The fractal geometry of nature.Freeman,San Franciso,1982
+　　2　Pentland A P.Fractal based description of nature scenes.IEEE Transaction on Pattern Analysis and Machine Intelligence,1984,6(6):666-674
+　　3　Falconer K.Fractal geometry-mathematical foundations and applications.New York:John Wiley & Sons,1990
+　　4　Sayles R S,Thomas T R.Surface topography as a nonstationary random process.Nature,1987,271:431-434
+　　5　Berry M V,Hannay T R.Topography of random surface.Nature,1978,273
+　　6　NAOKAZU YOKOYA,KAZUHIKO YAMAMOTO.Fractal-based analysis and interpolation of 3D natrual surface shapes and their application to terrain modeling.CVGIP 1989,46:284-302
+　　7　郑卓嘉等.自然景物三维逼真图形的计算机产生和显示.计算机学报，1989，5：367-375
+　　8　丁德恒等.三维复杂表面形状的分数维分析和内插.计算机学报，1991，9：710-716
+收稿日期:1997年11月18日,修回日期:1998年10月19日

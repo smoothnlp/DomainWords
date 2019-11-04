@@ -1,0 +1,101 @@
+　宇航学报
+JOURNAL OF ASTRONAUTICS
+1999年 第20卷 第3期 vol.20 No.3 1999
+
+
+
+　振动对空间光通信系统误码率
+影响的分析*
+马　晶　谭立英　金恩培*　耿完桢*　黄　波
+　　摘　要　在空间光通信系统中，由于卫星平台的振动，使得光发射机发生摆动，从而对通信系统的误码率产生影响。本文针对发射光束为高斯光束时，振动对误码率的影响问题进行了研究。结果表明，在振动时不仅振幅影响着误码率，而且波长也对误码率有影响，但通信距离对误码率的影响不大，一般可以忽略。
+　　主题词　空间光通信　振动　误码率
+ANALYSIS OF INFLUENCE OF VIBRATION 
+TO BIT ERROR RATE FOR A SYSTEM OF 
+SPACE OPTICAL COMMUNICATION
+Ma Jing Tan Liying Jin Enpei Geng Wanzhen
+(National Key Laboratory of Tunable Laser Technology,*Physics Department,
+Harbin Institute of Technology.Harbin.150001)
+Huang Bo
+(COSTIND.100034.Beijing)
+　　Abstract　In a system of space optical communication,it will influence to bit error rate of the communication system when the optical transmitter wiggles as vibration of the satellite's platform.The influence of vibration to bit error rate is researched and it aims at that the transmitting beam is a Gaussian beam.The results show that the bit error rate is influenced by not only amplitude but also wavelength when vibration,but influence of distance of communication to bit error rate is not big enough,in general,it may be neglected.
+　　Key words　Space optical communication Vibration Bit error rate
+　　1　引言
+　　在空间光通信系统中，误码率是一个非常重要的参量，它直接影响着空间光通信系统的通信质量。而在实际应用中，由于各种原因会使得卫星平台发生振动，这种振动又会影响到安装于平台上的空间光通信系统的光学发射天线，使其产生摆动。这种摆动严重时会使通信中断，更多的时候是会使得光通信系统的误码率增加，通信质量下降，甚至会达到无法进行通信的程度。在日渐受到重视的小卫星星座中，如果采用激光星间链路，也不可避免地会遇到这个问题。而且由于在小卫星星座中，光信号往往要经过多个小卫星的传递，振动对通信质量的影响会更加严重。
+　　振动对空间光通信的影响问题，已经越来越引起人们的注意。欧空局曾对卫星平台的振动进行了空间实测［1］，利用地基激光雷达对卫星振动的测量也已经完成［2，3］。有人提出用增加发射功率、采用更复杂的瞄准系统及增加接收天线孔径等方法去补偿振动对通信的影响，但这样会使星上的光通信系统体积、重量增加或能耗、成本等增加，也可能会增加系统的复杂程度，降低系统的可靠性。Skormin等改进了技术以减小振动对瞄准系统的影响［4］；Chen和Gardner则分析了瞄准、跟踪系统的随机误差对星间光通信链路的影响［5］；Held等则利用卫星平台振动的实测数据分析了星间光通信系统的瞄准和跟踪所能达到的精度［6］。Arnon则对空间光通信系统及小卫星星座中振动对误码率的影响问题进行了初步的分析［7］。在Arnon的分析中，对问题进行了大大的简化，很重要的一点就是没有考虑到由于空间光通信系统采用激光光源，光发射机发射的是高斯光束所造成的影响问题。本文则侧重讨论了在空间光通信系统中，当发射光束为高斯光束时，振动对空间光通信系统误码率的影响问题。在分析中，只讨论振动对系统误码率的影响问题，而不涉及到无振动时，影响误码率的其它因素。通过这些分析可以看出，当空间光通信系统受到振动时，系统各个参量的选取对误码率的影响大小，从而可在设计空间光通信系统时进行优化选择。
+　　2　振动对误码率的影响
+　　在空间光通信系统中，采用激光作为光源，由发射天线发射的光束是高斯光束。设从发射天线处(O′点)到接收天线的距离为z，在接收天线处光束半径为w(z)；在接收平面(接收天线所在处光束的横截面)的中心处(O点)光强为I0，IA是接收平面上A点的光强，rA是从A点到中心O点的距离(见图1)。
+
+图1　空间光通信系统中各参量位置图
+　　对于高斯光束有
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(1)
+而
+　　　　　　　　　　　　　　　　　　　　　　　　　　　(2)
+其中w0为光束的腰斑半径，λ是所用的光波波长。
+　　假定在通信开始时，空间光通信系统的瞄准系统已经使发射、接收天线对准，即开始时接收天线位于接收平面的中心处(O点)。当发射天线受到振动时，发射光束的中心从O点移动到A点，发射光束中心移动的相对角度为Δθ，有
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(3)
+为简单起见，假定在空间光通信系统中选二元单极性码作为数字通信系统的码型［8］，并且在下面的讨论中不考虑其它噪声。系统的判决电平可按通常的方法取为光束中心光强的一半，即
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(4)
+且设由于振动使得接收到的光强变为Iα时，所对应的Δθ=α,rA=rα。则当接收到的信号光强大于Iα时，信号被判决为“1”；而当接收到的光强小于Iα时，接收到的信号被认为是“0”。由前几式可得　　　　　　　　　　　　　　　　　　　　　　　　　　　　(5)
+所以有
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(6)
+如果发射光束的振动是一随机振动，其振动的角度改变量Δθ的概率密度是一高斯分布［9］
+　　　　　　　　　　　　　　　　　　　　　　　　　　(7)
+其中σ是振动的标准偏差。
+　　因为选择了二元单极性码，所以正常情况下发射“1”码时接收到的发射光强为I0，发射“0”码时接收到的发射光强为0。如果振动使发射光束摆动时，发射“1”码时的接收光强,就会误判为“0”码，而且Δθ为正或负时的情况是一样的，所以发射“1”码而误判为“0”码的误码率BER(0/1)可由下式得出
+　　　　　　　　　　　　(8)
+　　因为我们没有考虑其它噪声，易知发射“0”码而被误判为“1”码的误码率BER(1/0)=0。一般情况下，发射信号经过扰码后，“1”码和“0”码的数量是基本相等的，所以总的误码率BER为
+　　　　　　　　　　　　　　　　　　　　　　　　(9)
+所以
+　　　　　　　　　　　　　　　　　　　　　　(10)
+上式中是误差函数。由式(2)和(6)可得
+　　　　　　　　　　　　　　　　　(11)
+此式表明，在空间光通信系统中，由于振动的影响而出现的误码不仅与振动的标准偏差(振动幅度)有关，而且还与所用的光波波长、发射天线到接收天线的距离以及光束的腰斑半径有关，即BER=BER(λ,z,σ,w0)。
+　　3　数值模拟结果及分析
+　　对式(11)进行数值模拟就可以看出振动所造成的误码是如何随空间光通信系统的各参量变化的，下面分别加以分析。
+　　3.1　振动幅度的大小对误码率的影响
+　　在一般空间光通信系统中，w0可近似用发射天线的孔径来代替，约在几厘米到几十厘米范围内，z则在数千公里以上。首先取w0=12.5cm及λ=800nm(如SILEX系统［10］所选用的)，对式(11)进行数值模拟，得到振动的标准偏差σ与误码率的关系曲线(图2)。而振动的标准偏差反映了振动幅度的大小，所以图2即为振动幅度与误码率的关系曲线。
+
+图2　振动幅度与误码率的关系曲线
+　　从图2可以看出，随着振动幅度的加大，误码率在逐渐增大；而且当振动幅度超过一定限度后，误码率将急剧增加。
+　　3.2　振动时通信距离对误码率的影响
+　　典型的空间光通信系统，如欧空局研制的SILEX系统中，λ为800nm附近，w0约为12.5cm，而通信距离约为4.5×107m。因此对于空间光通信系统一般有,于是式(11)可简化为
+　　　　　　　　　　　　　　　　　　　　　　　　　　　(12)
+　　从上式可看出此时误码率与通信距离无关。利用式(11)作出误码率与通信距离和振动的标准偏差关系曲线(见图3)及对应于一定振动幅度的误码率与通信距离曲线族(图4)，也可以看出通信距离对误码率的影响甚微。
+
+图3　BER与σ和Z的关系
+
+图4　通信距离对误码率的影响比较
+　　为了进一步讨论通信距离对误码率的影响问题，以z=5.0×106m时的误码率BER0为基准，在不同的σ下，对每一个通信距离Z所对应的误码率BERz求其与BER0的差值D，即误码率的相对变化量
+　　　　　　　　　　　　　　　　　　　　　　　　　　　(13)
+从D的变化可更明显地看出z的不同对误码率的相对影响情况。图5的σ-D关系曲线反映了在同一个z值时，振动的变化对误码率相对变化的影响。
+
+图5　σ与D的关系曲线
+易看出，随着σ的增大，误码率也在增大，且σ超过一定值后误码率会迅速增加；不同的z值时都有相似的规律，并且对于同一个σ，当z值增加时误码率的相对变化会趋于饱和，这在图6中可明显看出。无论如何，上述情况时误码率相对变化的大小远远小于误码率的绝对值，如图6中误码率的相对变化量小于10-11量级，而图2及图3、图4中的误码率可达到10-5量级，因此通信距离对误码率的影响是很小的，故在图4中几乎看不出来。
+
+图6　z-D曲线
+　　3.3　不同振幅时波长对误码率的影响
+　　振动时不同波长对空间光通信系统误码率的影响可从图7看出。图7是取z=4.5×107m和w0=12.5cm时，针对σ为4.01×10-7rad及5.00×10-7rad计算的结果。
+　　图7表明，在空间光通信系统发生振动时，波长对误码率的影响较大。当波长较小时，在一定的振动幅度下，误码率可能大到不能容忍的程度。也可以说，较长的波长有利于空间光通信系统对振动的抗干扰性。所以在选择空间光通信系统的波长时，也应充分考虑到波长对误码率的影响问题。
+
+图7　振动时波长对误码率的影响
+　　4　结论
+　　从上面的讨论可看出，当空间光通信系统受到振动的影响时，通信系统的误码率不仅与振动的幅度有关，而且还与通信系统选用的波长以及通信距离有关。通过数值模拟分析可得出如下结论：
+　　1.振动的幅度对误码率有直接的影响，而且当振幅超过一定值后，误码率将急剧上升。因此在空间光通信系统中，振动的影响必须加以考虑。
+　　2.尽管随着通信距离的增加，误码率也会略有增加，并且振幅较大时，误码率的增量也会加大。但是通信距离改变时，误码率变化量的绝对值很小，所以通信距离对误码率的影响可以忽略。
+　　3.在空间光通信系统受到振动时，波长对误码率的影响较大。波长越长，影响越小。若单纯从这一点考虑，空间光通信系统应选用较长的波长，以提高系统的抗振性能。
+　　应当说，上面的讨论还是比较基本的分析。我们只讨论了高斯光束在受到一具有高斯概率密度分布的随机振动时，振动对系统误码率的影响。而实际卫星平台的振动情况是比较复杂的，虽然国外已经对某些卫星平台进行了空间实测，但在今后空间光通信系统的研制中，还需要针对具体类型的卫星进行具体的分析和测试。然而无论如何，上述工作对于今后的研究还是具有一定的指导意义。
+*航天基金资助项目
+作者单位：马　晶　谭立英　金恩培*　耿完桢*：哈尔滨工业大学可调谐激光技术国家级重点　实验室，*应用物理系.哈尔滨.150001
+　　　　　黄　波：总装备部.北京.100034
+参考文献
+　　1　Wittig M,et al.In-orbit measurements of microaccelerations of ESA's communication satellite Olympus.SPIE Proc.1994,1218:205-214
+　　2　Schultz K L,et al.Satellite vibration measurements with an autodyne CO2 laser radar.Appl.Opt.1994,33(12):2349-2355
+　　3　Schultz K L,et al.Ground-based laser radar measurement of satellite vibrations.Appl.Opt.1992,31(36):7690-7695
+　　4　Skormin V A,et al.Adaptive jitter rejection technique applicable to airborne laser communication systems.Opt.Eng.1995,34(5):1263-1268
+　　5　Chen C C,et al.Impact of random pointing and tracking errors on the design of coherent and incoherent optical intersatellite communication links.IEEE Trans.Commun.1989,37(3):252-260
+　　6　Held K J,et al.Precision pointing and tracking between satellite-borne optical systems.Opt.Eng.1988,27(4):325-333
+　　7　Arnon S,et al.Performance limitations of free-space optical communication satellite networks due to vibrations—analog case.Opt.Eng.1997,36(1):175-182
+　　8　Peebles P Z.Digital Communication Principles.Prentice—Hall Inc.1987
+　　9　Yang C Y.Random Vibration of Structures.1986
+　　10　Oppenhauser G,et al.The European SILEX project and other advanced concepts for optical space communications.SPIE Proc.1991,1522:2-13
+　收稿日期:1998年4月10日,修回日期:1998年10月22日

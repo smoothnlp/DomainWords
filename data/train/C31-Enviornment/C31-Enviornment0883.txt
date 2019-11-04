@@ -1,0 +1,83 @@
+环境科学学报
+ACTA SCIENTIAE CIRCUMSTANTIAE
+1999年　第19卷　第4期　Vol.19　No.4　1999
+
+
+
+有机难溶盐膜抑制黄铁矿氧化的研究
+兰叶青　黄　骁　胡霭堂
+摘要　25℃及pH 3、5和7时，黄铁矿(FeS2)经0.1mol.L-1 H2O2+0.05% 有机螯合剂混合液淋洗后，表面可形成黑色的保护膜，该膜能有效抑制黄铁矿氧化.淋洗400min后，黄铁矿剩余百分率分别为99.78%、99.54%和99.50%，而对照处理却分别为95.79%、97.45%和99.70%.在3种pH条件下，经混合液淋洗480min的黄铁矿再经pH 3的0.1mol.L-1 H2O2溶液淋洗400min后，样品的剩余百分率分别从对照的94.92%、96.17%和98.16%提高到98.31%、98.84%和98.91%.
+关键词　黄铁矿；酸性矿山废水；有机难溶盐膜；氧化.
+Control of pyrite oxidation by film of organic salt
+LAN Yeqing1),HUANG Xiao2), HU Aitang2) 
+( 1)Science College of Nanjing Agricultural University,Nanjing 210095;2)Resources and Environment College of Nanjing Agricultural University,Nanjing 210095)
+Abstract　At 25℃ and pH 3,5 and 7，by leaching pyrite with the solution containing 0.1mol.L-1 H2O2+0.05% chelatingagent, a black film of chelating iron forms on the surface of pyrite,which can control the oxidation of pyrite effectively.The percentages of remnant pyrite leached by the solution for 400min were 99.78%,99.54% and 99.50%,of the three pHs respectively,as the controls were 95.79%,97.45% and 99.70%.When the samples of pyrite treated with the solution containing 0.1mol.L-1 H2O2+0.05% chelatingagent at the three pHs for 480min were leached again with 0.1mol.L-1 H2O2 at pH 3 for 400min,the remains of treated pyrite were increased from 94.92% to 98.31%,96.17%to 98.84% and 98.16% to 98.91% by comparing with the controls.
+Keywords　pyrite,acid mine drainage,film of organic salt,oxidation.
+　　　　
+1　引言
+　　黄铁矿是地表最丰的金属硫化物，亦是煤和铜、铅、锌等矿物的主要伴生矿物.在采矿过程中，当废矿石和尾矿中的黄铁矿被暴露于潮湿空气中，黄铁矿立刻发生氧化反应，释放出酸性矿山废水(acid mine drainage，简称AMD).酸性矿山废水不仅使矿区周围土壤酸化，而且酸水淋溶出矿石中的有毒重金属元素，并一同渗入地下水源，对矿区及周围群众和动、植物生命带来直接危害.因此，控制废矿石和尾矿堆中的黄铁矿氧化，减少酸性矿山废水产生一直是有关矿业公司和环境保护工作者十分关注的问题.
+　　控制矿山酸性废水污染的传统方法是筑坝收集酸性废水，然后用碱性物质(如石灰)中和.这一方法十分被动，酸性废水产生多久，中和处理就得维持多久，而且还将产生大量的中和反应污泥.因而，在经济和效果方面都难如人意.
+　　黄铁矿在微生物作用下具有自催化氧化的特征［1—5］.这一机理可表述为
+
+(1)
+
+(2)
+　　初始阶段，Fe3+主要来源于氧气的氧化作用，但这一过程进行很缓慢［5］.当氧化亚铁硫杆菌(Thiobacillus ferrooxidans)开始生长、参与作用时，能显著加速Fe2+→Fe3+的转化［5］，从而使黄铁矿氧化速度急剧提高.由此可见，只要降低溶液中Fe3+浓度，阻止氧化亚铁硫杆菌的生长和隔绝氧气与黄铁矿的接触，就能有效地抑制黄铁矿的氧化，减少酸性矿山废水的产生.基于这一原理，人们希望从根本上解决AMD污染问题并提出了二种控制黄铁矿氧化于源头的方法：(i)添加磷灰石(Ca5(PO4)3OH)于废矿石和尾矿堆中，使黄铁矿氧化产物之一的Fe3+与PO3-4反应生成FePO4沉淀，阻止黄铁矿的进一步氧化［6］；(ii)运用杀菌剂杀灭氧化亚铁硫杆菌［7—9］，降低Fe2+→Fe3+的转化，从而控制(2)式反应.然而这两种方法也都有缺点.磷灰石(Ca5(PO4)3OH)本身溶解度较低，产生FePO4沉淀包裹表面，使磷灰石钝化而失效.杀菌剂易降解或被雨水淋失，因此有效性不能维持长久.
+　　本文报道用有机螯合剂作有机沉淀剂和利用H2O2作氧化剂，研究在黄铁矿表面快速形成难溶保护膜的可能性及保护膜抗氧化的效果和稳定性.为探索控制酸性矿山废水污染问题的新方法提供科学依据.
+
+2　材料与方法
+2.1　材料
+　　黄铁矿采自南京云台山.选取黄铁矿含量较高的矿石，表面用水清洗后，晾干.并磨成粉粒，过0.2mm筛，装于塑料瓶中，干燥、密闭保存.样品经王水加热溶解，反应彻底后，用比浊法测定S含量.S含量为45.6%(本文所用黄铁矿均未经提纯).
+2.2　淋洗试验
+　　将0.5g黄铁矿粉粒(≤0.2mm)与0.5g石英砂(≤0.2mm)混匀并装于淋洗反应柱中，用蠕动泵控制淋洗速度为1mL.min-1.先用去离子水清洗样品10—15min，抽尽去离子水后，续用0.1mol.L-1 H2O2+0.05% 有机螯合剂混合液淋洗样品400min，用自动部分收集仪收集淋洗流出液，用比浊法测出收集液中SO2-4的含量，并换算出不同时间黄铁矿消耗量.最后，以黄铁矿剩余百分率对反应时间作图，分析比较样品氧化速度.用0.1mol.L-1 H2O2溶液进行同样步骤试验，以作对照.溶液用分析纯的NaAc和HAc分别调节pH至3、5和7.为使混合处理液的离子强度尽量一致，pH5和7时，加入固体NaAc，使其浓度为0.1mol.L-1；pH 3时，NaAc/HAc摩尔数比很小，需加入固体NaCl，并使其浓度为0.1mol.L-1.淋洗过程均在25℃时进行(下同).
+2.3　抗氧化稳定性试验
+　　置2g黄铁矿粉粒于淋洗反应柱中，用蠕动泵控制淋洗速度为1mL.min-1.先用去离子水清洗样品10—15min，抽尽去离子水后，再分别用pH 3、5和7的0.1mol.L-1 H2O2+0.05% 有机螯合剂混合液淋洗样品480min，使黄铁矿表面反应成膜.淋洗结束后，再用去离子水清洗10—15min，除去表面剩余溶液，取出置50—60℃时烘干，密闭保存、备用.用相应pH的0.1mol.L-1 H2O2溶液进行同样步骤试验，以作对照.
+　　取0.5g经上述步骤制得的对照和处理样品与0.5g石英砂(≤0.2mm)混合均匀，置于淋洗柱中.用0.1mol.L-1 H2O2溶液(pH 3)淋洗400min，具体步骤同2.2.
+
+3　结果与讨论
+3.1　淋洗试验
+　　25℃及pH 3时，0.1mol.L-1 HH2O2和0.1mol.L-1 H2O2+0.05% 有机螯合剂淋洗黄铁矿，黄铁矿的氧化速度示于图1-a.由图可见，处理样品在0—400min内，氧化速度非常缓慢，400min后，仅有0.22%的黄铁矿被消耗掉.而对照样品氧化速度很快，400min后却有4.21%的黄铁矿被消耗掉，后者的氧化速度相当于前者的20倍.在双氧水作用下，黄铁矿表面氧化同样也具有自催化氧化的特征［10］.这一机理可表示为：
+
+(3)
+　由(3)式可见，黄铁矿的氧化来自两个方面，即H2O2和Fe3+的共同作用.其氧化速度可表示为：
+v=(k1[H2O2]+k2[Fe3+]).K(4)
+
+
+图1　有机螯合剂处理的黄铁矿剩余百分率与淋洗时间的关系
+(a:pH 3;b:pH 5;c:pH 7)
+Fig.1 Relationship between the percentage of remnant pyrite and leaching time for different treatments at pH 3,pH 5,pH 7
+(4)式中k1、k2分别表示H2O2和Fe3+反应速度常数，K表示黄铁矿与氧化剂接触的有效比表面积.由此可见，若反应中的Fe3+发生配合反应，生成稳定的配离子，则Fe3+浓度趋于零，此时，(4)式可近似为v=k1.K［H2O2］=k［H2O2］.黄铁矿的氧化速度主要取决于H2O2的浓度，氧化速度明显降低.这已被黄骁等人［11］的结果所证实.若反应中的Fe3+产生沉淀，并在黄铁矿的表面形成难溶保护膜，则Fe3+浓度趋于零，k也趋于零，此时，v≈0，据此并由图1-a结果作者认为，有机螯合剂与黄铁矿氧化产物Fe3+形成沉淀，并在黄铁矿表面形成一层难溶的黑色保护膜，从而显著地抑制了H2O2对黄铁矿的进一步氧化.图1-b和图1-c分别显示了25℃、pH 5和25℃、pH 7时对照和处理的黄铁矿剩余百分率与氧化反应时间的关系.图1-b表明，用有机螯合剂淋洗的黄铁矿氧化速度同样受到显著抑制，400-min后只有0.46%的黄铁矿被消耗掉，此时，对照的有2.55%被消耗掉.后者是前者的5倍.与pH 3时相比较，对照的黄铁矿氧化速度也明显降低，这与pH值提高，H2O2氧化能力下降和Fe3+水解程度加大有关.pH 7时，有机螯合剂处理和对照的黄铁矿氧化速度十分一致，400min后两者黄铁矿的消耗量分别为0.50%和0.30%.这一结果表明，在pH高达7时，Fe3+彻底水解，并产生Fe(OH)3膜沉积在黄铁矿的表面，从而抑制了黄铁矿的氧化.
+3.2　抗氧化稳定性试验
+
+
+图2　用H2O2(pH 3)溶液淋洗下黄铁矿剩余百分率与淋洗时间的关系
+(a:pH 3;b:pH 5;c:pH 7)
+Fig.2 Relationship between the percentage of remnant pyrite for different treatments at pH 3 and the leaching time of the H2O2solution with pH 3,pH 5,pH 7
+　　25℃，pH分别为3、5和7时，经0.1mol.L-1 H2O2+0.05% 有机螯合剂和0.1mol.L-1 H2O2 淋洗480min后的黄铁矿，用pH 3的0.1mol.L-1 H2O2淋洗400min，研究表面成膜后黄铁矿的抗H2O2氧化的效果，结果示于图2.可看出，经有机螯合剂淋洗后的黄铁矿，由于表面形成黑色难溶膜，有效地抑制了黄铁矿的进一步氧化.3种情况下的黄铁矿剩余百分率依次为98.31%、98.84%和98.91%.而对照在同等条件下的剩余百分率依次为94.92%、96.17%和98.16%.从图2－c的结果可进一步看出，虽然pH提高，Fe3+水解产生Fe(OH)3能抑制黄铁矿的氧化，但在低pH值条件下，所形成的Fe(OH)3不够稳定，对H+浓度很敏感.由于Fe(OH)3膜的逐渐崩溃，100min后，黄铁矿氧化速度明显加快.
+
+
+图3　黄铁矿剩余百分率与淋洗时间的关系
+Fig.3 Relationship between the percentage of remnant pyrite for different treatments at pH 5 and the leaching time of the H2O2 solution with pH 5
+3.3　有机螯合剂与EDTA的比较
+　　25℃和pH 5时，经0.1mol.L-1 H2O20min后的黄铁矿，经去离子水清洗烘干后，取0.5g与等量的石英砂混匀，并用0.1mol.L-1 H2O2(pH 5)淋洗400min，测定淋洗流出液中SO2-4的含量，比较它们抗氧化效果，结果示于图3.由图3可见，经有机螯合剂处理的黄铁矿，其剩余百分率下降非常缓慢，表明黄铁矿氧化得到有效控制.400min后剩余百分率为99.48%.然而，对照和EDTA处理样品，FeS2的剩余百分率下降很快，表明FeS2很容易被H2O2氧化，400min后，两者的剩余百分率分别为97.52%和97.23%.EDTA与有机螯合剂处理后的黄铁矿抗H2O2氧化效果上表现出巨大差异，为有机螯合剂与Fe3+反应后可在黄铁矿表面形成保护膜提供了有力佐证.经EDTA处理的黄铁矿似乎比对照更容易氧化，这可能是由于对照样品在pH 5时，氧化释放出的Fe3+部分产生Fe(OH)3被吸附沉积在黄铁矿的表面，因而对黄铁矿氧化具有抑制作用.而EDTA处理时，黄铁矿氧化释放出的Fe3+立即生成配合离子淋洗流出，黄铁矿表面始终无沉积物形成，暴露的外表面较多，因而再经H2O2淋洗时，氧化速率较快.
+
+4　结论
+　　1. pH 3—7时，用H2O2和有机螯合剂混合液淋洗黄铁矿，可在其表面形成黑色保护膜，该膜能有效抑制黄铁矿进一步氧化.该方法为将黄铁矿氧化控制于源头、减少AMD产生提供了可行的新思路.
+　　2.以H2O2作氧化剂时，溶液pH对黄铁矿氧化速度有较大影响.pH提高，黄铁矿氧化速度明显下降.这与pH升高，导致H2O2氧化能力下降和难溶Fe(OH)3膜形成有关.但Fe(OH)3膜不稳定，对H+浓度较敏感.
+作者单位：兰叶青　(南京农业大学理学院，南京　210095)，黄　骁　胡霭堂　(南京农业大学资环学院)
+参考文献
+　1　Moses C O,Nordstrom D K,Herman J S et al.Aqueous pyrite oxidation by dissolved oxygen and by ferric iron.Geochimica et Cosmochimica Acta,1987,51:1561—1571
+　2　Baldi F,Claric T,Pollack S S et al.Leaching of pyrite of various reactivities by Thiobacillus ferrooxidans.Applied and Environmental Microbiology,1992,58(6):1853—1856
+　3　Temple K L,Delchamps R.Autotrophic bacteria and the formation of acid in bituminous coal mines.Applied Microbiology.1953,1:255—258
+　4　Walsh F,Mitchell R.Mine drainage pollution reduction by inhibition of iron bacteria.Water Research,1975,9:525—528
+　5　Singer P C,Stumm W.Acid mine drainage:the rate-determining step.Science,1970,167:1121—1123
+　6　Baker B K.Master's Thesis.College of Engineering,West Virginia University.Morgantown W V.1983
+　7　Kleinmann R L P,Crerar D.Thiobacillus ferrooxidans and the formation of acidity in simulated coal mine environments.Geomicrobiology Journal,1979,1:373—389
+　8　Pichtel J R,Dick W A.Influence of biological inhibitors on the oxidation of pyrite mine spoil.Soil Biology and Biochemistry,1991,23:109—116
+　9　Duncan D W,Landesman J,Walden C C.Role of thiobacillus ferrooxidans in the oxidation of sulfide minerals.Canadian Journal of Microbiology,1967,13:397—403
+　10　Huang Xiao,Evangelow V P.A novel approach to controlling pyrite oxidation.Pedo-sphere,1997,7(2):103—110
+　11　Huang Xiao,Evangelow V P.Suppression of pyrite oxidation by phosphate addition.In:Alpers C N,Blowes D W(Eds).Environmental Geochemistry of sulfide oxidation,American Chemical Society,Washington D C.1994.562—573
+1997-11-03收到原稿
+1998-05-08收到修改稿
+
+

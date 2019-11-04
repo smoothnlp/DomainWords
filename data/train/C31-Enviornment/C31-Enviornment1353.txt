@@ -1,0 +1,84 @@
+环境科学学报
+ACTA SCIENTIAE CIRCUMSTANTIAE
+1999年 第19卷 第5期 Vol.19 No.5 1999
+
+
+
+Hg、Cd对莼菜越冬芽光合膜光化学活性及多肽组分的影响
+陈国祥　施国新　何　兵　解凯彬　陆长梅　常福辰　魏锦城
+摘要　研究了重金属Hg2+、Cd2+对水生植物莼菜越冬芽光合膜叶绿素含量、多肽组分及光化学特性的影响.实验结果表明，经1mmol/L 浓度Hg2+处理后，叶片光合膜叶绿素含量、叶绿素a/b值、室温吸收光谱、荧光发射光谱、光系统电子传递活性呈下降趋势；当Hg2+处理浓度超过2mmol/L时，叶片光合膜叶绿素含量及其它光化学活性显著下降，光合膜多肽组分也产生降解.茎光合膜对Hg2+的敏感程度比叶片低.莼菜越冬芽经不同浓度Cd2+(2、5、10mmol/L)处理后，其光合膜叶绿素含量、光化学活性也产生相应变化，但程度较Hg2+处理弱；同样，其叶片光合膜对Cd2+的敏感程度较茎强.
+关键词　Hg, Cd；莼菜越冬芽；叶绿素含量；叶绿素a/b；光合膜光化学活性；多肽组分.
+Effect of mercury and cadmium on photochemical activity and polypeptide compositions of photosynthetic membranes from winter bud of Brasenia schreberi
+CHEN Guoxiang,SHI Guoxin,HE Bing,XIE Kaibin,LU Changmei,CHANG Fuchen,WEI Jincheng (Department of Biology, Nanjing Normal University, Nanjing 210097)
+Abstract　The effects of Hg2+ and Cd2+ on chlorophyll contents, chlorophyll a/b values, absorption spectra, fluorescence emission spectra at room temperature, electron transport activity of photosystem and polypeptides compositions of thylakoid membrane from winter bud of hydrophyte Brasenia schreberi were investigated. The results showed that the chlorophyll content and photochemical activity decreased progressively with an increasing in concentrations of Hg2+ and Cd2+. The effects of Hg2+ and Cd2+ on the chlorophyll content and photochemical activity of thylakoid from leaves decreased obviously and the thylakoid membrane polypeptide compositions was defraded. It was also shown that toxic effects of Hg2+ on Brasenia schreberi winter bud was more significannt than that of Cd2+.
+Keywords　mercury,cadmium,Brasenia schreberi winter bud,photosynthetic membrane,chlorophyll content,photochemical activity,polypeptide composition.
+　　随着当前环境酸化所导致的陆地水质酸化及水体富营养化，水环境重金属污染趋势亦日益加重，其中Hg2+、Cd2+是水体中毒害较强、分布较广的重金属.近年来就Hg2+、Cd2+对植物的影响已有较多报道，但大多集中在叶绿素含量、抗氧化酶系统等方面的研究上，并且主要以陆生植物为研究对象［1—6］；对植物光合作用过程中行使光能聚集、转化等功能的光合膜的影响则甚少涉及，尤其是水生经济植物受Hg2+、Cd2+污染后光合膜特性变化的则未见报道.莼菜(Brasenia schreberi)属睡莲科，是长江中下游水域重要的野生经济植物［7］，越冬芽是莼菜度过冬季寒冷环境进行营养繁殖的主要形式.水体中重金属(Hg2+、Cd2+)污染极易造成对莼菜越冬芽生理生化过程的伤害，进而对越冬后莼菜的生长发育及产量产生影响.本文以莼菜越冬芽为材料，系统研究Hg2+、Cd2+对其茎叶叶绿素含量、光合膜组分及光化学特性的影响.以揭示重金属离子Hg2+、Cd2+对莼菜越冬芽光合生理生化过程产生影响的内在机制，为调节控制莼菜对重金属污染的抵御能力提供依据.
+1　材料与方法
+1.1　实验材料
+　　供试材料莼菜(Brasenia schreberi)于11月份采自苏州东山太湖水域，实验所用越冬芽生理年龄及生长状态基本一致.
+1.2　培养方法
+　　实验用重金属试剂为分析纯HgCl2、CdCl2，用蒸馏水将其配制成一定浓度后，再经培养液稀释成不同浓度的重金属处理溶液.HgCl2溶液浓度依次为1、2、5mmol/L，CdCl2溶液浓度为2、5、10mmol/L.溶液分别存放于4L的玻璃缸中，将越冬芽固定在玻璃板上置于处理溶液中培养，自然光照，培养温度10—12℃，培养6—8天后取越冬芽茎叶分别测定各项指标.Hg2+和Cd2+各处理浓度均设置3个平行组，并重复实验一次.
+1.3　测定方法
+　　按Arnon［8］方法，用UV-754型分光光度计测定叶绿素的含量.
+　　参照Dunahay［9］的方法取莼菜越冬芽茎叶分别制备具光化学活性的茎、叶类囊体膜.按J. Coombs［10］方法采用薄膜氧电极和自动记录装置分段测定PSⅠ还原能力及PSⅡ放氧活性.用UV-754型分光光度计测定类囊体膜的室温吸收光谱，测定时Chl含量为10μg/mL.用岛津RF-540型荧光分光光度计测定室温条件下类囊体膜的荧光发射光谱，测定时激发光波长480nm，狭缝10nm，样品用50mmol/L Tricine (pH7.8)稀释到Cu浓度为4μg (Chl)/mL.参照Laemmli (1970)［11］方法进行SDS-PAGE分离多肽组分，电泳图谱经凝胶成像，并经分析系统GDS-8000扫描成图.
+2　结果与讨论
+2.1　Hg2+、Cd2+对叶绿素含量及叶绿素a/b比值的影响
+　　图1、图2显示，在相同的处理浓度下Hg2+对莼菜茎叶的影响较Cd2+显著，这与某些陆生植物对Hg2+、Cd2+的敏感程度相似［12］.比较莼菜越冬芽茎叶处理后的变化可发现，Hg2+、Cd2+的伤害在叶片上表现较为严重，尤其是Hg2+浓度大于2mmol/L时，叶片叶绿素含量及叶绿素a/b比值均显著变化，茎经Hg2+处理后叶绿素含量及叶绿素a/b比值的下降幅度不如叶片大.叶绿素含量和叶绿素a/b比值是光合器官生理状况的重要指标，莼菜越冬芽经Hg2+、Cd2+处理后，其光合功能将会受到一定影响，不利于越冬，并将影响植株的发育及繁殖能力.
+
+
+图1　Hg2+对莼菜越冬芽茎叶叶绿素含量及叶绿素a/b值的影响
+Fig.1 Effect of Hg2+ on the contents of chlorophyll and the chl a/b ratio in stems of Brasenia schreberi winter bud
+
+
+图2　Cd2+对莼菜越冬芽茎叶叶绿素含量及叶绿素a/b值的影响
+Fig.2 Effect of Cd2+ on the content of chlorophyll and the chl a/b ratio in stems of Brasenia schreberi winter bud
+2.2　Hg2+、Cd2+对光合膜室温吸收光谱的影响
+　　从图3可见，当处理Hg2+浓度达到2mmol/L时，叶片光合膜叶绿素在红光和蓝紫光区域的吸收峰几乎消失，说明在此Hg2+浓度下，光合膜结构及叶绿素的结合状态受到严重损伤，无法行使光能吸收及转换功能.经Hg2+处理后的茎的吸收光谱也产生变化，但影响程度不如叶片明显.莼菜越冬芽经Cd2+处理后，茎叶光合膜吸收光谱虽出现变化，但较Hg2+处理变化幅度小.
+
+
+图3　Hg2+、Cd2+对莼菜越冬芽茎叶光合膜室温吸收光谱的影响
+A. Hg处理叶片, B. Hg处理茎, 1. control, 2. 1mmol/L, 3. 2mmol/L, 4. 5mmol/L，C. Cd处理叶片, D. Cd处理茎, 1. control, 2. 2mmol/L, 3. 5mmol/L, 4. 10mmol/L
+Fig.3　Effect of Hg2+ and Cd2+ on absorption spectra of thylakoid membranes from stems and leaves of Brasenia schreberi winter bud at room temperature
+2.3　Hg2+、Cd2+对光合膜室温荧光发射光谱的影响
+　　植物叶片类囊体膜其室温荧光发射光谱在685nm有一峰值，在740nm处伴有一较宽的发射肩峰.室温条件下荧光光谱的两个区域大多由PSⅡ产生的荧光而形成［13］.由图4(A)可知，莼菜越冬芽叶片经Hg2+处理后，680nm和740nm处荧光发射峰产生显著变化，尤其是Hg2+处理浓度达到和超过2mmol/L时，荧光产额大幅度降低，这表明光合膜叶绿素的结合状态，特别是PSⅡ作用中心及捕光色素系统的叶绿素分子的结合状态受到严重影响，从而导致荧光发射峰的改变.莼菜越冬芽叶片经Cd2+处理后，除发射肩峰产生变化外，其它区域荧光光谱无明显差异(图4C)，这表明，Cd2+对其叶片光合膜叶绿素分子结合状态并未产生严重影响.莼菜越冬芽茎光合膜经Hg2+、Cd2+处理后，荧光光谱的差异也不明显(图4B,D).
+
+
+图4　Hg2+、Cd2+对莼菜越冬芽茎叶光合膜室温荧光发射光谱的影响
+A. Hg处理叶片, B. Hg处理茎, 1. control, 2. 1mmol/L, 3. 2mmol/L, 4. 5mmol/L，C. Cd处理叶片, D. Cd处理茎, 1. control, 2. 2mmol/L, 3. 5mmol/L, 4. 10mmol/L
+Fig.4 Effect of Hg2+ and Cd2+ on fluoresence emission spectra of thylakoid membranes from stems and leaves of Brasenia schreberi winter bud at room temperature
+2.4　Hg2+、Cd2+对光合膜PSⅠ、PSⅡ活性的影响
+　　经Hg2+、Cd2+处理后，莼菜越冬芽光合膜PSⅠ、PSⅡ的活性均受到影响(图5).这说明植株中Hg2+、Cd2+对其光合膜的作用位点并不明显集中在PSⅠ或PSⅡ，对整个光合膜均产生作用，这和重金属处理离体叶绿体所获得的结果存在差别［14］.就影响程度而言，叶片光合膜PSⅠ、PSⅡ活性降低的幅度比茎大，Hg2+处理对PSⅠ还原能力和PSⅡ放氧能力的影响比Cd2+严重，这一点在叶片中表现尤为突出，与叶绿素含量、光谱吸收、荧光产额的变化相一致.
+
+
+
+图5　Hg2+、Cd2+对莼菜越冬芽光合膜PSⅠ、PSⅡ活性的影响
+Fig.5 Effect of Hg2+ and Cd2+ on PSⅠ、PSⅡ activity of thylakoid membranes from stems and leaves of Brasenia schreberi winter bud
+2．5 Hg2+、Cd2+处理后莼菜越冬芽茎叶光合膜多肽组分变化
+　　图6显示，莼菜越冬芽茎叶光合膜多肽组分主要包括67 kD等多肽，经2mmol/L以上浓度Hg2+处理后，叶片光合膜多肽组分出现明显变化，除67kD多肽，其它多肽均产生不同程度的降解；而Hg2+浓度为1mmol/L时，组分变化并不明显；茎经不同浓度Hg2+处理后，光合膜多肽组分均未产生明显变化.莼菜越冬芽经Cd2+处理后，茎叶光合膜多肽组分差异并不显著.这也说明水体中重金属Hg2+污染达到一定水平后(≥2mmol/L)，莼菜越冬芽叶片光合膜的蛋白结构组分将会产生降解，最终使光能的转化过程受到抑制.Cd2+和低浓度Hg2+处理，光合膜多肽组分并未发生本质变化，因此基本能维持一定的活性，这和上述PSⅠ、PSⅡ活性检测的结果相符合.
+
+
+图6　Hg2+、Cd2+对莼菜越冬芽光合膜多肽组分的影响
+A:Hg2+处理, (treated with Hg2+)　 a,b,c,d:茎(stem); e,f,g,h: 叶 (leaf)
+B: Cd2+处理, (treated with Cd2+)　 i,j,k,l: 茎 (stem); m,n,o,p: 叶 (leaf)
+Fig.6　Effect of Hg2+ and Cd2+ on polypeptide components thylakoid membranes from stems and leaves of Brasenia schreberi winter bud
+3 结 论
+　　莼菜越冬芽经Hg2+处理后，低浓度时(1mmol/L)时，叶绿素含量、叶绿素a/b比值呈下降趋势；当Hg2+浓度达到或超过2mmol/L时，叶绿素含量及叶绿素a/b比值出现显著改变；室温吸收光谱、荧光发射光谱、PSⅠ及PSⅡ活性、光合膜多肽组分也出现类似变化；茎经Hg2+处理后变化相对较弱.Cd2+处理后，莼菜越冬芽叶绿素含量、光合膜特性及组分也产生变化，但变化程度较Hg2+处理弱；同样叶片对Cd2+的反应较茎强.
+* 国家自然科学基金项目(39770046)资助
+作者单位：南京师范大学生物系，南京　210097
+参考文献
+1　祁忠占，彭永康，宋玖雪等. 汞对蔬菜幼苗生长及氧化酶同工酶的影响. 环境科学学报，1991，11(3):370—375
+2　李 元，王焕校，吴玉树等. Cd、Fe及其复合污染对烟草叶片几项生理指标的影响. 生态学报，1992，12(2):147—154
+3　严重玲，付舜珍，方重华等. Hg、Cd及其共同作用对烟草叶绿素含量及抗氧化酶系统的影响. 植物生态学报，1997，21(5):468—473
+4　严重玲，洪业汤，付舜珍等. Cd、Pb胁迫对烟草叶片中活性氧清除系统的影响.生态学报，1997，17(5):488—492
+5　孙赛初，王焕校，李启任. 水生维管束植物受镉污染后的生理变化及受害机制初探. 植物生理学报，1985，11(2):113
+6　Bartole M, Brennan E and Price C A, Partial characterization of a cadmium-binding protein from the roots of cadmium-treated tomoto. Plant Physiology, 1980, 66:438—441
+7　文　明主编. 长江中下游水域洲滩野生经济植物.长沙：湖南科学技术出版社.1993.141
+8　Arnon D I. Copper enzymes in isolated chloroplasts. Polyphenol oxidase in Bete vulgaris. Plant Physiol. 1949.24:1—15
+9　Dunahay T G, Staehelin L A, Seibert M et al. Structural, biochemical and biophysical characterization of four oxygen-evolving photosystem Ⅱ preparations from spinach. Biochim Biophys Acta, 1984, 764:179—193
+10　Coombs J et al. (ed). Techniques in bioproductivity and photosynthesis. Pergamon Press. 1985. 136—137
+11　Laemmli U K. Cleavage of structural proteins during the assembly of the head of facteriophage T4. Nature, 1970, 227:680
+12　张义贤.重金属对大麦(Hordeum vulgare)毒性的研究. 环境科学学报，1997，17(2):199—205
+13　Krause G H, Weis E. Chlorophyll fluorescence and photosynthesis: The basics. Annual review of plant physiology and plant molecular biology. 1991, 42:313—349
+14　杨丹慧. 重金属离子对高等植物光合膜结构与功能的影响. 植物学通报，1991，8(3):26—29
+1998-04-03收到原稿
+1998-10-05收到修改稿

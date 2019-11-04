@@ -1,0 +1,237 @@
+宇 航 学 报
+JOURNAL OF ASTRONAUTICS
+1998年4月  第19卷  第2期科技期刊
+
+
+一种采用自动筛选技术的
+鲁棒恒虚警检测器
+何 友 孟祥伟
+(海军航空工程学院电子工程系*烟台*264001)
+摘  要　　 本文基于有序统计(OS)和筛选平均(CM)提出了一种新的恒虚警
+检测器，它采用OS和CM方法来产生局部估计，再采用二者的平均值作为对杂
+波功率水平的估计，并应用了文献［5］提出的自动筛选技术，在SwerlingⅡ
+型目标假设下，本文推导出了它的Pfa、Pd和度量ADT的解析表达式，并与其
+它方案进行了比较。分析结果表明，它对均匀背景和多目标环境均具有适应
+性，尤其是在多目标引起的非均匀背景场合中，它呈现较好的锝棒性，它的
+性能与OS相比有较大的改善，并且它的样本排序时间不及OS、CM的一半。
+
+主题词  雷达  检测  恒虚警率   有序统计
+　
+A ROBUST CFAR DETECTOR WITH AUTOMATIC
+CENSORING TECHNIQUE
+He You Meng Xiangwei
+(Naval Aeronautical Engineering Academy*Yantai*264001)
+Abstract  In this paper a new CFAR detector(MOSCM)based on order statistics(OS)and 
+censored mean(CM)is proposed.It selects the mean value of OS and CM local estimations 
+as a globle noise power estimation for the detector,and it also uses the automatic censoring 
+technique proposed You He［5］.Under SwerlingⅡ assumption,the analytic expression 
+of Pfa,Pd and ADT of MOSCM are derived.By comparison with other schemes,the results 
+show that MOSCM-CFAR detector has an adaptability for both homogeneous background 
+and nonhomogeneous background caused by multiple interfering targets,particularly in 
+multiple target situations,it exhibits good robustness,the detection performance is improved,
+and its sample sorting time is less than half of that of OS,CM.
+
+Key words  Radar  Detection  CFAR  Order statistics
+
+1  前言
+
+　　雷达在噪声和其它干扰背景下检测目标，总是希望无论干扰电平如何变
+化，检测系统的虚警概率最好能维持不变，即使变化，也希望变化较小，这
+就需要采用恒虚警率(CFAR)处理技术。近年来人们基于有序统计(OS)提出了
+一类恒虚警处理技术，Rohling［1］首先提出了有序统计(OS)方法，Rickard
+和Dillard［2］提出了筛选平均(CM)方法，Gandhi和Kassam［3］提出了剔除
+平均(TM)方法，这些方法对多目标或杂波边缘情形都有不同程度的鲁棒性。
+文献［6］提出了基于有序统计(OS)和单元平均(CA)的恒虚警检测器(MOSCA)，
+但因检测概率Pd通常小于1，仍会有干扰目标进入后沿滑窗，会导致MOSCA的
+检测性能恶化。为些，本文基于有序统计(OS)和筛选平均(CM)提出了MOSCM-
+CFAR检测器，它的前沿滑窗和后沿滑窗分别采用OS和CM方法产生局部估计，
+再对二者平均来实现对杂波功率水平的估计，并应用了文献［5］提出的自动
+筛选技术，在SwerlingⅡ型目标假设下，本文推导出了它的Pfa、Pd和平均判
+决门限(ADT)的解析表达式，分析了它在均匀背景和多目标环境中的检测性能，
+并与其它方案进行了比较。
+
+2   检测原理描述和基本数学模型
+
+
+图1 MOSCM-CFAR检测器原理方框图
+MOSCM检测器的原理框图如图1所示，图中v是检测单元，两侧是参考单元，
+滑窗长度R=M+N,M、N分别为前沿和后沿参考滑窗和长度，图中的停止移位
+控制器和参考单元移位寄存器一起实现自动筛选功能，自适应判决准则为
+
+(1)
+其中H1表示有目标，H0表示没有目标，Z是干扰功率水平估计，T是门限参数，
+v代表检测单元采样值。     假设背景噪声检测包络服从瑞利分布，目标模型
+为SwerlingⅡ型，检测单元和各个参考单元的观测是统计独立的，在均匀背
+景中，它们具有同分布，本文仅考虑单脉冲平方检测。可得出检测单元的二
+元假设检验对为
+
+(2)
+其中a=1+λ，λ是信噪比，μ代表噪声强度。由于这里考虑的是均匀环境
+和多目标情形，不失一般性，可令μ=1。在均匀背景中，检测单元变量v和
+参考单元变量xi、yj(i∈，j∈)是统计独立和同分布的随机变量，它们的概
+率密度函数(pdf)和概率分布函数(cdf)分别为
+f(x)=e-x　　　　x＞0
+(3)
+F(x)=1-e-x
+(4)
+MOSCM的前沿滑窗采用OS方法估计杂波功率水平，它先对参考单元的样本按幅
+值大小排序，然后选取第k个样本作为前沿滑窗对杂波功率水平的局部估计
+X=x(k)
+(5)
+它的pdf为
+
+(6)
+后沿滑窗采用CM方法估计杂波功率水平，先筛除掉最大的r个样本，
+对剩下的(N-r)个样本求平均，作为后沿滑窗对杂波功率水平的局部估计
+
+(7)
+r≠0时，Y的pdf为［7］
+
+(8)
+其中
+
+(9)
+MOSCM检测器取两个局部估计的均值作为检测器对杂波功率水平的估
+计，可将均值的因子1／2归并到门限参数中去，故有
+Z=X+Y
+(10)
+Z的pdf为
+
+(11)
+3  MOSCM-CFAR检测器在均匀背景中的性能分析
+
+    设置门限的统计量Z是随机变量，检测器的性能由平均检测概率和平均虚警
+概率决定［3］，平均虚警概率和平均检测概率分别为
+
+(12)
+计算Pfa和Pd的关键就在于求fZ(z)的拉氏变换ΦZ(u)由式(11)，得
+ΦZ(u)=ΦX(u)ΦY(u)
+(13)
+其中Φx(u)、Φy(u)分别是fx(x)、fy(x)的拉氏变换，有
+
+(14)
+由(12)式和(13)式，可得MOSCM检测器的平均虚警概率和平均检测概
+率分别为
+
+(15)
+(16)
+在均匀背景下，平均判决门限ADT常用来比较不同CFAR检测器的检
+测性能，可得MOSCM检测器的平均判决门限ADT［1］的解析表达式
+
+(17)
+　　在均匀背景中，对于任意给定的Pfa，解式(16)可得MOSCM的门限参数T。
+若Pfa=10-6，参考单元总数R=M+N=32，表1给出了MOSCM的部分门限参数T和
+ADT的值。从ADT的结果来看，MOSCM检测器在均匀背景中的性能是比较好的，
+例如，OS在R=32、k=27时的ADT最优值为19.025，GOSCA在M=N=16,k=l=14时
+的ADT最优值为18.919，而MOSCM在M=20,N=12,k=16,r=2时的ADT值为18.902。
+还可看出ADT对于k的变化是缓慢的，这意味着前沿滑窗可容纳较多的干扰目
+标，而不致使检测性能下降太多，对于r的变化反应要大一些，但由于采用
+了自动筛选技术，使得干扰目标进入后沿滑窗的机会变小，故只需筛选掉有
+限个样本即可，这时仍能在均匀背景中保持较好的检测性能。
+表1 MOSCM的部分门限参数T和ADT的值(Pfa=10-6,M=20,N=12)
+M=20k=11k=12k=13k=14k=15k=16k=17k=18k=19k=20
+r=1,T
+ADT12.3
+19.411.3
+19.110.4
+18.99.6
+18.78.8
+18.68.0
+18.67.2
+18.66.5
+18.85.7
+19.34.8
+21.0
+r=2,T
+ADT13.7
+19.812.5
+19.511.4
+19.310.4
+19.19.5
+19.08.6
+18.97.8
+18.96.9
+19.16.0
+19.75.0
+21.4
+r=3,T
+ADT15.0
+20.213.7
+19.912.4
+19.611.3
+19.410.2
+19.39.2
+19.28.2
+19.37.3
+19.56.3
+20.05.2
+21.8
+r=4,T
+ADT16.5
+20.714.8
+20.313.4
+20.012.1
+19.810.9
+19.69.8
+19.58.7
+19.67.6
+19.86.6
+20.45.4
+22.2
+
+
+4  MOSCM-CFAR检测器在多目标情况下的性能分析
+
+　这里仅分析强干扰目标的影响，即假定干扰与噪声功率比很大，干扰目标
+的回波总是占据有序统计量的最高位置，当左边干扰目标的数目IL小于或等
+于(M-k)，右边干扰目标的数目IR小于或等于r时，它们所产生的效果相当于
+减少了有序统计参考单元的数目，可以用通过(M-IL)和(N-IR)代替式(16)
+中的M和N来获得MOSCM在多目标环境中的检测性能，对弱干扰目标，检测损
+失将变小。表2给出了在SwerlingⅡ型目标条件下，几种检测器出现多目
+标时的CFAR损失。为了便于比较，使几种检测器至少具有容纳六个干扰目标
+的能力，MOSCM选取M=8,N=24,k=2,r=2，GOSCA选取M=8,N=24,k=2,l=22,OS选
+取R=32,k=26。从表2中的结果可以看出，随着干扰目标的增多，MOSCM检测
+器的恒虚警损失比OS和GOSCA增长得缓慢，这也就是说它对干扰目标呈现出
+较好的鲁棒性，MOSCM检测器在均匀背景中的恒虚警损失比GOSCA小，在多
+目标情况下从总体上讲也是优于GOSCA的。MOSCM检测器在均匀背景中的恒虚
+警损失比OS，CM多付出一些，在多目标情况下比OS有较大改善，并与CM相近，
+但它的样本排序时间不及OS、CM的一半，便于工程实现。因而，从总体上看，
+它是一种鲁棒型的恒虚警检测器。
+表2 几种检测器在多目标情况下的CFAR损失(dB),(Pfa=10-6,Pd=0.5)
+IL，IR0，01，01，12，02，12，23，03，13，24，04，14，2
+MOSCM1.5691.7342.0651.9482.2652.7012.2402.5392.9512.6642.9383.318
+GOSCA1.6611.7342.4511.8322.5353.6871.9702.6543.7802.1792.8353.924
+CM1.2821.5321.8041.8042.1032.4402.1032.4402.8382.4402.8383.364
+OS1.3901.7522.1602.1602.6353.2122.6353.2123.9733.2123.9735.194
+MOSCM：M=8,N=24,k=2,r=2 GOSCA：M=8,N=24,k=2,l=22 OS：R=32，k=26 CM：R=32,r=6
+
+
+5  结论
+
+　　本文基于有序统计(OS)和筛选平均(CM)提出了一种新的恒虚警检测器
+MOSCM-CFAR，分析结果表明，它对均匀背景和多目标环境均具有适应性，对
+于这二种环境，通过合适的参数选择，均可获得较好的性能，但它突出的优
+势在于多目标引起的非均匀背景中，它对干扰目标呈出较好的鲁棒性，它可
+以均匀背景中较小的代价换取了在多目标情况下性能的较大改善，如当IL=
+4,IR=2时，它比OS改善了近两个分贝，同时，它也是一种比较容易实现的
+CFAR方案。由于它的后沿滑窗采用可抗击干扰目标的筛选平均(CM)，使得它
+比前沿滑窗采用OS、后沿滑窗采用CA类的恒虚警检测器［4］更有效。由于
+采用了自动筛选技术，使得干扰目标进入后沿滑窗的机会变小，它的后沿滑
+窗只需筛除掉最大的r个样本，使得它的样本排序时间比GOSCA和OS，CM大为
+缩小。虽然本文以SwerlingⅡ型目标为研究对象，由于恒虚警检测器对目标
+模型不敏感，所得结论也适用于其它Swerling目标模型情况。
+　
+参考文献
+1  Rohling H.Radar CFAR thresholding in clutter and multiple-target situations.IEEE 
+Trans.on AES,1983,19(4)：608-621
+2  Rickard J T,Dillard G M.Adaptive detection algorithms for multiple-target situations.
+IEEE Trans.on AES,1977,13(4)：338-343
+3  Gandhi P P,Kassam S A.Analysis of CFAR processors in nonhomogeneous background.
+IEEE Trans.AES,1988,24(4)：427-445
+4  何友，关键，Rohling H.一种基于排序和平均的新恒虚警检测器.现代雷
+达，1995，17(4)：32-36
+5  He You(何友).Performance of some generalised modified order statistics CFAR 
+detectors with automatic censoring technique in multiple target situations.IEE Proc.-F,Radar 
+and Signal Processing,1994,141(4)：205-212
+6  孟祥伟，何友.基于准最佳加权有序统计的最大选择CFAR检测算法.电子学
+报,1997,25(12):74-78 

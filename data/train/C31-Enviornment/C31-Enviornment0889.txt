@@ -1,0 +1,85 @@
+环境科学学报
+ACTA SCIENTIAE CIRCUMSTANTIAE
+1999年　第19卷　第4期　Vol.19　No.4　1999
+
+
+
+金鱼(Carassius auratus L.)对水中游离态铅的吸收积累及鳃分泌粘液的自身保护作用
+刘长发　李　杭　陶　澍
+摘要　研究了金鱼(Carassius auratus L.)在铅暴露实验中的铅吸收过程及鱼鳃分泌物的自身保护作用、水相Pb2+的鳃吸收机理以及分泌粘液对铅的络合作用.结果表明，金鱼因铅暴露导致粘液分泌量增加.结合到鳃上的铅与水相Pb2+活度关系可用Langmuir吸附等温式表述.据此估算的最大结合量为0.9424mmol/kg(干重).非常接近1的Hill常数(1.012)说明金鱼鳃上仅有一种类型的Pb2+结合位点.平均每尾金鱼鳃上Pb2+的结合位点数达1.62×10-5mmol,结合的条件稳定常数(logKPb鳃)为4.8.血液铅含量与鳃铅含量间呈显著线性关系.金鱼吸收Pb2+的主要过程为：Pb2+结合到鳃上，其后被动扩散或载体转运穿过鳃上皮，进入血液循环.
+关键词　鱼；铅；暴露；鳃；血液；吸收；积累.
+Uptake and accumulation of free lead by goldfish (Carassius auratus L.) and effect of gill mucus on the processes
+LIU Changfa, LI Hang, TAO Shu 
+(Department of Urban and Environmental Sciences, Peking University, Beijing, 1000871)
+Abstract　Uptake of lead by goldfish (Carassius auratus L.) and the effect of mucus on the uptake were studied. The mechanisms of lead uptake are discussed. It was demonstrated that the quantity of mucus released from the fish gill increased with the increasing in lead concentration in water and exposure duration. The mucus is capable of binding metals. Lead accumulated in gill was positively proportional to the lead level in water at low concentration (total lead less than 0.6mg/L). The plot of gill lead against water lead leveled off with increased lead concentration. A Langmuir isotherm can fit the observed data well and the saturated sorption capacity was calculated as 0.9424 mmol/kg (dry wt.). The binding cooperativity (Hn) is very close to unit (1.012) indicating independent binding to the sites with unique apparent affinity. On average, the number of binding sites on the gill of each fish (96.0 mg,wet wt.) was estimated to be 1.62×10-5mmol with a conditional binding constant (log KPbgill) of 4.8. A significant linear relation of lead concentrations between gill and blood was observed during the 10day experiment, suggesting that the free lead in water is first bound on fish gill, then migrate across branchial epithelium to blood via passive diffusion or carrier transport.
+Keywords　fish, lead, exposure, gill, blood, uptake, accumulation.
+　　
+　　
+　　尽管铅污染主要来自大气和陆地，但其中相当部分最终将进入天然水系统，并以可被水生生物蓄积的有毒的Pb(Ⅱ)形式存在.重金属污染物的生物蓄积量可以沿食物链生物放大.因此，水生生物对水体中金属的吸收积累以及建立在生物积累和生态毒理学基础上的重金属影响评价越来越受到环境学家的重视.目前对重金属的生物吸收机理仍了解不多，而这是研究重金属生物有效性及生物积累和生态毒理学的关键.许多体内细胞转运物质的机理被用于推断重金属进入水生生物体内的机制［1，2］.另一方面，水生生物对水中重金属的吸收积累与重金属在水中的赋存形态有关［1，3］.水相中的生物有效态重金属可通过鳃进入鱼体内.鱼鳃及皮肤粘液细胞则可分泌富氧、硫等电子供体的粘液［4］到水中，影响水中重金属的形态分布，进而影响重金属的生物有效性［5］.本项研究通过室内实验测定了水中鱼类分泌粘液的相对含量和对铅的络合能力以及金鱼鳃、血液对铅的吸收积累.并在此基础上探讨了金鱼对水中游离态铅的吸收积累及粘液的保护作用.
+
+1　材料与方法
+1.1　实验用鱼和实验条件
+　　实验所选用的金鱼(Carassius auratus L.)采自北京市通县张湾金鱼繁育场，平均体重为9.77±2.92g.采回后在实验室内以自来水驯化5d，再用自行配制的人工河水驯化1d后用于实验.实验用人工河水参照我国主要河流常量离子平均含量配制，其常量离子含量为：Ca2+ 0.71mmol/L、Mg2+ 0.324mmol/L、Na+ 0.143mmol/L、K+ 0.009mmol/L、Cl- 1.421mmol/L、SO42- 0.324mmol/L、HCO3-+CO32- 0.359±0.047mmol/L.实验期间水温控制在23—25℃，pH为9.01±0.01.为避免残饵和粪便对实验金属形态的影响，驯化及实验期间不投喂.
+1.2　实验步骤
+　　暴露实验中将鱼投放在不同总铅浓度(0、1.448、2.896、4.344、5.792、7.239和8.687μmol/L)的装有10L水的水族箱中进行为期10d的充气养殖.每个实验浓度组中包括4尾实验鱼重复，不设浓度组重复.暴露实验结束后，将活鱼断尾取血.再分别解剖出鳃.分离的样品在105℃条件下烘干至恒重后称重并分析其中的铅含量.
+1.3　分析方法
+　　样品消解方法是向盛放样品的烧杯中加入约10mL浓HNO3(GR)封盖过夜，然后在调温电炉上消解至近干，加浓HNO3和少量HClO4(GR)再加热至近干，反复至杯中仅剩下白色物质.然后加入少量蒸馏去离子水溶解.用1mol/L NaOH(GR)溶液调pH至中性后定容待测.样品测定采用阳极溶出伏安法在配有303悬汞电极的PAR－384极谱仪上进行.曝气时间180s，富集时间120s，平衡时间30s，扫描范围-0.8—-0.3mV，扫描速度4mV/s.实验过程中采用岛津UV240分光光度计扫描测定了鱼类分泌到水中的粘液的吸收值，并以峰值吸收进行相对定量.
+1.4　数据分析
+　　根据鱼类分泌物相对含量及其对Pb2+的络合常数，采用MINTEQA2程序计算水中游离态Pb2+的活度.并采用Langmuir吸附等温式拟合了鱼鳃对游离态Pb2+的结合.Hill分析［6］被用于描述鱼鳃结合游离态Pb2+的特性.统计分析采用STATISTICA软件.
+
+2　结果与讨论
+2.1　鱼鳃对游离态铅的吸收积累
+　　有关实验已一再证实络合态金属不能被鱼所吸收［3］.在此项研究中，由于鱼鳃粘液的分泌，实验体系中游离态铅含量在实验过程中有所下降.表1列举了游离和粘液络合态铅在实验初期和最终含量.
+表1　实验体系中铅的形态分布及变化
+Table 1 Fractionation of lead during exposure experiment 
+
+样号0123456
+总铅，10-3mmol/L01.4482.8964.3445.7927.2398.687
+0d：游离态铅,10-6mmol/L05.55510.31020.21023.47033.79028.720
+10d：游离态铅,10-6mmol/L05.54510.29020.15023.43033.71028.640
+粘液络合态铅,10-6mmol/L02.6355.21911.87012.64016.81021.760
+
+　　实验结果表明，暴露于不同浓度铅体系中的金鱼鳃对水相游离态Pb2+的吸收量随着水相游离态Pb2+的活度增加而增加.较低Pb2+活度(1.0×10-2μmol/L)条件下，鳃吸收积累表现为一级动力学过程，鳃蓄积量随水相Pb2+活度线性增加，但浓度继续增大，鳃蓄积减缓.在用彩虹方头鱼(Paracheirodon innesi)进行的另一组Cu2+吸收实验中也曾观察到相似的趋势［7］.其他许多研究者也曾发现鱼鳃结合重金属的可饱和现象［6，8］.根据前期研究结果，在10d实验中鱼鳃吸收金属大致接近饱和.采用Langmiur吸附等温式拟合实验数据，结果如下：
+
+　　从拟合结果可以看出，除个别点外，近似平衡条件下鱼鳃铅含量与水相游离态Pb2+的活度的定量关系可以用简单的吸附平衡关系表述.据此可求得金鱼鳃对Pb2+的单层饱和结合量为0.9424mmol/kg(干重)，条件稳定常数logKPb鳃=4.80.铅在鳃部的结合特点还可用Hill方法分析研究：
+log[BT×（1-BT）-1]=Hn×log[Me]
+
+
+图1 Hill分析曲线
+Fig.1 A Hill plot of bound lead on the gills
+　　其中BT为总结合百分数，BT×(1-B\-T)-1为“受体”分数，Me为游离态Pb2+活度，Hn为Hill常数.图1即为Hill分析曲线.据此方法得到的Hill常数Hn为1.012，表明金鱼鳃上Pb2+结合位点之间没有协作性或鳃上仅有一种类型的Pb2+结合位点.平均每条金鱼鳃上Pb2+的总结合位点数约为1.62×10-5mmol(每条金鱼平均鳃重约为96mg，含水率约为82.1%).与其它有关研究相比，Pb2+在金鱼鳃上的结合亲和力(logKPb－鳃=4.80)明显低于Cu2+.Cd2+在胖头NFDA2(Pimephales promelas)鳃上的结合亲和力(logKCu－鳃=7.4、logKCd－鳃=8.6)，而鳃上Pb2+的结合位点则大约是胖头NFDA2鳃上Cu2+结合位点的6.6倍、Cd2+结合位点的66倍［8］.一种金属对生物配位体的相对亲和力大小是比较金属与生物配位体形成离子键与共价键的趋势，离子键成键作用越强，越趋于结合含氧配位体，而共价键成键作用越强，则越趋于结合富含氮或硫的配位体［9］.按照Nieboer 等(1980)［9］的分类，Pb2+属于B型金属离子，趋于与富含氮或硫的配位体共价配合.另一方面，鱼类粘液中的透明质酸和硫酸软骨素［4］的含氮或含硫基团为Pb2+提供了较多的结合位点.
+
+
+图2 不同浓度、不同暴露时间的粘液分泌量
+Fig.2 Mucus released from gill during expoure
+2.2　粘液分泌及其保护作用
+　　在鱼鳃表面覆有一层由葡糖酸胺聚糖(透明质酸，硫酸软骨素)［4］组成的成分复杂的富氧、氮、硫等电子供体的粘液.这层粘液是一层多阴离子的复杂介质，具离子交换功能，对不同金属有不同的亲和力.这些粘液能够将金属富集在非常接近膜转移位点的鳃表面.另外，由于粘液的不断分泌、脱落，鱼鳃表面的粘液层起到积累和去除具潜在毒性的金属的作用［10］.如图2所示，本项实验中观察到随着铅暴露浓度的增加和时间的延长金鱼粘液分泌量的增加趋势.铅诱导金鱼分泌更多的粘液，客观上也使水中游离态Pb2+的含量略有降低.对分泌粘液进行络合滴定的结果表明，它们具有较强的铅络合能力.以单配位体模型计，络合稳定常数为logK=6.99.正因为这些分泌物的存在，10d后水相游离态Pb2+活度较实验开始时有所降低.Varanasi等(1978)［10］也曾发现银大麻哈鱼(Oncorhynchus kisutch)暴露于铅和镉环境中都可导致大量的粘液分泌.Coello等(1996)［5］的实验证实，加入大口黑鲈(Micropterus salmoides)粘液可以增加蓝绿鳞鳃太阳鱼(Lepomis cyanellus)和金鱼对铅的耐受时间.
+2.3　Pb2+的鳃吸收过程　　
+
+
+图3　血液和鳃中铅含量关系
+Fig.3 Plot of blood Pb against gill Pb
+　　尽管诸如载体转运、脂溶性、络合通透作用、离子通道、离子泵、内噬作用等金属离子的体内透膜机理［1］被用于解释重金属离子穿过鱼鳃上皮的过程，但是对控制重金属穿过鱼鳃上皮流动的机理尚不很清楚.Pentreath(1973)［11］曾观察到鲽(Pleuronectes platessa L.)对Zn2+和Mn2+的吸收是从水到血液的浓度梯度驱动的被动扩散.但其后研究发现控制二价金属离子穿过呼吸上皮的过程是可饱和的，据此认为鳃中氯细胞钙通道的易化扩散（facilitate diffusion),即非ATP驱动的载体转运导致金属离子穿过鳃上皮进入血液循环［12］.从我们的实验结果看(图3)，暴露10d后金鱼血液中铅含量与鳃中铅含量呈显著线性关系(r=0.932，p＜0.00677).由此可见至少在本项研究的实验条件下，Pb2+自鱼鳃向血液的转运是浓度梯度驱动的.即使Pb2+的转运经载体蛋白穿过鳃上皮，在实验铅浓度条件下，载体蛋白也未达到饱和.据此作出关于金鱼鳃对Pb2+吸收过程推断如下：即Pb2+首先与鳃上配位体结合，再经过被动扩散或载体转运过程穿过鳃上皮进入血液.
+3　结论
+　　金鱼因铅暴露导致鳃粘液分泌量增加，使结合至鳃部的铅随粘液的脱落得以去除，从而减缓鳃上皮吸收.这些粘液也会改变水相金属形态分布.金鱼鳃对铅的吸收积累量随水相游离态Pb2+的活度增加而增加，可采用Langmuir吸附等温式描述这一吸收的热力学平衡状态.Hill分析表明金鱼鳃上仅有一种类型的Pb2+结合位点.在本实验特定条件下金鱼吸收水中Pb2+的过程为，Pb2+首先与鳃上生物配位体结合，再经被动扩散或载体转运过程穿过鳃上皮膜进入血液.
+* 国家杰出青年基金［49525102］项目资助
+** 通讯联系人
+作者单位：(北京大学城市与环境学系，北京　100871)
+参考文献
+　1　Newman M C, Jagoe C H. Ligands and the bioavailablity of metals in aquatic environments. In:Hamelink J L, Langdrum P F, Bergman H L, et al. (eds.) Bioavailability: Physical, chemical, and biological interactions. Lewis Publishers. 1994.39—61
+　2　Roesijadi G, Robinson W E. Metal regulation in aquatic animals: mechanisms of uptake, accumulation, and release. In:Malins D C, Ostrander G K (eds.). Aquatic Toxicology:Molecular, Biochemical, and Cellular Perspectives. CRC Press, Inc.1994.387—420
+　3　陶澍，梁涛，刘晓航等.树脂半透膜囊与鱼体对有效态铜吸收的比较研究.生态学报，1998，18：223—224
+　4　Arillo A, Margiocco C, Melodia F. The gill sialic acid content as an index of environmental stress in rainbow trout, Salmon gairdneri, Richardson. J Fish Biol, 1979,15:405—410
+　5　Coello W F, Khan M A Q. Protection against heavy metal toxicity by mucus and scales in fish. Arch Environ Contam Toxicol, 1996,30:319—326
+　6　Reid S D, McDonald D G. Metal binding activity of the gills of rainbow trout (Oncorhynchus mykiss). Can J Fish Aquat Sci, 1991,48:1061—1068
+　7　梁涛，陶澍，林建枝.鱼体和鱼鳃对不同形态铜的吸收特征.生态学报，1999，19(5)
+　8 Playle R C, Dixon D G, Burnison K. Copper and cadmium binding to fish gills:estimates of metalgill stability contents and modeling of metal accumulation. Can J Fish Aquat Sci, 1993,50:2678—2687
+　9　Nieboer E, Richardson D H S. The replacement of the nondescript term ‘heavy metals’ by a biologicallly and chemically significant classification of metal ions. Environ Pollut,1980,1B:3—26
+　10 Varanasi U, Markey D. Uptake and release of lead and cadmium in skin and mucus of coho salmon (Oncorhynchus kisutch). Comp Biochem Physiol, 1978,60C:187—191
+　11 Pentreath R J. The accumulation and retention of 65Zn and 54Mn by the plaice, Pleuronectes platessa L. J Exp Mar Biol Ecol,1973,12,1—18
+　12 Verbost P M, van Rooij J, Flik G et al. The movement of cadmium through freshwater trout branchial epithelium and its interference with calcium transport. J Exp Biol, 1989,145:185—197
+　13　Allen P. Softtissue accumulation of lead in the blue tilapia, Oreochromis aureus (Sterindachner), and the modifying effects of cadmium and mercury. Biological Trace Element Research, 1995,50(3):193—208
+1997-12-09收到原稿
+1998-05-05收到修改稿
+
+

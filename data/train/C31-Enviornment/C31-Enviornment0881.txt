@@ -1,0 +1,105 @@
+环境科学学报
+ACTA SCIENTIAE CIRCUMSTANTIAE
+1999年　第19卷　第4期　Vol.19　No.4　1999
+
+
+
+厌-好氧交替工艺的生物除磷特性研究
+竺建荣　刘纯新　何建中　顾夏声
+摘要　采用模拟配制的生活污水，研究了厌－好氧交替工艺对磷和有机污染物的去除效果.结果表明，经过驯化运行等阶段后，在高效除磷阶段运行期间，磷的去除效率在90%以上.总COD去除率通常大于90%.实验表明COD主要是在好氧阶段被去除.反应器的有机处理负荷Fr达1.21—1.5?kg(COD)/(m3.d).这些良好的运行性能与反应器中培养出好氧颗粒活性污泥有关.运行过程中，不必投加外部碳源(甲醇或乙酸钠)，只利用生活污水自身的有机物就能达到如此好的除磷和降解COD效果，而且该工艺的曝气时间仅为传统活性污泥法的一半.
+关键词　生物除磷；厌-好氧循环工艺；活性污泥法.
+A study on characteristics of bialogical phosphorus removal in alternation of aerobic/anaerobic process
+ZHU Jianrong,LIU Chunxin,HE Jianzhong,GU Xiasheng 
+(Dept.of Environmental Engineering,Tsinghua University,Beijing 100084)
+Abstract　This paper describes the phosphorus (P) and COD removal characteristics in alternation of aerobic/anaerobic (AAA process) using synthetic domestic wastewater as feed. It is shown that through the cultivation and operation of the technology, the influent P concentration of 9.84—13.57\mg/L can reduce to about 1mg/L of effluent at the 4 th stage, P-removal efficiencies reach more than 90%. The influent COD of 372—548 mg/L decreases to 20—50 mg/L of effluent,total COD removal efficiency is higher than 90%. The proportion of COD removal in anaerobic operation period is 16.7%—33.4%,and 54.9%—75.6% in aerobic operation period.This indicates that the degradation of COD mainly occurs in aerobic period.These good operational properties of AAA process are attributed to the formation and cultivation of granular activated sludge in the reactor,which is first reported.It is unnecessary to add any external carbon source for operation.The reactor can effectively metabolize organic matters and conversion of phosphorus,and only uses half aeration of the conventional technology.It implies that AAA process is a good potential treatment process both in P removal and COD degradation.
+Keywords　biological P－removal,alternation of aerobic/anaerobic process,activated sludge process.
+　　
+　　我国的湖泊、水库近年来富营养化的速度很快，污染现象日益严重［1］.迄今已有的研究表明，引起水体富营养化的各类营养物质中，通常以磷为限制因子，其来源主要是生活污水、磷矿、磷肥工业以及合成洗涤剂的废水，而造成富营养化的磷大多来自城市污水或生活污水.随着人民生活水平的逐渐提高，洗涤剂的大量应用，生活污水中的总磷浓度增加到10—30mg/L，其中70%左右是可溶的.传统的二级处理出水中，90%左右的磷仍然未能去除并以磷酸盐形式存在.这样，去除污水中的磷，削减其排放量，就成为世界各国普遍关注的问题［2—5］.据统计，我国目前城市污水处理率仅有5%左右，而且现有的污水处理厂绝大多数不具备脱氮除磷的能力.因此，研究污水除磷，探索适合我国国情且经济有效的除磷工艺和方法，已成为亟待开展的一个重大研究课题.
+　　厌-好氧交替工艺(alternation of aerobic/anaerobic process，简称AAA工艺)是指厌氧和好氧交替进行操作的活性污泥法.它涵盖多种不同的运行方式，实质上是SBR工艺的一种变型［6，7］.鉴于AAA工艺的许多优点，正在得到迅速发展和应用.本文采用AAA工艺作为生物除磷工艺的考察对象，以模拟配制的生活污水作为进料，培养具有除磷功能的好氧活性污泥，研究该工艺在不同试验运行条件下的生物除磷特性，分析测定反应器中污泥的形态、结构特性以及污泥颗粒化与生物除磷之间的关系，同时考察对有机污染物的去除效果.
+
+1　试验材料与方法
+1.1　试验装置
+
+
+图1　试验装置示意图
+1 配水槽　2 电磁阀　3 曝气池　4 时间程序控制器　5 进水口　6 曝气器　7 出水管
+Fig.1 Diagram of experimental process
+　　试验所用反应器为聚氯乙烯塑料圆桶，内径为22cm，总体积8?L，有效容积为6?L.由时间程序控制器控制进水、厌氧、曝气、沉淀、排水全过程.根据需要选定运行周期以及各段的启动、关闭时间.运行温度冬季为20℃，由热交换器保持恒温在20±2℃范围内；夏季在室温下运行.气源采用山本－6500型曝气机，以粘沙块作为微孔曝气器.整个装置的工艺流程如图1所示.典型的运行控制方式为每1天运行3个周期，每1周期8h：厌氧2.5h，曝气4h，沉淀和进水1.5h.进水在反应器的污泥沉淀后进行.进水方式为：从底部向上进水，从反应器底部出水管排水.进水16min，流量0.4L/min，每次进水控制在约6.5L.定期测定混合液中的SV、SVI、DO、MLSS、MLVSS、pH等运行参数，保持MLSS浓度在4—6g/L，SV 20%左右，SVI 20—50，pH 6.8—7.6，好氧曝气段的DO 4—6mg/L.根据运行参数的测定分析，判断反应器的运行好坏并作相应的及时调整.在试验运行过程中，根据AAA工艺的特点，在每一种状态都至少运行1周进行驯化，即保持循环重复20次以上，然后取样测定.
+1.2　试验用水
+　　本试验研究以生活污水为考察对象.试验采用模拟生活污水的自配水作为进料：COD 300—500mg/L；TN 30—40mg/L；NH3－N 10—20mg/L;TP 8—15mg/L.
+　　典型的配方如下(mg/L):葡萄糖 169，蛋白胨 169，氯化钠 63，硫酸铵 63，KH2PO4 44，NaHCO3 94,MgSO4．7H2O 94,CaCl2．2H2O 31,FeSO4．2H2O 2.2.
+　　采用模拟配水的优点是：水质稳定且易于控制，适合反应器工艺运行特性和污泥形态、结构及微生物学特性等的研究.在试验运行过程中，根据不同的试验要求，适时调整配水成分，改变部分进水组分的浓度和配比，但TP含量保持不变.
+1.3　分析项目和测试方法
+　　磷含量：采用钼酸铵－氯化亚锡比色法，用岛津UV－250型紫外－可见光分光光度计在波长700nm测其光密度［8］.COD、SV、SVI、MLSS、MLVSS等均按文献［8］提供的方法测定.DO采用YSI DO测定仪测定.pH采用pHS－3B精密pH计测定.
+
+2　结果和讨论
+　　本研究将整个运行过程分为4个阶段，即：驯化阶段、调整阶段、除磷提高阶段和高效除磷阶段.本文重点介绍驯化阶段和高效除磷阶段的试验结果.
+2.1　驯化阶段的运行情况和结果
+　　本试验装置从1996－10－20开始运行，最初60d为驯化阶段.运行周期为8h，采用6h曝气，2h污泥沉淀、进水和厌氧状态.此阶段主要是为了培养好氧活性污泥，使之快速生长起来.当沉淀后的污泥体积达到1?L后开始隔天排泥.此阶段运行状况见表1.
+表1　驯化阶段的运行结果
+Table 1 Operational properties of CAST in cultivation stage
+运行时间，d配水成分，mg/L出水P,mg/lP去除率,%
+　CODBODTNPBOD:N:PCOD/TN
+3642236037.210.85100∶10.3∶2.811.310.34.2
+4642236037.211.99100∶10.3∶2.811.311.18.2 
+5342236037.210.35100∶10.3∶2.811.39.112.1
+
+
+图2　高效除磷阶段的除磷结果
+Fig.2 P concentration and removal efficiency in high P－removal stage
+
+
+图3　高效除磷阶段COD的去除结果
+Fig.3 COD removal performance in high P－removal stage
+　　这些结果说明污泥的除磷活性并不理想，污泥具有的除磷能力很低.鉴此，该阶段对COD等其它指标未予测定分析.但是，可以注意到，在这一阶段中，随着运行过程的进行，除磷效率在逐渐提高，说明污泥的除磷活性正在驯化提高过程中.
+2.2　高效除磷阶段的试验结果
+　　自1996－12－20以后，将运行状态调整为4h曝气，沉淀和进水1.5h，厌氧2.5h.经过调整阶段和除磷提高阶段共约90d的运行管理，反应器内出现好氧活性污泥颗粒化并具有良好的除磷和去除有机物能力，运行进入高效除磷阶段.此阶段从1997-04-11—06-04，共运行55d.
+2.2.1　磷的去除　高效除磷阶段运行期间，进水磷浓度在9.94—13.57mg/L范围内，出水中磷浓度一般在1mg/L左右，去除效率在90%以上(图2).运行过程中，不必投加外部碳源(甲醇或乙酸钠)，只利用生活污水中的有机物作为碳源就能达到良好的除磷效果，说明此工艺对于生活污水的除磷具有很好的应用前景.
+2.2.2　有机物的去除　本阶段对COD的去除结果见图3.图3结果表明，本试验的厌-好氧循环生物除磷反应器能稳定地去除有机物，并且效率很高.经计算，本试验反应器的有机物处理负荷Fr=1.2—1.5kg(COD)/(m3.d).
+　　Carucci A等人报道［9］，在不同的基质浓度下，除磷效率为40%—60%.特定运行条件下短时间内除磷效率可达90%以上.Schleypen P等人报道［10］，德国巴伐利亚州生活小区污水处理厂的除磷效果为65%—90%.高庭耀等报道［11］，城镇污水处理厂的改良工艺在3d内除磷效率能够保持在90%左右.从这些数据分析中可以认为，本试验的技术指标已达到较高水平，但是还有待中试或生产性处理工程的进一步试验研究与应用.
+　　由于反应器表现出极好的运行性能，在本阶段运行中，对污泥的数量、形态和结构进行了重点考察.结果发现，在反应器中观察到形成了好氧颗粒活性污泥，因此，污泥的沉降性能很好.经测定，颗粒活性污泥受阻沉降层的均匀沉降速度Vs约2.15cm/min，好氧颗粒活性污泥的沉降指数(SVI)一般为20—45mL/g(而普通活性污泥为100—150mL/g).反应器内MLSS 4.04—6.88g/L，SV 0.14—0.27，颗粒污泥粒径为0.5—1.5mm.这些结果表明，试验中培养的好氧颗粒活性污泥沉降性能良好，有利于污泥浓度的提高和反应器处理能力的增加.
+　　颗粒污泥一般只是在厌氧反应器中培养并应用.通过厌氧颗粒污泥发挥高效降解有机物的能力.UASB反应器就是根据这一原理开发的高速厌氧处理装置［12］.虽然有人尝试在好氧生物处理工艺中培养颗粒活性污泥，但是运行条件非常苛刻，须用纯氧曝气才能形成，且没有除磷脱氮能力［13，14］.在普通的厌-好氧交替工艺中培养出好氧颗粒活性污泥，这是首次明确报道.由于形成颗粒活性污泥，污泥的代谢活性也大大增强.据试验测定，单位质量的微生物单位时间对氧气的吸收量(定义为WOUR)为1.27mg(O2)/(g(VSS).min)，而普通活性污泥法的WOUR值为0.8mg(O2)/(g(VSS).min)左右.由此可见，好氧颗粒活性污泥的生物代谢活性明显高于普通活性污泥.加上污泥沉降性能良好，污泥浓度较高，所以反应器的处理能力和处理效果有较大提高.
+　　初步的试验分析认为，好氧颗粒活性污泥的培养和形成可能与厌-好氧交替的特殊运行方式有关，也与厌-好氧交替的运行周期以及状态设置有关，还可能与废水水质及工艺条件有关.不过，确切的培养条件和形成机理(包括好氧颗粒活性污泥的理化特性和微生物学特性等等)还有待进一步深入研究.
+　　试验还选择了部分运行时间，对反应器一个运行周期内各阶段COD的降解结果进行了测定，结果见表2.
+表2　一个运行周期内各阶段的COD降解结果
+Table 2 COD removal in each degradation period within one operational cycle
+
+时间，
+dCOD，mg/L厌氧段
+去除率，%曝气出水
+COD,mg/L好氧段
+去除率，%总去除率，
+%
+进水厌氧出水
+27404.7269.833.447.654.988.0
+39349.5292.716.728.575.691.9
+46408.6326.720.123.974.194.2
+47422.3326.722.723.971.794.4
+
+　　从表2可以看出，一个运行周期内各阶段对有机物的去除情况有如下特点：(1) 在厌氧阶段，由于段时间较短，有机物分解不彻底，一般仅仅进入酸性发酵阶段，进水中的有机物转化为脂肪酸等，因此COD去除效率不高，只有16.7%—33.4%.另一方面，除磷细菌在厌氧条件下摄入脂肪酸的能力很强，所以反应器中pH值无明显下降，一般在6.6—7.2之间.(2) 在好氧阶段，活性污泥中的各种好氧微生物，利用氧气作为最终电子受体并通过三羧酸循环途径，将有机物彻底分解为水和二氧化碳.试验结果表明，COD主要是在好氧阶段被去除.
+
+3　结论
+　　1.采用模拟配制的生活污水，通过厌-好氧交替工艺处理，在高效除磷阶段运行期间，磷去除效率在90%以上.
+　　2.厌氧阶段对COD的去除效率约为16.7%—33.4%，好氧曝气阶段对COD的去除效率约为54.6%—75.6%.本试验反应器处理有机物的负荷Fr达1.2—1.5kg(COD)/(m3.d).运行过程中，不必投加外部碳源(甲醇或乙酸钠)，只利用生活污水中的有机物做碳源就能达到如此好的除磷和降解COD效果，而且该工艺的曝气时间仅为传统活性污泥法的一半，这些说明此工艺对于生活污水的除磷及去除COD均有良好的应用前景.
+　　3.本试验中观察到反应器中形成了好氧颗粒活性污泥.好氧颗粒活性污泥的沉降指数(SVI)一般为20—45mL/g，反应器内MLSS为4.04—6.88g/L，SV为0.14—0.27，SVI为20—45mL/g，颗粒污泥粒径在0.5—1.5mm左右，沉降性能很好.
+* 清华大学青年研究基金资助
+作者单位:(清华大学环境工程系，北京　100084)
+参考文献
+　1　金相灿，刘鸿亮等.中国湖泊富营养化.北京：中国环境科学出版社.1990
+　2　Van Starkenburg W,Rensink J H,Rijs G B J.Biological P-removal:state of the art in the netherlands.Wat Sci Tech,1993,27(5—6):317—328
+　3　Farrimond M,Upton J.A strategy to meet the nutrient (N and P) standards of the urban wastewater directive.Wat Sci Tech,1993,27(5—6):297—306
+　4　Harremoes P,Bundgaard E,Henze M.Developments in wastewater treatment for nutrient removal.European Water Pollution Control,1991,1(1):19—23
+　5　曹国民等.生物除磷脱氮工艺技术研究.中国环境科学，1996，16(1)：68—72
+　6　Irvine R L et al.Controlled unsteady state processes and technologies-an overview.Wat Sci Tech,1997,35(1):1—10
+　7　Manning J F et al.The biological removal of phosphorus in a sequencing batch reactor.J WPCF,1985,57(1):87—94
+　8　美国公共卫生协会、美国自来水厂协会、水污染控制联合会编著.宋仁元等译.水和废水标准分析法(第15版).北京：中国建筑工业出版社.1985
+　9　Carucci A et al.Biological phosphorus removal with different organic substrates in an anaerobic/aerobic sequencing batch reactor.Wat Sci Tech,1997,35(1):161—168
+　10　Schleypen P et al.Sequencing batch reactor with continuous inflow for small communities in rural areas in Bavaria.Wat Sci Tech,1997,35(1):269—276
+　11　高庭耀等.高浓度活性污泥连续进水间歇曝气生物脱氮、除磷新工艺.第四届海峡两岸环境保护学术研讨会.台北，1996.241—247
+　12　Lettinga G.Anaerobic digestion and wastewater treatment systems,antonie van leeuwenhoek.Antonie van Leeuwenhoek,1995,67:3—28
+　13 Shin H S,Lim K H,Park.H S.Effect of shear stress on granulation in oxygen aerobic upflow sludge bed tractors.Wat Sci Tech,1992,26(3—4):601—605
+　14　Mishima K,Nakamura M.Self-immobilization of aerobic activated sludge-a pilot study of the aerobic upflow sludge blanket process in municipal sewage treatment.Wat Sci Tech,1991,23:981—990
+1997-12-01收到原稿
+1998-05-11收到修改稿
+
+

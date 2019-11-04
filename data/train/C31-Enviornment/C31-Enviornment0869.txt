@@ -1,0 +1,96 @@
+环境科学学报
+ACTA SCIENTIAE CIRCUMASTANTIAE
+1999年 第19卷 第3期 Vol.19  No.3 1999
+
+
+
+荧光光谱法研究稀土元素铕在小麦细胞内的分布* 
+曾福礼　安　宜　邓汝温　
+摘要　 用荧光光谱法研究了小麦根施稀土元素铕数天后，Eu3+在根和叶片细胞膜和细胞内的分布定位.测试结果与对照相比，小麦细胞膜和线粒体的相对荧光强度较强，细胞质中没有铕的荧光；根和叶片细胞的细胞膜和线粒体单位蛋白所结合的稀土元素铕的含量不同.表明稀土元素铕在细胞内与蛋白质的结合不具有随机性，而是在细胞膜和线粒体内有富集和积累.
+关键词　稀土元素；铕；小麦；荧光光度法.
+Distribution of rare earth element Eu in wheat (Triticum aestivum L.) cell measured using fluorescence methods
+ZHENG Fuli,AN Yi 
+Biology Department of Lanzhou University,Lanzhou 730000
+DENG Ruwen 
+Chemistry Department of Lanzhou University,Lanzhou 730000
+Abstract　Distribution of rare earth element Eu uptaken by root cell and leaf cell of whea t(Triticum aestivum L.)was determined based on Eu fluorescence property.The resu lts showed that the fluorescence intensities of plasmalemma and mitochondria wer e obviously stronger in the sample than that in the control.The contents of Eu3+ binding to protein of plasmalemma and mitochondria of both root and lead were not the same.In addition,the relative permeability of plasma membrane was a lmost identical to the control.It was concluded that Eu could be taken up into p lant cells without breaking the plasmalemma.Eu3+ absorbed into cell was en riched in mitochondria of wheat.
+Keywords　rare earth element,Eu,wheat,fluorescence. 
+　　随着稀土资源的开发利用，稀土元素不可避免地越来越多地进入生态环境，造成一定程度的 污染和对动植物的危害，如影响肌质网和红细胞膜的膜脂与膜蛋白［1,2］，引起核DNA的降解［3］等，已引起相关专家的重视.但对植物而言，低浓度的稀土却有促进作用，如能使农作物增产［4］，促进光合能量转化［5］，增强激素的作用［6］.稀土元素进入生物链的一个重要途径是作物直接由土壤中吸收，但由于其作用的复杂性，目前涉及植物体对稀土元素吸收积累的分布研究较少，本文通过利用稀土元素铕与配位基生成三元络合物后，中心离子被激发，产生荧光的特性［7］，研究分离后 的植物细胞各主要部分Eu3+的含量，以此确定稀土元素铕在细胞内的分布.
+1　材料与方法
+1.1　酶与试剂
+　　纤维素酶‘ONOZUK’R-10(日本Yakult公司产品)；果胶酶(SERVA公司产品)；Eu2O3试剂(99.99%)，以少量HCl溶解，配制成5mmol/L的EuCl3溶液，EDTA标定；O-噻吩甲酰丙酮(TTA)、邻菲NFDA7啉及其它试剂均为国产分析纯.
+1.2　材料
+　　小麦(Triticum.aestivum.L)用缺钙的完全培养液进行饥饿培养，4 d后换成EuCl3溶液，对照除不含Eu3+外其余条件与处理相同.培养温度25±2℃，湿度70%-80%.
+1.3　实验方法
+1.3.1　原生质体制备　酶液组成：2% cellulose R-10,5% Pectinase.原生质体悬浮液分为两组，一组用以测定相对荧光强度，一组用来提取分离细胞质膜、线粒体与细胞质.
+1.3.2　质膜、线粒体和胞质可溶性部分分离　按张［8］方法进行.所有操作均需在0-4℃下进行.取原生质体悬浮液，破碎细胞，10000×g 20 min沉降线粒体粗制品并纯化［9］.80000×g 1 h沉淀细胞质膜，不连续密度梯度离心纯化，悬浮；上清液为胞质可溶性部分，含细胞内大部分蛋白.
+1.3.3　荧光强度的测定　按周继兴［10］方法进行.分离所得的原生质体、质膜、线粒体与胞质部分，80℃强酸消化(体积比HClO4∶HNO3=1∶3)，所得白色粉末用去离子水溶解，置于10 mL比色管中，加一滴0.1%甲基红指示剂，用NH4OH(5%)和HCl(3%)调节溶液刚刚变红，依此加入0.01%的TTA，1%的邻菲NFDA7啉，丙酮及pH5.0的HAc-NaAc缓冲溶液，充分络合.用RF-540型荧光分光光度仪进行光谱测定(日本Shimadzu公司产品).激发波长374 nm，发射波长613 nm.
+1.3.4　蛋白质含量测定　按Bradford［11］方法进行，以牛血清白蛋白做标准曲线.
+2　结果与讨论
+2.1　原生质体和质膜Eu3+的荧光光谱
+　　图1为小麦根和叶片原生质体，经强酸消化为完全无机物后，在TTA-邻菲NFDA7啉-丙酮体
+
+
+图1　小麦根和叶片原生质体荧光光谱图
+------对照的荧光图谱，--EuCl3处理.激发波长374 nm，发射波长613 nm,Eu的荧光谱峰在613 nm 处
+Fig.1 Fluorescence spectra of protoplast of roots and leaves 
+系中测得的Eu3+荧光谱图.处理的小麦根和叶片原生质体在613 nm有特征荧光发射峰，相对荧光强度分别是对照的3倍和8倍.说明经Eu3+处理后被细吸收或富集在原生质体外膜.根原生质体相对荧光强度比叶片高，所含Eu3+的量高于叶片.　　
+　　图2中细胞质膜的荧光光谱表明，处理后的根、叶片细胞质膜荧光发射峰都很明显，说明细胞 质膜上分布有相当量的Eu3+，但不同部分质膜所结合的Eu3+含量不同，因此荧光强度不同.这可能是由于Eu3+由下向上运输量较少所致.
+
+
+图2　根和叶片原生质膜荧光光谱图
+------　对照，--EuCl3处理. 激发波波长374 nm，发射波长613 nm,Eu的荧光谱峰在613 nm处
+Fig.2 Fluorescence spectra of plasmalemma of roots and leaves
+2.2　线粒体Eu3+的荧光光谱
+　　线粒体是细胞组分中极为重要的细胞器，具有将细胞内的Ca2+以结合态积累在线粒体内，达到排除胞内高Ca2+的目的［12］.图3显示线粒体相对荧光强度较大，尤其根线粒体.说明其结合有大量的Eu3+离子.已有学者证明，稀土离子与Ca2+起作用方式、作用位点是相同的，同线粒体也有较大的亲合力［13］.因此，线粒体能结合较多的Eu3+可能是线粒体以积累Ca2+的形式积累Eu3+，以保证细胞不受较高含量Eu3+的伤害而采取的自我保护.当给动物喂饲一定量的稀土元素后，在动物肝细胞中也常常检测到稀土元素的存在［14］.
+2.3　细胞质部分Eu3+的荧光光谱
+　　把细胞质可溶性部分强酸消化后得到的Eu3+荧光光谱表明，无论对照或处理，根和叶片胞质可溶性部分在613 nm都没有Eu3+的特征荧光谱峰(图4).
+
+
+图3　根和叶片线粒体荧光光谱图
+------对照，--EuCl3处理.激发波波长374 nm，发射波长613 nm,Eu的荧光 谱峰在613 nm
+Fig.1 Fluorescence spectra of mitochondria of roots and leaves
+
+
+图4　根和叶片细胞质可 溶性部分荧光光谱图
+------　对照，--EuCl3处理.激发波波长374 nm，发射波长613 nm,Eu的荧光 谱峰在613 nm
+Fig.4 Fluorescence spectra of cytoplasm of roots and leaves[ TS)]
+2.4　细胞组分蛋白及所含Eu3+的含量
+　　比较各细胞组分蛋白含量和单位蛋白所结合的Eu3+含量变化可见(表1、2)，细胞质部分蛋白含量极高，但几乎没有Eu3+的结合.由于稀土离子与Ca2+离子的相似性，稀土离子常被认为具有替换Ca2+与蛋白结合的特性［15］，但胞质中虽含有较多的可溶性CaM及其它Ca2+结合蛋白，Eu3+含量并不高，因此，Eu3+离子与蛋白，尤其是与含Ca蛋白的结合，并不是随机的，Eu3+与不同部位的蛋白有不同的结合能力和特性.有实验证明，稀土离子往往定位在质膜表面Ca2+结合位点［16］，与线粒体亲合性也较大.细胞质膜和线粒体单位蛋白所结合的Eu3+含量较高，也说明Eu3+与膜蛋白和线粒体蛋白有较好的亲合能力.
+表1　EuCl3处理后根和叶片细胞不同部分蛋白含量的变化(mg/g(FW))
+Table 1 Changes of protein content of different parts of root and leaf cel ls after treatment with EuCl3
+
+原生质体质膜线粒体胞质可溶性部分
+根0.833±0.2010.156±0.0190.224±0.0760.352±0.100
+叶片0.490±0.1370.133±0.0850.454±0.1050.744±0.271
+
+表2　EuCl3处理后根和叶片细胞不同部分Eu含量的变化(10-4 μg/mg(Pr))
+Table 2 Changes of Eu content of different parts of root and leaf cells af ter treatment
+
+　原生质体质膜线粒体胞质可溶性部分
+根32.227±1.17248.340±1.584103.911±1.0120
+叶片38.989±1.51122.564±2.331　19.425±0.2970
+
+3　结论
+　　植物吸收稀土元素Eu3+、Tb3+后，与β-二酮及其它配位基生成三元络合物产生的荧光强弱可定位在细胞组份中的分布、含量；与胞内蛋白质的结合并不是随机的，与不同部位的蛋白质有不同的结合力，线粒体比质膜有更高的亲合性，积累的Eu3+多；植物一旦受到稀土元素毒害时，首先受伤害的部位可能是线粒体，因此，以测其积累稀土离子的量可以作为检测土壤中稀土元素程度量的生物指标之一.
+* 国家自然科学基金(39770183)资助项目 
+作者单位:(曾福礼　安　宜)　兰州大学生物系，兰州　730000
+　　　　　(邓汝温)　兰州大学化学系
+参考文献
+[1]　李新民，倪嘉缵.钆对兔肌质网膜脂与膜蛋白的影响.生物物理学报，1996，12(1)：51
+[2]　李新民，倪嘉缵.钇和镱对人红细胞膜脂与膜蛋白的影响.生物物理学报，1994，10(3)：393
+[3] Komiyama Makoto,Teruyuki Kodama,Naoyo Takeda et al.Catalytically active s pecies for CeCl3-induced DNA hydrolysis.J Biochem,1994,115(5):809
+[4] 施岗陵，魏元秀，聂俊华等.稀土在农业上的应用.植物杂志，1994，(1)：33
+[5] 邓兆活，徐生杰，邝炎华.稀土处理对甘蔗离体叶绿体光化学反应的影响.华南农业大学 学报，1988，9(4)：49
+[6] 沈博礼，张丽静.稀土元素对小麦幼苗体内内源激素含量的影响.植物生理学通讯，1994 ，30(5)：351
+[7] 陈国珍.荧光分析法.北京：科学出版社.1975.33
+[8] 张　.不连续密度梯度离心和两相分配法纯化的小麦根细胞质膜的特性.科学通报，198 8，(14)：10
+[9] Serlin B S,Sopory S K,Roux S L.Modulation of oat mitochondrial ATPase activit y by Ca2+ and phytochrome.Plant Physiol,1984,74:827
+[10] 周继兴，平锡康.TTA-邻菲NFDA7啉体系荧光光谱法 测定岩矿中微量铕.岩矿测试，1988，7(4)：295
+[11] Broaford M M.A rapid and sensitive method for quantitation of protein assay by dye binding.Anal Biochem,1976,72:248
+[12] 孙大业.细胞信号系统.北京:科学出版社.1993.145
+[13]　石　凤，朱天培.稀土生物无机化学(Ⅱ).稀土，1986，(4)：44
+[14]　邹仲之，倪嘉缵，粟振宝等. 钐在小鼠肝细胞中的分布、沉积和影响的电镜与X射线微 区分析研究.科学通报，1991，36(2)：140
+[15]　倪嘉缵.稀土生物无机化学.北京：科学出版社.1995.174
+[16]　Nagahashi G,Thomson W W.The caspairian strip as a barrier to the movement of lanthanum in corn roots.Science,1974,183:670
+1997-07-15收到原稿　1998-03-19收到修改稿

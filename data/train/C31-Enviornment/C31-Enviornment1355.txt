@@ -1,0 +1,107 @@
+环境科学学报
+ACTA SCIENTIAE CIRCUMSTANTIAE
+1999年 第19卷 第5期 Vol.19 No.5 1999
+
+
+
+外源稀土微肥对土壤氮磷养分的影响*
+鲁　鹏　刘定芳　马　梅　王子健
+摘要　通过小区试验和盆栽试验，研究了施加不同的浓度稀土微肥对土壤中有效氮、有效磷浓度以及土壤脲酶活性的影响.结果表明，施加高浓度稀土微肥将会影响土壤中有效氮和有效磷的浓度.在分析与之相关的土壤酶活性时发现，施加低浓度稀土微肥(≤1mg/kg)促进土壤脲酶活性并增加土壤有效氮浓度，而施加高浓度稀土微肥(≥5mg/kg)则明显的抑制土壤脲酶活性并减少土壤有效氮浓度；施加稀土元素浓度与土壤有效磷浓度之间有较好的负相关关系(r=-0.961，p<0.05).
+关键词　稀土；土壤；有效氮；有效磷；脲酶活性.
+Effect of REE-fertilizer on soil nitrogen and phosphorus
+LU Peng,LIU Dingfang,MA Mei,WANG Zijian (State Key Laboratory of Environmental Aquatic Chemistry,Research Center for Eco-Environmental Sciences,Beijing 100085)
+Abstract　Through plot and pot experiments,the potential effects of applying rare-earth elements(REEs) as micro-fertilizer on the activity of soil urease,soil available nitrogen and phosphorus were screened.Results from the plot experiment indicated that REEs application influenced the supplement and metabolism of soils available nitrogen and phosphorus.The findings were confirmed by the pot experiments.It was demonstrated that REEs could promote of the activity of soil urease and cause an increase in the concentration of soil available nitrogen when applied in low dose(<1 mg/kg soil).The activity of soil urease was inhibited when applied in higher doses(>5 mg/kg soil) and the concentration of available nitrogen decreased in a dose-dependent mode with increasing REEs concentration.A significant correlation was observed between the concentration of REEs and soil available phosphorus(r=-0.961,p<0.005).
+Keywords　REEs,soil available nitrogen,available phosphorus,soil urease.
+　　我国大面积推广使用含稀土化肥始于70年代.研究发现微量稀土能够增加粮棉产量［1］，改善土壤中钙、镁元素的植物有效性，促进叶绿素的合成以及促进种子萌发和根系发育［2］等.我国在有关施用稀土元素对不同植物的有益影响以及其作用机理上进行了大量的研究工作，而对其在环境及对农业土壤生态系统的有害影响［3］的研究较少.有关研究结果存在矛盾，如有些研究工作者认为施加稀土微肥可以促进植物对氮［4,5］和磷［6］的吸收利用；而另外一些研究工作者认为稀土元素与土壤-植物系统的氮磷代谢无关［7］，并且施加稀土元素会干扰土壤的养分代谢，因而降低其植物有效性［8］.为了进一步阐明长期施加含稀土化肥对农业土壤生态系统的影响，本文通过室外小区试验和盆栽试验，讨论稀土元素对土壤氮磷的影响.
+1 试验方法
+1.1　小区试验
+　　试验用地选在北京市北郊，实验土质为砂质粘壤土(粘粒20.2%，粉粒28.6%，砂粒51.2%)，有机质含量为0.80%，pH值和土壤阳离子交换量分别为7.70和16.0mg/g(土)，总氮和总磷含量分别为0.124%和0.06%，有效氮和有效磷浓度分别为21.3ppm和12.6ppm.实验设计4个小区，每小区12m2.播种春玉米，在生长苗期一次性均匀表面喷施，施用量分别为0、16、32和64mg/m2的稀土微肥(商品名：“常乐”).喷施前和收获后分别采集土壤样品.
+1.2　盆栽试验
+　　土壤取自试验小区，自然风干后过1mm筛.取0.5kg置于直径为12cm深12cm的塑料盆中，每盆种10棵春玉米，于出苗后数天根部土壤施入，稀土元素施用量分别为0、1、5、10、20和30mg/kg土的“常乐”微肥，各设4个重复，采集施加前和施加3星期内的土壤样品进行分析.
+1.3　样品制备和测定方法
+　　微肥中稀土元素的组成，喷施溶液浓度以及元素La和其它稀土元素的比值如表1所示.
+表1　施加稀土微肥中稀土元素的浓度
+Table 1 Composition and concentrations of REEs in applied
+
+元素名称稀土微肥，
+mg/g浓度，
+mg/LLa/RE
+La132.4939.746　
+Ce63.2518.9752.1
+Pr26.397.9185.0
+Nd40.0112.0043.3
+Sm4.021.20633.0
+Gd2.460.73853.9
+Dy0.050.0162484.1
+Total268.6280.587　
+
+　　将土壤样品在室内自然风干，研磨，根据测试的不同要求分别过60目和100目筛，土壤有 效氮的测定采用碱解扩散法［9］，有效磷的测量采用0.5mol/L碳酸氢钠浸提法［10］，土壤脲酶分析根据G.Hoffmonn法［11］进行.
+1.4　数据处理方法
+　　考虑到各实验小区在时间和空间的异质性，若试验结果满足以下3个条件，则可认为施加稀土微肥对土壤有效氮和有效磷有影响：(a)施加稀土微肥前后测量数据的差值超过二倍的背景值的标准偏差(指施加稀土微肥前4个试验小区测定值的标准偏差，n=4)；(b)存在一个与剂量相关的关系；(c)由于稀土元素大部分赋存于土壤表层，因此在表层土壤的测量得到的施加前后差别须比深层土壤更为显著.
+2　结果与讨论
+2.1　施加稀土微肥对土壤中有效氮的影响
+表2　小区实验中施加稀土微肥对土壤有效氮的影响(mg/kg)
+Table 2 Influence of REEs on soil available nitrogen(mg/kg)
+
+土壤深度，
+cm土壤有效氮
+(n=4)施加前后的差值(mg/m2)
+0163264
+2021.3±3.52.2-1.4-7.5-11.7
+4019.0±2.70.8-7.3-7.8-4.2
+6020.7±2.1-0.4-4.2-13.6-10.2
+8015.3±5.76.7-6-10-11.8
+10019.1±4.25.5-13.1-2.8-11.3
+
+　　从表2中可看出，施加稀土之后试验小区不同层深的土壤有效氮的浓度都有不同程度的降低，而对照小区中有效氮的浓度相对稳定或略有增加.当施加稀土浓度较高时(≥32mg/kg)，处理组土壤施加稀土前后有效氮浓度的差值大于二倍的背景标准偏差；同时在表层20cm土壤中可以观测到剂量相关关系.因此，可以认为随着施加稀土浓度的增加，表层土壤有效氮浓度减少.
+　　从表2中可看出，施加稀土之后试验小区不同层深的土壤有效氮的浓度都有不同程度的降低，而对照小区中有效氮的浓度相对稳定或略有增加.当施加稀土浓度较高时(≥32mg/kg)，处理组土壤施加稀土前后有效氮浓度的差值大于二倍的背景标准偏差；同时在表层20cm土壤中可以观测到剂量相关关系.因此，可以认为随着施加稀土浓度的增加，表层土壤有效氮浓度减少.
+　　比较施加稀土前后表层土壤有效氮和土壤脲酶活性，可以发现土壤脲酶活性的变化趋势与有效氮浓度的变化趋势相似.如图1所示，施加0、16、32和64mg/m2的稀土微肥后，20cm表层土壤有效氮浓度在对照小区略有上升(+11%)，而在处理组分别比施加前降低了19.7%，32.5%和46.4%.与有效氮浓度变化趋势相似，对照小区土壤中土壤脲酶活性上升25%，而处理组分别比施加前降低了15.4%，31.3%和54.5%.表层20cm土壤中施加稀土对有效氮和土壤脲酶活性的影响趋势一致.
+　　针对上述实验结果进行了盆栽试验，以进一步明确施加稀土与土壤有效氮及土壤脲酶的关系.实验结果如图2所示.从图中可看出，施加低浓度稀土(≤1mg/kg)能促进土壤脲酶活性、引起土壤有效氮浓度的增加.当施加高浓度稀土(≥5mg/kg)时，随着施加剂量的增大，土壤脲酶活性受到抑制，土壤有效氮浓度明显降低.盆栽和小区试验结果得出的结论相同，说明较大剂量的稀土元素有可能影响到土壤有效氮的代谢或补充过程.这个结果与以往关于施加稀土元素能够促进植物生长的看法不一致，因此有必要进一步研究，以探明其影响机理.
+
+
+图1　稀土元素对土壤(20cm层)有效氮和脲酶活性的影响
+Fig.1 Influences of REEs on soil available nitrogen and enzymatic activity of urease
+
+
+图2　盆栽实验中稀土对土壤有效氮浓度和土壤脲酶活性的影响
+Fig.2 Influence of REEs on soil available nitrogen and enzymatic activity of soil urease in pot experiments
+2.2　施加稀土微肥对土壤中有效磷的影响
+　　施加稀土元素对土壤20cm表层中有效磷浓度有明显影响.如表3所示，对照小区，甚至16mg/m2处理组的土壤有效磷浓度在施加稀土微肥后有所增加，当施加量为32mg/m2和64mg/m2时，表层土壤中有效磷浓度显著下降，与施加稀土元素浓度相关.而较深层土壤(>20cm)中，未观察到稀土对有效磷浓度有规律性的影响.
+　　盆栽试验结果如图3所示，施加稀土元素浓度与土壤有效磷的浓度之间存在显著负相关关系(r=-0.961，p<0.05)，当施加稀土元素浓度达到30mg/kg土时，土壤有效磷浓度下降近一半.
+　　从小区和盆栽试验的结果可以看出，施加稀土元素将对土壤有效磷浓度产生影响.值得注意的是，这个结论与以前的研究者们认为施加稀土元素与土壤有效磷的供应无关［5］相矛盾.有关作用机理有待进一步的研究工作予以证实.
+
+
+图3　盆栽实验中稀土对土壤有效磷的影响
+Fig.3 Influence of REEs on soil available phosphorus in pot experiments
+表3　小区实验中施加稀土微肥对土壤有效磷的影响(mg/kg)
+Table 3 Influence of REEs on soil available phosphorus(mg/kg)
+
+土壤深度，
+cm土壤有效磷
+(n=4)施加前后的差值(mg/m2)
+0163264
+2012.6±1.31.90.3-2.4-6.0
+4011.5±2.00.0-2.4-1.2-
+606.9±0.74.50.21.40.2
+809.6±1.2-2.4-0.71.7-0.5
+10011.0±1.3-0.5-2.4-2.1-2.1
+
+3　结论
+　　室外小区试验和盆栽试验结果表明，施加稀土元素将可能对土壤中有效氮和有效磷的浓度和代谢产生影响.有必要就稀土农用对土壤氮磷养分供给的影响机理、程度、及土壤调控能力进一步研究.
+*国家自然科学基金(29890280-2)资助
+王子健:通讯联系人
+作者单位:中国科学院生态环境研究中心国家重点环境水化学实验室，北京　100085
+参考文献
+1　Bosheng G.A new application field for rare earthagriculture.In:Rare Earth Horizons,Proc.Of Conf.Nat.Measurement Lab.,2728 April 1987.Canberra:Department of Industry,Technology and commence.1987.237—246
+2　常江.镧对稻、麦根组织细胞膜透性和营养代谢吸收积累的影响.植物生理学通讯，1991，27(10)：17—21
+3　Dimitr S Todorovsky.Effect of the application of superphosphate on rare earths content in the soil.The Science of the Total Environment,1997,203:13—16
+4　竺伟民，张自立.La、Ce、Pr、Nd对小麦、棉花生长和营养代谢的效应.安徽农学院学报，1986(增刊)：1—5
+5　竺伟民等.稀土农乐对水稻的“效应期”初探.稀土金属，1985，5：6—10
+6　张继榛等.稀土对冬小麦产量及营养代谢的影响.安徽农学院学报，1986(增刊)：11—15
+7　赵庆华等.十五种稀土元素对棉花效应研究.安徽农学院学报，1986，(增刊)：43—48
+8 Liang C.N.,Tabatabai M.A.,Effects of trace element on nitrification in soils,J.Environ.Qual.,Vo17,no.2,1978,291—193
+9　南京农学院主编.土壤农化分析.北京：农业出版社.1980.78—81
+10 中华人民共和国国家标准，GB 7853—87.森林土壤有效磷的测定.1988
+11 吴松荫等.土壤酶及其研究法.北京：农业出版社.1986.296—297
+1998-02-23收到原稿
+1998-06-23收到修改稿

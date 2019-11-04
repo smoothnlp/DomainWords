@@ -1,0 +1,44 @@
+环境科学研究
+RESEARCH OF ENUIRONMENTAL SCIENCES
+2001 Vol.14 No.2 P.41-44
+
+
+
+
+厌氧-好氧驯化活性污泥生物合成PHA的研究
+郑裕东　 钟青华　 马文石　 黄炯亮　 
+摘　要：厌氧-好氧处理有机污水的活性污泥中含有大量菌胶团菌，其形成与菌体胞内聚羟基烷酸酯(PHA)的积累有关，因此有可能利用污水中有机物和活性污泥中多种微生物合成PHA。笔者利用纺织工业废水厌氧-好氧驯化活性污泥，从中提取PHA。分别研究了厌氧过程和好氧过程中供氧量、碳源调节物浓度、培养时间等对菌胶团菌生长和胞内PHA积累的影响，测定了所得PHA的分子量、熔点和单体链节组成。
+关键词：厌氧-好氧过程；　活性污泥；　聚羟基烷酸酯
+分类号：X703.1　文献标识码：A
+文章编号：1001-6929(2001)02-0041-04
+Biosynthesis of PHA from Anaerobic-Aerobic Activated Sludge Process
+ZHENG Yu-dong（Institute of Material Science, South China University of Technology,　Guangzhou　510641,　 China）　
+ZHONG Qing-hua（Institute of Material Science, South China University of Technology,　Guangzhou　510641,　 China）　
+MA Wen-shi（Institute of Material Science, South China University of Technology,　Guangzhou　510641,　 China）　
+HUANG Jiong-liang（Institute of Material Science, South China University of Technology,　Guangzhou　510641,　 China）　
+
+Abstract：Activated sludge produced in wastewater anaerobic-aerobic treatment process contained a large number of Zoogloea. The formation of Zoogloea was related to the accumulation of intercellular Polyhydroalkanoates (PHA) of these microorganisms. So it is possible to produce PHA from activated sludge. In this work, the influence of the oxygen supply rate, attachment carbon source concentration and culture time to the accumulation of PHA were investigated. The molecular weight and monomer composition of PHA extracted from activated sludge were measured.
+Keywords：anaerobic-aerobic process;　 activated sludge;　 Polyhydroalkanoates
+基金项目：广东省自然科学基金资助项目(990621)
+作者简介：郑裕东(1966-)，女，四川涪陵人，副研究员，博士. 
+作者单位：郑裕东（华南理工大学 材料所，广东 广州　510641）　
+　　　　　钟青华（华南理工大学 材料所，广东 广州　510641）　
+　　　　　马文石（华南理工大学 材料所，广东 广州　510641）　
+　　　　　黄炯亮（华南理工大学 材料所，广东 广州　510641）　
+
+参考文献：
+［1］　Lefebvre G,Rocher M,Braunegg G.Effect of low dissoved-oxygen concentrations on poly(hydroxybutyrate-co-valerate)production by Alcaligenes eutrophus[J].Applied & Environ Microbiol,1997,63(4):827.
+［2］　Yamane T,Chen X F,Ueda S.Grouth-associated production of polyhydroxyvalerate from n-pentanol by a methylotrophic bacterium paracoccus denitrificans[J].Appl Environ Microbiol,1996,62(2):380.
+［3］　Anderson A J,Dawes E A.Occurrence metabolially,metabolic role and industrial uses of bacterial polyhydroxyalkanoates[J].Microbiol Rev,1990,54(3):450.
+［4］　郑元景，沈光范，邬扬善.生物膜法处理污水[M].北京：中国建筑工业出版社，1983.
+［5］　陈琦，黄和容，易祖华.微生物合成生物降解塑料研究现状与展望[J].微生物学通报，1994，21(5)：297.
+［6］　Halm S K,Chang Y K,Kim B S,et al.Optimization of microbial poly-3-hydroxybutyrate recovery using dispersion of sodium hypochlorite solution and chloroform[J].Biotechnol Bioeng,1994,44(3):256.
+［7］　Inoue Y,Sano F,Nakamura K,et al.Microstructure of copoly-3-hydroxyalkanoates produced in the anaerobic-aerobic activated sludge process[J].Polymer International,1996,39(3):183.
+［8］　高桥俊三.活性污泥生物学[M].北京：中国建筑出版社，1987.
+［9］　Satoh H,Iwamoto Y,Mino T,et al.Activated sludge as a possible source of biodegradable plastic[J].Wat Sci Tech,1988,38(2):103.
+［10］　Satoh H,Mino T,Matsuo T.Uptake of organic substance and accumulation of polyhydroxyalkanoates linked with glycolysis under anaerobic conditions in the biological excess phosphate removal processes[J].Wat Sci Tech,1992,26(5):933.
+［11］　Gern N M Huijberts,Eggink G,Waard P,et al.Pseudomonas putida KT2442 cultivated on glucose accumulates Poly-3-hydroxyalkanoates consisting of saturated and unsaturated monomers[J].Appl and Environ Microbiol,1992,58(2):536.
+［12］　郑裕东，钟青华，马文石，等.用活性污泥生物合成聚羟基烷酸酯的结构表征[J].高等学校化学学报，2000，21(6)：991.
+
+收稿日期：2000年1月17日
+出版日期：2001年3月30日

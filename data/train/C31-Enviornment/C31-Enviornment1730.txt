@@ -1,0 +1,50 @@
+环境科学研究
+RESEARCH OF ENUIRONMENTAL SCIENCES
+2001 Vol.14 No.2 P.4-6,10
+
+
+
+
+澳门塔石球场小区大气挥发性有机物研究
+陈才　 张干　 王新明　 闵育顺　 盛国英　 傅家谟　 王志石　 
+摘　要：研究了1998年11月澳门塔石球场小区大气发挥性有机物(VOCs)的总体情况及空间分布。结果表明澳门大气VOCs的主要成分为：甲苯、乙苯和二甲苯(BTEX)，其浓度总量平均值为57.2μg/m3，与世界其他城市相比处于中等偏高。结果还说明地理环境和气象因素对大气VOCs浓度影响很大。
+关键词：澳门塔石球场小区； 大气； 挥发性有机物
+分类号：X169　文献标识码：A
+文章编号：1001-6929(2001)02-0004-03
+Study of Volatile Organic Compounds in Ambient Air in Hockey Field District, Macao
+CHEN Cai（State Key Laboratory of Organic Geochemistry, Guangzhou Institute of Geochemistry, CAS,Guangzhou　510640, China）　
+ZHANG Gan（State Key Laboratory of Organic Geochemistry, Guangzhou Institute of Geochemistry, CAS,Guangzhou　510640, China）　
+ZHANG Gan（State Key Laboratory of Organic Geochemistry, Guangzhou Institute of Geochemistry, CAS,Guangzhou　510640, China）　
+MIN Yu-shun（State Key Laboratory of Organic Geochemistry, Guangzhou Institute of Geochemistry, CAS,Guangzhou　510640, China）　
+SHENG Guo-ying（State Key Laboratory of Organic Geochemistry, Guangzhou Institute of Geochemistry, CAS,Guangzhou　510640, China）　
+FU Jia-mo（State Key Laboratory of Organic Geochemistry, Guangzhou Institute of Geochemistry, CAS,Guangzhou　510640, China）　
+WANG Zhishi（School of Science and Technology, Macao University, Macao, China）　
+
+Abstract：The composition and concentrations of volatile organic compounds (VOCs) in ambient air in Hockey Field District, Macao have been studied and reported in this paper. The main VOCs are BTEX, and the average concentration of total BTEX is 57.2 μg/m3,which is higher than those in most other cities in the world. The study of VOCs in urban air in Hockey Field District indicates that the concentrations of VOCs in urban air depend on topography and climate conditions of the sampling point.
+Keywords：Hockey Field District of Macao; ambient air; volatile organic compound (VOCs)
+基金项目：中国科学院重点基金资助项目(KZ952-J1-052和KZ952-S1-413)
+作者简介：陈才(1973-)，男，四川涪陵人，硕士研究生. 
+作者单位：陈才（中国科学院 广州地球化学研究所 有机地球化学国家重点实验室，广东 广州　510640）　
+　　　　　张干（中国科学院 广州地球化学研究所 有机地球化学国家重点实验室，广东 广州　510640）　
+　　　　　王新明（中国科学院 广州地球化学研究所 有机地球化学国家重点实验室，广东 广州　510640）　
+　　　　　闵育顺（中国科学院 广州地球化学研究所 有机地球化学国家重点实验室，广东 广州　510640）　
+　　　　　盛国英（中国科学院 广州地球化学研究所 有机地球化学国家重点实验室，广东 广州　510640）　
+　　　　　傅家谟（中国科学院 广州地球化学研究所 有机地球化学国家重点实验室，广东 广州　510640）　
+　　　　　王志石（澳门大学科技学院，澳门）　
+
+参考文献：
+［1］　Itsushi Uno.Shinji Wakamatsu,Richard A Wadden,et al.Evaluation of hydrocarbon reactivity in urban air [J].Atmos Environ,1985,19(8):1283～1293.
+［2］　Edgerton S A,Holdren M W,Smith D L.Inter-urban comparison of ambient volatile organic compound concentrations in U S cities [J].Journal of The Air Pollution Control Association,1989,39:729～732。
+［3］　Guicherit R.Traffic as a source of volatile hydrocarbons in ambient air [J].The Science of Total Environment,1997,205:201～213.
+［4］　王新明，傅家谟，盛国英，等.广州街道空气中挥发烃类特征和来源分析[J].环境科学，1999，20(5)：30～34.
+［5］　尚琪，汤大钢，控制车用汽车有害物质降低机动车排放[J].环境科学研究，2000，13(1)：32～35.
+［6］　Rappengluck B,Fabian P.Nonmethane hydrocarbons (NMHC)in the Greater Munich Area/Germany[J].Atmos Environ,1999,33:3843～3857.
+［7］　Baldasano J M,Delgado R,Calbo J.Applying receptor models to analyze urban/suburban VOCs air quality in Martorell(Spain)[J].Environ Sci Technol,1998,32:405～412.
+［8］　Bruckmann, P Kersten W.The occurrence of chlorinated and other organic trace compounds in urban air [J].Chemosphere,1988,17:2363～2380.
+［9］　Scheff P A,Wadden R A.Mesurement and evaluation of acid air pollutants in Chicago using an annular denuder system [J].Environ Sci Technol,1993,27:617～625.
+［10］　Kupiszewska D,Pilling M J.Air Pollution II,Vol,2 [C].Southampton,UK:Coputational Mechanics Publications,1994,169～176.
+［11］　Harkov R,Kebbekus B,Bozzelli J W.Toxic Air Pollution [C].Chelsea,MI:Publishers Inc,1987,69～90.
+［12］　Finlayson-Pitts B J,Pitts J N.Atmospheric Chemistry:Fundamentals and Experimental Techniques[C].New York:John Wiley & Sons,1986.
+
+收稿日期：2000年3月17日
+出版日期：2001年3月30日

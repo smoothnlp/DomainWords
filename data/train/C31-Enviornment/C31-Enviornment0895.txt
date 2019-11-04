@@ -1,0 +1,85 @@
+环境科学学报
+ACTA SCIENTIAE CIRCUMSTANTIAE
+1999年　第19卷　第4期　Vol.19　No.4　1999
+
+
+
+离子筛与醋酸纤维素混合超滤膜的制备及降氟性能
+丛培君　孙　鹤　徐应明　王淑兰　王榕树　
+摘要　在超滤膜制备过程中，向铸膜液中引入亲氟物质——水合氧化镧，经熟化后制备的混合超滤膜具有分离大分子和降低水体中氟离子浓度两种功能.以含氟饮用水为研究对象，对其混合膜的降氟机理进行了探讨.
+关键词　超滤膜；水合氧化镧；氟.
+The preparation of the ultrafiltration membrane with ion sieve for removing fluorine
+CONG Peijun,SUN He,XU Yingming,WANG Shulan,WANG Rongshu 
+(Dept.of Chemical Engineering,Tianjin University,Tianjin 300072)
+Abstract　In the process of preparing ultrafiltration membrane,the introduction of hydrated lanthanum oxide La2O3.nH2O makes the ultrafiltration membrane possess two functions-separating large molecules and decreasing the concentration of fluorine in the water.The mechanism of removing fluorine of the ultrafiltration membrane was discussed.
+Keywords　ultrafiltration membrane,hydrated lanthanum oxide,fluorine.
+　　
+　　国内外研制的降氟剂品种较多［1，2］，但主要是由含铝物料制成.近几年来研究表明［3］，铝能损害人的大脑，损伤骨骼及影响智力.所以含铝降氟剂随着铝的溶出和残留量，越来越引起人们的关注，其应用受到限制.因此，研究高效、经济、方便的非铝降氟剂受到了重视.本文受填充分子筛蒸发膜、化学作用强化膜及亲合膜技术的启发［4—8］，向铸膜液中引入水合氧化镧，合成了离子筛与醋酸纤维素混合超滤膜，用于降低饮用水中过量氟，并对降氟机理进行了探讨［9］．
+
+1　实验部分
+1.1　试剂与仪器
+　　醋酸纤维素(CA)，乙酰度39.8%(西安惠安化工厂)；丙酮、高氯酸镁、硝酸、氨水均为分析纯(天津南开化工厂)；氧化镧为分析纯(上海跃龙化工厂)；用水均为无离子水.
+　　TP-10-20型蠕动泵、超滤杯(天津纺织学院)；PHS-2C型酸度计(上海雷磁仪器厂)；磁力搅拌器(杭州仪表电机厂)；CSB-1氟离子选择电极(长沙半导体材料厂)；D-7401型500W搅拌器(天津华兴科学仪器厂)；刮刀(自制).
+1.2　亲氟物质的筛选与制备
+　　水体中氟离子易与多价阳离子形成较稳定的络离子，如BF-4、FeF3-6、AlF3-6等.另外，因氟离子的变形性很小，与大的阳离子又不易形成络合物，根据溶度积原理，氟与镧的溶度积Ksp=1.4×10-18，所以选择水合氧化镧.用少量硝酸水溶液(1∶1，V/V)溶解氧化镧，以氨水调pH值为7.8—8.5，生成水合氧化镧沉淀，经陈化后抽滤，得含不同湿存水比例的水合氧化镧备用.
+1.3　离子筛混合超滤膜的制备及性能
+　　按表1配比搅拌均匀，熟化、脱气，用L-S相转化法制备离子筛混合超滤膜.
+表1　铸膜液组成
+Table 1 Component of solution preparing for the membrane
+
+醋酸纤维素丙酮高氯酸镁水水合氧化镧湿存水比例
+12.5g69.0g1.5g15.0g2.0g1∶5
+
+　　以透水速率和氟离子穿透容量考察膜性能.进水氟离子浓度为10mg.L-1，pH=6.02，室温，压力为0.1MPa.当透水速率稳定后，每隔30min测一次滤出液氟离子浓度，绘制流出曲线.
+
+
+图1　添加剂浓度对膜透水速率的影响
+Fig.1 Effect of additive concentration on the water penetrating rate of membrane
+2　结果与讨论
+2.1　高聚物(CA)浓度
+　　当高聚物(CA)浓度为5%时，铸膜液太稀，所以粘度低，膜性能差.当CA浓度为15%时，铸膜液又太稠，成膜困难.实验结果证明当CA浓度为12.5%时最适宜.
+2.2　添加剂
+　　添加剂有致孔作用，是铸膜液的重要组成部分.当其它条件固定时，添加剂浓度在1.5%—4.0%范围变化时，混合膜的透水速率变化不大，当高于6.0%时，透水速率明显加大，降氟效率差，如图1所示.综合考察添加剂，其浓度确定为1.5%.
+2.3　离子筛吸附剂及水合氧化镧湿存水比例
+　　为提高氟离子的去除率，希望膜中含有较多的离子筛吸附剂水合氧化镧.经与空白膜对比，从铸膜到成膜后的物化性能综合各因素考核，结果认为3＃、4＃均可(表2).
+表2　4种铸膜液组成
+Table 2 Components of four kinds of solution preparing for the membrane
+
+CA,g丙酮,g添加剂，g水，g水合氧化镧，g湿存水比例透水速率，mL/(cm2.h)吸附容量,mg/g*
+1＃12.571.01.515.00—28—
+2＃12.570.01.515.01.01∶535—
+3＃12.569.01.515.02.01∶5441.75
+4＃12.568.01.515.03.01∶5483.21
+
+　　* mg/g指达平衡时膜中每克氧化镧吸附氟的毫克数
+
+图2　解吸液流出曲线
+Fig.2 Curve of F- concentration in desorbed solution
+2.4　离子筛复合超滤膜的再生
+　　根据吸附机理，选用浓度为5.0×10-3mol/L的氢氧化钠溶液解吸再生，吸附流出曲线如图2所示.由图2可见氟离子的解吸率可达93.0%，解吸后用清水将膜冲洗干净，可重复使用.
+2.5　吸附机理
+2.5.1　形貌观测　对空白1＃和4＃膜作扫描电镜形貌观测，加入水合氧化镧的离子筛混合超滤膜致密层更薄，指状孔增多，孔隙变大(图3).因为水合氧化镧不仅对膜中存在的水有保护作用，同时凝胶时还能将外部的水吸到膜中，使水分子嵌入到高分子网络中，使膜结构疏松，膨润比增大，导致透水率增加.但水合氧化镧加入量要控制在2.0%—3.0%，否则膜物化性能下降.
+
+
+图3　空白膜与混合膜电镜形貌图
+Fig.3 Scanning electron micrographs of blank membrane and incorporate membrane
+2.5.2　降氟机理
+　　无定形金属水合氧化物相当于金属原子和氧原子交联形成的高聚物.La2O3.nH2O的骨架可表示为：
+
+　　此高聚物骨架中可有部分氧键断裂，其氧原子可为一个羟基替代，具有离子交换性质，因这类物质是两性化合物，其交换吸附性质与pH值紧密相关.在pH<7时，高聚物骨架带正电荷，呈阴离子交换性质；而在碱性时则相反.骨架中心原子解离方式为：
+　　另外，无定形沉淀水合氧化镧对水体中氟离子也能发生表面吸附共沉淀，从而降低氟离子浓度.因在高分子聚合物中引入的水合氧化镧粒径约0.2μm，比表面发达，并且镧与氟所形成的化合物溶度积较小，所以水中的氟离子容易被吸附载带而降低［8］.
+　　在实验条件下，含氟溶液的pH=6.02，从骨架中心原子解离式可知，无定形水合氧化镧表面带正电荷，因此容易与溶液中带负电荷的氟离子发生表面吸附共沉淀而降低溶液中氟离子浓度.
+* 天津市建委资助项目
+作者单位：(天津大学化学工程系，天津　300072)
+参考文献
+　1　黄衍初，姜兆春，曲长菱.饮水除氟剂的应用.环境化学，1994，13(6)：561
+　2　Farrah H,Slavek J,Pickering W F.Fluoricle interactions with hyclrous aluninium oxicles and alumina.Aust J Soil Res,1987,(25):55
+　3 刘增林等.铝制水壶煮沸的饮用水中铝含量的测定.环境科学，1987，18(2)：68
+　4　商振华，周良模.膜亲和色谱的现状、发展和应用.化学进展，1995，7(1)：48
+　5　马文英，方佑龄，赵文克.相转移法制备超微粒子氧化铬.无机盐工业，1993，(5)：11
+　6　陈庆龄.膜反应器催化技术及膜催化材料的进展与展望.化工进展，1992，(2)：5
+　7　Watson J M,Zhang G S,Payne P A.The diffusion mechanism in silicone rbber.Journal of Membrane Science,1992,(73):55
+　8 Chen V,Fane A G,Fell C J D.The use of anionic surfactants for reducing fouling 　of ultrafiltration membrane:their effects and optimization.Journal of Membrane Science,1992,(67):249
+　9 秦启宝等.化学分离法.北京：原子能出版社，1984.173
+1997-11-10收到原稿
+1998-03-12收到修改稿

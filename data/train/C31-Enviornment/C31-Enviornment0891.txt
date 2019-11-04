@@ -1,0 +1,87 @@
+环境科学学报
+ACTA SCIENTIAE CIRCUMSTANTIAE
+1999年　第19卷　第4期　Vol.19　No.4　1999
+
+
+
+水网藻(Hydrodictyon reticulatum)对富营养化水样中氮磷去除能力的研究
+王朝晖　江天久　杞　桑　骆育敏　齐雨藻
+摘要　研究了水网藻在天然水体水样中的生长及对氮磷(N，P)的去除能力，结果表明水网藻在富营养化水库水及重营养化的湖水水样中均生长良好；富营养化水库水(含TN 3.34—5.15mg/L、TP 0.10—0.19mg/L)及重营养化湖水(含TN33.86mg/L、TP 1.939mg/L)经水网藻(1g/L)处理2d、4d、6d后，对氨氮(NH4N)、总氮、总磷去除率均在70%以上.
+关键词　水网藻，氮，磷，富营养化.
+Studies on nitrogen and phosphorus removal capacity of Hydrodictyon reticulatum in eutrophic freshwater samples
+WANG Zhaohui,JIANG Tianjiu,QI Sang,LUO Yumin,QI Yuzao 
+(Institute of Aquatic Ecoscience,Jinan University,Guangzhou,510632)
+Abstract　The growth and nitrogen(N),phosphorus(P) uptake of Hydrodictyon reticulatum in eutrophic freshwater samples were studied under experimental conditions.Results showed that Hydrodictyon reticulatum can grow well in eutrophic reservior water samples (with TN 3.34—5.15mg/L,TP 0.10—0.19mg/L) and high eutrophic pond water samples (with TN 33.68mg/L,TP 1.94mg/L).The uptake rates of ammonium (NH4N),total N(TN) and total P(TP) in the samples were all over 70%,and the uptake rate of NH4N was up to 90% after treated by Hydrodictyon reticulatum for 2—6 days.It implicated that Hydrodictyon reticulatum can grow well in natural water with different range of N and P concentration,and may be served as a means to control water eutrophication.
+Keywords　Hydrodictyon reticulatum,eutrophication,nitrogen uptake,phosphorus uptake.
+　　
+　　水体富营养化是水环境面临的严重问题之一，在经济发达地区水体富营养化问题尤为严重，影响了饮水卫生和水产养殖业.目前处理水体富营养化已有多种途径，利用水生高等植物净化富营养化水体是重要途径之一.研究表明，凤眼莲、芦苇、菱等对水体中的氮磷均有较强的富集能力，可降低水体中的氮磷含量，减轻富营养化程度［1］.有关藻类对污水中氮磷等营养物的去除作用的研究也有大量报道［2—4］.严格来说，所有水生单细胞藻类及高等植物，其生长过程需吸收外界营养物质，因而均对水体有一定的净化作用.
+　　水网藻是一种大型的网片状或网袋状绿藻，肉眼可见，广泛分布于池塘沟渠等处.其繁殖能力很强，在生长过程中，能吸收大量的NH4N、NO3N及无机磷等［5,6］，从而降低富营养化水体中的氮磷水平.而且水网藻藻体较大，可通过收获而间接去除水体中部分氮磷，同时水网藻生长的温度范围较广［7］.但利用常见的水网藻治理水体富营养化我国至今尚未见有报道.本研究的目的在于研究水网藻对富营养化水体中氮磷的去除能力，以探讨水网藻在我国热带、亚热带富营养化水体中生长及作为水体富营养化防治植物的可能性，从而为富营养化的防治提供一种新的生物手段.
+
+1　材料方法
+1.1　藻种收集及培养
+　　试验用的水网藻于1996年3—5月采自广州市东郊菜地沟渠中，分离纯化后进行单种培养.将成熟的水网藻置入新鲜的培养基中，在7天之内即会长出小水网藻，4天之后小水网藻便可用于试验.
+1.2　培养条件
+　　培养温度为23℃±1℃，光照强度为5000Lx,光暗比为12∶12.试验用培养基为经改良的BBM培养基(mBBM)[8]，培养基中的N、P浓度分别设定为41.25mg/L NaNO3N,0.69mg/L K2HPO4P,2.06mg/L KH2PO4P，其余营养元素与BBM培养基相同.
+1.3　试验水样
+　　 本试验水样采自广东省某一水库和暨南大学南湖，水样经滤膜抽滤后，便可用于试验，水样中的N、P含量见表1.
+表1　试验水样中的N、P含量(mg/L)
+Table 1 Content of nitrogen and phosphorus in the tested water samples
+
+　水库水样Ⅰ水库水样Ⅱ水库水样Ⅲ湖水水样
+NH4＋N1.954.072.8826.48
+TN3.345.154.0333.85
+TP0.120.110.191.93
+N∶P27.8346.8221.2117.54
+
+1.4　试验设计
+　　水网藻小集结体(0.95—1.05g(湿重))置于含有500mL试验液的1000mL三角瓶中，试验连续进行6天，每隔2天测定水网藻湿重及水样中N、P含量.每个试验组设有3个平行组，而且设有不含水网藻的空白水样组.
+1.5　生长率计算
+　　特定生长率(μ)由以下公式计算［9］：
+μ(%/d)=[ln(Wt2/Wt1)]/(t2-t1)
+　　其中Wt2和Wt1分别为t2和t1时的湿重.
+1.6　N和P的测定
+　　NH4＋N、NO3-N、TN及TP分别采用纳式比色法、酚二磺酸比色法、过硫酸钾硝解法及钼蓝比色法测定.
+
+2　结果与讨论
+2.1　水网藻在富营养化水库水样及重富营养化湖水水样中的生长　　
+
+
+图1　水网藻在富营养化水库水样中的生长
+Fig.1 Special growth rate of Hydrodictyon reticulatum in entrophic water samples
+　　图1表明，水网藻在富营养化水库水样和重富营养化湖水水样中均生长良好，并且比在mBBM培养基中长势更好［10］.在水库水样中水网藻的最大生长率均达50%/d以上，而在湖水水样中则接近70%/d.其生长曲线一般呈二项式曲线，生长率在接种的第4天达到最大值.作者在水库现场实验的结果也表明，水网藻在天然水体中的最大生长率可达160%/d，而且能较长时间保持旺盛的长势.这是由于天然水体中含有较为丰富全面的营养成分，更加适合植物生长的需要.
+　　单细胞浮游植物的生长曲线与细菌相似，在接种的4—5天生长率达到最大值，然后会出现一个生长率相对稳定的平稳期.而本实验所研究的水网藻的生长则无平稳期阶段，在接种后的第4天达到最大生长，此后生长迅速下降.Laurie［9］等研究石莼(Ulva fenestrata)的生长时也发现，无论是在高N高P、低N低P或者是其它培养基中，石莼在接种后的第5天生长率达到最大，而到第6天后生长则迅速下降.这说明大型藻类与单细胞浮游藻类也许有不同的生长趋势.水网藻属于绿藻门(Chlorophyta)绿球藻目(Chlorococcaceae)，为定型群体，其唯一的繁殖方式为动孢子繁殖，水网藻幼体的生长只是由于细胞大小的加大，而不是细胞数目的增加.接种后的4—5天后，由于水样中的营养物的消耗，水网藻的生长受到限制，有的则停止生长，转为动孢子繁殖，因此在本实验中水网藻的生长在第4天后也出现下降的趋势.
+　　在水库水样中，水网藻在水样Ⅲ(含4.03mg (N)/L,0.19mg (P)/L)中生长较好，最大生长率达61.3%/d.水样Ⅲ中虽然TN含量不高(见表1)，但N∶P为21.2，较适合藻类生长.而在水样Ⅱ中，虽然水样中TN含量较高(5.15mg (N)/L)，但N∶P达46.8，已大大超出藻类生长的N∶P.对浮游植物来说，N∶P在10—20之间较适合于生长，N∶P小于10表明N限制，大于20表明P限制［11］.
+2.2　水网藻对水样中N、P的吸收能力
+　　富营养化的水库水及重营养化湖水经过水网藻处理后，其NH4＋-N含量迅速下降，6天内的去除率均在80%以上(图2)，水库水样中的NH4＋-N含量从原来的1.95—4.07mg/L均降至0.5mg/L以下，湖水水样中的NH4＋-N则由26.48mg/L降至4.21mg/L，而水样中NH4＋-N的自然消失率大多在30%以下.水网藻对NO3-N的吸收则无一定的规律，经水网藻处理后，对NH4\++N吸收较好的水库水样Ⅰ中NO3-N含量也较低.重营养化湖水经水网藻处理后，NH4＋-N含量下降较快，NO3-N含量却下降不多，特别是第4天，NNH4＋-N含量下降较快，而此时NO3-N含量略有回升，原因不明，有待进一步研究.Tam［2］在研究小球藻、栅藻对污水中N、P去除能力时，也观察到了NO3--N含量回升的现象.水网藻对水样中TN、TP(图2—图4)也有较强吸收能力，6天内的吸收率均达75%以上.水库水经水网藻处理6天后，TN、TP含量已分别由3.34—5.15mg/L、0.11—0.19mg/L降至1.0mg/L、0.04mg/L以下，重富营养化湖水中TN、TP含量也分别由33.58mg/L、1.93mg/L降至8.94mg/L和0664mg/L.
+
+
+图2　水网藻处理后水库水样Ⅰ、Ⅱ、Ⅲ及湖水水样中N的现存量
+Fig.2 Residua of nitrogen in reservoir water sample Ⅰ、Ⅱ、Ⅲ and pond water sample after treated by Hydrodictyon reticulatum
+
+
+图3　水网藻处理后水库水样中P的现存量
+Fig.3 Residua of phosphorus in reservoir water samples after treated by Hytrodiotycn reticulatum
+
+
+图4　水网藻处理后湖水水样中P的现存量
+Fig.4 Residua of phosphorus in pond water sample after treatment by Hytrodictyon reticulatum
+　　许多研究报道了藻类去除氮的过程和机理.Matusick发现藻类可优先利用NH4＋-N和其它还原态氮［3］，但不论以NH4＋-N还是以NO3--N为氮源，大部分藻类的最大生长速率相近，水网藻也同样如此［12］.本研究也发现水网藻在3组水库水样中的生长与水样中NH4＋-N含量无明显的相关关系，仅与水样的N∶P有关(图1)，水库水样Ⅱ中NH4＋-N含量虽达77.8%，但由于水样的N∶P已超出藻类适合生长的比值，因此水网藻的生长也不及含N量相对较少而N∶P较合适的其余2组水样.本研究结果同时表明水网藻对水样中NH4＋-N的去除率较大，而对NO3--N的去除则相对较小，在处理的第4天还略有回升(图2).在NH4＋-N含量较少的水库水样Ⅰ(见表1)，由于水网藻对水样中NH4＋-N的去除量较大，处理6天后NNH4＋-N含量已降至0.07mg(N)/L(图2)，因此水网藻对水样中NO3--N的利用率也较高，6天内NO3--N的现存量下降了80.9%，这说明水网藻能优先利用NH4＋-N
+　　Tam［2］将小球藻、栅藻分别培养在污水一级、二级出水中，发现小球藻对氮磷的去除效果较好，对N、P的去除率在培养的第一周即达70%以上.本试验结果也表明水网藻在2天内对N、P的去除量与6天内的去除量相差不大，在4天内可以去除大部分N、P.本试验中重营养化湖水的TN含量与Tam[2]试验所用污水一级处理出水的TN含量相近，TP含量略低，而水网藻对湖水中N、P的去除效果均大于小球藻和栅藻等对污水的去除效果.水网藻(1g/L(湿重))处理6天后，能将湖水中的TN含量由33.85mg/L降至8.94mg/L，TP含量由1.93mg/L降至0.64mg/L；而小球藻处理7天后，将污水中的总无机N含量由37.58mg/L降至12.0mg/L，对总无机P的去除率也只有50%左右.这说明水网藻对重富营养化水体的污水一级、二级处理出水仍有较强的净化作用.
+作者单位：(暨南大学水生态科学研究所　广州　510632)
+参考文献
+　1　金相灿，屠清瑛编.湖泊富营养化调查规范.北京：中国环境科学出版社.1990
+　2　Tam N F Y,Wong Y S,Liong E.Algal growth and nutrient removal in Hong Kong domestic wastewater.Environ Pollut,1989,58:19—34
+　3　Matusiak K,PrzytockaJusiak M,LeszczynskGerula K et al.Studies on the purification of wastewater from the nitrogen fertlizer industry by intensive algal cultures.Ⅱ.Removal of nitrogen from wastewater.Acta Microbiol Pul,1976,25:361—374
+　4　PrzytockaJusialk M Duszota M,Matusiak K et al.Intensive culture of Chlorella vulgaris/AA as the second stage of biological purification of nitrogen industry wastewaters.Wat Res,1984,18:1—7
+　5　Stary J,Zeman A,Kratzer K.The uptake of ammomium nitrite and nitrate ions by Hydrodictyon reticulatum.Acta.Hydrochim.Hydrobiol,1987,15(2):193—198
+　6　Stary J, Kratzer K, Zeman A. The uptake of phosphate ions by the algae Hydrodictyon reticulatum.Acta Hydrochim Hydrobiol,1987,15(3):275—280
+　7　Hawes L,Smith R.Influence of environmental factors on the growth in culture of a New Zealand strain of the fastspreading algae Hydrodictyon reticulatum(water net).J of Applied Phycology,1992,5:437—445
+　8 Creed I F,Havas M,Trick C G.Effects on absenate on growth of nitrogenand phosphoruslimited Chlorella vulgaris(Chlorophyceae) isolates.J Phycol,1990,26:641—650
+　9　Laurie D S,Hoffmann J P,Cook P W.Seasonal succesion of algal periphyton from a wastewater treatment facility.J Phycol,1990,26:611—617
+　10 王朝晖，骆育敏，林秋奇等.环境条件对水网藻生长的影响.应用生态学报，1999，10(3)：345—349
+　11 Rhee G Y,Gotham I J.Optimum N∶P ratios and coexistence of plankfonic algae.J Phycol,1980,16:486—489
+　12 Stary J,Kratzer K.Radiochemical determination of intracelluar ionic concentrations in algal Hydrodictyon reticulatum.Radional Nucl Chem Letters,1986,103:187—198
+1998-01-19收到原稿
+1998-05-13收到修改稿
+
+

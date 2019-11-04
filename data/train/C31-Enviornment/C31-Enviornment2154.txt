@@ -1,0 +1,30 @@
+环境科学研究
+RESEARCH OF ENUIRONMENTAL SCIENCES
+2001 Vol.14 No.2 P.54-56
+
+
+
+
+含聚合物污水回注时污染地层的主要物质分析
+刘晓冬　 徐景祯　 
+摘　要：笔者系统分析了大庆油田南三区东部聚合物驱产出水处理前后原油、聚合物、固体悬浮物、无机离子和细菌等成分的含量及其固体悬浮物颗粒直径大小与分布，并且对该区聚合物驱产出水主要特征进行了总结，在此基础上，根据油层损害机理并且结合该区油层的孔渗特征，研究和确定了污染物质。得出结论：聚合物驱产出水中硫酸盐还原菌是主要污染物质，此外，向萨葡油层的低、中渗层及高台子油层回注时，固体悬浮物和原油也是主要污染物质，而聚合物仅对低渗层造成损害；常规处理方法对污水中原油处理效果最好，而对PAM和固体悬浮物处理不太理想。
+关键词：聚合物；　聚合物驱产出水；　回注；　污染物质
+分类号：X703.1　文献标识码：A
+文章编号：1001-6929(2001)02-0054-03
+Analysis of Contaminants in Water Produced from Formation with Polymer Flooding and Its Possibility for Recycling
+LIU Xiao-dong（Petroleum Department , Daqing Petroleum Institute, Anda　151400, China）　
+XU Jing-zhen（Petroleum Department , Daqing Petroleum Institute, Anda　151400, China）　
+
+Abstract：The contents of oil, polymers, solid particles, inorganic ions and bacteria in water with or without pretreatment were analyzed respectively by means of various chemical and physical methods, which was produced from formation with PAM flooding in Nanshan Area, Daqing oilfield. The diameters and their distribution of solids were also measured by laser granularity equipment. According to the chemical and physical properties of these materials and their damage mechanism to oil formation, the damage contents were determined. The sulphate-deoxidized bacteria are main damage contents for the rejecting of water into formation. Solid particles and oil can damage formation with medium or low permeability, and PAM can damage formation with low permeability. The usual pretreatment of water can remove oil significantly, but have some effects for removing PAM and particles.
+Keywords：PAM;　water from PAM flooding;　recycle;　contaminant
+作者简介：刘晓冬(1964-)，女，辽宁北宁人，讲师，硕士. 
+作者单位：刘晓冬（大庆石油学院 勘探系，黑龙江 安达　151400）　
+　　　　　徐景祯（大庆石油学院 勘探系，黑龙江 安达　151400）　
+
+参考文献：
+［1］　王克亮，王风兰，李群，等.改善聚合物驱油技术研究[M].北京：石油工业出版社，1997.1～73.
+［2］　裘怿楠，刘雨芬.低渗透砂岩油藏开发模式[M].北京：石油工业出版社，1998.134～145.
+［3］　张绍槐，罗平亚.保护储集层技术[M].北京：石油工业出版社，1993.155～199.
+
+收稿日期：1999年6月5日
+出版日期：2001年3月30日

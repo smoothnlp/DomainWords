@@ -1,0 +1,32 @@
+上海航天
+AEROSPACE SHANGHAI
+2001 Vol.18 No.2 P.51-55
+
+
+
+
+FY-1C卫星地面综合测试软件技术
+李云端　 黄小虎　 
+摘　要：介绍FY-1C星地面综合测试软件的系统构成、系统的网络数据流，着重介绍为提高测试软件的安全可靠性、准确性，提高软件对卫星的监视能力，提高软件发现问题的能力，以及提高软件发现问题后的主动预报能力而采取的行之有效的方法。并给出了一些软件实际应用的成果图。
+关键词：测试软件;卫星地面测试；网络通讯；多媒体；软件平台
+分类号：V448.15　文献标识码：A
+文章编号：1006－1630(2001)02－0051－05
+Technology of Integrated Ground Testing Software for FY-1C Satellite
+LI Yun-duan（No.509 Institute of SAST，Shanghai 200240， China）　
+HUANG Xiao-hu（No.509 Institute of SAST，Shanghai 200240， China）　
+
+Abstract：To make satellite ground test more efficient, the satellite ground tes t software's ability of displaying data, looking for fault and the initiative of reporting fault shall be improved. The solutions to meet above requirements in FY-1C are introduced, and some pictures of applying the software are given.
+Keywords：Testing software; Ground testing of satellite; Network communication; Multimedia; Software platform
+作者简介：李云端(1976-)，男，工程师，研究领域：卫星地面综合测试。 
+作者单位：李云端（上海航天技术研究院509所，上海 200240）　
+　　　　　黄小虎（上海航天技术研究院509所，上海 200240）　
+
+参考文献：
+［1］周明天,汪文勇.TCP/IP网络原理与技术[M].北京：清华大学出版社,1 994.
+［2］郑人杰.实用软件工程[M].北京：清华大学出版社,1994.
+［3］Daoglas E C. Computer network and internet [M].Upper Saddle River,N J:Prentice Hall,1995.
+［4］Stefano M.The Microsoft windows 95 developer's guide[M].Upper Saddle Riv er, NJ:PrenticeHall,1995.
+
+收稿日期：2000年11月1日
+修稿日期：2001年1月5日
+出版日期：2001年4月25日

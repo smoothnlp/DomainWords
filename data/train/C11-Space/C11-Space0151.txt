@@ -1,0 +1,252 @@
+宇 航 学 报
+JOURNAL OF ASTRONAUTICS
+1998年4月  第19卷  第2期科技期刊
+
+
+带挠性附件的航天器系统
+动力学特性研究
+匡金炉
+(北京航空航天大学宇航学院*北京*100083)
+摘  要   本文研究了带挠性附件的航天器系统动力学特性。带挠性附件的
+航天器系统建模为刚性主体带挠性附件(挠性附件的末端带有刚性质量),根
+据拟坐标下的Lagrange定理建立了主刚体姿态运动与挠性附件振动相互耦合
+的动力学状态方程。针对一类带挠性附件的航天器系统编制了有关计算软件,
+利用该软件以SCOLE模型(SCOLE是Spacecraft Control Laboratory Experiment
+的缩写,其系统构形可参见文献［2］［3］)为例进行动力学分析,我们得到
+了与NASA有关报告几乎完全一样的结果。本项研究为一类带挠性附件的航天
+器控制系统设计提供了一种合适的动力学理论模型。
+
+主题词  挠性航天器动力学  耦合振动  SCOLE模型
+　
+DYNAMICS OF SPACECRAFT
+WITH FLEXIBLE APPENDAGES
+Kuang Jinlu
+(School of Spacecraft Technology,Beijing University 
+of Aeronautics and Astronautics*Beijing*100083)
+Abstract  The dynamics of spacecraft with flexible appendages is investigated.The set of 
+dynamical equations which are derived by means of a Lagrangian approach in terms of 
+quasicoordinates incorporate rigid-body attitude dynamics and three-dimensional 
+vibrations of the complete assembly comprising the rigid shuttle,the flexible beams,and the 
+reflectors with offset masses at the ends.The final set of dynamical equations obtained are 
+nonlinear and coupled in terms of the flexible modes and the rigid-body modes.The 
+equations are further linearized and evaluated numerically to include the first eighteen 
+flexible modes.The computer program written by us could calculate natural frequencies 
+and three-dimensional mode shapes and the rotation-couple coefficient matrix of the 
+state equations of the system.It is shown that the dynamical modes(of the SCOLE model) 
+derived from our computer program are the same as the NASA's reports.This research 
+yields a model for designing control systems to perform three-axis stabilized spacecraft with 
+appendages.
+
+Key words  Dynamics of spacecraft with flexible appendages   Coupled vibration  
+SCOLE model
+
+1  背景
+
+　　随着航天技术的发展,航天器主刚体常带有大型挠性太阳电池帆板与挠性
+天线装置或其它挠性附近。在这种航天器的飞行与控制过程中,作用在航天器
+上的扰动力和控制力不仅会激起航天器的位置与姿态的改变,而且会激起挠性
+附件的弹性振动,挠性附件的弹性振动进而又影响航天器的整体运动与控制［
+1-10］。因此,在航天器的动力学分析与控制设计中,必须计及附件结构挠性
+影响,在航天器的动力学模型中引入结构挠性因素。在分析带有挠性附件的航
+天器动力学时,通常是同时考虑航天器的姿态运动与附件的弹性振动,建立包
+含附件结构动力学分析在内的挠性航天器动力学分析的统一的计算机程序,本
+文基于这种思想。
+
+2  系统运动方程推导
+
+    
+
+图1 航天器的构形
+该航天器系统由刚性主体与给定数目的挠性附件组成［1］(挠性附件的末端带
+有刚性质量)。为了建立运动方程引入以下三套坐标系(如图1):1)惯性坐标系
+OXYZ;2)与主刚体固连的随体坐标系oxyz,o在航天器系统质心位置;3)与挠性
+附件e固连的坐标xeyeze坐标原点在附件e与主体的铰接点(e=1,2,N)。图中有
+关符号说明见附录A。
+
+　　假设ω为坐标系oxyz相对于惯性空间的角速度矢量,由其在坐标系oxyz
+中的分量描述;ωe为坐标系xeyeze相对于坐标系oxyz的角速度矢量,由其在
+坐标系xeyeze中的分量描述;又设Ee为从坐标系oxyz到坐标系xeyeze的方向余
+弦矩阵;Vo代表刚性主体质心o的速度,由在坐标系oxyz中的分量描述;考虑到
+挠性附件相对于主刚体的角速度ωe为已知,因此,系统的未知运动可由刚体运
+动Vo、ω及弹性运动ue(e=1,2,…,N)描述。拟坐标系下的Lagrange方程是
+由常微分方程与偏微分方程组成的混合微分方程组,它表明带挠性附件的航天
+器系统属于分布参数系统范围。根据混合微分方程进行控制系统设计尚缺乏
+足够的理论依据,因此,必须求助于空间离散化将偏微分方程转化为常微分方
+程。为达到此目的,设挠性附件e上一点的弹性位移矢量为:
+ue(re,t)=Φe(re)qe(t)
+这里,Φe为容许函数矩阵,qe为广义坐标矢量。为了导出系统方程的具体形式,
+必须先写出系统功能、势能和非保守力所做的虚功等之表达式(本文从略)。
+系统动能可写为:
+T=T1+T2+T3
+其中,T1代表主刚体动能与挠性附件(梁)动能之和,T2代表末端刚体之动能,
+T3为修正项,该修正项起因于梁之扭转［3］。
+
+　　假设末端刚体起因于弹性变形而相对于弹性附件(未变形状态)的转动
+角度矢量为βe,在小变形假设条件下有［3］:
+(dβe)/(dt)=Ψe(dqe)/(dt)
+这里,Ψe为与矩阵Φe(re)有关的矩阵。
+
+　假设作用于主刚体的实际力主矢为Fo,而实际力主矩为Mo,又设挠性附件所受
+的分布力矢量为fe,其中:矢量Fo、Mo由其在坐标系oxyz中的分量表示;分布力
+矢量fe由其在坐标系xeyeze中的分量表示。引入弹性小变形运动假设,忽略高于
+二次的有关项,将动能表达式、势能表达式、广义力表达式代入拟坐标系下的
+Lagrange方程,通过整理得:
+
+
+其余符号类推。在方程(1b)的推导过程中还用到如下等式:
+(ETere)#eETe=ETer#e
+
+
+这里,Fei为依赖于时间的
+力幅值,而δ(re-rei)为空间Dirac delta函数。
+
+    考虑到轨道运动周期远比姿态运动周期为长时,可以略去其质心的轨道运动。
+此外,假设挠性附件相对于主刚体的角速度为ωe=0,线性化处理后引入模态正
+交化坐标及模态阻尼,系统姿态动力学方程(1b)、(1c)可写为(设作用于附件
+上的外力为零):
+
+（2a)  (2b)
+这里,ξ为模态阻尼对角矩阵,Ω为模态频率对角矩阵,且:
+ξ=diag(ξ1,ξ2,…,ξN) Ω=diag(Ω1,Ω2,…,ΩN)
+θ为主刚体姿态角向量,p为系统挠性附件模态坐标向量(N维),C为旋转—振动耦
+合系数矩阵,M0为作用于主刚体的控制力矩向量。3   带偏置末端惯性质量的连续
+梁三维模态分析
+
+    
+
+图2 端部带偏置惯性质量的梁数学模型
+刚性主体附加挠性天线所组成的子系统(SCOLE模型)可建模为带偏置末端惯性
+质量的连续梁系统(如图2),连续梁的三维振动由xe、ye方向的弯曲振动与绕ze
+轴的扭转振动耦合而成［2］。设梁的横截面积为A,材料密度为ρ,xe-ze平面
+弯曲刚度为(EI)x,ye-ze平面弯曲刚度为(EI)y,梁截面扭转刚性模量为GΨ,截面
+惯性极矩为Ip,梁之长度为L,端部xe=0的末端刚体m0与端部xe=L的末端刚体mL
+的惯性张量分别为:
+
+末端质量m0在xe、ye方向的质心位置为Δx0、Δy0。而末端质量mL在xe、ye方向
+的质心位置为ΔxL、ΔyL。又设带偏置末端惯性质量的连续梁三维耦合振动的固
+有频率为ωb。
+
+    令xe方向的弯曲振型为:
+rx(ze)=A1sin(βxze)+B1cos(βxze)+C1sinh(βxze)+D1cosh(βxze)
+ye方向的弯曲振型为:
+ry(ze)=A2sin(βyze)+B2cos(βyze)+C2sinh(βyze)+D2cosh(βyze)
+绕ze轴的扭转振型为:
+θ(ze)=A3sin(βzze)+B3cos(βzze)
+这里,
+
+
+据剪力、弯矩与扭矩应该满足的端部边界条件,经过复杂的推导过程,可得关于
+系数A1、B1、C1、D1、A2、B2、C2、D2、A3、B3的线性代数方程组可在文献［2］
+中查到。关于系数A1、B1、C1、D1、A2、B2、C2、D2、A3、B3的线性代数方程组
+有非零解的条件为其系数行列式为零,该行列式方程是表3.1中所列十九个参数
+(变量)的复杂函数,根据超越函数方程的求根二分法可求得带末端偏置质量的连
+续梁子系统(SCOLE模型)的固有频率序列,进而容易得知该子系统(SCOLE)的振动
+模态。本文编制的有关“带末端偏置质量的连续梁子系统的固有频率与模态”分
+析的部分软件通过SCOLE模型动力学进行了验证。SCOLE模型(Ⅰ)［2］与SCOLE模
+型(Ⅱ)总体参数如表3.1,SCOLE(Ⅰ)模型的有关动力学结果的前5阶动力学与文献
+［2］所给的结果(文献［2］仅给出了前5阶)完全一致。限于篇幅,这里省略
+SCOLE(Ⅰ)与SCOLE(Ⅱ)的前九阶动力学结果(指其固有频率与模态)。
+表3.1 SCOLE模型(Ⅰ)与SCOLE模型(Ⅱ)参数
+参数SCOLE(Ⅰ)SCOLE(Ⅱ)国际单位
+L0.3962400E+020.3657600E+02m
+m00.9298801E+050.9298801E+05kg
+mL0.1814055E+030.3628111E+03kg
+Ixx00.1228627E+070.1228627E+07kg*m2
+Iyy00.9212363E+070.9212363E+07kg*m2
+Izz00.9616053E+070.9616053E+07kg*m2
+Ixy00.0000000E+000.0000000E+00kg*m2
+IxxL0.2442482E+050.5156351E+05kg*m2
+IyyL0.1266834E+050.1146338E+05kg*m2
+IzzL0.3718950E+050.7382673E+05kg*m2
+IxyL-0.1027199E+05-0.1172391E+05kg*m2
+Δx00.0000000E+000.0000000E+00m
+Δy00.0000000E+000.0000000E+00m
+ΔxL0.5715000E+010.4776216E+01m
+ΔyL-0.9906000E+01-0.1090574E+02m
+ρA0.4578247E+010.4578247E+01kg/m
+EI0.1651920E+080.1651920E+08N-m2
+ρIp0.4046318E+010.4046318E+01kg-m
+GIp0.1651920E+080.1651920E+08N-m2
+
+
+4  编程求解
+
+　　本文按上述计算公式编制了Fortran程序2000多条,只要求输入航天器
+系统的几何尺寸及位置参数和物理参数(如图3),即可以求出系统惯性参数
+矩阵It、Me、Ke及耦合系数矩阵I6e。有关积分公式可用MATHEMATICA数学
+软件库推导出解析公式并自动转换成Fortran程序。
+
+(对称布置的)挠性(梁式)天线-1位置参数:ro1x=0.1097280E-01m。
+ro1y=-0.1097280E-01m。 ro1z=0.1155192E+00m。
+(对称布置的)挠性(梁式)天线-4位置参数:ro4x=0.1493520E-01m。
+ro4y=-0.1493520E-01m。 ro4z=0.16550640E+00m。
+
+
+图3 复杂结构航天器的简化模型
+　　单个挠性天线1或3的有关参数如SCOLE(Ⅰ),单个挠性天线2或4的有关
+参数如SCOLE(Ⅱ)。带挠性附件的航天器系统(如图3)动力学模型的有关结
+果请参考附录B。
+
+5 结论
+
+　　1.根据坐标下的Lagrange方程可以方便地推导主刚体姿态运动与挠性
+附件振动相互耦合的动力学状态方程,本文给出了有关系数矩阵的计算公式。
+
+　2.编制了计算软件,据给定的总体尺寸与物理参数能计算出动力学状态方
+程中所出现的所有参数值(包括系统惯性参数矩阵)。
+
+　3.本文编制的软件通过SCOLE模型的前5阶动力学进行验证,准确无误。从
+带四个挠性附件的航天器动力学分析可知,挠性附件低频模态密集,对控制稳
+定性的威胁较大。
+
+　4.据系统旋转—振动耦合系数矩阵得知,挠性附件(三维)振动的各阶模态
+对航天器的偏航、俯仰与滚转姿态皆同时具有不同程度的影响。
+本文于1995年2月24日收到
+
+参考文献
+1  Meirovitch L,Kwak K.Dynamics and Control of Spacecraft with Retargeting Flexible 
+Antennas.J.Guidance,1990,13(2):241-248
+2  Robertson DK.Three-dimensional Vibration Analysis of a Uniform Beam with Offset 
+Inertial Masses at the Ends.NASA TM 86393
+3  Kakad YP.Dynamics of Spacecraft Control Laboratory Experiment (SCOLE) Slew 
+Maneuvers.N88-10082
+4肖业伦.航天器飞行动力学原理.宇航出版社,1995
+5章仁为.静止卫星的轨道和姿态控制.科学出版社,1987
+6缪炳祺.挠性卫星姿态动力学模型的建立.宇航学报,1986,7(4)
+7王照林.运动稳定性及其应用.高等教育出版社,1992
+8张乃恭.卫星挠性附件的动力学问题——太阳电池阵动力学的有限分析.光学
+机械,1981,(6)
+9邵成勋,黄文虎等.带挠性附件的卫星的姿态动力学方程.宇航学报,1989,
+10(2):79-85
+10刘墩,杨大明.带挠性附件卫星的模型化及截断.宇航学报,1989,10(4)
+:87-95
+
+
+附录A
+　
+图1中有关符号说明
+
+    R0代表从坐标系OXYZ的原点O至坐标系oxyz的原点o的矢量,由其在坐标
+系OXYZ中的分量描述;roe代表挠性附件与主刚体连接点在坐标系oxyz中的
+位移矢量,由其在坐标系oxyz中的分量描述;re代表挠性附件上的典型点在
+坐标系xeyeze中的位置矢量,由其在坐标系xeyeze中的分量描述;ue代表挠性
+附件上的典型点在坐标系xeyeze中的弹性位移矢量,由其在坐标系xeyeze中的
+分量描述;(mref)e代表弹性附件e的末端刚体质量;mr代表主刚体的质量;me代
+表挠性附件-e的质量;(Iref)e代表弹性附件e的末端刚体对过其质心的主惯性
+坐标系的惯性张量矩阵。
+　　动力学状态方程(2a)-(2c)中所出现的有关中间变量函数
+
+
+
+
+
+
+附录B 带挠性附件的航天器系统动力学模型(2a,2b)中的有关参数
+Ω1=.1807123E+00;Ω2=.2213053E+00;Ω3=.2596716E+00
+Ω4=.2988057E+00;Ω5=.4070885E+00;Ω6=.5103190E+00
+Ω7=.7164350E+00;Ω8=.9422634E+00;Ω9=.9685386E+00
+Ω10=.1119778E+01;Ω11=.2079677E+01;Ω12=.2366811E+01
+Ω13=.2617651E+01;Ω14=.2902120E+01;Ω15=.3379574E+01
+Ω16=.3470118E+01;Ω17=.4192612E+01;Ω18=.4210485E+01
+
+系统惯量矩阵为:

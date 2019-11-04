@@ -1,0 +1,32 @@
+上海航天
+AEROSPACE SHANGHAI
+2001 Vol.18 No.3 P.26-31,35
+
+
+
+
+无毒单组元发动机技术研究
+李小芳　 
+摘　要：介绍了国内外几种无毒单组元发动机技术的研究背景及研究现状。列出了过氧化氢推进剂、羟基推进剂及硝酸肼基推进剂的一般物理、化学特性和主要性能。除比较了上述三种推进剂无毒单元发动机的工作原理及性能特点外，还在推进剂配方的确定、催化剂的选择及发动机结构设计准则等方面进行了初步的探讨，并对三种推进剂发动机的空间应用前景进行了评价。
+关键词：推进剂毒性；推力器；单组元发动机
+分类号：V434+.3　文献标识码：A
+文章编号：1006-1630(2001)03-0026-06
+Non-Toxic Monopropellant Engine Technology Development 
+LI Xiao-fang（No.801 Institute of SAST，Shanghai 200233，China）　
+
+Abstract：This paper introduces the background and the status of the development of non-toxic mono-propellant engines at home and abroad. The physical and chemic characteristic, and the main performance of hydrogen peroxide propellant, HAN based propellant and hydrazine nitrate propellant are listed. These three non-toxic engines are contrasted in the principium of work and the character feature. The rule of design in structure, the component of propellant and catalyst are discussed. And their perspectives in application are also estimated.
+Keywords：Propellant toxicity； Thruster； Mono-propellant engine
+
+作者简介：李小芳（1968-），女，高级工程师，研究领域：液体火箭发动机。 
+作者单位：李小芳（上海航天技术研究院801所，上海 200233）　
+
+参考文献：
+［1］阿列玛索夫B E 等著,张中软,庄逢辰等译.火箭发动机原理[M].北京：宇航出版社,1993.
+［2］Robert S. HAN-Based monopropellant assessment for spacecraft[R]. AIAA,96-2863.
+［3］Mittendorf D, Facinelli W, Sparolus R. Experimental development of a monopropellant for propulsion systems[R]. AIAA 97-2951.
+［4］Olwen M M. Monopropellant selection criteria-hydrazine and other options[R]. AIAA,99-2595.
+［5］Meinhardt D, Christofferson S, Wucherer E. Performance and life testing of small HAN thrusters [R]. AIAA, 99-2881.
+［6］Physical and explosion characteristics of hydrazine[R]. N70-20440.NASA CR-108935.
+
+收稿日期：2000年8月12日
+出版日期：2001年3月1日

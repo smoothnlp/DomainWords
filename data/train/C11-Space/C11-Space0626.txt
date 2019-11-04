@@ -1,0 +1,35 @@
+上海航天
+AEROSPACE SHANGHAI
+2001 Vol.18 No.1 P.50-54
+
+
+
+
+基于图像自匹配性的景象匹配区的选定准则
+马龙　 缪栋　 沈绪榜　 
+摘　要：定义了图像的自匹配性，并用自匹配系数作为光学景象匹配区的选定准则，和以前提出的相关长度、独立像元数准则进行了分析对比，说明了这两个准则的实质。通过分析和实验得出了相对于相关匹配算法而言，自匹配系数准则效果更佳的结论，对于光学景象匹配区的选择具有一定的实用价值。
+关键词：光学景象匹配；相关算法；选定准则
+分类号：TJ765.3　文献标识码：A
+文章编号：1006－1630（2001）01－0050－05
+A Selection Criterion of Scene Matching Field Based on Image Self-Matching
+MA Long（Xi'an Second Artillery Engineering College，Xi'an Shaanxi 710025,China）　
+MIAO Dong（Xi'an Second Artillery Engineering College，Xi'an Shaanxi 710025,China）　
+SHEN Xu-bang（Lishan Microelectronic Crop. Xi'an Shaanxi 710054，China）　
+
+Abstract：The Image self-matching is defined, the self-matching coefficient has been used as a selection criterion of scene matching field. This selection criterion has been analyzed and contrasted with the previous criterion named correlation length and the number of independent image element. The essentials of the two criterions have been showed. Through analysis and experiment, a conclusion has been obtained that the selection criterion of self-matching is more effective to correlation-matching algorithm. It is valuable for the selection of scene matching field.
+Keywords：Scene matching； Correlation algorithm； Selection criterion
+
+作者简介：马龙（1976－），男，硕士生，研究领域：航天器测试与控制技术；缪栋（1940－），男，教授，博士生导师，研究领域：控制理论与应用、人工神经网络、数字处理技术；沈绪榜（1933－），男，院士，研究员，博士生导师，研究领域：32位嵌入式RISC微计算机设计与智能计算机等。 
+作者单位：马龙（西安第二炮兵工程学院,陕西西安 710025）　
+　　　　　缪栋（西安第二炮兵工程学院,陕西西安 710025）　
+　　　　　沈绪榜（骊山微电子公司,陕西西安 710054）　
+
+参考文献：
+［1］TANG Min-shen.The application of correlation matching technique in image Guidance [C].Proceeding of CSAA 1st Electronic Conference of the Youth.Los Angeles.1994.CSAA.1994
+［2］孙仲康,沈振康.数字图像处理及其应用[M].北京：国防工业出版社,1985.
+［3］荆仁杰,叶秀清,徐胜荣等.计算机图像处理[M].杭州：浙江大学出版社,1990.
+［4］桑农,李捷,张天序.景区域误差模拟生成技术研究[J].华中理工大学学报.1998,26：24－28.
+［5］彭嘉雄.模板与图像相关的定位精度分析[J].宇航学报.1990,（2）：8－15.
+
+收稿日期：1999年12月24日
+出版日期：2001年2月25日

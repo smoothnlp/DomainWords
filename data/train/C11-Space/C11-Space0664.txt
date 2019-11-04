@@ -1,0 +1,32 @@
+上海航天
+AEROSPACE SHANGHAI
+2001 Vol.18 No.1 P.2-6
+
+
+
+
+小卫星故障诊断与处理技术
+廖明宏　 吴翔虎　 程光明　 
+摘　要：介绍一种简单有效的故障诊断及处理技术。它将小卫星的故障分为分系统级、系统级和系统外部级三种，并由星务管理软件处理系统级故障。在每个循环周期都对遥测参数进行采集和监测，当故障发生时，根据故障的优先级，选择并恢复具有最高优先级的故障。该技术在某小卫星中应用，能有效满足系统控制周期的限制和系统可靠性要求。
+关键词：小卫星；可靠性；故障检测；故障隔离；故障恢复
+分类号：V474.2　文献标识码：A
+文章编号：1006－1630（2001）01－0002－05
+Fault Detection Isolation and Recovery for the Small Satellite
+LIAO Ming-hong（Computer Science Department of Harbin Institute of Technology, Harbin Heilongjiang 150001, China）　
+WU Xiang-hu（Computer Science Department of Harbin Institute of Technology, Harbin Heilongjiang 150001, China）　
+CHENG Guang-ming（Computer Science Department of Harbin Institute of Technology, Harbin Heilongjiang 150001, China）　
+Abstract：A simple but effective fault diagnosis and processing technique is introduced. The failures of small satellite are divided into three levels: sub-system level, system level and outside system level, and the failures in system level are processed by housekeeping software. The telemetric parameters are sampled and monitored in each control cycle. When failure occurred, only the highest priority failure is selected and recovered. This technique is applied in small satellite, and satisfies the limitation of control cycle and reliability requirement of system.
+Keywords：Small satellite; Reliability; Fault detection; Fault isolation; Fault recovery
+基金项目：得到国家高技术航天领域863-2基金资助（863-2-5-1-8）
+作者简介：廖明宏（1966-），男，博士/副教授，研究领域：操作系统、人工智能、并行分布式处理；吴翔虎（1968-），男，硕士/讲师，研究领域：操作系统；程光明（1971-），男，博士生，研究领域：嵌入式系统。 
+作者单位：廖明宏（哈尔滨工业大学计算机系，黑龙江哈尔滨 150001）　
+　　　　　吴翔虎（哈尔滨工业大学计算机系，黑龙江哈尔滨 150001）　
+　　　　　程光明（哈尔滨工业大学计算机系，黑龙江哈尔滨 150001）　
+参考文献：
+［1］Paules G, Luther M.NASA's earth science program-Increasing science opportunity and payoff though small satellites[C]. 2nd Int. Symposium of the International Academy of Astronautics, Berlin, April 1999.
+［2］税世鹏.新世纪初军用卫星技术及市场发展评析[J].国际太空,2000,（5）.
+［3］何慧婉.小卫星的发展应用与前景[C].中国空间科学学会空间探测专业委员会第九次学术会议论文集,重庆,1986.11.
+［4］蔡开元.安全关键软件的可靠性评估[C].98'航天高技术青年学术讨论会,黄山,1998. 8.
+收稿日期：2000年6月29日
+修稿日期：2000年9月18日
+出版日期：2001年2月25日

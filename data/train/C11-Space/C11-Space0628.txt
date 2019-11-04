@@ -1,0 +1,32 @@
+上海航天
+AEROSPACE SHANGHAI
+2001 Vol.18 No.1 P.61-64
+
+
+
+
+二级燃料箱后底顶盖成形工艺研究
+侯正全　 朱芝松　 
+摘　要：介绍了某型号运载火箭二级燃料箱后底顶盖成形方法改进及工艺试验过程。在分析了原顶盖不足之处后，提出了采用过弯法抵消弯曲回弹，采用翻边法提高焊接质量的成形方法，给出了经大量工艺试验后确定的工艺参数，并分析、介绍了模具设计过程。该方法已成功应用于某型号运载火箭二级燃料箱后底。
+关键词：燃料箱；结构改进；成形工艺；翻边成形
+分类号：V421.3+3　文献标识码：A
+文章编号：1006－1630（2001）01－0061－04
+Shaping Technology Research about the Bottom Cap of Second Stage Fuel Tank
+HOU Zheng-quan（No.800 Institute of SAST, Shanghai 201600, China）　
+ZHU Zhi-song（No.800 Institute of SAST, Shanghai 201600, China）　
+
+Abstract：The paper introduces the shaping method improvement and technological trial course of bottom cap of certain model of carrier rocket's fuel tank. After the primary cap's deficiencies are analysed, the make-up method to offset winding spring is put forward. And the flanging method is used to improve the welding quality. According to its characteristics, the author analyses and introduces the course of die design. With a large number of technology trials, reasonable technology parameters are determined. The bottom cap is applied successfully to second stage fuel tank of certain model of carrier rocket.
+Keywords：Fuel tank; Design improvement; Shaping technology; Flanging forming
+作者简介：侯正全(1975-),男,助工,钣金工艺师,研究领域：钣金工艺研究。 
+作者单位：侯正全（上海航天技术研究院800所，上海 201600）　
+　　　　　朱芝松（上海航天技术研究院800所，上海 201600）　
+
+参考文献：
+［1］陈炎嗣,郭景仪.冲压模具设计与制造技术[M].北京：北京出版社,1991.
+［2］解汝昇.冲压模具设计与制造技术[M].北京：中国标准出版社,1997.
+［3］中国机械工程学会焊接协会、焊接结构设计制造（XV）委员会.焊接结构设计手册[M].北京：机械工业出版社,1990.
+［4］吴诗谆.冲压工艺学[M].西安：西北工业大学出版社,1991.
+
+收稿日期：2000年4月21日
+修稿日期：2000年9月12日
+出版日期：2001年2月25日

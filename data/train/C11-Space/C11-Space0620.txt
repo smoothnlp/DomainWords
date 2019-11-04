@@ -1,0 +1,36 @@
+上海航天
+AEROSPACE SHANGHAI
+2001 Vol.18 No.1 P.22-26
+
+
+
+
+基于卫星质保体系的神经网络模型
+舒适　 陆力斌　 朱鸿昌　 
+摘　要：针对质保体系基础上的卫星产品保证管理，应用多层前馈神经网络原理和方法，建立了基于无卫星产品保证要求的质保体系与基于卫星产品保证要求的质保体系神经网络模型，以用神经网络模型来模拟和控制卫星产品的质量水平；并用模型比较了两种质保体系的联系与区别。
+关键词：产品保证；质保体系；神经网络；模型
+分类号：472.2　文献标识码：A
+文章编号：1006－1630（2001）01－0022－05
+The Neural Networks Model of Satellite Quality Assurance System
+SHU Shi（Management College, Harbin Institute of Technology，Heilongjiang Harbin 150001， China）　
+LU Li-bin（Management College, Harbin Institute of Technology，Heilongjiang Harbin 150001， China）　
+ZHU Hong-chang（No. 509 Institute of SAST, Shanghai 200240, China）　
+
+Abstract：The Neural Networks models of quality assurance system without satellite product assurance and quality assurance system with satellite product assurance are set up by use of theory and method of Neural Networks to simulate and control the satellite quality degree. And we also compare the difference and the relationships of these two systems by means of Neural Networks models.
+Keywords：Product assurance；Quality assurance system；Neural networks; Model
+
+作者简介：舒适（1973-），男，硕士生，研究领域：航天产品管理。 
+作者单位：舒适（哈尔滨工业大学管理学院, 黑龙江哈尔滨 150001）　
+　　　　　陆力斌（哈尔滨工业大学管理学院, 黑龙江哈尔滨 150001）　
+　　　　　朱鸿昌（上海航天技术研究院509所，上海 200240）　
+
+参考文献：
+［1］孙增圻,张再兴,邓志东. 智能控制理论与技术[M]. 北京：清华大学出版社/南宁：广西科学技术出版社,1997.
+［2］李士勇.模糊控制、神经控制和智能控制论[M].哈尔滨工业大学出版社,1996.
+［3］欧洲空间标准化合作组织（ECSS）标准.空间产品保证（Space Product Assurance）ECSS-P系列标准 1996.4.19[S]. 中国航天工业总公司第七O八研究所, 1997
+［4］舒适,陆力斌,朱鸿昌. 航天产品保证与项目管理在实施QJ9000标准中的应用[J]. 科研管理,1999,（4）.
+［5］舒适,陆力斌,朱鸿昌.卫星产品保证体系的质量控制目标函数[M]. 管理工程学报, 2000,14（2）.14～17.
+
+收稿日期：2000年4月23日
+修稿日期：2000年9月29日
+出版日期：2001年2月25日

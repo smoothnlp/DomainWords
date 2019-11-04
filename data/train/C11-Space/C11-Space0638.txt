@@ -1,0 +1,28 @@
+上海航天
+AEROSPACE SHANGHAI
+2001 Vol.18 No.2 P.33-43
+
+
+
+
+FY-1C卫星姿态控制系统
+侯建文　 
+摘　要：针对FY-1C卫星姿态控制系统，给出了系统方案、系统设计、系统特点和飞行试验的结果；对一些新的技术设计和新颖特殊的方案特点，从理论分析和技术实现给出了设计思路和工程实现的方法；分析了FY-1C卫星姿态控制系统在轨运行的结果；对长寿命、低成本和稳定连续运行的工程实现进行了研究；给出了FY-1C卫星姿态控制系统的水平能力和应用发展方向。
+关键词：气象卫星；姿态控制系统；磁控制；三轴稳定；章动进动控制
+分类号：V448.22+2　文献标识码：A
+文章编号：1006－1630(2001)02－0033－11
+Attitude Control System of FY-1C Satellite
+HOU Jian-wen（No.812 Institute of SAST, Shanghai 200233, China）　
+
+Abstract：Based on the attitude control system of FY-1C satellite, the author of fers the project, design, characters of the system and the flight results. Accor ding to theoretical analysis and technique realization, this article also descri bes the design and technical realization method for the new technology and the p eculiar project characteristics. In addition, the author analyzes the on-orbit r esults of the FY-1C satellite; makes research on the long life, low cost and co n tinuous stable motion and presents the level and application development of FY- 1C satellite's attitude control system.
+Keywords：Mateorological satellite；Attitude control system；Magnetic control；T hree axis stabilization；Notation and precession control
+作者简介：侯建文(1960-)，男，研究员，上海市宇航学会会员，研究领域：卫星姿态控制系统。 
+作者单位：侯建文（上海航天技术研究院812所，上海 200233）　
+
+参考文献：
+［1］章仁为.卫星轨道姿态动力学与控制[M].北京：北京航空航天大学,1998.
+［2］侯建文.一种带帆板挠性的控制系统分析和设计[J].中国空间科学技术,19 92,（2）.
+
+收稿日期：2000年11月20日
+修稿日期：2001年1月11日
+出版日期：2001年4月25日

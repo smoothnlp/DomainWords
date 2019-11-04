@@ -1,0 +1,38 @@
+环境科学研究
+RESEARCH OF ENVIRONMENTAL SCIENCES
+2001 Vol.14 No.1 P.49-52
+
+
+
+
+BP网络应用于长江水质研究
+高学民　 陈静生　 王立新　 
+摘　要：运用我国地面水环境质量标准(GB3838-88)作为学习样本，选取了包括氧平衡参数、营养元素、重金属离子、油类等14个指标，运用人工神经网络BP模型对长江干流和主要支流(含湖泊)的水环境质量进行分类研究。将计算结果与GIS数字化图形相结合，表明长江干流和大部分支流水质状况基本良好，上游支流沱江、下游支流大运河及太湖已受到较为严重的污染；长江干流城镇区段已经受到一定程度的污染。
+关键词：长江流域；　人工神经网络；　水质
+分类号：X824　文献标识码：A
+文章编号：1001-6929(2001)01-0049-04
+Applying BP Neutral Network to Study Water Quality of the Yangtze River
+GAO Xue-min（Department of Urban and Environmental Sciences,Peking University,Beijing　100871,China）　
+CHEN Jing-sheng（Department of Urban and Environmental Sciences,Peking University,Beijing　100871,China）　
+WANG Li-xin（Department of Urban and Environmental Sciences,Peking University,Beijing　100871,China）　
+Abstract：Environmental quality standards for surface water of China(GB3838-88)acted as training samples,14 indexes including oxygen-balance parameters,nutrient elements,heavy metal ions and oils were selected,and water quality classification for the mainstream and major tributaries of the Yangtze River was studied with neural network-BP model.The results were combined with GIS digital graphs and indicated that the water quality situation of the mainstream and most tributaries is good,the Tuo River,Great Canal and Taihu Lake are polluted heavily,and the water quality of urban areas of the Yangtze River mainstream are contaminated.
+Keywords：the Yangtze River watershed;　BP neutral network;　water quality
+基金项目：国家自然科学基金资助项目(49671017)
+作者简介：高学民(1972-)，男，山东青岛市人，博士，现在国家海洋局科学技术司任职. 
+作者单位：高学民（北京大学　城市与环境学系，北京　100871）　
+　　　　　陈静生（北京大学　城市与环境学系，北京　100871）　
+　　　　　王立新（北京大学　城市与环境学系，北京　100871）　
+参考文献：
+［1］胡守仁.神经网络应用技术［M］.长沙：国防科技大学出版社，1993.
+［2］刘国东，黄川友，丁晶.水质综合评价的人工神经网络模型［J］.中国环境科学，1998，18(6)：514～517.
+［3］李祚泳.BP网络用于环境质量分类研究［J］.环境科学，1994，15(5)：75～77.
+［4］蔡煜东，汪列，姚林声.水质富营养化程度的人工神经网络决策模型［J］.中国环境科学，1995，15(2)：123～127.
+［5］薛建军，姚桂基.人工神经网络在水质评价中的应用［J］.水文，1997，3：37～39.
+［6］Walley W J,Fonama V N.Neural network predictors of average score per taxon and number of families at Unpolluted River Sites in Great Britain［J］.Water Research,1998,32(3):613～622.
+［7］包约翰.自适应模式识别与神经网络［M］.北京：科学出版社，1992.24～58.
+［8］长江流域水资源保护局.1990年度长江流域水质资料［R］.北京：北京大学城环系，1991.
+［9］陈静生，高学民，夏星辉，等.长江水系河水氮污染［J］.环境化学，1999，18(4)：289～293.
+［10］范成新.太湖富营养化现状、趋势及其综合整治对策［J］.上海环境科学，1997，16(8)：1～7.
+［11］陈国阶.长江水质评价与沿江产业发展决策［J］.中国环境科学，1996，16(5)：339～344.
+收稿日期：2000年1月3日
+出版日期：2001年1月30日

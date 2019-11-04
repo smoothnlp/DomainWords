@@ -1,0 +1,165 @@
+环境科学学报
+ACTA SCIENTIAE CIRCUMASTANTIAE
+1999年 第19卷 第3期 Vol.19  No.3 1999
+
+
+
+发光细菌暗变种T9171对化合物的致突变效应灵敏度研究
+　　 谢思琴　顾宗濂　周德智　
+摘要　报道了明亮发光杆菌T3小种(Photobacterium phosphoreum T3 sp.)的暗变种T9171菌株对 36种不同的有机化合物的致突变效应，与Ames试验比较，结果显示，T9171对其中30种化合物具有阳性效应，阳性检出率为83%，高于Ames试验的阳性检出率(64%)，两法检测的吻合率达69%.以两法检测结果一致阳性的受试物最低剂量建立相关方程，其方程式为：CT9171=13.2959+0.0364CAmes，相关系数r=0.623(n=20)，经检验两法的相关性达到0.01的显著水平.试验进一步确证利用发光细菌暗变种T9171检测化合物的致突变性，其灵敏度高于Ames试验.
+关键词　发光细菌暗变种；Ames试验；致突变.
+Sensitivity of photobacterial dark mutant for detecting chemical′s mutagenicity
+XIE Siqin,GU Zonglian,ZHOU Dezhi 
+The Institute of Soil Science,Chinese Academy of Science,Nanjing 210008
+Abstract　Mutagenicity of Photobacterium phospphoreum T3 sp.dark mutant T9171 on 36 ch emicals were studied and compared with that of Ames test.Among them,30 chemical compounds showed positive effects to T9171.The detected positive rate was 83% and was higher than the results of Ames test (64).The tally rate between two methods is 69%.The correlation equation set up by using the lowest dosage for them is as follows:CT9171=13.2959+0.0364CAmes,r=0.623(n=20).There was a significant correlation between both (p＜0.01).
+Keywords　Photobacteria dark mutant,Ames test,mutagenicity. 
+　　在近四分之一的世纪里，Ames试验获得了作为检测遗传毒物的基准方法的地位，它已成为一种公认的筛选具有潜在遗传毒性化合物的方法，解决了建立致癌剂预测试验的关键问题.然而，Ames试验毕竟操作复杂、测定时间长、条件要求高.于是，人们纷纷寻找一种灵敏、快速、简易、费用低的检测方法.Ulitzur S.等［1］、Richard A.Wecher等［2］均确认可以用发光细菌暗变种检测致突变化合物.近几年来，美国Microbics公司发展了一种短期的检测遗传毒性的生物测定方法(发光细菌法)，其商品名称为“Mutatox”［3］.Johnson B.T.［4］和Legault等［5］用Mutatox法与Ames试验对不同的化合物致突变性检测进行了比较，他们的试验结果表明Mutatox法与Ames试验之间有良好的一致性.本实验室在以往的研究［6,7］中证实，从明亮发光杆菌T3小种中分离筛选到自发暗变种T9171菌株，对已知的移码剂2-氨基芴、DNA插入剂溴化乙锭等、DNA损害剂丝裂霉素-C均具有致突变效应，并初步验证利用该菌株检测致突变物的灵敏度总体上高于Ames试验.本文从发光细菌暗变种T9171对化合物的致突变性灵敏度以及检测化合物的致突变效应与Ames试验的相关性作进一步深入研究，为今后进一步推广应用提供科学依据.
+1　材料和方法
+1.1　供试用菌株
+　　明亮发光杆菌T3小种(Photobacterium phosphoreum T3 sp.)的暗变种T9171菌株，由中国科学院南京土壤研究所分离筛选和保存，试用前将其制成冻干菌剂，0.5g安瓿瓶真空包装，4℃冰箱保存.鼠伤寒沙门氏菌(salmonella typhimurium)组氨酸营养缺陷型菌株TA100和TA98，由上海肿瘤研究所提供.代谢活化系统S9混合液由上海肿瘤研究所提供，在使用前于-80℃冰箱中保存.
+1.2　仪器
+　　DXY-2型生物毒性测试仪由中国科学院南京土壤研究所制造.
+1.3　试剂
+　　受试的36种有机化学物分别购自美国Sigma公司、Aldrich公司和日本东京化成工业株式会社以及上海试剂厂、南京制药厂、北京化工厂生产和进口分装的产品(见表1).所有不溶于水的化合物均用二甲亚砜(DMSO)溶解，并稀释至一定的浓度，于冰箱中存放.在试验之前，首先对DMSO进行致突变性检验(Ames试验法)，确证无致突变性方可用作化合物的载体溶剂.
+表1　供试化学物
+Table 1 Tested chemmicals
+
+中文名代号　　中文名代号　　
+叠氮钠*NaN3硝基呋喃妥茵SNFT
+溴化乙锭S*EBr4-硝基喹啉S4-NQ
+硫酸二乙酯DES钙黄绿素BCC
+α-萘胺α-NA4-氨基安替比林4-AAP
+2-蒽胺S2-AA2，4-二硝基苯肼N2,4-DNP
+乙氨基甲酸酯SUr苯醌合苯二酚FQH
+大黄素SEm邻甲联苯胺o-TL
+邻乙基米磺酰乙酰羟酸盐So-EMS对甲氧基偶氮苯p-MAB
+20-甲基胆蒽A20-MCT2，3，5-氯化三苯基四氮唑FTTC
+苯并(a)芘SB(a)P对硝基苯胺p-NBA
+9，10-二甲基-1，2-苯并蒽SDMBT4-氨基偶氮苯E4-AAB
+2-氨基联苯S2-AB氨磺酸铵*ASA
+双(2-氯乙基)氨基盐酸盐ABCA对甲苯磺酸*T-p-S
+甲基硫酸乙酯SMSE二苯胺DPA
+2-硝基芴A2-NF偶氮苯AzB
+1-蒽胺A1-AA4-二甲氨基-2-甲基偶氮苯JDMAB
+6-氯嘌呤S6-CP苯乙烯FST
+对-二 甲氨基苯重氮硫酸钠盐Jp-DABS缩水甘油S*GL
+5-硝基-2-糠酸S5-N-2-FA
+
+　　注：表中上标“S”为美国Sigma公司商品；“A”为美国Aldrich公司商品；“J”为日本东 京化成工业株式会社的商品；“E”为英国产品；“F”为进口分装；“B”为北京化工厂生产；“N”为南京制药厂生产；其它均为上海试剂厂生产.“*”以水为溶剂.
+1.4　致突变性检测方法
+1.4.1　发光细菌法　参考文献［4］报道，在150 mL的三角瓶中，分装50 mL的测定用培养基［6］，灭菌后待用.
+　　操作过程如下：(1) 用1 mL测定用培养基将1瓿瓶0.5 g发光细菌暗变种冻干粉复苏，混匀，然后将此菌悬液全部移人装有50 mL测定用培养基的三角瓶中，于20℃恒温摇床上振荡培养1.5 h.(2) 菌液分装［4］.(3) 加入受试物并稀释［4］.(4) 整个操作过程完成以后，将测试管置于20℃的恒温摇床上振荡培养.摇床的转速为130 r/min.(5) 培养24 h后开始测定其发光强度，以后每隔3-4 h测定一次 .
+　　发光细菌暗变种致突变效应的表达：根据生物毒性测试仪(DXY-2型)测量获得的每个试管的发光强度确定致突变效应.以样品发光强度为对照发光强度的3倍者为阳性效应.当样品的5个平行系列中显示3个阳性效应，即认为该样品具有致突变性.当样品的平行系列阳性效应数不足3个者，被认为阳性可疑.当平行系列没有一个阳性效应，则认为该样品为阴性.
+1.4.2　Ames试验法　采用平板渗入法，按1975年的Ames试验及1983年改进的方法进行.
+2　结果与讨论
+2.1　发光细菌暗变种T9171检测化合物致突变性灵敏度
+　　应用发光细菌暗变种T9171菌株的冻干粉剂对36种有机化合物进行了致突变性检测，结果有3 0种化合物显示具有致突变效应，每个稀释浓度的5个重复系列中，阳性效应数均在3以上(见表2).在阳性检出物中，不同的化合物其剂量效应有很大的差异.p-DABS、NFT、
+表2　发光细菌暗变种T9171检测化合物的致突变性
+Table 2 Mutagenicity of tested chemicals with photobacteria dark mutant T9 171 test
+
+受试物发光高峰浓度,
+μg/mL最低检出剂量,
+μg/mL剂量效应数*
+NaN30.0480.0484
+EBr5.000<2.5003
+ES312.000<156.2503
+α-NA78.125<39.0634
+2-AA500.000<62.5005
+Ur31.250<3.9063
+o-EMS12.500<0.3913
+20-MCT20.000<5.0004
+B(a)P10.000<2.5004
+DMBT30.000<1.8753
+2-AB75.000<37.5003
+BCA1000.000<125.0004
+MSE781.300<390.6003
+2-NF0.625<0.1565
+1-AA15.625<7.8134
+p-DABS0.016<0.0025
+5-N-2-FA7.813<0.4883
+NFT0.013<0.0135
+CC31.250<15.6303
+4-AAP125.000<7.8133
+2,4-DNP3.906<3.9064
+o-TL19.531<19.5313
+p-MAB3.125<0.7813
+TTC31.250<15.6253
+p-NBA9.766<2.4405
+4-AAB15.625<3.9063
+DPA1.953<1.9535
+AzB15.625<7.8134
+DMAB100.000<1.6533
+ST1250.000<1250.0005
+
+　　*　最低检出剂量的阳性效应数NaN3三种化合物的最低检出剂量＜0.05μg/mL；2-NF、o-EMS、5-N-2-FA、p-MAB的最低检出剂量＜1 μg/mL；DMAB、DMBT、DPA的最低检出剂量＜2μg/mL；p-NBA、B(a)P、EBr、2,4-DNP、4-AAB、Ur、20-MCT的最低检出剂量＜5 μg/mL；1-AA、4-AAP、AzB的最低检出剂量＜7.8 μg/mL；TTC、CC、o-TL的最低检出剂量＜20 μg/mL;α-NA、2-AB＜40 μg/mL；2-AA＜62.5 μg/mL；BCA、DES＜156 μg/mL；MSE＜390 μg/mL；ST＜1250 μg/mL.其中ST的最低检出剂量远远大于其它化合物的最低检出剂量，这可能 与它的易挥发性有关，实际致突变剂量可能没有那么高.
+　　在上述检出致突变阳性的30种化合物中，有18种化合物是属于已知的致癌或致突变物，如Na N3、EBr、DES、α-NA、2-AA、Ur、20-MCT、B(a)P、2-AB、o-TL、2-NF、p-DABS、5-N-2-FA、NFT、4-AAB、AzB、DMAB、ST等［10-12］.其它几种化合物尚未见到具体资料报道确证是致突变物，但其中7种化合物与Ames试验阳性结果一致，如DMBT、BCA、MSE、1-AA、2，4-DNP、TTC、p-NBA,以上结果显示了对已知或预见有致突变性的毒物可作比较的灵敏度谱.尚有5种化合物为T9171试验结果致突变阳性反应，究竟是否属于致突变物，还有待进一步验证.
+　　发光细菌暗变种T9171对EM、6-CP、ASA、T-p-S、GL、QH的致突变效应均为阴性.其中QH对T9171的毒性较大，当该物浓度为0.03125 μg/mL时，T9171菌细胞已受抑制，发光度始终为零.在6种化合物中，除了GL据资料报道属于致突变物［2］外，其余均未见有关的报道.
+　　以上结果表明，T9171试验对致突变物具有一定的特异性，但是这种方法与其它生物检测方法一样，有它的局限性，不能将致突变物100%鉴别出来，GL就是一例.
+2.2　T9171与Ames试验检测化合物致突变效应相关性
+　　利用发光细菌暗变种T9171检测化合物致突变效应同时，运用Ames试验进行了比较研究，Ames试验一般推荐4株菌，据文献报道，水中致突物的敏感菌为TA100和TA98［8］，本文只选用Ames试验最为常用的TA100和TA98［9］2株菌进行试验，结果见表3.通过两法的比较试验，两者结果有较好的一致性，在受试的36种化合物中，两法检测结果阳性一致的化合物有21种，阳性一致率为58%，两法检测结果一致的吻合率达69%(21种化合物为阳性，4种化合物为阴性).试验还显示，T9171试验阳性检出率高于Ames试验，T9171试验结果有30种化合物显示阳性效应，其阳性检出率为83%，而Ames试验结果有23种化合物显示阳性效应，其阳性检出率为64%.从剂量上来分析，T9171试验也显示较Ames试验灵敏，在阳性一致的检出物中，T9171试验结果有17种化合物的最低检出剂量小于Ames试验的最低检出剂量，如NaN3、DES、2-AA、Ur、20-NCT、DMBT、MSE、2-NF、1-AA、p-DABS、5-N-2-FA、NFT、2,4-DNP、p-NBA、4-AAB、AzB、DMAB(见表3).按表3中阳性一致的检出物最低检出剂量建立两法的相关方程，其方程式为：
+CT9171=13.2959+0.0364CAmes
+此方程显示，对于致突变物的最低检出剂量，两法具有显著的相关性，其相关系数r=0.623(n=20)，经检验其相关程度达到0.01的显著水平.这一结果充分说明T9171试验与Ames试验检测遗传毒物所反映的遗传毒性水平具有较好的一致性.
+2.3　T9171试验特点
+　　T9171菌株可制成冻干粉剂供试验用.此菌剂经真空包装，在4℃下可存放较长时间，至少可保存6个月，这就大大节省了菌种的培养环节，更方便于试验的开展.
+　　不加代谢激活系统S9，这也是本试验的主要特点.发光细菌法检测化合物的致突变效应
+表3　发光细菌法(T9171试验)与Ames试验检测化合物的致突效应灵敏度比较
+Table 3 Sensitivity comparison of mutagenicity chemical′s with Photobacte ria assay and Ames test
+
+受试物剂量,回变率
+T9171,μg/mLAmes,μg/皿T9171判断Ames判断
+NaN30.0481.003.94+3.75+
+EBr2.5002.006.79+2.36+b
+DES156.25点试3.32+点试+
+α-NA39.063100.004.30+1.79-a
+2-AA62.500100.003.87+2.00+
+Ur31.25050.002.77+3.35+
+20-MCT5.00010.003.50+3.59+b
+B(a)P2.5001.003.17+2.79+b
+2-AB37.500300.003.63+1.31-a
+2-NF0.1560.503.91+11.50+
+p-DABS0.0020.105.50+2.24+
+5-N-2-FA1.953250.004.35+2.24+
+NFT0.0132.006.36+4.48+
+o-TL19.5315000.003.84+0.93-
+4-AAB3.90620.004.76+2.06+b
+AzB7.81350.003.75+2.48+b
+DMAB1.563500.003.54+2.11+b
+ST1250.000　3.39+　-
+DMBT1.87530.003.14+2.20+b
+BCA125.00050.003.37+3.55+
+MSE390.6005000.004.19+2.20+
+1-AA7.81310.003.31+7.09+b
+2,4-DNP3.9065.005.65+4.50+
+TTC15.6255.003.16+3.89+b
+p-NBA2.4415000.0020.00+2.40+
+Em125.000500.000.24-0.71-
+6-CP125.00025000.000.11-1.05-
+QH0.0161.001.80-1.25-
+T-p-S625.0002500.001.07-1.06-
+p-MAB0.7815000.003.20+1.20-
+DPA1.953250.007.45+0.68-
+o-EMS0.7811000.004.34+0.62-
+CC31.2502500.003.60+0.69-
+4-AAP7.8105000.003.20+1.07-
+ASA500.0000.050.85-118.35+
+GL2500.000200.001.15-3.60+
+
+　　注：a.根据国外资料报道Ames试验检测为阳性［10］；b.经过添加代谢活化剂后获得的阳性结果
+　　不加代谢激活系统的机理，在过去发表的文章中已有论述［6］.但这种方法也有人添加激活剂，如Ulitzur等［1］认为若添加S9，则可提高菌株对移码剂的敏感性.Johnson［4］利用Mutatox法在激活剂S9的作用下检测遗传毒物.也许添加激活剂能提高发光杆菌的敏感性，可能是这个原因，本试验的结果比Johnson报道的灵敏度要低一些，如Johnson报导2-AA和B(a)P的高峰浓度为5.010 μg/管(相当于10 μg/mL)，最低检出剂量为0.6 μg/管(相当于1.2 μg/mL).而T9171试验的2-AA和B(a)P的高峰浓度分别为500 μg/mL和10 μg/mL，最低检出剂量分别为62.5 μg/mL和2.5 μg/mL.Johnson是24 h获得结果，而T9171试验24-40 h内获得结果.尽管如此，T9171试验灵敏度还是比较高.
+　　T9171试验第三个特点是较Ames试验快速、灵敏度高、方法简便易掌握.
+* 国家自然科学基金(39370025)资助项目
+作者单位：(中国科学院南京土壤研究所，南京　210008)
+参考文献
+[1]　Ulitzur S et al.A new sensitive and simple bioluminescence test f or mutagenic compounds.Mutat Res 1980,74:113-124
+[2]　Richard A,Wecher et al.Bioassay procedures for identifying genotoxic agen ts using light emitting bacteria as indicator organisms.Serono Symp Publ,1982,1: 109
+[3] Kwan K K et al.Mutatox test:A new test for monitoring environmental genot oxic agents.Environ Pollut,1990,65:323-332
+[4] Johnson B T.An evaluation of a genotoxicity assay with liver S9 for activat ion and luminescent bacteria for detection.Environ Toxicol Chem,1992,11:473-480 
+[5] Legault R et al.Comparitive assessment of the SOS chromotest kit and the mutatox test with salmonella plate incorporation(Ames test)and fluctiation test for screening genotoxic agents.Environ Toxicol Water Qual Int J,1994,9:45-57
+[6]顾宗濂等.发光细菌对化合物的致突效应与检测研究.环境科学学报，1993，13(4)：435 -441
+[7] 顾宗濂等.发光细菌暗变种对土地处理的工业废渣的致突变效应.环境科学学报，1994，1 4(3)：349-354
+[8] 俞毓馨等.环境工程微生物检验手册.北京：中国环境科学出版社.1990.272
+[9]　王家玲等.环境微生物学实验.北京：高等教育出版社.1988.155
+[10]　McCann J.Detection of carcinogens as mutagens in the Salmonella/Micr osome test:Assay of 300 chemicals.Proc Nat Acad Sci USA,1975,72(12):5135-5137
+[11] 山根靖弘等［日］.环境污染物质与毒性(有机篇).成都：四川科学出版社.1985.22- 24
+[12]　Sanoria C L.Agricultural chemicals and chemical mutagens.Printed by Tara Pri nting Works.KAMACHA,VARANSI.1993.433-508
+1997-09-01收到原稿　1998-03-22收到修改稿

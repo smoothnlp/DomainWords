@@ -1,0 +1,147 @@
+环境科学学报
+ACTA　SCIENTIAE　CIRCUMSTANTIAE
+1998年5月第18卷第5期科技期刊
+紫外辐射增加对春小麦生理、产量和品质的影响*
+李　元1,2　王勋陵1
+(1.兰州大学生物系，兰州　730000 2.云南农业大学农学院环境科学系，昆明　650201)
+
+摘要　研究了大田栽培和自然光条件下，模拟紫外辐射(UV-B，280—315nm)增加对春小麦生理、产量和品质的影响.随UV-B辐射增加，春小麦叶片可见伤害症状加重，叶片叶绿素含量、SOD活性、气孔导度、蒸腾速率、植株干重、穗粒数和穗粒重均明显降低，MDA含量和类黄酮含量以及籽粒总糖含量增加，籽粒粗蛋白、总氨基酸和15种氨基酸含量在60mW*m-2和100mW*m-2时降低，而在120mW*m-2时却高于对照，籽粒总淀粉含量无明显变化.MDA含量与叶绿素含量及SOD活性之间具有显著的负相关，可认为春小麦体内代谢紊乱及诸多伤害与膜脂质过氧化作用有关.
+关键词　UV-B辐射；春小麦；生理；产量；品质.
+
+THE EFFECT OF ENHANCED UV-B RADIATION ON THE PHYSIOLOGICAL INDICATOR, YIELD AND QUALITY OF WHEAT
+
+Li Yuan1,2, Wang Xunling1
+(1.Department of Biology, Lanzhou University, Lanzhou 730000
+2.Department of Environmental Science, Yunnan Agricultural University, Kunming 650201)
+
+ABSTRACT　Influences of enhanced ultraviolet radiation (UV-B, 280—315 nm) on physiological indicator, yield and quality of wheat plants grown in filed were investigated. With the increase in UV-B radiation, leaf visible injury became serious, chlorophyll content, SOD activity, stomatal conductance, transpiration in leaves, biomass, ear seed number and ear seed weight decreased obviously, MDA content, flavonoid content and all sugar content in seed increased, rough protein content, total amino acid content and 15 amino acid content decreased with treatment of 60 mW*m-2 and 100 mW*m-2 UV-B radiation, and they were higher than control with treatment of 120 mW*m-2, rough starch content in seed had no obvious changes. MDA content had significant negative correlation with the chlorophyll content and SOD activity, it suggested that the metabolic disorder and various injuries in leaves induced by UV-B radiation were the result of the increase of membrane lipid peroxidation.
+Keywords　UV-B radiation, wheat, physiological indicator, yield, quality.
+　　
+1　引言
+　　臭氧层减薄引起的紫外辐射增加对农作物产量和品质的影响，已成为当今研究的一个热点.国外已对200多种植物作过研究，发现三分之二以上的植物受到了不同程度的伤害［1］.然而大多数研究都是在温室中进行的，经玻璃过滤的背景光与自然光有一定差异，因此，进行大田试验就极为重要，所获结果更具实践应用价值［1］.
+　　目前多用大豆、水稻等作物作为试验材料，研究大田条件下UV-B辐射对春小麦的影响较为罕见［1］.该研究试图通过UV-B辐射下，春小麦一些指标的变化来探讨UV-B增加对作物影响的机理，并为臭氧层减薄对我国大田作物生产的影响的预测提供基础资料.
+
+2　材料和方法
+2.1　试验材料与UV-B模拟
+　　春小麦(Triticum aestivum)80101经消毒和催芽后于3月30日在兰州大学生物园内大田条播，土壤为黄绵土，中上等水肥条件，常规管理.4月12日出苗，4月23日间苗并保持麦苗均匀，同时开始UV-B辐射，每天10：00—17：00辐射7h(雨天除外)，直至7月21日成熟收获.拔节期采样测定生理指标，并观察记载可见伤害症状.
+　　模拟紫外辐射增加使用30WUV-B灯管(波长为280—315nm)，灯管悬于植株上方，通过灯管数和高度调节辐照度(以植株上部计)，并用紫外辐射测定仪在297nm处测定辐照度.设0(自然光)、60、100和120mW*m-24个处理水平，相当于兰州地区0%、12%、20%和25%的O3衰减，每处理2m2、3个重复.
+2.2　测定方法
+　　叶绿素含量测定：按Arnon(1949)［2］的方法.SOD活性测定：按王爱国等(1983)［3］的方法.测定SOD对NBT光还原的抑制作用，采用抑制NBT光化还原50%为一个酶活性单位表示.丙二醛(MDA)含量测定：按林植芳等(1984)［4］的方法.类黄酮含量测定：按Murali和Teramura(1985)［5］的方法，单位以305nm吸收值表示.气孔导度和蒸腾速率测定：用Li-1600稳态气孔仪(美国)于拔节期测定第一叶正、反两面，10：00—17：00时共测4次，每处理测10片叶，取平均值.产量性状测定：常规考种方法，取20株的平均值.总糖含量测定：用蒽酮比色法.淀粉含量测定：使用W22-IS数字式自动旋光仪.蛋白质含量测定：凯氏定N法测总N，蛋白质=总N×5.7.氨基酸含量测定：用酸水解，HITACHI835-50氨基酸自动分析仪测定.
+
+3　结　果
+3.1　UV-B辐射引起的可见伤害症状
+　　UV-B辐射后，春小麦叶片出现了不同程度的伤害.60mW*m-2 UV-B辐射，上部叶片多数正常，仅5%的第一叶片背部有较轻的褪绿.100mW*m-2 UV-B辐射导致20%第一叶叶尖约5cm部位受害.褪绿、变黄、卷曲反转，脉间先于叶脉受害，背部受害较重.120mW*m-2 UV-B辐射时，50%第一叶片与20%第二叶片受害严重，受害部位于叶尖15cm，背面重于正面，正面变黄，背面灰白甚至变灰，在脉间出现不均匀的条状和块状斑点.可见，随UV-B辐射增加，叶片受害程度加重.
+3.2　UV-B辐射对春小麦叶片叶绿素含量的影响
+　　UV-B辐射增加，导致春小麦叶片叶绿素a含量、叶绿素b含量和叶绿素(a+b)含量明显降低，且具有较好的相关性(见表1).以120mW*m-2 UV-B辐射与对照相比，第一叶片叶绿素a、叶素素b和叶绿素(a+b)含量分别降低58.65%、55.16%和58.03%，而第三叶片则仅分别降低17.40%、9.46和15.58%，这表明叶绿素b对UV-B辐射较不敏感，此外，第一叶与第三叶叶绿素含量变化的差异，可能与它们所截获的UV-B辐射以及生理代谢上的差异有关.
+表1　UV-B辐射对春小麦叶片叶绿素含量的影响(mg*g(FW)-1)
+Table 1 The effect of UV-B radiation on the content of chlorophyll in leaves of wheat (mg*g(FW)-1)
+
+UV-B，
+
+mW*m-2第一叶叶绿素含量第三叶叶绿素含量
+叶绿素a叶绿素b叶绿素(a+b)叶绿素a叶绿素b叶绿素(a+b)
+01.6130.3972.0111.1610.2961.457
+601.1420.3581.5271.1190.2801.399
+1000.9410.2251.1651.0450.2701.316
+1200.6670.1780.8440.9590.2681.230
+相关系数-0.9909**-0.9467*-0.9918**-0.9332-0.9965**-0.9547*
+
+　　**为P＜0.01，极显著水平；*为0.01＜P＜0.05，显著水平
+
+3.3　UV-B辐射对春小麦叶片SOD活性和MDA含量的影响
+　　SOD活性和MDA含量是衡量植物在逆境中脂质过氧化加剧的重要指标.图1表明，随UV-B辐射增加，春小麦叶片SOD活性下降，呈显著负相关(r=-0.9549)，同时，MDA含量增加，呈显著正相关(r=0.9579).UV-B辐射小于100mW*m-2时，SOD和MDA的变化较缓慢，但当UV-B辐射在100—120mW*m-2时，SOD活性急剧降低，而MDA含量明显增加，表明叶片已受到了严重伤害.脂质过氧化程度加重，这与可见伤害程度和叶绿素含量变化的趋势是一致的.
+3.4　UV-B辐射对春小麦叶片类黄酮含量的影响
+　　植物叶片表面类黄酮的积累，是植物对UV-B辐射的适应和保护措施.图2表明，UV-B辐射增加，春小麦第一叶片和第三叶片类黄酮含量也显著增加，相关系数分别为0.9795和0.9522，均为显著正相关.当UV-B辐射在100—120mW*m-2时，第一叶片类黄酮含量增加比第三叶片更为明显，表明高强度UV-B辐射对第一叶片的伤害作用更大，这很可能与它们所能截获的UV-B强度有关.
+
+
+图1　UV-B辐射对春小麦叶片SOD活性和MDA含量的影响
+a.SOD活性 b.MDA含量
+Fig.1 The effect of UV-B radiation on 
+SOD activity and the content ofMDA in leaves of wheat
+
+
+图2　UV-B辐射对春小麦叶片类黄酮含量的影响
+a.第一叶片 b.第三叶片 
+Fig.2 The effect of UV-B radiation on
+the content of flavonoid in leaves of wheat
+
+
+图3　UV-B辐射对春小麦叶片气孔导度和蒸腾速率的影响
+a.气孔导度　b.蒸腾速率
+Fig.3 The effect of UV-B radiation on 
+stomatal conductance and transpiration
+in leaves of wheat
+3.5　UV-B辐射对春小麦叶片气孔导度和蒸腾速率的影响
+　　气孔导度和蒸腾速率与植物的水分代谢和气体交换密切相关.UV-B辐射增加，春小麦叶片气孔导度和蒸腾速率均显著降低(图3)，相关系数分别为-0.9836和-0.9961.在100—120mW*m-2处理时，气孔导度和蒸腾速率急剧下降.气孔导度和蒸腾速率之间的相关系数为0.9661，呈显著正相关，表明气孔导度与蒸腾速率之间有密切的联系，这很可能是UV-B辐射导致气孔开度减小的结果.
+3.6　UV-B辐射对春小麦产量的影响
+　　UV-B辐射增加，导致春小麦成熟期植株干重、穗粒重和穗粒数降低，并与穗粒重、穗粒数呈显著的负相关(见表2).在120mW*m-2 UV-B处理时，植株干重、穗粒重和穗粒数分别比对照降低14.35%、49.67%和23.52%，表明高强度的UV-B辐射对春小麦这三个指标的影响更大.根据实测结果，推导出估算式(见表2)，平均误差在0.25%—6.6%之间，拟合值与实测式接近，拟合效果较好.若按未来臭氧衰减10%和20%计，RAF值取1.6，则兰州地区春小麦将减产10.39%和21.44%，这一数值比南京地区的估算略低，然而，由于UV-B对植物的影响会受CO2浓度、H2O、温度、P等营养元素的影响，全面的、更接近实际的估算仍然十分困难.
+表2　UV-B辐射对小麦产量的影响
+Table 2 The effect of UV-B radiation on the yield of wheat
+
+UV-B，mW*m-2060100120估算式相关系数平均误差，%
+株干重，g1.7501.7211.6991.499y=1.782-0.00164x-0.76130.25
+穗粒重，g0.9140.7800.6400.461y=0.945-0.0035x-0.9585*0.38
+穗粒数，粒29.4227.9023.7122.50y=30.067-0.0598x-0.9573*6.6
+
+　　*为显著相关，P＜0.05水平
+3.7　UV-B辐射对春小麦品质的影响如表3所示，紫外辐射对总淀粉含量影响不大.60mW*m-2和100mW*m-2处理时，粗蛋白含量略低于对照，而120mW*m-2处理时，粗蛋白含量比对照增加6.11%.UV-B辐射导致总糖含量增加.籽粒品质的变化在农业上的意义尚不清楚.
+表3　UV-B辐射对春小麦籽粒品质的影响(%)
+Table 3 The effect of UV-B radiation on the quality in seed of wheat(%)
+
+UV-B，mW*m-2060100120
+总淀粉55.5355.0054.6354.98
+粗蛋白13.79413.62313.68014.635
+总　糖5.806.406.406.20
+
+3.8　UV-B辐射对春小麦籽粒氨基酸含量的影响
+　　60mW*m-2和100mW*m-2 UV-B处理时，总氨基酸含量分别比对照降低5.79%和8.36%，而在120mW*m-2时，则比对照高6.79%.苏氨酸等15种氨基酸(见表4)也表现出与总氨基酸一致的变化趋势，其中，蛋氨酸、酪氨酸、脯氨酸和胱氨酸含量的变化较大，在100mW*m-2时，分别比对照低90%、12.4%、12.69%和35.71%，而在120mW*m-2时，则分别比对照高40%、25%、17.91%和14.29%.总氨基酸及前15种氨基酸的变化趋势与粗蛋白基本一致，是粗蛋白变化的结果.
+
+4　讨　论
+　　膜脂质过氧化是UV-B导致春小麦生理伤害的主要原因之一.UV-B辐射导致春小麦叶片SOD活性降低及MDA含量增加，两者呈极显著的负相关(r为-0.9947).同时，MDA含量与第一叶、第三叶叶绿素(a+b)含量的相关系数为-0.9856和-0.9958，均呈极显著的负相关.这表明当SOD活性降低时，细胞内过多的O(-)/(*)2不能及时排除，加剧了脂质过氧化作用，导致主要产物MDA迅速积累，叶绿素膜相破坏［6］，叶绿素含量降低.Wright等(1981)［7］也曾报道UV-B抑制小麦质膜K+-ATPase活性，促进膜脂过氧化.而膜脂质过氧化导致植物体内生理代谢紊乱和膜伤害以及叶绿素分解，最终表现出明显的可见伤害症状.Teramura(1983)［1］也曾报道在温室条件下，UV-B诱导多种作物出现青铜色、枯黄和褪绿等症状.
+　　UV-B辐射诱导叶表面气孔开度减小和气孔阻力增大［8，9］，根系活力降低［9］，从而降低蒸腾速率［10］，这也在黄瓜、萝卜［1］和大豆［10］中观察到.UV-B诱导气孔开度减小可能是抑制小麦K+-ATPase活性［7］，促进K+从保卫细胞中流出而引起［8，11］.
+表4　UV-B辐射对春小麦籽粒氨基酸含量的影响(g*100g-1)
+Table 4 The effect of UV-B radiation onthe content of
+amino acid in seed of wheat (g*100g-1)
+
+UV-B (mW*m-2)060100120
+苏氨酸0.360.330.320.41
+丝氨酸0.680.630.580.77
+脯氨酸1.341.231.171.58
+甘氨酸0.530.480.480.58
+丙氨酸0.520.480.450.56
+胱氨酸0.140.110.090.16
+缬氨酸0.590.540.530.65
+蛋氨酸0.100.08未检出0.14
+异亮氨酸0.380.340.340.43
+亮氨酸0.870.790.780.99
+酪氨酸0.320.300.280.40
+苯丙氨酸0.640.590.580.74
+赖氨酸0.350.320.310.38
+组氨酸0.280.260.230.31
+精氨酸0.670.590.560.69
+天门冬氨酸0.560.590.560.59
+谷氨酸4.324.404.354.26
+氨0.210.150.270.08
+总氨基酸12.9512.2111.8813.83
+
+　　本文及Teramura(1990)［12］、Bennett［13］的结果均表明UV-B辐射降低小麦植株干重、籽粒数和籽粒重.同时，UV-B辐射还影响小麦品质，影响大豆粗蛋白和脂肪含量［12］.产量和品质的变化是植物对UV-B辐射增加的综合反应的结果.
+　　UV-B辐射诱导类黄酮含量增加［5］，已被建议作为确定植物DNA受伤害的尺度［14］，还证明了它对UV-B辐射引起的损伤有直接的减缓作用［15］，它是植物的一种适应和保护措施［11］.
+　　总之，UV-B辐射对作物的影响不仅仅在温室中表现出来，在大田中，它的作用也是十分明显的.而且，UV-B辐射对作物的影响还与水分、CO2、P等营养元素，温度、光合有效辐射及植物基因组成密切相关.因此，大田试验是完全必要的.只有充分理解UV-B辐射与其它环境因子的相互作用，才能正确地评估臭氧衰减，UV-B辐射增加对农业的可能后果.
+*国家自然科学基金(39670132，39760021)项目.
+参考文献
+　1　Teramura A H. Effect of ultraviolet-B radiation on the growth and yield of crop plants. Physiol Plant, 1983, 58:415—427
+　2　Arnon D I. Copper enzymes in isolated chloroplasts poly-phenoloxidase in Bete vulgaris. Plant Physiol, 1949，24:1—4
+　3　王爱国，罗广华，邵从本等.大豆种子超氧物歧化酶的研究.植物生理学报，1993，9(1)：77—88
+　4　林植芳，李双顺，林桂珠等.水稻叶片的衰老与超氧物歧化酶活性及脂质过氧化作用的关系.植物学报，1984，26(2)：605—615
+　5　Murali N S, Teramure A H. Effects of ultraviolet-B irradiance on soybean. VI. Influence of phosphorus nutrition on growth and flavonoid content. Physiol Plant, 1985,63:413—416
+　6　Sakaki T, Kondo N, Sugahara K. Breakdown of photosynthetic pigments and lipid in spinach leaves with ozone fumigation: Role of active oxygen. Physiol Plant, 1983,59:28—34
+　7　Wright L A, Murphy T M, Travis R L. The effect of ultraviolet radiation on wheat root vesicles enriched in plasma membrane. Photochemistry and Photobioloty, 1981,33:343—348
+　8　Negash L, Bjrn L O. Stomatal closure by ultraviolet radiation. Physiol Plant, 1986,66:360—364
+　9　Murali N S, Teramura A H. Intraspecific differences in Cucumis sativus sensitivity to UV-B radiation. Physiol Plant, 1986,68:673—677
+10 Mirecki R M, Teramura A H. Effect of ultraviolet-B irradiance on soybean. V. The dependence of plant sensitivity on the photosynthetic photon flux density during and after leaf expansion. Plant Physiol, 1984,74:475—480
+11 Wright L A, Murphy T M. Short-wave ultraviolet light closes leaf stomata. Am J Bot, 1982,69:1196—1199
+12 Teramura A H, Sullivan J H, Ziska L H. Interaction of elevated ultraviolet-B radiation and CO2 on 
+productivity and photosynthetic characteristics in wheat, rice and soybean. Plant Physiol. 1990.94:470—475
+13　Bennett J H. Photosynthesis and gas diffusion in leaves of selected crop plants exposed to ultraviolet-B radiation. J Environ Qual, 1981,10:271—275
+14　Beggs C J, Andrea S J, Eckard W. Isoflavonoid formation as an indication of UV stress in bean (Phaseolus vulgaris) leaves. Plant Physiol, 1985,79:630—634
+15　Sullivan J H, Teramura A H. The effects of ultraviolet radiation on loblolly pine. I. Growth, photosynthesis and pigment production in greenhouse-grown seedling. Physiol Plant, 1989,77:202—207

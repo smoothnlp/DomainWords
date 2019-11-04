@@ -1,0 +1,53 @@
+环境科学研究
+RESEARCH OF ENVIRONMENTAL SCIENCES
+2001 Vol.14 No.1 P.20-23
+
+
+
+
+珠江三角洲沉积物中毒害有机物的污染现状及评价
+麦碧娴　 林峥　 张干　 盛国英　 康跃惠　 彭平安　 
+摘　要：参照美国EPA8000系列方法及质量保证和质量控制(QA/QC)，对珠江三角洲河流和河口表层沉积物中的有机氯农药、多氯联苯(PCBs)和多环芳烃(PAHs)进行了定量分析。与世界各地表层沉积物中毒害有机污染物的浓度进行对比，分析了珠江三角洲地区沉积物的污染现状；与国外生态风险评价标准对比表明，广州河段和澳门河口的沉积物为高生态风险区。
+关键词：沉积物；　有机氯农药；　多氯联苯(PCBs)；　多环芳烃(PAHs)；　风险评价；　珠江三角洲
+分类号：X522　文献标识码：A
+文章编号：1001-6929(2001)01-0019-05
+The Pollution Situation and Risk Assessment of Toxic Organic Compounds in Sediments from Pearl River Delta
+MAI Bi-xian（State Key Laboratory of Organic Geochemistry,　Guangzhou Institute of Geochemistry,　CAS, Guangzhou　510640,　Chian）　
+LIN Zheng（Guangdong Key Laboratory of Environmental Protection and Resources Utilization,　Guangzhou Institute of Geochemistry,　CAS,　Guangzhou　510460,　China）
+ZHANG Gan（State Key Laboratory of Organic Geochemistry,　Guangzhou Institute of Geochemistry,　CAS, Guangzhou　510640,　Chian）
+SHENG Guo-ying（State Key Laboratory of Organic Geochemistry,　Guangzhou Institute of Geochemistry,　CAS, Guangzhou　510640,　Chian）
+KANG Yue-hui（Guangdong Key Laboratory of Environmental Protection and Resources Utilization,　Guangzhou Institute of Geochemistry,　CAS,　Guangzhou　510460,　China）
+PENG Ping-an（State Key Laboratory of Organic Geochemistry,　Guangzhou Institute of Geochemistry,　CAS, Guangzhou　510640,　Chian）
+Abstract：The organochlorine pesticides,polychlorinated biphenyls(PCBs),and polycyclic aromatic hydrocarbons(PAHs)in surface sediments from rivers and estuary of Pearl River Delta were analyzed quantitatively,based on US EPA 8000 series methods and under quality assurance and quality control(QA/QC).The pollution situation of sediments from Pearl River Delta was assessed by comparisons to the concentration ranges of toxic organic compounds found in surface sediments over the world.In addition,the comparisons of the concentrations of a number of organic compounds to the biologic threshold from abroad indicated that the sediments from Guangzhou channel and Macao estuary were most likely to pose biological impairment.
+Keywords：sediment;　organochlorine pesticides;　polychlorinated biphenyls(PCBs);　polycyclic aromatic hydrocarbons(PAHs);　risk assssment;　Pearl River Delta
+基金项目：国家自然科学基金(49632060，49872092)和广东省自然科学基金(970575)资助项目
+作者简介：麦碧娴(1965-)，女，广东顺德市人，副研究员，硕士. 
+作者单位：麦碧娴（中国科学院 广州地球化学研究所 有机地球化学重点实验室，广东 广州　510640）　
+　　　　　林峥（中国科学院 广州地球化学研究所 广东省环境资源利用与保护重点实验室，广东 广州　510640）　
+　　　　　张干（中国科学院 广州地球化学研究所 有机地球化学重点实验室，广东 广州　510640）　
+　　　　　盛国英（中国科学院 广州地球化学研究所 有机地球化学重点实验室，广东 广州　510640）　
+　　　　　康跃惠（中国科学院 广州地球化学研究所 广东省环境资源利用与保护重点实验室，广东 广州　510640）　
+　　　　　彭平安（中国科学院 广州地球化学研究所 有机地球化学重点实验室，广东 广州　510640）　
+参考文献：
+［1］林峥，麦碧娴，张干，等.沉积物中多环芳烃和有机氯农药定量分析的质量保证和质量控制［J］.环境化学，1999，18(2)：115～121.
+［2］康跃惠，盛国英，傅家谟，等.沉积物内多氯联苯测定中有机氯农药的排除及质量控制和质量保证研究［J］.分析化学，1999，27(11)：1258～1263.
+［3］Fowler S W.Critical review of selected heavy metal and chlorinated hydrocarbon concentrations in the marine environment［J］.Mar Environ Res,1990,29:1～64.
+［4］Pereira W E,domagalski J L,Hostettler F D,et al. Occurrence and accumulation of pesticides and organic contaminants in river sediment,water and clam tissues from the San Joaquin river and tributaries,California［J］.Environ Toxicol Chem,1996,15:172～180.
+［5］Pierard C,Budzinski H,Garrigues P.Grain-size distribution of polychlorobiphenyls in coastal sediments ［J］.Environ Sci Technol,1996,30:2776～2783.
+［6］Shiaris M P,Jambard-Sweet D. Polycyclic aromatic hydrocarbons in surficial sediments of Boston Harbour Mass.,U.S.A.［J］.Mar Poll Bull,1986,17:469～472.
+［7］Foster G D,Wright D A.Unsubstituted polynuclaer aromatic hydrocarbons in sediments,clam,and clam worms from chesapeake Bay［J］.Mar Pollut Bull,1988,19:459～455.
+［8］Pruell R J,Norwood C B,Bowen R D,et al.Geochemical study of sediment concentration in New Bedford Harbor［J］.Mass Mar Environ Res,1990,29:77～101.
+［9］Kayal S I,Connell D W.Occurrence and distribution of polycyclic aromatic hydrocarbons in surface sediments and waters from the Brisbane River Estuary Australia［J］.Estuarine Coastal Shelf Sci,1989,29:473～487.
+［10］Brown G,Maher W.The occurrence,distribution and sources of polycylic aromatic hydrocarbons in the sediments of the Georges river estuary,Australia［J］.Org Geochem,1992,18:657～668.
+［11］Readman J W,Mantoura R F C,Llewellyn C A,et al.The use of pollutant and biogenic markers as source discriminates of organic inputs to estuarine sediments［J］.Int J Environ Anal Chem,1986,27:29～54.
+［12］Larsen P F,Gadbois D F,Johson A C， et al.Distribution of polycyclic aromatic hydrocarbons in surficial sediments of Casco Bay Maine［J］.Bull.Environ Contam Toxicol,1983,30:530～535.
+［13］Long E R,MacDonald D D,smith S L,et al.Incidence of adverse biological effects within ranges of chemical concentrations in marine and estuary sediments［J］.Environ Manage,1995,19:81～97.
+［14］孙维湘，陈荣莉，孙安强，等.南迦巴瓦峰地区有机氯化合物的污染［J］.环境科学，1986，7(6)：64～69.
+［15］Derek C G M,Alex O,Norbert P G,et al. Spatial trends and historical deposition of Polychlorinated Biphenyls in Canadian Midlatitude and Arctic lake sediments［J］.Environ Sci Technol,1996,30:3609～3617.
+［16］Onuska F I,Davies S.Multivariate observations of the distribution of polychlorinated Biphenyls in environmental compartments of two harbors［J］.Int J Environ Anal Chem,1991,43:137～150.
+［17］Mangani F,Crescentini G,Sisti E,et al.PAHs,PCBs and chlorinated pesticides in Mediterraneal coastal sediments［J］.Int J Environ Anal Chem,1991,45:89～100.
+［18］Lipiatov E,Saliot A.Fluxes and transport of anthropogenic and natural polycyclic aromatic hydrocarbons in the western Mediterranean Sea［J］.Mar Chem,1991,32:51～71.
+［19］Hong H,Xu L,Zhang L,et al. environmental fate and chemistry of organic pollutants in the sediment of Xiamen and Victoria Harbours［J］.Mar Pollut Bull,1995,31:229～236.
+［20］李洪，付宇众，周传光，等.大连湾和锦州湾表层沉积物中有机氯农药和多氯联苯分布特征［J］.海洋环境科学，1998，17(2)：73～76.
+收稿日期：2000年1月11日
+出版日期：2001年1月30日

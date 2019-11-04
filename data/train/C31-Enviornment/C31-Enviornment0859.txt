@@ -1,0 +1,146 @@
+环境科学学报
+ACTA SCIENTIAE CIRCUMASTANTIAE
+1999年 第19卷 第3期 Vol.19  No.3 1999
+
+
+
+根据分子连接性指数估算极性有机化合物的吸附系数*
+卢晓霞　陶　澍**　李　杭　朴海善　 
+摘要　研究了分子连接性指数与极性有机化合物吸附系数(以有机碳计)的关系.通过对建模组中211 种极性化合物分子连接性指数与logKOC进行回归分析，发现仅根据分子连接性指数不能准确地计算其KOC值.当在模型中引入极性校正因子后，计算的准确度明显提高.据此建立了估算极性有机化合物KOC的定量模型.对所研究的231种极性化合物，平均估算误差为0.31个对数单位，45%的估算误差在0.2个对数单位之内.
+关键词　分子连接性指数；极性有机化合物；吸附系数(KOC).
+Prediction of KOC of polar organic compounds based on molecular connec tivity indices
+LU Xiaoxia, TAO Shu, LI Hang, PIAO Haishan 
+Department of Urban and Environmental Sciences, Peking University, Be ijing 100871
+Abstract　Relationahip beteen the molecular structure and KOC of polar organic c ompounds were investigated based on molecular connectivity indices. The total 23 1 polar compounds were divided randomly into two sets: the training set and the te st ing set. Using 1χ,1χV,2χ，and 2χV variab les, the coefficient of determination (R2) of the regression equation was only 0.564. The mean residual of the calculated KOC of the compounds in the training set was 0.44 log units. The results showed that the KOC of po l ar compunds can not be estimated by MCI alone due to the existence of the hydrop h obic groups. However, by introducing thirteen polar factors into the regression equation, the precision of the model was improved greatly. To most polar compoun ds in the training set, their KOC can be calculated by 1χV, 2χ and the polar factors. The model was verified by a set of independen t da ta. The final model was built on the basis of the total 231 measured KOC values. The mean residual of the estimated KOC of the 231 polar com pounds is 0.31 log units and 45% of the residuals are less than 0.2 log unit.
+Keywords　molecular connectivity indices, polar organic compunds , KOC.
+1　引言
+　　吸附是影响有机化合物环境行为的重要作用之一，它使有机化合物残留于土壤或沉积物中， 从而影响其移动性和生物毒性［1］.通常用吸附系数来描述有机化合物的吸附特性.由于有机化合物在固相上的吸附机理主要为憎水吸附，在大多数情况下，土壤或沉积物中的有机质在吸附中起主导作用，因此可用吸附系数KOC(以及KOM)来描述土壤或沉积物对有机化合物的吸附特性.
+　　KOC是指达到吸附平衡时，有机化合物被土壤或沉积物中有机质(以有机碳计)吸附的浓度与其在体系中的水相浓度之比，它是用于评价有机污染物环境行为的一个重要参数.KOC的获取有两种方式：实测和估算.实测KOC具有准确、可靠和实用性强的优点，但由于有机化合物种类繁多，且实测难度较大，难以满足实际工作的需要.尽管通过计算获得的KOC不如实测准确，但其方法简便、成本低，有利于实际工作的进行.估算KOC的常规方法是建立KOC与KOW(辛醇/水分配系数)或KOC与S(水溶解度)的相关关系式［2］.KOW中的辛醇相与天然有机吸附剂在本质上有很大差异，而S中并不包含对有机相的描述，因此这两种估算方法在准确度上有较大局限性.近年来，分子连接性指数(MCI)也被用来估算有机化合物的KOC.根据分子连接性指数估算KOC的优点在于一旦建立了相关模型，仅需输入化合物的分子结构参数，不需要其它的实验数据［3］.在我们的前期研究中，曾试图对所有极性与非极性有机化合物建立统一的估算模型，然而直接应用分子连接性指数进行计算的结果表明，仅根据某种或多种形式的分子连接性指数，可以对非极性化合物KOC值进行较准确的估算，但类似的方法并不适用于极性化合物［4］.
+　　极性与非极性化合物在土壤或沉积物中的吸附特性有较大差异.极性化合物分子中含有极性基团(亲水基因)，倾向溶于水中，其KOC的大小不仅取决于分子表面积的大小，且与分子中极性基团的种类和数目有关.而非极性化合物不易溶于水，其KOC的大小主要取决于分子表面积的大小.正因为如此，尽管国外不少学者在非极性化合物KOC等有关参数的计算方面获得了一系列成果［5-7］，但对极性化合物KOC的预测始终没有成功的例子.本研究的目的是通过在分子连接性指数模型中引入必要的校正参数，来比较准确地估算极性化合物的KOC.
+2　研究方法
+　　本研究共收集了330种有机化合物的KOC实测数据，其中极性化合物为231种，非极性化合物为99种.数据来源包括G.G.Briggs(1973,1981),E.E.Kenaga (1980),S.W.Karick hoff(1979,1981,1985),A.G.Donglas (1979),P.D.Vowles(1987),J.J.Hassett(1980,1981), C.T.Chiou(1979,1983)等学者发表或整理的文献［8-19］.通常会遇见这种情况，即一种化合物有多个KOC实测值，或者KOC值是一个范围值.在建模时， 对数据进行了选择，一般取其中位数.
+　　研究时将330种化合物随机地分成两组：建模组和验证组.建模组共有330种化合物，其中极 性化合物为211种.验证组共有30种化合物，其中极性化合物为20种.所研究的极性化合物主要包括：酸、醇、酚、苯胺、乙酰苯胺、苯脲、硝基化合物、含氮杂环化合物、以及各类酯 等.logKOC范围为-0.40-4.88.
+　　对所研究化合物计算其分子连接性指数(MCI).该指数是从有机化合物分子的隐氢骨架中产生的拓扑指数，它反映了分子大小、分枝、键型、以及杂原子等信息.对于某一给定的分子结构，可以计算不同类型和阶项的MCI［20］.MCI用点价乘积平方根的倒数来表示，详细内容见有关文献［20］.本研究所用的MCI主要有1χ、1χV、2χ和2χV，计算通式为：
+mχ=∑nj=1∏m+1i=1δi-(1)/(2[SX)]
+mχV=∑n)/(j=1∏m+1)/(i=1δVi-(1)/(2)
+式中，δ为原子的点价，δV为原子的价点价，i为分子中的非氢原子，m为阶数，n为子图数目.
+　　研究使用Statistica(version4.5)统计软件实现所有回归分析.
+3　结果与讨论
+3.1　各类化合物1χ与KOC关系
+　　对建模组各类化合物的1χ,对1χ与logKOC的关系进行回归分析，得到以下方程：
+logKOC=4.407+0.3801χ
+(1)
+n=300,r2=0.403,s=0.988
+式中，n为化合物总数，r2为可决系数，s为估计的标准差.
+　　1χ与logKOC的关系如图1中实线所示.
+
+
+图1　建模组极性与非极性化合物的1χ-KOC关系
+Fig.1 Relationship between 1χ ang logK OC of polar and nonpolar compunds in the training set
+从图1可以看出，尽管1χ与logKOC显著相关(在0.05水平)，但大部分数据偏离回归直线较远，不能直接用该回归模型计算各类化合物的KOC.如果仔细分析图中数据点，可以发现分布在回归直线上下的化合物表现出一定的规律，即位于回归直线之上的化合物大多为不含极性基团的化合物，而位于回归直线之下的化合物大多为含有极性基团的化合物.事实上，100%的非极性化合物都表现为对回归方程的正偏离，而约80%的极性化合物负向偏离回归方程.由此可见，极性与非极性化合物在1χ-logKOC定量关系上表现出明显不同的特性.
+　　由于极性与非极性化合物的这种显著差异，因此分别对两类化合物进行研究.关于非极性化合物的模型计算已在另文中介绍［4］，本文主要研究极性化合物KOC的估算方法.
+3.2　极性化合物1χ与KOC关系
+　　如果仅取建模组中极性化合物(共211种)的KOC与1χ进行分析，得到以下方程：
+logKOC=0.428+0.2971χ
+n=211,r2=0.456,s=0.629
+(2)
+1χ与logKOC的关系如图1中虚线所示.
+　　从方程(2)和图1(虚线)可以看出，1χ与极性化合物logKOC的线性关系很不理想，其可决系数仅为0.456.用该式计算所研究化合物的KOC值，平均误差为0.49个对数单位，误差低于0.2个对数单位的化合物仅占25%(图2).
+
+
+图2　根据1χ计算建模组极性化合物KOC的误差分布
+Fig.2 Residual distribution of the calculated KO C based on 1χ in the training set
+3.3　极性化合物多项MCI与KOC关系
+　　为充分利用MCI所包含的信息特征，在回归分析中引入1χV，2χ和 2χV.1χ主要包含分子大小的信息，这3种指数则包含了分枝、不饱和键、以及杂原子等多项信息.对1χ、1χV,2χ和2χV与logK OC的关系进行多元线性回归，得到以下方程：
+logKOC=0.590-0.2011χ+0.3461χV+0.2262 χ+0.0362χV
+n=211,r2=0.565,s=0.567
+(3)
+　　与式(2)相比，回归方程可决数值r2由0.456提高到0.565，估计的标准差s由 0.629降低到0.567，表明方程对数据的拟合质量有所提高.根据式(3)计算所研究化合物的KOC，得到的计算值与实测值的平均误差为0.44个对数单位，误差小于0.2个对数单位的化合物占28%.图3和图4分别给出了计算与实测logKOC的关系以及计算的误差分布.
+
+
+图3　根据1χ、1χV,2χ和2χV计算的建模组极性化合物logKOC与实测值的关系
+Fig.3 Relationship between the calculated and measured KOC value s of chemicals in the training set
+
+
+图4　根据1χ、1χV,2χ和2χV计算的建模组极性化合物KOC的误差分布
+Fig.4 Residual distribution of the calculated KOC based on χ 、1χV、2χ and 2χV for compunds in the training se t
+从图3和图4可以看出，虽然与式(2)相比，回归结果有所改善，但仍不能较准确地计算极性化合物的KOC值.在分子连接性指数法中，尽管Kier和Hall对杂原子点价及校正点价都给予了定值，使分子连接性价指数包含一定的电子信息，但国外已有的研究结果及我们的研究结果都表明，仅根据MCI不能很好地估算极性有机化合物的KOC.MCI是一种拓扑参数，它主要反映有机化合物分子的形状和大小，因而与非极性化合物KOC有很好的线性关系［4，5］，但它不能有效地反映极性化合物吸附中非疏水性作用力的大小.非疏水性作用对于极性化合物的吸附有重要影响，如果不定量描述非疏水性作用对KOC的贡献，就不可能准确地计算它极性化合物的KOC值.
+　　极性化合物吸附中的非疏水性作用主要是因分子中的极性基团所引起，极性基团可使极性化合物分子与水分子之间形成氢键或者发生其它反应，从而减弱固相对化合物的吸附.为了完整地描述极性化合物的吸附特性，有必要在MCI模型中引入极性校正参数.
+3.4　根据MCI和极性因子建立模型
+　　所研究化合物分子中的极性基团主要包括：-COOH、-OH、-CO-、-COO-、-NO2、-NH2(-NH-和-N-)、-NCO-、-NCON-、-SCON-、-SO2-、-PO-、-O-、以及-N=.它们对化合物吸附的影响各不相同，因此分别用不同的极性因子(Fi)来描述不同极性基团对KOC的贡献.例如，-OH的极性因子用F-OH表示，同时假定不同或同种多个极性基团的贡献具有加和性，即若分子中含有3个-OH，则用3F-OH表示.以1χ、1χV,2χ、2χV和极性因子作为自变量，对建模组中211种极性化合物的KOC值进行了回归分析，得到以下方程：
+logKOC=0.758-0.0461χ+0.2031χV+0.3042χ+0.0452χV+ΣMiFi
+n=211,r2=0.783,s=0.413
+(4)
+式中，Mi为第i个极性基团的个数，Fi为第i个极性基团的极性因子.
+　　回归方程的可决数值r2由式(3)的0.565提高到0.783，估计的标准差s由式(3)的0.567降低到0.413，说明引入极性因子后，模型对极性化合物KOC值的估算精度明显提高.由方程(4)可看出，1χ和2χV在方程中是不重要的，这两个变量的系数与1χV，2χ的系数相比，相差一个数量级，因此可从方程中剔除.仅选择1χV、2χ和极性因子作为自变量进行回归分析，得到以下方程：
+logKOC=0.731+0.2131χV+0.2812χ+ΣMiFi
+n=211,r2=0.782,s=0.413
+(5)
+拟合中求得的极性因子数值如表1所示.
+　　剔除1χ和2χV后，模型对KOC的估算效果几乎不变.所得极性因子数值全部为负数，反映了极性基团对极性化合物吸附的负影响.如前所述，极性基团容易与水/固体系中的水分子以氢键结合或发生其它反应，从而降低其在固相上的吸附.
+表1　极性因子数值表
+Table 1 Values of polar factors
+基团极性因子基团极性因子基团极性因子
+-COOH-1.892-SO2-1.160-COO--0.529
+-OH-0.444-CON-1.261-PO--0.581
+-CO--0.466-NCON--1.238-O--0.112
+-NH2-0.319-SCON--0.668-N -0.147
+-NO2-0.394　　　　
+3.5　模型验证
+　　为验证所建模型的可靠性，用式(5)计算了验证组中20种极性化合物的KOC值，图5和图6也同时给出了其计算与实测logKOC的关系及误差分析.验证组KOC计算值与实测值的平均误差仅为0.38个对数单位，由于这些化合物的实测数据并未用于模型建立过程中，从而证实了所建模型的可靠性.图中所示结果表明无论是计算结果比较还是误差分布比较，验证组与建模组均无显著差别.
+
+
+图5　根据1χV、2χ与极性因子计算的两组极性化合物logKOC与实测值关系
+Fig.5 Relationship between the calculated and measured KOC value s of compounds in both sets
+
+
+图6　根据1χV、2χ与极性因子计算的两组极性化合物KOC的误差分布 
+Fig.6 Residual distribution of the calculated KOC based on 1χ、2χ and polar factors sets
+3.6　最终模型确定
+　　为充分利用现有数据信息，改善模型参数的准确性，以两组中所有极性化合物实测KOC值为基础，按式(5)的形式重新建立回归模型，得：
+logKOC=0.750+0.2221χV+0.2402χ+ΣMiFi
+n=211,r2=0.757,s=0.427
+(6)
+拟合中求得的极性因子数值如表2所示.
+表2　极性因子数值表
+Table 2 Values of polar factors
+基团极性因子基团极性因子基团极性因子
+-COOH-1.635-SO2-1.188-COO--0.527
+-OH-0.366-CON1.088-PO--0.448
+-CO--0.296-NCON--1.044-O--0.137
+-NH2-0.170-SCON--0.523-N--0.194
+-NO2-0.308　　　
+
+　　式(6)即为最终确定的根据分子连接性指数估算极性化合物KOC的模型.该模型对总共231种极性化合物KOC的估算误差如图7所示.其平均误差为0.31个对数单位，45%的化合物误差小于0.2个对数单位.
+　　从所建模型来看，极性有机化合物KOC由两部分组成：一是分子连接性指数，主要描述分子中非极性部分对KOC的贡献；另一是极性因子，主要描述分子中极性部分对KOC的贡献.极性基团的存在影响了化合物在水/固两相间的分子间相互作用，且这种影响随着基团的种类和数目而变化.与已有的计算极性化合物KOC的模型相比，本模型具有如下优越性：1)方法简便，计算时不需输入其它实验参数；2)有助于从分子水平上了解和阐释极性化合物的吸附机理；3)适用性强，可用于估算各类极性化合物的KOC.
+　　与前期研究中建立的非极性化合物KOC计算模型相比［4］(平均误差0.26个对数单位)，本文模型计算精度略差，这一方面可能是由于除有机质外，其它吸附剂(如粘土矿物)也对极性化合物的吸附有影响；另一方面是由于研究所用的KOC实测数据本身精度不高.从总体上看，所建模型可用于估算极性化合物的KOC.
+
+
+图7　根据1χV、2χ与极性因子计算的231种极性化合物KOC的误差分布
+Fig.7 Residual distribution of the calculated KO C based on 1χV,2χ and polar factors for 231 polar compund s
+　4　结　论
+　　由于极性基团的存在，极性有机化合物分子连接性指数与它们的KOC没有很好的线性关系，仅根据分子连接性指数，不能准确地计算其KOC.通过引入极性校正参数，能够大大提高对KOC的估算精度.对大多数极性化合物而言，选择1χV,2χ和极性因子即可较准确地计算KOC.根据231种极性化合物KOC实测数据建立的模型，其估算的平均误差为0.31个对数单位，45%的误差小于0.2个对数单位.
+* 自然科学基金重点项目(49632060)和国家杰出青年基金项目(49525102)资助
+作者单位:北京大学城市与环境学系，北京　100871
+参考文献
+[1]　Chiou C T. Reactions and movement of orgainc chemicals in soils. SSSA, Madison, WI.1992.1-29
+[2]　Meylan W, Howard P H, Boething R S. Molecular topology/fragment contribution method for predicting soil sorption coefficients. Environ Sci & Technol, 1992,26 :1560-1567
+[3] Bahnick D A, Doucette W J. Use of molecular connectivity indices to estimate soil sorption coefficients for organic chemicals. Chemosphere, 1988, 17(9):1703 -1715
+[4] 卢晓霞，陶　澍，李　杭，朴海善等.根据分子连接性指数估算非极性有机化合物的K OC.土壤学报，1999，36：待发表
+[5] Sabljic A. On the prediction of soil sorption coefficients of organic polluta nts from molecular structure: application of molecular topolgy model. Environ Sc i & Technol, 1987,21:358-366
+[6] Sekusak S, Sabljic A. Soil sorption and chemical topology. Journal of Math ematical Chemistry, 1992,11:271-280
+[7] Gerstl Z, Helling C S. Evaluation of molecular connectivity as a predictive m ethod for the adsorption of pesticides by soils. J Environ Sci Health, 1987,B22: 55-69
+[8] Briggs G G. A simple relationship between soil sorption of organic chemicals and their octanol-water partitioning behaviour. Proc 7th British Insecticide An d Fungicide Conf, 1973,11:475-478
+[9] Briggs G G. Theoretical and experimental relationships between soil adsorptio n, octanol-water partition coefficients, water solubilities, bioconcentration f actors, and the parachor. J Agric Food Chem, 1981,29:1050-1059
+[10] Kenaga E E, Goring C A. In:Eaton J G, Parish P P and Hendricks A C (eds).Relationship between water solubility, soil so rption, octanol-water Partitioning, and concentration of chemicals in biota. Aquatic Toxicology, Proceedings of the third annual symposium on aquatic toxicology. ASTM, STP 707, Philadelphia. 1980:78-115
+[11] Karickhoff S W, Brown D S, Scott T A. Sorption of hydrophobic pollutants on natural sediments. Water Res, 1979, 13:241-248
+[12] Karickhoff S W, Semiempirical estimation of sorption of hydrophobic pollutan ts on natural sediments and soils. Chemosphere, 1981,10(8):833-846
+[13]　Karickfoff S W, Morris K R.Sorption dynamics of hydrophobic pollutants in se diment suspensions. Env Toxicol Chem, 1985, 4(4):469-479
+[14]　Donglas A G. Proceedings of 9th International Meeting on Organic Geochemistr y. Newcastle Upon Tyne. 1979
+[15] Vowles P D, Mantoura R F C. Sediment-water partition coefficiients and HPLC -retention factors of aromatic hydrocarbons. Chemosphere, 1987,16:109-116
+[16]　Hassett J J. Sorption properties of sediments and energy-related pollutants . EPA-600/3-80-041. 1980.23-67
+[17] Hassett J J. Sorption of alpha-naphthol:Implications concerning the limits of hydrophobic sorpting. Soil Sci Soc Am J, 1981, 45(1):38-42
+[18]　Chiou C T, Peters L J, Freed V H. A physical concept of soil-water equilibr ia for nonionc organic compounds. Science, 1979,206:831-832
+[19]　Chiou C T, Porter P E, Schmeddi D W. Partition equlibria of nonionic organic compounds between soil organic matter and water. Env Sci & Tech, 1983,17(4):227 -231
+[20]　Kier L B, Hall L H. Molecular connectivity in structure activity analysis. R esearch Studies Press, Chichester. 1986
+1997-08-18收到原稿　1998-04-28收到修改稿

@@ -1,0 +1,25 @@
+上海航天
+AEROSPACE SHANGHAI
+2001 Vol.18 No.1 P.12-15
+
+
+
+
+天基综合信息网络构想
+袁孝康　 
+摘　要：论述了天基综合信息网络的定义、分类、特点和总体构想。着重对天基遥感信息网络的网络结构、传输方式、多址方式、传输链路的建立和保持、信息处理方式、传输协议、系统容量等问题进行了分析，提出了明确的见解和需要解决的关键技术课题。
+关键词：天基综合信息网络；信息传输；信息处理；组网技术；星间传输链路；发展战略研究
+分类号：V443+.1　文献标识码：A
+文章编号：1006－1630（2001）01－0012－04
+Architecture of Space Base Synthetic Information Networks
+YUAN Xiao-kang（No. 509 Institute of SAST, Shanghai 200240, China）　
+Abstract：The definition, classification, feature, and architecture of space base synthetic information networks are explained in this paper. The network architecture, transmitting fashion, multiple access fashion, the setup and maintenance of the transmission link, the information handling fashion, transmission protocol, and system capacity of the space base remote sensing information networks are emphatically described. The reviews and the key technologies are also presented.
+Keywords：Space base synthetic information network; Information transmission; Information handling; Network technology; Intersatellite transmission links; Study of developing strategy
+作者简介：袁孝康（1939-），男，研究员，上海市宇航学会会员，研究领域：空间电子学与卫星总体技术。 
+作者单位：袁孝康（上海航天技术研究院509所，上海 200240）　
+参考文献：
+［1］国外应用卫星资料汇编[Z].上海航天局第八七研究所,1992,12.
+［2］天基综合信息网络论文集[C]·组网技术.1999年全国天基综合信息网络研讨会,北京.
+［3］天基综合信息网络论文集[C]·星间链路.1999年全国天基综合信息网络研讨会,北京.
+收稿日期：2000年5月24日
+出版日期：2001年2月25日

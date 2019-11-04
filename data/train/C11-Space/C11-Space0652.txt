@@ -1,0 +1,31 @@
+上海航天
+AEROSPACE SHANGHAI
+2001 Vol.18 No.3 P.19-21
+
+
+
+
+一种检测SAR图像边缘的方法
+刘先锋　 郑明洁　 
+摘　要：传统算法不能很好地解决合成孔径雷达（SAR）图像边缘检测问题。为此提出了一种改进方法：将Haralick曲面拟合法和改进的广义模糊算子（GFO）两种算法相结合，分别独立求出SAR图像边缘，然后将分别求出的图像边缘合并，得出最终边缘。用实际SAR图像对该算法进行检验，验证了该算法的有效性。
+关键词：星载合成孔径雷达；图像处理；边缘检测
+分类号：TN958.2；TN957.52　文献标识码：A
+文章编号：1006-1630(2001)03-0019-03
+A Algorithm of SAR Image Edge Detection 
+LIU Xian-feng（Dept. of Electronics Engineer, Beijing Institute of Technology, Beijing 100081，China）　
+ZHENG Ming-jie（Institute of Electronics, Chinese Academy of sciences, Beijing 100080，China）　
+
+Abstract：At present, classic image edge detection algorithm is not very suitable for SAR image. This paper gives a new effective algorithm to solve the problem. We use Haralick method and GFO method to independently detect the SAR image edge and then merge the two results to obtain a final edge. An example was given at end of this paper.
+Keywords：Spaceborne SAR；Radar image; Image processing; Edge detection
+
+作者简介：刘先锋（1974－），男，博士生，研究领域：星载合成雷达信号处理。 
+作者单位：刘先锋（北京理工大学电子工程系,北京 100081）　
+　　　　　郑明洁（中科院电子所，北京 100080）　
+
+参考文献：
+［1］SHI Zheng-huo,Fung K B.A comparison of digital speckle filters[C].Processing of IGARSS'94.
+［2］Haralick R.Edge and region analysis for digital image data[M].New York,Academic Press,1983.
+［3］陈武凡,鲁贤庆,陈建军,等.彩色图像边缘检测的新方法——广义模糊算子法[J].中国科学（A辑）,1995,25(2).
+
+收稿日期：2000年3月22日
+出版日期：2001年3月1日

@@ -1,0 +1,94 @@
+航空工艺技术
+AERONAUTICAL MANUFACTURING TECHNOLOGY
+1999年 第2期 No.2 1999
+
+
+
+非球曲面超精密车削过程中的轮廓补偿控制方法
+
+王　波　董　申　赵万生
+　　[摘要]　介绍了一种可提高非球曲面超精密加工机床的轮廓跟踪精度的误差补偿控制方法。该轮廓补偿控制器是机床轮廓位置伺服系统的一部分，它以二次曲线代替原微直线段来逼近给定轮廓，可提高系统的轮廓逼近精度，并减小插补数据不连续对伺服系统的冲击，从而最终提高轮廓的加工精度。
+　　关键词：非球曲面　超精密车削　轮廓补偿
+Contouring Compensation Control Method in Ultraprecise Turning Aspherical Surface
+　　[ABSTRACT]　An error compensation control method which can improve contour tracing accuracy of aspherical surface ultraprecise machine is introduced. This contouring compensation controller is part of the machine contour position of the servo system. It uses the conic to approach the given contour instead of the original microstraight line segments to improve the contour approach accuracy of the system and to reduce the impact to the servo system caused by discontinuous small interpolation, therefor the machining accuracy of the contour can be finally increased.
+　　Keywords: Aspherical surface　Ultraprecise turning　Contouring compensation
+　　非球曲面超精密加工技术是尖端技术产品开发中不可缺少的关键加工手段，在军工和民用工业都有极为广泛的应用前景，如巡航导弹上的跟踪镜、激光核聚变用的反射镜、大型天体观测系统的反射镜等。数控金刚石超精密车削是光学曲面加工中高效且经济的手段之一。从60年代起，各国开始开发、研制各种超精密金刚石车床。
+　　超精密金刚石车削机床的加工精度取决于机床的运行精度，而机床的运动精度又取决于机床伺服系统的位置控制精度，特别是跟踪精度。研究人员［1］对伺服系统动态特性对数控机床圆轨迹的加工精度影响机理进行了研究，认为在不考虑机床自身几何精度的前提下，系统的轮廓误差主要由伺服系统的动态特性和联动轴之间的动态参数不匹配引起的。当今，国内外的专家和学者一般从机床精度补偿、运动轴的高精度跟踪控制和联动轴的交叉耦合控制3个方面着手，来提高机床的轮廓加工精度。超精密机床的精度主要靠机床基准元部件的精度保证，但继续提高机床部件的精度已十分困难，而且一些加工中产生的误差很难消除。利用计算机修正其误差，可进一步提高加工精度，这是超精密加工发展的一个方向。如代表当今世界超精密加工最高水平的3台大型机床：美国LLNL国家实验室的DTM-3型卧式大型光学金刚石车床、LODTM型立式大型光学金刚石车床和英国Cranfield公司研制成功的OAGM-2500型超精密机床，均采用了压电式微位移机构，以实现在线精度控制补偿。为了提高机床伺服系统的精度，Tomizuka［2］提出了一种零相位误差跟踪控制(ZPETC)算法。这是一种用于跟踪时变信号的数字式前馈控制算法。它可以得到极小的跟踪误差和平滑的跟踪速度，但是它对建模误差和系统参数变化比较敏感，同时对插补数据的不连续(主要表现为速度和加速度变化的不连续引起的输入信号中的高频成分)也比较敏感。理论分析证明，即使在跟踪误差非常小的情况下，系统的轮廓误差仍然可能很大。基于这种认识，Koren［3］提出了交叉耦合轮廓控制(Cross_coupled contour control)算法。一般来说，对线性轨迹，交叉耦合控制器是一个多变量系统；对圆弧轨迹来说，是一个多变量时变系统，系统的分析与控制均非常困难［4］。另一方面，交叉耦合轮廓控制器在结构设计、参数选择等方面还不够完善，限制了实际应用［5］。
+　　在我单位自行研制的HCM-3型超精密车床的基础上，我们采用了一种基于时间分割原理的数控插补误差补偿算法。该算法以二次曲线代替直线段来逼近给定轮廓，既可以补偿原插补算法所带来的插补误差，也可以在一定程度上减小插补数据的不连续对跟踪精度的影响，从而提高系统的轮廓加工精度。该补偿控制器与原有的伺服控制系统配合使用而不需增加任何硬件设备。   
+1　补偿算法
+　　当采用采样数据法进行数控插补时，插补控制器首先给出具有相同时间间隔的一系列离散的点，在点与点之间则多采用线性插补方法进行精插补，如图1所示。
+
+图1　线性插补方法示意图
+Fig.1　Scheme of linear interpolation method
+
+(1)
+
+(2)
+用直线段逼近轮廓曲线时，一方面不可避免地存在轮廓误差，另一方面则会引起插补速度和加速度的不连续。为了解决这一问题，可以采用线性速度法代替直线段逼近法，如图2所示。在i～i+1时间段内速度和位移表达式见式(3)，(4)。
+
+图2　非线性插补方法示意图
+Fig.2　Scheme of non_linear interpolation method
+
+(3)
+
+(4)
+式(4)中，k的取值反映了速度曲线的斜率和位移曲线的曲率，如图3所示。为了保证误差补偿的精度和分析方便，本课题取k=2。
+
+图3　k值与曲线段曲率的关系
+Fig.3　Curvature of curve segment
+dependence of k value
+2　误差分析
+　　为了便于分析非球曲面插补的理论误差，假设在第i点附近的非圆曲线可用与其有共同曲率半径的密切圆来代替，如图4所示。
+
+图4　误差分析示意图
+Fig.4　Scheme of error analysis
+　　第i点的曲率为
+
+该密切圆的半径R=1/C，这样，非圆曲线插补及补偿控制误差的分析转变为圆弧插补及补偿控制误差的分析，从而使问题得到了很大的简化。
+　　当采用内接弦逼近原弧时，其插补原理误差为
+
+　　本文中介绍的插补误差补偿算法相当于在原线性位置插补算法的基础之上增加了一个补偿控制量ΔE，
+其中，
+
+
+(6)
+同理
+
+(7)
+由图(4)所示的几何关系可知，
+　　　　　　　xi+2=Rsin(θ+2α)
+　　　　　　　xi+1=Rsin(θ+α)
+　　　　　　　xi=Rsinθ
+　　　　　　　xi-1=Rsin(θ-α)
+由式(6)，(7)得
+
+(8)
+
+(9)
+补偿后的最大误差为
+
+(10)
+对上式进行泰勒展开，
+
+(11)
+其中，k1=0.023 438,C为曲线在i点的曲率，Δl为内接弦长度。
+　　由式(11)可知，由原来的步距角的二次方减小到步距角的四次方，即对同一曲线而言，在相同的插补误差条件下，逼近的内接弦长度可增大100倍，也就是说，上位机的插补点可减小100倍，从而极大地减小了上位机的运算量，使上位机实现实时插补成为可能。
+3　试验研究
+　　为了验证本方案的有效性，采用由我单位研制的HCM-1型超精密机床进行了实际的圆弧轮廓控制试验，圆弧半径为30 mm，进给速度为5 mm/min，结果见图5，6。
+　　由试验结果可知，采用本补偿控制方法之后，提高了机床的轮廓控制精度。
+
+图5　补偿前的轮廓误差
+Fig.5　Contour error before compensation
+
+图6　补偿后的轮廓误差
+Fig.6　Contour error after compensation
+
+作者单位：王　波　董　申　赵万生（哈尔滨工业大学机电学院）
+
+参考文献
+　[1] 虞文华，吴昭同，杨世锡.伺服系统动特性对数控机床圆轨迹加工精度影响的机理.中国机械工程，1995，6(1)：21～23
+　[2] Tomizuka Masayoshi. Zero phase error tracking algorithm for digital control. Journal of Dynamics Systems, Measurement and Control, 1987,109(3):65～68
+　[3] Koren Y. Cross_coupled bixial computer control for manufacturing systems, ASME Trans. Joumal of Dynamic Systems. Measurement and Control, 1980,102(4):265～272
+　[4] Yaw_Shih Shieh,Lee An_Chen, Chen Chin_Sheng. Cross_coupled biaxial step control for CNC EDM. Int.J.Mach.Tools Manufact, 1996,36(12):1363～1383
+　[5] 张秋菊，李宏.模糊推理耦合轮廓误差补偿方法的研究.中国机械工程，1995，6(2)：19～21
+(责编　根　山)

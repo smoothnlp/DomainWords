@@ -1,0 +1,79 @@
+环境科学学报
+ACTA SCIENTIAE CIRCUMSTANTIAE
+1999年　第19卷　第4期　Vol.19　No.4　1999
+
+
+
+氯唑磷在土壤中的降解性能与移动性研究
+石利利　朱忠林　单正军　蔡道基　
+摘要　在实验室与野外田间状态下，研究了氯唑磷农药在砂土、砂壤土及粘壤土中的降解特性，降解速率依次为：砂壤土>粘壤土>矿土；其降解半衰期分别为47.2、59.8和67.3d.测定了氯唑磷农药在上述3种土壤中的淋溶移动性能，其淋溶移动速率次序为砂土>砂壤土>粘壤土；试验区地下水中均检测到氯唑磷农药残留，证实氯唑磷农药对地下水有污染影响.
+关键词　氯唑磷；土壤；降解；移动性；地下水.
+Studies on the mobility and degradation chracteristics of isazophos pesticide in soils
+SHI Lili,ZHU Zhonglin,SHAN Zhengjun,CAI Daoji 
+(Nanjing Research Institute of Environmental Sciences,NEPA,Nanjing 210042)
+Abstract　The mobility and degradation of Isazophos in different texture soils were studied in laboratory and open fields.The results showed that the degradation rate of Isazophos in soil was in the order:sandy loam soil>clay loam soil>sandy soil,and half\|time of Isazophos degradation in the three different soils were 47.2 days,59.8 days and 67.3 days,respectively.The mobility of Isazophos in the three different soils was studied by soil column elution method.The results showed that the leaching ability of Isazophos was found in the order:sandy soil>sandy loam soil>clay loam soil.The mobility of Isazophos was similar to the mobility of pesticide Alachor,and the groundwater pollution of Isazophos maybe happened.The results of open field tests showed that Isazophos has been identified in the groundwater under test areas.It is verified that the groundwater pollution of Isazophos has been happened.
+Keywords　Isazophos,soil,degradation,mobility,groundwater.
+　　
+　　氯唑磷农药(商品名：米乐尔)是瑞士汽巴-嘉基有限公司于1973年开发的广谱、内吸、杀虫、杀线虫剂，已在世界29个国家作为杀虫、杀线虫剂登记，国际上广泛用于大田作物、经济作物、牧草等的虫害防治.本文根据《化学农药环境安全评价试验准则》的要求，在实验室与野外田间状态下，研究了氯唑磷在不同土壤中的降解与迁移规律，为氯唑磷农药的登记及其对地下水的安全性评价提供了科学依据.
+
+1　试验材料与方法
+1.1　供试材料
+　　供试农药：氯唑磷，由瑞士汽巴-嘉基有限公司提供，纯度>99.9%.
+　　供试土壤：砂土、砂壤土、粘壤土均采自浙江省义乌市，经风干、研磨、过20目筛后备用.其主要理化特性为：砂土pH 5.10，有机质0.86%，代换量8.42meq/100g;砂壤土pH 5.38，有机质1.25%，代换量12.51meq/100g；粘壤土pH 5.52，有机质1.59%，代换量13.97meq/100g.
+　　试剂：丙酮、石油醚均为分析纯.
+1.2　试验方法
+1.2.1　氯唑磷在土壤和水体中的残留测定方法　准确称取0.0500g氯唑磷标准品于100mL容量瓶中，用重蒸石油醚定容至刻度，得500mg/L的氯唑磷标准贮备溶液.氯唑磷标准工作溶液由氯唑磷标准贮备溶液用重蒸石油醚稀释制得.
+　　水体中氯唑磷残留测定：100mL水样于150mL分液漏斗中，各加50mL石油醚萃取二次，合并二次萃取液，转入K-D浓缩器上浓缩至近干，N2吹干后，石油醚定容，供HP5890气相色谱仪测定.色谱条件：NP检测器；液膜厚度为0.63μm的甲基硅酮固定液，长10m，内径0.53mm的毛细管柱；气体流速：N2 54.0mL/min,H2 3.0mL/min,air 60mL/min;测定温度：汽化室250℃，柱温160℃，检测器温度300℃.
+　　土壤中氯唑磷残留测定：准确称取25.00g土样于200mL具塞三角瓶中，各加30mL丙酮，恒温振荡1h后，离心，过滤，合并二次提取液，置K-D浓缩器上除去丙酮至近干，加入100mL蒸馏水，下同水体氯唑磷测定.
+1.2.2　氯唑磷在土壤中的降解　设置砂土、砂壤土、粘壤土各一组，每组10个，每个称25.00g土于100mL具塞三角瓶中，加入一定量的氯唑磷农药标准工作溶液，待溶剂挥发尽后将土样充分混匀，加入重蒸水，调节土壤含水量约为饱和含水量的60%，用棉塞塞紧瓶口，置于20℃恒温培养箱，定期取样，分析测定土壤中氯唑磷农药的含量.
+1.2.3　氯唑磷在土壤中的移动　将上述土壤分别装入三组内径为32mm的塑料管中，土柱高60cm，每组各二根.柱内土壤用蒸馏水预饱和，再加5mg氯唑磷农药于10g上述土壤中混匀，待溶剂挥发尽后置于土柱上层，再在土表覆一层玻璃棉，每日加入30mL(相当于37.3mm的降水量)的蒸馏水淋溶，收集并记录淋出水量，测定淋出水和最终土柱层(每10cm土柱为一层)中的农药含量.
+　　另设一组柱高为1m的塑料管，内装砂土进行淋溶试验，试验步骤同上.
+
+2　结果和讨论
+2.1　氯唑磷在土壤中的降解
+　　试验在室内20℃条件下测定了氯唑磷在砂土、砂壤土与粘壤土三种供试土壤中的降解情况见表1.从表1可以看出，因土壤有机质含量与土壤质地不同，氯唑磷的降解速率在砂壤土中最快，粘壤土中次之，砂土中最慢，其降解半衰期分别为47.2d\,59.8d\,67.3d.在此，氯唑磷的土壤降解特性与粘壤土、砂壤土的理化性质间的递变规律不相一致，其原因有待进一步研究.根据国外的调查结果［1，2，3］，在地下水中有检出的农药品种，其在土壤中的降解半衰期大多在10—60d之间，与其相比，氯唑磷属于土壤降解半衰期较长的品种，有可能造成对地下水的影响.
+表1　氯唑磷在三种供试土壤中的降解
+Table 1 Degradation of isazophos in soils
+
+取样时间，d0371424365065
+砂土，mg/kg4.073.813.573.413.202.772.661.95
+砂壤土,mg/kg4.703.743.172.652.622.421.711.60
+粘壤土,mg/kg4.454.143.352.962.702.292.221.81
+
+砂土：lnC＝1.390-0.0103t (r＝0.9793,n=8,T1/2=67.3d)
+砂壤土：lnC=1.346-0.0147t (r＝0.9768,n=8,T1/2=47.2d)
+粘壤土：lnC＝1.318-0.0116t (r=0.9600,n=8,T1/2=59.8d)
+2.2　氯唑磷在土壤中的移动
+　　室内实验结果见表2.从表2中可以看出，氯唑磷在3种供试土壤中的淋溶速率次序为：砂土>砂壤土>粘壤土，因随土壤质地变粘，土壤对农药的吸附性增大，农药在土柱中的吸附量增加.在60cm的砂土柱中，经过360mL水淋洗后，氯唑磷在土柱中的总残留量占添加量的41.8%，最大浓度深度为50—60cm，淋出水中占43.71%；在60cm砂壤土柱和粘壤土柱中，经390mL水淋洗后，氯唑磷在各土柱中的总残留量分别占添加量的53.17%、55.84%，最大浓度深度均为40—50cm，淋出水中分别占27.46%、26.70%.
+表2　氯唑磷在不同土壤中的移动
+Table 2 Data of isazophos mobility in soils
+
+土层，cm砂土砂壤土粘壤土
+μg%μg%μg%
+0—1011.50.2325.50.5173.01.46
+10—2021.50.43113.52.27144.02.88
+20—3028.50.57234.54.69281.05.62
+30—40173.53.47539.010.78748.014.96
+40—50675.013.141011.020.22823.016.46
+50—601198.023.96735.014.70723.014.46
+淋出水2185.543.711373.027.461335.026.70
+∑4275.585.514031.580.634127.082.54
+
+　　淋溶试验所用塑料管内径为3.2cm(截面积8.04cm2)；淋洗水量：砂土柱为360mL(相当于444.4mm降水量)；其它柱为390mL(相当于481.4mm降水量).
+　　在1m砂土柱中的淋溶试验中，氯唑磷的淋溶深度(指最大浓度)为60—70cm，其在表层0—10cm有检出，与农药甲草胺(拉索)移动速率相当［4］.农药在土壤中的移动强度与农药的水溶性成正比，而与其土壤吸附常数成反比［5］.与甲草胺类同，氯唑磷农药具有对地下水污染的潜在可能性.
+2.3　田间试验
+　　为进一步研究氯唑磷对地下水的影响，在浙江省义乌市选择了3块土壤类型分别为砂土、砂壤土、粘壤土的甘蔗种植区进行了田间试验，试验点面积均为10000m2(1ha)，结果表明，施药(药量以有效成分计为1.8kg/ha)后一个月，在试验区观测井(井深2.5m)水中检测到了氯唑磷农药的残留，浓度为0.38—1.10μg/L间.试验区气象资料显示，施药前当地下了一场大雨，雨量为155.2mm，故施药时试验区土壤中的水分含量已经饱和，施药后，一直不断地下小到中雨，其中下了三场中到大雨，致使所施的氯唑磷农药在试验区土层中向下淋溶.2个月后，井水中氯唑磷残留浓度为1.53—2.15μg/L间.故在试验区的土壤、水文、气候条件下，尽管氯唑磷农药在地下水中的残留量极低，但氯唑磷已经淋溶移动到地下水层中.
+
+3　结论
+　　氯唑磷农药的水溶性大(常温下，在水中的溶解度为150mg/L)，毒性高(对大鼠的急性经口毒性LD50为40—60mg/kg)，对使用地区的地下水具有污染的风险性.
+作者单位:(国家环境保护局南京环境科学研究所，南京　210042)
+参考文献
+　1　Hallberg G R.Pesticide pollution of groundwater in the humid United States.Agriculture,Ecosystems and Environment,1989,26(4):299—368
+　2　Leistra M,Boesten JJTI.Pesticide contamination of groundwater in Wesern Europe.Agriculture,Ecosystems and Environment,1989,26(4):369—389
+　3　Holden P W.Pesticide and groundwater quality issues and problems in four states.National Academy Press.Washington DC.,1986.124
+　4 单正军、朱忠林等.涕灭威等三种农药在土壤中的移动性.农村生态环境，1994，10(4)：30—33
+　5　单正军等.甲基异柳磷等四种农药在土壤中的吸附特性.见：国家环境保护局有毒化学品管理办公室等编.有毒化学品研究与管理技术.上海：上海科学普及出版社.1992.119—124
+1997-12-17收到原稿
+1998-06-25收到修改稿
+
+

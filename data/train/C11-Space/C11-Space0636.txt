@@ -1,0 +1,41 @@
+上海航天
+AEROSPACE SHANGHAI
+2001 Vol.18 No.2 P.24-28
+
+
+
+
+FY-1C卫星空间粒子成分监测器及其探测结果
+王世金　 朱光武　 梁金宝　 张微　 李保权　 舒伟民　 
+摘　要：简要介绍了FY-1C星空间粒子成分监测器的任务目标、工作原理、创新特色及在轨探测结果。空间粒子成分监测器用于卫星轨道空间的带电粒子辐射监测，为卫星的在轨安全和抗辐射加固设计服务。监测器在世界上首次实现用1套传感器完成对高能电子、质子、α粒子至铁离子的全成分监测，使我国首次获得了870km高太阳同步轨道全空间的各种重离子分布、质子能谱分布和电子通量分布，捕捉到大量的地磁暴和太阳质子事件，获得一批重要的探测成果。
+关键词：监测器；空间粒子；地球辐射带；太阳质子事件；磁暴
+分类号：V520.6　文献标识码：A
+文章编号：1006－1630(2001)02－0024－05
+FY-1C Space Particle Composition Monitor and the Results Detected
+WANG Shi-jin（Center for Space Science and Applied Research, Chinese Academy of Sciences, B eijing 100080, China）　
+ZHU Guang-wu（Center for Space Science and Applied Research, Chinese Academy of Sciences, B eijing 100080, China）　
+LIANG Jin-bao（Center for Space Science and Applied Research, Chinese Academy of Sciences, B eijing 100080, China）　
+ZHANG Wei（Center for Space Science and Applied Research, Chinese Academy of Sciences, B eijing 100080, China）　
+LI Bao-quan（Center for Space Science and Applied Research, Chinese Academy of Sciences, B eijing 100080, China）　
+SHU Wei-min（No.509 Institute of SAST, Shanghai 200240, China）　
+
+Abstract：It presents in brief the mission, principle, innovation and the re sults detected of the SPM (Space Particle Composition Monitor) onboard FY-1C sa t ellite. The SPM is used to monitor space charged particles, serves orbital satel lites' safety and radiation tolerance design. It has been realized firstly in th e world to use a set of sensors to detect high energy electron, proton, alpha pa rticle and all kinds of heavy ions simultaneously. According to the detected res ults of the SPM the space distribution of the heavy ions, proton and electron in sun-synchronous orbit at 870 km altitude have been obtained. A multitude of ma gnetic storm and the solar proton events have also been monitored by the SPM.
+Keywords：Monitor；Space particle；Earth radiation belt；Sun proton event； Magnetic storm
+作者简介：王世金(1965-)，男，研究员，研究领域：空间环境及航天器效应。 
+作者单位：王世金（中国科学院空间科学与应用研究中心，北京 100080）　
+　　　　　朱光武（中国科学院空间科学与应用研究中心，北京 100080）　
+　　　　　梁金宝（中国科学院空间科学与应用研究中心，北京 100080）　
+　　　　　张微（中国科学院空间科学与应用研究中心，北京 100080）　
+　　　　　李保权（中国科学院空间科学与应用研究中心，北京 100080）　
+　　　　　舒伟民（上海航天技术研究院509所，上海 200240）　
+
+参考文献：
+［1］臧振群,古士分,师立勤,等. 航天器异常与空间环境[J].空间科学学报,1998,18(4)：342-347.
+［2］Julian M W. The national space weather program[R]. Federal Coordinator for Meteorological Services and Supporting Research, FCM-P31-1977, Washington, DC , 1997.
+［3］Steve Pearson. NASA's space environments and effects (SEE) program [R]. Geor ge C. Marshall Space Flight Center, NP-1999-06-74-MSFC, Huntsville, Al 35812 , 1998.
+［4］叶宗海. 空间粒子辐射探测技术[M]. 北京: 科学出版社,1986.148 -198.
+［5］Sawyer D M, Vette, J I. AP-8 Trapped proton environment for solar m aximum an d solar minimum[R]. National Space Science Data Center, NSSDC/WDC-A- R&S 76-06, Greenbelt, MD, 1976.
+
+收稿日期：2000年11月17日
+修稿日期：2001年1月19日
+出版日期：2001年4月25日

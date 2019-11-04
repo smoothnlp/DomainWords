@@ -1,0 +1,160 @@
+宇航学报 
+JOURNAL OF ASTRONAUTICS
+1998年 第19卷 第1期 No1 Vol.9 1998科技期刊
+
+最 优 偏 置 比 例 导 引
+李君龙
+(航天工业总公司二院二部*北京*100854)
+胡恒章
+(哈尔滨工业大学*哈尔滨*150001)
+　　摘　要　本文研究了偏置比例导引的解析解,并根据能量最小准则优化了偏置参数。最优偏置参数能用一个易于求解的代数方程表示。由于该制导律控制效率高,因而它特别适合于大气层外拦截。
+　　主题词　偏置比例导引　累积速度增量　视线角速度
+OPTIMAL BIASED PROPORTIONAL NAVIGATION
+Li Junlong
+(The Second Department of the Second Academy,CASC*Beijing*100854)
+Hu Hengzhang
+(Harbin Institute of Technology*Harbin*150001)
+　　Abstract　In the paper,the analytical solution of the biased proportional navigation is investigated,and bias parameter is optimized in the view of minimized control effort.Optimum bias is expressed through a simple algebraic equation.The higher control efficiency of the law is especialy useful in extra-atmospheric interception.
+　　Key words　Biased proportional navigation　Cumulative velocity increment　Bearing-rate
+1　引　言
+　　比例导引通常用于制导导弹的追踪。在比例导引中,导弹的转弯率和视线角速度成正比。尽管比例导引能在各种各样条件下进行拦截,但是它的控制效率在许多情况下,特别是目标机动时不是最优的。在偏置比例导引中,由于引入了偏置项,所以它能在减少控制能量的同时进行拦截。在大气层外,侧向控制力是由控制火箭产生的,因而在大气层外偏置比例导引更具有优越性。为了利用偏置比例导引的优点,必须通过偏置项来优化偏置比例导引的性能。优化是通过解析方法进行的,能获得最优偏置参数的简单代数方程。
+2　偏置比例导引
+　　
+
+
+图1　导弹与目标
+相对运动关系
+如图1所示,导弹M、目标T分别以速度VM、VT在一个平面内运动。从导弹M到目标T的连线称为视线。视线和惯性参考线之间的夹角θ称为视线角。VM、VT和参考线之间的夹角分别为φ,β。在纯比例导引中,
+
+(1)
+其中N为导航常数。在偏置比例导引中,
+
+(2)
+是视线角速度的偏置项。当=0时,偏置比例导引就变成了比例导引。只考虑平面运动,导弹与目标的相对运动方程为
+
+(3)
+
+(4)
+其中β=kt,k=AT/VT代表目标的转弯率。
+　　方程(3)、(4)无闭环形式解。这里将方程线性化进行解析处理。在末制导中,可认为寻的轨线是由碰撞线摄动形成的。
+φ=φC+Δφ
+(5)
+　　假定θ、Δφ比较小,目标具有小的机动。这样在末制导中,、β变化不大,可认为
+
+(6)
+β=βi
+(7)
+Vri为初始时刻导弹与目标相对距离变化率。tf为导弹与目标碰撞时刻。βi为β的初始值。将方程(4)微分并代入方程(3)得
+
+(8)
+将(2)、(6)代入(8)整理得
+
+(9)
+其中　
+方程(9)的解为]
+
+(10)
+从(10)式可见为了保证有效拦截N′必须大于2。
+3　导弹的侧向加速度
+　　在BPN中,导弹的侧向加速度为
+
+(11)
+将(10)代入(11)得
+
+(12)
+其中
+　
+(13)
+
+(14)
+
+(15)
+根据(13)、(14)、(15),能表示为
+
+(16)
+4　累积速度增量
+　　累积速度增量决定了总的控制能量。
+ΔV=∫Ti0｜AMB｜dT
+(17)
+为了计算ΔV必须考虑如下两种情况
+4.1　0≤p≤1
+　　在此情况,AMB在区间［0,Ti］内改变一次符号。这可从方程(12)中明显观察到。因为p是0和1之间的小数,而((T)/(Ti))N′-2从1单调减小到0(当N′＞2时)。加速度变号点为
+
+(18)
+
+(19)
+
+(20)
+
+
+(21)
+将(21)代入(20)整理得
+
+(22)
+其中
+令F=1+(N′-2)p(N′-1)/(N′-2)-(N′-1)p
+p=0时,F=1;p=1时,F=0。
+
+当N′＞2时,＜0,因而F≥0。
+(22)式可简化为
+
+(23)
+4.2　p＜0或p＞1
+　　由于T/Ti最大值为1,最小值为0,所以如果N′＞2,在拦截期间(12)式的右边不变号。
+
+(24)
+5　偏置参数的优化
+5.1　0≤p≤1
+　　令
+
+(25)
+　　令,则
+
+(26)
+方程(26)包含p的小数幂,但它仍然很简单,能在弹载计算机上实时求解,一旦求出p,可通过(16)式决定。
+令
+
+(27)
+令,则
+因p=0时,R=(N′-2)/(2N′)＞0;p=1时,R=-＜0;并且,当p＞2/N′时,＞0,所以R=0的解在(0,2/N′)内,并且R在(0,2/N′)内单调减小。由于R在(0,2/N′)内是单调函数,因而可通过二分搜索法求取R=0之根。首先设p1=0,p2=2/N。取p=(p1+p2)/2,若R(p)＞0,取p1=p;若R(p)＜0时,取p2=p。上述过程进行n次满足求解精度后即可求出方程(26)的解,该解即为最佳偏置比例参数。
+5.2　p≤0或p≥1
+　　累积速度增量由(24)式给出
+
+(28)
+　　当N′＞2时,,因而ΔVB是单调函数没有明显最优。但是(28)式表明当p→±∞时,ΔVB存在渐进稳定点,此时ΔVB→2Mi/Ti。
+5.3　全局最优法
+　　因在p≤0或p≥1时,因而当p＜0时ΔVB＞ΔVB｜p=0,当p≥1时,ΔVB≥2Mi/Ti。
+
+(29)
+当N′＞2时,,因而ΔVB的最小值在(0,1)域内。
+6　数字仿真算例
+　　假设导弹与目标在大气层外飞行,导弹与目标的相对速度Vri=-6000m/s,相对距离ri=120km,θi=π/3rad,,仿真结果如下　　
+
+
+图2　N′=3,AT=1g,偏置比例导引累积
+速度增量全局优化仿真曲线
+
+
+图3　最优偏置参数p与N′的关系曲线
+
+
+图4　最优偏置项与N′的关系曲线
+
+
+图5　AT=0.5g时最优BPN和
+PN的累积速度增量曲线
+
+
+图6　AT=1.5g时最优BPN和
+PN的累积速度增量曲线
+
+
+图7　AT=2.5g时最优BPN和
+PN的累积速度增量曲线
+7　结　论
+　　本文从控制能量的观点研究了BPN导引律,通过偏置参数优化获得了最优偏置比例导引。仿真结果表明最优偏置比例导引的累积速度增量比比例导引的累积速度增量小,这在N′不是很大时特别明显。该导引律特别适合于导弹在大气层外飞行,因为它可以减少火箭发动机的燃料消耗。
+参考文献
+1　Guelman M.A Qualitative Study of Proportional Navigation.IEEE Trans.On Aerospace and Electronic Systems,1971,7(4):637-643
+2　Guelman M.Proportional Navigation with a Maneuvering Target.IEEE Trans.On Aerospace and Electronic Systems,1972,8(3):364-371
+3　Shukla US and Mahapatra PR.Optimization of Biased Proportional Navigation.IEEE Trans.On Aerospace and Electronic Systems,1989,25(1):73-79
+本文于1996年10月12日收到

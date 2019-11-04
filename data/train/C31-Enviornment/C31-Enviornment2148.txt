@@ -1,0 +1,39 @@
+环境科学研究
+RESEARCH OF ENUIRONMENTAL SCIENCES
+2001 Vol.14 No.2 P.33-35
+
+
+
+
+UV/TiO2-Fenton试剂系统处理制药废水的研究
+程沧沧　 肖忠海　 胡德文　 张坚亦　 
+摘　要：以TiO2为催化剂，并将其制膜固定在不锈钢质反应器内壁上，以9W低压汞灯为光源，引入Fenton试剂，对武汉市某制药厂的制药废水进行了处理实验。取得了脱色率100%，CODCr去除率92.3%的效果。硝基苯类化合物含量从8.05mg/L降至0.41mg/L。还探讨了多种因素对光降解的影响。
+关键词：制药废水；　硝基苯；　光降解；　二氧化钛；　Fenton试剂
+分类号：K787
+文章编号：1001-6929(2001)02-0033-03
+Study on Pharmaceutical Wastewater Treatment by UV/TiO2-Fenton Agent
+CHENG Cang-cang（Urban Construction and Environmental Protection Department,Jianghan University,　Wuhan 430019,　China）　
+XIAO Zhong-hai（Urban Construction and Environmental Protection Department,Jianghan University,　Wuhan 430019,　China）　
+HU De-wen（Urban Construction and Environmental Protection Department,Jianghan University,　Wuhan 430019,　China）　
+ZHANG Jian-yi（Urban Construction and Environmental Protection Department,Jianghan University,　Wuhan 430019,　China）　
+
+Abstract：TiO2 was used as catalyst, made in the form of film and fixed on the inner wall of the stainless-steel photoreactor. The 9-W low-voltage mercury lamp was applied as light sources and Fenton agent introduced to perform pharmaceutical wastewater treatment at one pharmaceutical factory in Wuhan City. The resulted decoloration rate was 100%, with CODCr removal rate of 92.3%. Content of nitrobenzene compounds was reduced from 8.05 mg/L to 0.41 mg/L. Various factors affecting photodegradation were discussed.
+Keywords：pharmaceutical wastewater;　 nitrobenzene;　 photodegradation;　 TiO2;　 Fenton agent
+基金项目：湖北省教委立项课题
+作者简介：程沧沧(1950-)，男，湖北红安人，副教授. 
+作者单位：程沧沧（江汉大学 城建环保系，湖北 武汉　430019）　
+　　　　　肖忠海（江汉大学 城建环保系，湖北 武汉　430019）　
+　　　　　胡德文（江汉大学 城建环保系，湖北 武汉　430019）　
+　　　　　张坚亦（江汉大学 城建环保系，湖北 武汉　430019）　
+
+参考文献：
+［1］　王连生.环境健康化学[M].北京：科学出版社，1994.61～67.
+［2］　沈伟韧，赵文宽，贺飞，等.TiO2光催化反应及其在废水处理中的应用[J].化学进展，1998，10(4)：349～361.
+［3］　魏复盛，徐晓白，阎吉昌，等.水和废水监测方法指南[M].北京：中国环境科学出版社，1997.254～258.
+［4］　国家环保局编.水和废水监测分析方法(第三版)[M].北京：中国环境科学出版社，1997.424～426.
+［5］　刘勇第，徐寿昌.紫外-Fenton试剂的作用机理及其在废水处理中的应用[J].环境化学，1994，13(4)：302.
+［6］　Christoph K Scheck.Degradation of phenol and alicylic acid by UV radiation/hydrogen Peroxide/Oxygen[J].Wat Res,1995,29(10):2364.
+［7］　Sclafani A,Davi E.Photocatalylic degradation of phenol in aqueous polyerystalline TiO2 dispersions,the influence of Fe3+,Fe2+ and Ag+ on the reaction rate[J].J Photochem Photobiol A,1991,56(2):113.
+
+收稿日期：2000年5月9日
+出版日期：2001年3月30日

@@ -1,0 +1,77 @@
+宇 航 学 报
+JOURNAL OF ASTRONAUTICS
+1998年  第3期   No.3 May   1998
+科技期刊
+弹道式再入飞行器高度惯性
+控制方法
+
+杨辉耀　王仕成　邓方林
+(第二炮兵工程学院303教研室*西安*710025)
+　　摘　要　弹道式飞行器再入时,常常要求在规定高度上发出开伞信号,过载延时控制方法误差太大,不能满足精度要求。本文以飞行器轴向视加速度及其积分为控制信号,用共扼方程法设计了一种惯性高度控制方法。计算结果表明,该控制方法的控制误差小于100m。
+　　主题词　再入飞行器　惯性控制　方法
+THE INERTIAL CONTROLLING METHOD 
+TO HEIGHT OF BALLISTIC REENTRY VEHICLE
+
+Yang Huiyao　Wang Shicheng　Deng Fanglin
+(The Second Artillery Engineering College*Xi'an*710025)
+　　Abstract　The opening parachute signal is required to sent on the fixed height when the vehicle reentry.The height controlled error through axis apparent acceleration can not meet the required precision.This thesis designs an inertial controlling method to the height with the signal of the axis apparent acceleration and its integral by the method of conjugate equation.The computation results show that the controlled error is less than 100m.
+　　Key words　Reentry vehicle　Inertial controlling　Method
+1　引　言
+　　当飞行器再入至回收区上空时,要求在规定高度上打开降落伞,无线电控制容易受干扰,所以,一般都用惯性控制。常用的惯性控高方法是过载延时方法,控高方程为:
+
+(1)
+nx1,x1分别为实际弹道和标准弹道的过载,Ty,y分别为实际弹道和标准弹道从x1至高度处的延时。该方法对再入干扰不能完全补偿,最大控高误差达1300m,如此大的误差不能满足精度要求。本文在选择标准过载x1的同时,用延时Ty、轴向视速度Wx1及其积分W*x1的线性组合代替原延时方程,以达到提高控制精度的目的。
+2　高度控制方程设计
+　　
+　　高度控制就是H=,但由于飞行器无法测量自身的速度和弹道倾角θ,所以,必须将V和θ变为轴向视速度Wx1和W*x1。
+再入飞行器的运动方程:
+
+(4)
+将上式作泰勒展开:
+
+(5)
+初始条件:　V(0)=Vn,　θ(0)=θn
+忽略(5)式的高阶项,则其共轭方程为:
+
+(6)
+设共轭方程的终端条件为:
+
+(7)
+则由布利斯公式［1］得:
+
+
+(8)
+　　实际计算表明,G1(t),G2(t)在定高处接近直线,所以,可以将G1(t),G2(t)作泰勒展开:
+
+(9)
+(6)式代入(9)式得:
+
+(10)
+(6)式、(10)式同时代入(8)式得:
+
+对(11)式连续作降阶积分并代入(3),写成偏差形式:
+
+令:
+
+　　由于ΔHt,ΔHgv,ΔHG,ΔHv为高阶小量,所以,通过解弹道可以将f(Δth)逼近成Δth的线性函数:
+f(Δth)=a0+a1Δth
+(13)
+　　(13)式代入(12)式,忽略高阶项并写成标准形式:
+
+(14)
+　　上式即为本文设计的高度控制方程,方程中各系数由标准弹道确定,在地面上计算出各系数后,装订到飞行器计算机中,当过载nx1=x1时,开始计量并计算视加速度及其积分,当H=时发出开伞信号。显然,这种控制方法要求飞行器上装载有视加速度积分装置(例如陀螺积分仪)、计时装置和线性运算装置。
+3　控高方程误差分析
+　　为了简化飞行器上的计算装置,本文忽略了高阶项而设计了线性控高方法,这必然会造成控制误差,控制误差与外干扰有关,干扰越大,控制误差越大。ΔHt为二次时间补偿项,如果飞行器有平方计算能力,也可参加方程运算;ΔHgv为运动方程线性化误差,由于飞行器在开伞点附近的运动轨迹比较接近直线,所以,该项可以忽略;ΔHG为共轭方程线性化误差,由于已经是二阶项,与δ(2)G1,δ(2)G2的耦合更是高阶项;ΔHV是由再入点参数误差和再入点nx1=x1处的干扰造成的。对高阶项补偿后精度较高。
+算例:　再入参数Ve=6722m/s,He=80816m,θe=-20.4°,m=3000kg,S=3.0m2
+控制高度=2273m
+再入干扰:10%标准大气密度偏差
+采用原控高方程:x1=22,y=10.60S
+控高偏差:ΔH=853m
+　　采用本文设计的控高方程,控制误差如下表所示:
+误差项ΔHtΔHgvΔHGΔHVΔ(2)H
+数　值25.713.3-6.20.019.3
+总误差52.1m
+　　两种计算结果比较可以看出,本文设计的控高方程的精度比原方程的精度提高了8倍。
+参考文献
+1　钱学森,宋健.工程控制论(下).科学出版社,1980
+2　张毅.地地导弹弹道学.第二炮兵工程学院.1986

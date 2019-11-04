@@ -1,0 +1,119 @@
+环境科学学报
+ACTA SCIENTIAE CIRCUMSTANTIAE
+1999年 第19卷 第5期 Vol.19 No.5 1999
+
+
+
+化感物质对土壤N2O释放影响的研究*
+黄益宗　张福珠　刘淑琴　曹美秋
+摘要　选用来自作物秸秆腐解过程中产生的化感物质(苯甲酸和对叔丁基苯甲酸)，在不同浓度和水分条件下对其减少施用尿素土壤中N2O释放的影响进行了研究.结果表明，化感物质对土壤N2O释放有明显的抑制作用，且随着浓度的增大，其抑制效果越显著.在土壤水分为16.5%的状态下，100ppm、250ppm和500ppm浓度的苯甲酸处理(培养温度25—30℃)可减少47.4%—75.3% N2O从土壤中释放；而当土壤水分为100%状态时，上述浓度处理可减少50.2%—91.1%左右.当培养温度为18—20℃时，对叔丁基苯甲酸的不同浓度处理(100ppm、250ppm、500ppm和1000ppm)在土壤水分16.5%和100%时，可分别减少47.8%—74.9%和28.8%—78.1% N2O释放.试验还表明，化感物质可减缓土壤中NH4+向NO3-氧化，使尿素水解后释出的氨能在土壤中保持时间更长，对于提高肥料的利用率和减少环境污染都具有重大的现实意义.
+关键词　土壤；N2O释放；化感物质；影响.
+Effect of allelochemicals on N2O emission from soil
+HUANG Yizong,ZHANG Fuzhu,LIU Shuqin,CAO Meiqiu (Research Center for Eco-Environmental Sciences,Chinese Academy of Sciences,Beijing 100085)
+Abstract　Benzoic acid and p-tert-benzoic acid are two allelochemicals which can be produced from decomposition of crop residue.N2O emission from soil was determined at various soil moistures when the two allelochemicals were applied at various concentration.The results showed that the allelochemicals could inhibit N2O emission from the soil,and the inhibiting effects increase with concentration.At concentrations of 100,250 and 500mg/kg,benzoic acid inhibited 42.78％—67.93% of the N2O emission when soil moisture was 16.5%.At the same moisture,p-tert-benzoic acid reduced 45.27％—73.42% of N2O emission,at concentrations of 100,250,500,and 1000mg/kg.While soil moisture was 100%,the two allelochemicals reduced 44.67%—89.78% and 26.40%—77.09% N2O emission,respectively.In addition,allelochemicals could retard oxidization of NH4+ to NO3-.Therefore,as one of hydrolystates of urea,ammonia could retain longer in soil.Application of allelochemicals would improve the efficiency of fertilization and reduce environmental pollution.
+Keywords　N2O emission from soil,allelochemicals,effect.
+　　N2O是一种重要的痕量气体，它有吸收红外线的性质，减少地表通过大气向外空的热辐射，产生温室效应.N2O还与同温层臭氧层的破坏有关.目前，大气中N2O浓度约为310ppb，且以每年0.6—0.9ppb的速度增加.N2O的寿命很长，达166年左右［1］.土壤是N2O的一个重要来源，由于土壤微生物的作用，经过硝化和反硝化过程产生的N2O占全球大气N2O的90%［2］.应用硝化抑制剂可减少土壤N2O释放，提高氮素肥料的利用率［3—7］，这可能是一条控制氮素损失，减少其对环境污染的有效途径.
+　　化感物质(Allelochemicals)指一种植物(包括微生物)产生对另一种植物有直接或间接作用(包括有害或有益作用)的物质［8］.秸秆还田是我国农业生产中的一项传统技术.作物秸秆被土壤微生物分解后，会产生许多化感物质［9］.苯甲酸和对叔丁基苯甲酸均为小麦秸秆腐解过程产生的化感物质.它们对作物种子的发芽、幼苗的生长均具有一定的抑制作用［10］.本文旨在研究这两种化感物质对土壤N2O释放的影响.
+1　材料和方法
+1.1　材料
+　　供试土壤采自北京市北郊农场史各庄科技园耕地土壤的表土(0—20cm).供试肥料为尿素；化感物质采用苯甲酸和对叔丁基苯甲酸.
+1.2　苯甲酸和尿素处理
+　　称取10g土壤，置入50mL试管，尿素按1kg土施0.1g纯氮量计算.苯甲酸设3个浓度：100ppm、250ppm和500ppm，并以不加苯甲酸为对照(CK).土壤水分设2个等级：16.5%(相当于70%该土壤田间持水率)和100%(相当于过饱和水分).用橡胶塞密封试管口，在温度25—30℃的生长箱内进行培养.3次重复.本试验设置每个试管仅供采集一次气体样品，采完气体后马上分析试管内土壤的NH4+-N和NO3--N含量.
+　　对叔丁基苯甲酸和尿素处理步骤同上，对叔丁基苯甲酸浓度设100ppm、250ppm、500ppm和1000ppm.培养温度为18—20℃.
+1.3　N2O采集和测定
+
+
+图1　土壤水分为16.5%时土壤N2O释放量(苯甲酸处理)
+Fig.1 Effect of benzoic acid on N2O emission from the soil (soil moisture 16.5)
+　　定期取出各个不同浓度化感物质处理的试管，用30mL玻璃注射器采集气体样品，样品中的N2O用配有8mci Ni63电子捕获检测器(美国Varian公司)的SP-3410气相色谱仪(北京分析仪器厂)进行测定.检测器工作温度320℃.玻璃色谱柱长4m，内径4mm，填充50—80目Porapack Q,柱温70℃，进样量2mL，高纯氮(99.999%)为载气，流速25mL/min.标准气由美国Athesen气体生产公司出品，浓度0.94ppm，用空气稀释后使用，分析误差±1%.
+1.4　土壤样品测定
+　　NH4+-N用纳氏试剂比色法，NO3--N用酚二磺酸法测定.
+2　结果与讨论
+2.1　苯甲酸不同浓度处理对土壤N2O释放的影响
+2.1.1　土壤水分为16.5%时苯甲酸不同浓度处理对土壤N2O释放的影响　从动态变化来看，土壤N2O释放随着培养时间的增加而提高(图1).第20天后各处理仅有少量的N2O释放.
+　　对统计数据进行方差分析(表1)，苯甲酸处理在土壤水分为16.5%时，F值为9.18，通过置信度为0.01水平下的F检验，说明在此水分条件下苯甲酸不同浓度处理间对土壤N2O释放的影响差异极显著.
+　　不同浓度苯甲酸对土壤N2O释放的影响结果见图2.由图2可见，在土壤水分16.5%的状况下，N2O的释放量随着苯甲酸浓度的增加而减少.
+
+
+图2　苯甲酸不同浓度处理对土壤N2O释放的影响
+(培养32天，温度25—30℃)
+Fig.2 Effect of various concentrations of benzoic acid on N2O emissions from the soil (32 days,25—30℃)
+表1　不同处理因子的F检验
+Table 1 The F test on various treatment factors
+
+　苯甲酸对叔丁基苯甲酸
+16.5%的
+土壤水分100%的
+土壤水分16.5%的
+土壤水分100%的
+土壤水分
+F值9.185.121.843.30
+FaF(0.05)=2.87
+F(0.01)=4.38F(0.05)=2.61
+F(0.01)=3.83
+
+2.1.2　土壤水分为100%时苯甲酸不同浓度处理对土壤N2O释放的影响　从图3可以看出土壤N2O释放除了500ppm处理在整个培养期内几乎成一条直线外，其它处理均在第13天出现高峰，第20天后土壤N2O释放量很少.在100%的土壤饱和水分条件下，高浓度的苯甲酸处理对土壤N2O释放比低浓度处理效果更好(图2)，500ppm处理可抑制91.1%的N2O释放.这是因为苯甲酸的浓度越大，其抑制硝化细菌和反硝化细菌等微生物的活动越有效，导致较少的N2O释放.土壤水分为100%时N2O释放比16.5%时少，这是由于渍水土壤通气条件较差，在土壤厌氧条件下，N2O最终被还原为N2，因此N2O的释放量较少.不少学者在研究淹水水稻田中N2O释放时也得出相似的结论［11，12］.
+
+
+图3　土壤水分为100%时土壤N2O释放量
+(苯甲酸处理)
+Fig.3 Effect of benzoic acid on N2O emission from soil (soil moisture 100%)
+2.2　对叔丁基苯甲酸不同浓度处理对土壤N2O释放的影响
+2.2.1　土壤水分为16.5%时对叔丁基苯甲酸不同浓度处理对土壤N2O释放的影响　由图4可以看出，土壤N2O释放除了对照在第13天有一个释放高峰外(31.498mg*m-3)，其它处理均没有明显的高峰出现.第20天各处理几乎没有N2O从土壤释放.在此水分条件下，对叔丁基苯甲酸不同浓度处理间对土壤N2O释放的影响见图5，各处理对土壤N2O释放分别比对照减少47.8%、56.4%、70.1%和74.9%.
+
+
+图4　土壤水分为16.5%时土壤N2O释放量(对叔丁基苯甲酸处理)
+Fig.4 Effect of p-tert-benzoic acid on N2O emission from soil (soil moisture 16.5)
+
+
+图5　对叔丁基苯甲酸不同浓度处理对土壤N2O释放的影响(培养20天，温度18—20℃)Fig.5 Effect of various concentration p-tert-benzoic acid on N2O emissions from soil (20 days,18—20℃)
+
+
+图6　土壤水分为100%时土壤N2O释放量(对叔丁基苯甲酸处理)
+Fig.6 Effect of p-tert-benzoic acid on N2O emission from soil (soil moisture 100%)
+2.2.2　土壤水分为100%时对叔丁基苯甲酸不同浓度处理对土壤N2O释放的影响　从图6可见，对照在第13天也有一个N2O释放高峰.100ppm和250ppm的对叔丁基苯甲酸浓度处理在第11天前促进土壤N2O释放，第11天后则表现为抑制作用.各处理对土壤N2O的影响较显著(F<0.05)(表1).
+　　高浓度的对叔丁基苯甲酸(500ppm和1000ppm)处理能显著地抑制土壤N2O释放(图5)，而低浓度时(100ppm和250ppm)对土壤N2O释放的抑制作用相对差一些.
+2.3　对叔丁基苯甲酸不同浓度处理对土壤NH4+-N和NO3--含量变化的影响
+　　图7表明，在土壤水分为16.5%的状态下，未经过对叔丁基苯甲酸处理的对照，NH4＋-N含量随着培养时间的增加而逐渐减少，由第2天的43.90mg/kg减少到第20天的17.80mg/kg；NO3--N含量则相反，由第2天的6.42mg/kg增加到第20天的73.45mg/kg.这是由于尿素施入土壤后，经过水解释出的NH4＋被硝化细菌氧化为NO3-，导致土壤中NH4+-N含量逐渐减少，而NO3--N含量逐渐增加.
+　　经过不同浓度的对叔丁基苯甲酸处理后，较之对照处理均能显著地增加土壤的吸附态铵(P<0.01)，从而减少土壤中硝酸盐的累积(P<0.01)，且随着处理浓度的增大，这种作用越明显.从计算土壤中铵的硝化率影响(表2)表明，各处理铵的硝化率均随着培养时间的增加而提高.经过不同浓度的对叔丁基苯甲酸处理后，土壤中铵的硝化率均明显低于对照(P<0.001)，且高浓度处理比低浓度处理效果更显著.
+　　根据上述研究结果可以看出，化感物质(对叔丁基苯甲酸)可通过抑制土壤中微生物的活动，减缓NH4＋向NO3-氧化，即降低土壤中铵的硝化率，从而使尿素水解后释出的氨能在土壤中保持时间更长.前面还提到，化感物质(苯甲酸和对叔丁基苯甲酸)能减少N2O从土壤中释放.因此，化感物质对提高肥料的利用率和减少环境污染都具有重大的现实意义.
+表2　对叔丁基苯甲酸不同浓度处理对土壤中铵的硝化率影响(土壤水分16.5%)
+Table 2 Effect of various concentrations of p-tert-benzoic acid on nitrification rate of soil NH4+-N (soil moisure 16.5)
+
+处理浓度，
+ppm铵的硝化率，%
+第2天第4天第6天第9天第11天第13天第16天第18天第20天
+0(CK)12.822.136.953.359.782.180.681.080.5
+10012.617.827.647.750.371.281.482.283.2
+25013.216.726.439.947.472.271.577.584.2
+50011.814.824.936.745.959.674.276.381.7
+100010.113.117.527.332.337.867.274.478.5
+
+注：硝化率(%)=NO3--N/(NH4+-N+NO3--N)×100%
+
+
+
+图7　土壤释放的NH4＋-N量(a)和NO3--N量(b)(对叔丁基苯甲酸处理，土壤水分为16.5%)
+Fig.7 Effect of p-tert-benzoic acid on content of NH4+ (a) and NO3- (b) in soil (soil moisture 16.5%)
+3　结论
+　　1) 从动态变化来看，无论土壤水分为16.5%还是100%，土壤N2O释放在培养前期随着时间的推移而增加，高峰出现在第13天左右，第20天后几乎没有N2O释放.
+　　2) 在土壤水分为16.5%的状态下，100ppm、250ppm和500ppm浓度的苯甲酸处理(培养温度25—30℃)可减少47.4%—75.3% N2O从土壤中释放；而当土壤水分为100%状态时，上述浓度处理可减少50.2%—91.1%左右的N2O释放.
+　　3) 对叔丁基苯甲酸的不同浓度处理研究结果表明(培养温度18—20℃)，在土壤水分为16.5%和100%时，可分别减少47.8%—74.9%和28.8%—78.1% N2O释放.
+　　4) 在土壤水分为16.5%时，化感物质(对叔丁基苯甲酸)可减缓土壤中NH4+向NO3-氧化，从而增加土壤的吸附态铵，并减少土壤中硝酸盐的累积.
+* 国家自然科学基金资助项目(项目号 39790100)
+作者单位:中国科学院生态环境研究中心，北京　100085
+参考文献
+1　Prinn R D,Cunnold R,Rasmussen R et al.Atmospheric emissions and trends of nitrous oxide deduced from 10 years of ALE-GAGE data.J Geophys Res,1990,95:18369—18385
+2 Bouwman A F.Bouwman A F(ed). In soils and the greehouse effect.Wiley,Chichester.1990.61
+3 Bremner J M,Blackmer A M.Nitrous oxide:emission from soil during nitrification of fertilizer nitrogen.Science,1978,199:295—296
+4　Bronson K F,Mosier A R,Bishnoi S R.Nitrous oxide emissions in irrigated corn as affected by nitrification inhibitors.Soil Sci Soc Am J,1992,56:161—165
+5　De Klein C A M,Van Logtestijn R S P et al.Nitrogen losses due to denitrification from cattle slurry injected into grassland soil with and without a nitrification inhibitor.Plant and Soil,1996,183:161—170
+6　Wallters D T,Malzer G L.Nitrogen mangement and nitrification inhibitor effects on nitrogen-15 Urea:I.yield and fertilizer use efficiency.Soil Sci Soc Am J,1990,54:115—122
+7　Wallters D T,Malzer G L.Nitrogen mangement and nitrification inhibitor effects on nitrogen-15 Urea:Ⅱ.Nitrogen leaching and balance.Soil Sci Soc Am J,1990,54:122—130
+8　Kimber R W L.Phytotoxlcity from plant residues (11):The relative effect of toxins and nitrogen immobilization on the germination and growth of wheat.Plant and Soil,1973,38:347—361
+9　马瑞霞，刘秀芬，袁光林等.小麦根区微生物分解小麦残体产生的化感物质及其生物活性的研究.生态学报，1996，16(6)：632—639
+10　刘秀芬，马瑞霞，袁光林等.根际区他感化学物质的分离、鉴定与生物活性的研究.生态学报，1996，16(1)：1—10
+11　陈冠雄，黄国宏等.稻田CH4和N2O的排放及养萍和施肥的影响.应用生态学报，1995，6(4)：378—382
+12　Khalil et al.Emissions of trace gases from chinese rice fields and biogas generation:CH4,CO,CO2,chlorocarbons,and hydrocarbons.Chemosphere,1990,20:207
+1998-03-06收到原稿
+1998-07-24收到修改稿

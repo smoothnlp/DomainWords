@@ -1,0 +1,38 @@
+环境科学研究
+RESEARCH OF ENVIRONMENTAL SCIENCES
+2001 Vol.14 No.1 P.41-44
+
+
+
+
+黄孢原毛平革菌细胞固定化技术的比较研究
+李慧蓉　 谭晓莲　 凌瑞锋　 
+摘　要：黄孢原毛平革菌细胞的载体结合和包埋固定化研究表明：各种多孔材料可以有效地固定菌体，并克服由于动培养产生的机械剪切力对降解酶系统的破坏；海藻酸钙固定化小球，在合适的包埋条件下，可达到相对的最佳降解效果。
+关键词：黄孢原毛平革菌；　固定化；　载化结合；　包埋；　比布列希猩红；　脱色降解
+分类号：X703.1　文献标识码：A
+文章编号：1001-6929(2001)01-0041-04
+Comparative Investigation on Cell-Immobilization Technique in Phanerochaete chrysosporium
+LI Hui-rong（Department of Mechanical Engineering,Jiangsu Institute of Petrochemical Technology,Changzhou 213016, China）　
+TAN Xiao-lian（Department of Mechanical Engineering,Jiangsu Institute of Petrochemical Technology,Changzhou 213016, China）　
+LING Rui-feng（Department of Mechanical Engineering,Jiangsu Institute of Petrochemical Technology,Changzhou 213016, China）　
+Abstract：The study on cell-immobilization by support-attaching and entrapping in Phanerochaete chrysosporium showed that porous materials could immobilize effectively fungous cells,isolating from destroying degratetive enzyme system caused by shearing force in shaking culture and that calcium alginate beads,operated in appropriate condition,could be used to attain better efficiency of decolorization and degradation.
+Keywords：Phanerochaete chrysosporium;immobilization;support-attaching;　entrapment;Biebrich　Scarlet;declorization and degradation
+基金项目：江苏省环保局资助项目(9709)
+作者简介：李慧蓉(1947-)，女，上海人，副教授. 
+作者单位：李慧蓉（江苏石油化工学院 机械工程系，江苏 常州　213016）　
+　　　　　谭晓莲（江苏石油化工学院 机械工程系，江苏 常州　213016）　
+　　　　　凌瑞锋（江苏石油化工学院 机械工程系，江苏 常州　213016）　
+参考文献：
+［1］黄霞，俞毓馨，王蕾.固定化细胞技术在废水处理中的应用［J］.环境科学，1993，14(1)：41～48.
+［2］顾其丰.生物化工原理［M］.上海：上海科学技术出版社，1997.14～23.
+［3］李慧蓉，李华兵，李文琼，等.黄孢原毛平革菌对6种染料的脱色降解［J］.环境科学研究，1999，12(3)：14～17.
+［4］Bumpus J A,Brock B J.Biodegradation of crystal violet by the white rot fungus Phanerochaete chrysosporium.Appl Environ Microbiol,1988,54(5):1143～1150.
+［5］Knapp J S,Newby P S,Reece L P.Decloorization of dyes by wood-rotting basidomydete fungi［J］.Enzyme Micro Technol,1995,17:664～668.
+［6］Cripps C,Bumpus J A,Aust S D.Biodegradation of azo and heterocyclic dyes by Phanerochaete chrysosporium.Appl Environ Microbiol,1990,56(4):1114～1188.
+［7］Eaton D,Chang H-m,Kirk T K.Fungal degradation of kraft bleach plant effluents［J］.Tappi,1980,63(10):103～106.
+［8］Kirk T K,Schultz E,Connor W,et al.Influence of culture parameters on lignin metabolism by Phanerochaete chrysosporium.Arch Microbiol,1978,117:277～284.
+［9］Wang X,Ruckenstein E.Immobilization of Phanerochaete chrysosporium on porus polyurethane particles with application to biodegradation of 2-chlorophenol［J］.Biotech Techniq,1994,8(5):339～344.
+［10］Alleman R C,Logan B E,Gilbertson R L.Degradation of pentachlorophenol by fixed film of white rot fungi in rotating tube bioreactiors［J］.Wat Res,1995,29(1):61～67．
+［11］Venkatadri R,Irvine R L.Cultivation of Phanerochaete chrysosporium and production of lignin peroxidase in vovel biofilm reactor system:hollow fiber reactor and silicone membrane reactor［J］.Wat Res,1993,27(4):591～596.
+收稿日期：2000年7月13日
+出版日期：2001年1月30日

@@ -1,0 +1,113 @@
+　宇航学报
+JOURNAL OF ASTRONAUTICS
+1999年 第20卷 第3期 vol.20 No.3 1999
+
+
+
+框架结构模态分析的行波方法*
+朱桂东　郑钢铁　邵成勋
+　　摘　要　基于空间框架结构的行波动力学模型，给出获取结构模态参数的一个新方法。将由一维波导组装成的框架结构的振动作为弹性波研究，弹性波在波导上传播，在结点处反射和散射。结构的模态特性在结构呈自由振动状态时得以体现，据此建立一个关于结构内行波的特征值问题，并由此求得结构的固有频率及振型。文中还给出了与有限元方法结果的比较
+　　主题词　框架结构　模态分析　行波
+MODAL ANALYSIS FOR FRAME STRUCTURES 
+VIA TRAVELING WAVE APPROACH
+Zhu Guidong
+(Beijing Institute of Astronautical System Engineering.Beijing.100076)
+Zhang Gangtie Shao Chengxun
+(P.O.Box 137,Harbin Institute of Technology.Harbin.150001)
+　　Abstract　Based on traveling wave formulation,a new approach to obtain modal parameters for frame structures is presented.A frame structure is composed of one-dimensional members,and the vibration of the frame is regarded as travelling waves propagating along the members.From free vibration model of a frame structure,an eigenvalue problem is formed for wave mode vector.Natural frequencies and corresponding modal shapes for the structure are obtained by solving the eignvalue problem.Comparison with the finite element method is also presented.
+　　Key words　Frame structures Modal analysis Travelling wave
+　　1　引言
+　　结构模态参数的提取在结构振动分析中具有相当重要的位置。获得结构模态参数的主要方法有两种，即理论模态分析和实验模态分析［1］。对运动方程及边界条件都很简单的结构，如均质简支梁、悬臂梁等，其模态特性可从一函数特征值问题解得［2］。对复杂结构，一般用有限元方法将结构离散化，此时模态分析可归结为矩阵特征值问题。
+　　由一维单元组装成的框架结构是现代大型空间结构的一种主要形式，尽管整个结构的构型可能非常复杂，但每个单元都是很简单，其模型一般可精确地建立。为充分利用这个优点，在框架结构的振动分析和控制中发展起来一种行波方法(Traveling Wave Approach)［3］。Beale等［4］用行波分析了结构中的功率流，并给出能量传递路径。MacMartin等［5］进行了基于行波模型的振动控制工作。朱桂东等［6，7］基于行波模型对框架结构的阻尼减振进行了分析。王泉等［8］讨论了结构波动区域的可控性及降维问题。
+　　尽管行波模型已被广泛地研究，但波动模型与传统的模态空间模型的关系却很少被研究。Meirovitch［9］曾研究在模态空间对行波进行控制。本文研究从行波模型中获得框架结构的模态特性，如固有频率、模态振型等。同时给出了与有限元方法结果的比较。
+　　2　框架结构行波动力学模型［6，7］
+　　框架结构由一维的单元(图1)通过结点(图2)组装而，在每一个单元上有不同频率的拉压、扭转、弯曲波传播。对每一个单元的要求是其必须具有连续的机械阻抗，而且所有的外力和位移边界条件都作用在结点上，因此波在单元上传播时无反射。称每一种独立传播的波得傅利叶变换为波模式(Wave Mode)。单元任一截面上的波模式向量定义为wm=［wTl,wTr］T，其中wl和wr分别称为左行波模式向量和右行波模式向量。设一结点将N个单元连接在一起，在每一个单元上都有相对于结点的入射波模式wni和出射波模式wno。
+
+图1　单元示意图
+
+图2　结点示意图
+　　选取各个单元两端的出射及入射波模式向量为基本未知量，并令Wo=［wT1o,wT2o,…,wTMo］T,Wi=［wT1i,wT2i,…,wTMi］T,M为单元总数。Wi和Wo分别称为系统出射和入射波模式向量。从结点的力和位移边界条件，可得到系统的散射模型
+　　　　　　　　　　　　　　　　　　Wo=SWi+GR　　　　　　　　　　　　　　　　　(1)
+式中S为系统散射矩阵，G为系统影响矩阵，R为外载荷和位移激励形成的向量。从波在单元上的传递特性可得
+　　　　　　　　　　　　　　　　　　Wo=TWi　　　　　　　　　　　　　　　　　　(2)
+T为系统传递矩阵，给定R可从(1)、(2)求得Wi和Wo，结构的位移和内力也可通过变换得到。
+　　3　模态分析
+　　结构的模态特性可从其自由振动中反映出来，从自由振动的动力学模型求得位移的非零解即为结构振动的模态位移。令A(ω)=T-S,A是n×n维复矩阵，n为入射波模式的维数。对三维空间框架结构，n=12N，N为结构单元总数。令(2)式中的外激励向量R为零，结构自由振动的动力学方程为
+　　　　　　　　　　　　　　　　　　　A(ω)Wi=0　　　　　　　　　　　　　　　　　(3)
+方程(3)是一个特殊的特征值问题，矩阵A的元素为频率ω的超越函数。结构当且仅当方程(3)具有非平凡解时才能维持自由振动状态，即
+　　　　　　　　　　　　　　　　　　　det(A)=0　　　　　　　　　　　　　　　　　(4)
+上式是一个超越方程，可以看成是结构的特征方程式。本文仅考虑无阻尼的情况，因此(4)式的无穷多个解ωi,1=1,1,…均为实数，这些解对应着结构的无穷多个固有频率。下面将给出如何从行波模型中导出对应每一固有频率的结构振型。
+　　对结构的固有频率ωi,A(ωi)为n维复数空间到其自身的线性变换，因A(ωi)奇异，故有
+　　　　　　　　　　　　　　　ri=n-rank(A(ωi))＞0,i=1,2,…　　　　　　　　　　　(5)
+式中ri为A(ωi)的缺秩数。令{α1,α2,…,αri)为A(ωi)零空间的一组基，因此有
+　　　　　　　　　　　　　　　A(ωi)αj=0,j=1,2,…,ri　　　　　　　　　　　　　(6)
+向量αj,j=1,2，…,ri即为对应于固有频率ωi的系统入射波模式的振型。通过Gram-Schmidt规范正交化过程可以获得一组规范正交基。设为对应固有频率的系统入射波模式振型，对图1所示的单元，其入射波模式向量和出射波模式向量分别为［,］T和［,］T。截面P处的模态位移和内力为
+　　　　　　　　　　　　　　　　　　　　　　　　　(7)
+式中λm,Y(xp,),ξm(xp,)分别为坐标变换阵、状变变换阵、和波传递矩阵。
+　　由于上述方程的复杂性，对略复杂的结构，其结果只能够用数值的方法求出。求解过程中的难点在于解特征方程式(4)，以获得结构的固有频率。不适当的搜索方法可能会遗漏某些固有频率，因此在求解过程中应利用结构的各种频率响应，以判定固有频率的位置及迭代初值。
+　　4　实例
+　　这里给出两个例子，以说明基于行波模型的模态分析过程和结果。第一个例子为两端简支均质梁，其行波模型可以解析的形式给出。另一个例子是一较为复杂的三维框架结构，并给出与有限元方法比较的结果。
+　　4.1　例1　简支梁
+　　考虑如图3所示两端简支梁在x-y平面内的弯曲运动，整个梁在波动分析中作为一个单元，两个端点为两个结点。
+
+图3　两端简支梁示意图
+　　自由振动的Euler-Bernoulli梁的数学模型在频域中的表示
+　　　　　　　　　　　　　　　　　　　　　　　　　　(8)
+其中v为横向位移，EI为弯曲刚度，ρ，A分别为质量密度和截面积。(8)式的通解为
+　　　　　　　　　　　　　　　　　　　　　(9)
+式中,ci,i=1～4为常系数。eikx和ekx项对应着向左传播的波，而e-ikx和e-kx项对应着向右传播的波。令wl1=c1eikx,wl2=c2ekx,wr1=c3e-ikx,wr2=c4e-kx,从上式可得到单元的状态转换方程
+　　　　　　　　　　　　　　　　　　(10)
+其中wl=［wl1,wl2］T,wr=［wr1,wr2］T,θ,V和M分别为截面转角、剪力和弯矩。
+　　结点1和结点2处的边界条件是一样的，即
+　　　　　　　　　　　　　　　　　　　v=0,　M=0　　　　　　　　　　　　　　　　(11)
+在结点1处有wi1=wl,wo1=wr;在结点2处有wo2=wl,wi2=wr，因此两结点处的散射关系为
+　　　　　　　　　　　　　　　wo1=S1wi1,wo2=S2wi2　　　　　　　　　　　　　　　(12)
+其中
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(13)
+　　从波模式的定义可得
+　　　　　　　　　　　　　　　　　　　　　　　　　(14)
+系统入射和出射波模式向量分别定义为Wi=［wTi1,wTi2］T,Wo=［wTo2,wTo1］T,将(12)式代入(14)式可以得到
+　　　　　　　　　　　　　　　　　　　AWi=0　　　　　　　　　　　　　　　　　(15)
+其中
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(16)
+　　(15)式有非平凡解，当且仅当
+　　　　　　　　　　　　det(A)=(ekl+1)(ekl-1)(eikl+1)(eikl-1)=0　　　　　　　　　(17)
+即
+　　　　　　　　　　　　　　　　　　　　　　　　(18)
+此时(15)式的解为
+　　　　　　　　　　　　　　　　　　　　　　(19)
+利用(10)式作变换得
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(20)
+(18)式和(20)式与解函数特征值问题［2］所得结果完全一致。
+　　4.2　例2　空间框架结构
+　　行波方法和有限元方法都被用以对图4所示的框架结构进行分析，框架由八根同样的均质圆截面Euler-Bernoulli梁刚性连接而成，在两种方法中，每一根梁都被作为一个单元。单元的物理特性为：长度l=1.0m，截面半径r=0.01m，密度ρ=7800kg/m3，扬氏模量E=2.0×1011N/m2，泊松比μ=0.25。
+　　　
+图4　三维框架结构示意图
+　　从行波模型(TWM)和有限元方法(FEM)所得到的结构的最低8阶固有频率列于表1，各阶固有频率对应的振型如图5示。有限元方法中的模态位移是用文献［10］中的位称函数插值得到的。由于结构在x和y方向具有相同特性，因而对某些固有频率可能有两个振型，为简便起见图中只画出一个振型。
+表1　结构固有频率(rad/s)
+
+序号12345678
+TWM63.729181.7544139.7255268.5689319.8176320.1489346.2224436.0539
+FEM63.882381.8925140.4397303.6320382.4355383.1072430.7789613.6596
+振型(a)(b)(c)(d)(e)(f)(g)(h)
+
+　　从表1可见，有限元方法求得的固有频率比行波方法所得的固有频率要高，而且随着频率的增加两者的差异也增大。结构的振型(图5)也是高阶的差别较大，而且单元内部的差别要比结点上的差别大，原因在于行波方法中单元上的位是通过精确的传递特性求得的，而且限中元是用假设的插值函数插值得到的。以上结果表明，行波方法所得的结果比有限元方法精确，特别是固有频率。
+
+图5　结构振型(TWM——，FEM……)
+　　5　结束语
+　　本文基于行波模型给出获得框架结构的模态特性的一种新方法。事实上，基于Euler-Bernoulli梁模型的行波方法得到的结果，是基于同样模型的有限元方法在自由度趋向无穷时的极限解。与实际结构之间的差别在于Euler-Bernoulli梁模型本身带来的误差。本文给出的方法具有一定的通用性，对某些单元可以采用更为精确的模型，以获得理想的结果。行波模型给出了非常全面的结构特性，但同时其计算量也比较大，如何使之成为一种工程实用的方法还需要很多的研究。
+*国家自然科学基金资助项目(编号19632001)
+作者单位；朱桂东：北京宇航系统工程设计部.北京9200信箱10分箱13号.100076
+　　　　　郑钠铁 邵成勋：哈尔滨工业大学.航天工程与力学系.150001
+参考文献
+　　1　陆秋海，李德葆.模态理论的进展.力学进展，1996，26(3)：464-471
+　　2　Meirovitch L.Computational Methods in Structural Dynamics.Sijthoff & Noordhoff International Publishers,The Netherlands,1980
+　　3　von Flotow A H.Travelling Wave Control for Large Spacecraft Structures.Journal of Guidance,Control and Dynamics,1986,9(4):462-468
+　　4　Beale L S and Accorsi M L.Power Flow In Two-and Three-dimensional Frame Structures.Journal of Sound and Vibration,1995,185(4):685-702
+　　5　MacMartin D G,Miller D W,Hall S R.Structural Control Using Active Broadband Impedance Matching,Proceedings of the conference on recent advances in active control of sound and vibration,Blacksburg,Virginia,USA,Apr.15-17,1991:604-617
+　　6　朱桂东，郑钢铁，邵成勋.基于波动模型的框架结构被动阻尼减振分析.航空学报，1997，18(6)：670-675
+　　7　朱桂东，郑钢铁，劭成勋.基于行波模型的航天器附件动力吸振分析.振动工程学报，1998，11(2)：138-143
+　　8　王泉，王大均，苏先樾.关于结构波动区域可探性和一个有关的降维模型.中国科学(A辑)，1994，24(9)：955-960
+　　9　Meirovitch L and Bennighof J K.Modal Control of Travelling Waves in Flexible Structures.Journal of Sound and Vibration,1986,111(1):131-144
+　　10　Rao S S.The Finite Element Method in Engineering.Pergamon Press,1982
+收稿日期:1997年5月15日,修回日期:1998年10月19日

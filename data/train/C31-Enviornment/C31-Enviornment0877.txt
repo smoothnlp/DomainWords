@@ -1,0 +1,96 @@
+环境科学学报
+ACTA SCIENTIAE CIRCUMSTANTIAE
+1999年　第19卷　第4期　Vol.19　No.4　1999
+
+
+
+芳烃燃烧钯催化剂的研究——载体、制备方法对催化活性的影响
+叶　华　周志刚　方　方　郑菁英　戴乾圜
+摘要　以苯蒸气作为催化燃烧气，研究了3种不同载体和3种不同制备方法对金属负载型钯催化剂芳烃催化燃烧性能的影响，并用SEM对催化剂的表现形貌进行了分析.结果表明，载体及催化剂制备方法不同，催化剂的活性及耐热性不同.经一定的高温预处理后的含有稀土的Fe-Cr-Al合金作载体性能较另两种载体优良；并提出了该催化剂较好的制备方法.
+关键词　钯；燃烧；催化剂；载体；活性.
+The study of supported palladium combustion catalysts for aromatic hydrocarbons
+YE Hua1),ZHOU Zhigang2),FANG Fang3),ZHENG Jingying3),DAI Qianhuan3)
+( 1).Gas Divis.of the Nation.Res.Cent.for Certif.Refer.Mater.,SBTS, 100013; 2).The Nation.Unit.key Lab.of Env.Simula.& Pollut.Contr,Peking Unv., 100871;3).Organ.Chem.Divis.of Chem & Env.Engin.Dep,Beijing Polytech.Univ., 100022)
+Abstract　A series of supported palladium combustion catalysts were prepared with three different supports and three different preparation methods.Through experiments of catalytic benzene vapor combustion,the catalytic activity was studied.The surface characteristics of catalysts were analyzed by SEM.The results show that both the support and the preparation method affect the catalytic activity.Meanwhile it is pointed out the the Fe－Cr－Al alloy containing the rare earth and treating undera centain high temperature is an ideal support for the combustion catalyst.An advanced preparation method was also put forward.
+Keywords　supported palladium combustion catalyst,catalytic combustion,support of catalyst,catalytic acitivity.
+　　
+　　煤炭、石油等燃料的燃烧废气中所含的多种多环芳烃是致癌物，据信是人类多种癌症的重要起因［1］.在我们的生产、生活和交通运输中，这些燃料的应用极为广泛.如何消除这类污染是一项十分复杂而艰巨的工作.从污染源着手治理，采用燃烧氧化消除此类污染不失为一经济而有效的方法.目前一致公认催化燃烧是治理这类污染强有力的方法之一［2，3］.而研制出性能优良的催化剂成为此方法应用于实际的关键.
+
+1　实验
+1.1　催化剂的制备
+　　首先对催化剂的载体进行了一定的表面处理，再分别采用下述3种方法制备催化剂.然后将阴干的催化剂放入烘箱中于120℃烘干2h［4］.
+　　制备方法1：用化学还原镀法使适量钯浸渍在载体表面，溶液的pH值控制为2—3，沉积时间为3h，恒温温度为50℃.制备方法2：将载体放入适量的钯络合物溶胶液中，溶液的pH值控制为11—12，沉积时间为3h，恒温温度为50℃.制备方法3：先用化学还原镀法使少量Pd浸渍在载体表面，达到较均匀的分散度，然后放入适量的方法2中的溶胶混合溶液中，制备条件同方法2.
+1.2　催化剂的活性评价
+　　在芳烃化合物催化燃烧研究中，采用苯作催化燃烧的芳烃样本，进行催化燃烧实验.将苯蒸汽用空气配制成含苯3240mg/m3的原料气，经预热后，以30000h-1的空速通入内装催化剂的微型反应器，进行催化燃烧，燃烧后的尾气导入Shimadzu GC-16A型气相色谱仪，测得各种条件下反应前后苯的浓度变化，以考察苯的转化率与催化反应温度的关系.色谱的工作条件为：柱温110℃，气化室、检测池的温度是150℃；各气路流量为：载气N2 50mL/min,H2 50mL/min,空气500mL/min.色谱柱为直径3mm、长2m的玻璃柱，内装硅烷化玻璃微珠(60—80目)，检测器为FID(氢火焰离子化鉴定器)，数据记录处理仪为岛津C-R3A仪.
+
+2　结果与讨论
+2.1　不同载体的催化剂催化效果的比较
+　　实验中选用了3种不同的钢网作催化剂载体，以考察不同的载体所制备的催化剂的性能.这3种载体是：(1)含有稀土的Fe-Cr-Al合金网、(2)Fe-Cr-Al合金网和(3)1Cr18Ni9Ti不锈钢网.用方法1制备活性组分钯含量为0.1%(w/w)的催化剂.对这3种催化剂的活性进行评价，结果见图1.苯的转化率为50%时所对应的起燃温度和苯的转化率为90%时所对应的完全燃烧温度结果见图2.
+
+
+图1　苯的转化率与催化反应温度关系
+Fig.1 Relationship between conversion percent of benzene and temperature
+
+
+图2　不同催化剂的催化转化温度
+Fig.2 Conversion temperature of various catalysts
+　　由实验结果看到，在制备方法和活性组分Pd含量相同的条件下，采用不同载体的催化剂的活性不同，其中Fe-Cr-Al合金网载体催化剂的性能优于不锈钢网载体催化剂；含稀土的Fe-Cr-Al合金网载体催化剂的性能优于不含稀土的Fe-Cr-Al合金网作载体的催化剂.
+2.2　不同载体催化剂使用前后微观形貌特征变化
+　　在实验中发现使用一定时间后，催化剂(3)的外观发生了明显的变化，其催化性能也明显下降.为了探讨其中原因，用SEM(日立公司生产的S-450型)和EDAX(菲立普公司生产的EDAX9100型)对所研究的催化剂的表面微观形貌进行了分析测定，结果见图3.
+　　通过图3的SEM照片，并结合Fe-Cr-Al载体催化剂的EDAX能谱(见图4)综合分析，我们可以观察到：使用不同的催化剂载体所制备的催化剂，呈现出不同的微观形貌特征，Pd的聚结状态明显不同.含稀土的Fe－Cr－Al合金为载体的催化剂，Pd的分布及成型最好，呈颗粒状.经燃烧使用后，3种催化剂表面的微观形貌变化不尽相同，催化剂(1)的微观形貌在使用后稍有变化，Pd粒有聚结变大趋势；催化剂(2)的微观形貌在使用后变化较大，使用后表面基本上看不到Pd粒，说明Pd蠕动变形严重；催化剂(3)使用后微观形貌变化显著，使用后催化剂载体表面发生了明显的变化，表面到处是裂纹，催化剂原有的微观结构已明显改变.由此看到，不同载体表面的耐高温稳定性不同，对催化剂表面结构的高温稳定性影响也不同.含稀土的Fe－Cr－Al合金载体的催化剂表面微观结构热稳定性良好，它有效地阻止了活性组分蠕变凝结，从而使催化剂具有较好的活性，表明载体对催化剂的耐热稳定性具有重要的影响.
+
+
+图3　不同载体催化剂使用前后SEM测定结果(放大5000倍)
+Fig.3 SEM pictures of studied catalysts
+
+
+图4　Fe－Cr－Al载体催化剂的EDAX能谱
+Fig.4 EDAX of Fe-Cr-Al supported catalysts
+表1　高温煅烧预处理载体对催化剂性能的影响
+Table 1 　Effect of heat treating of support on catalytic activity
+
+　载体未经高温处理载体经高温处理
+起燃温度，℃328348
+完全燃烧温度，℃412400
+
+2.3　催化剂载体的高温预处理
+　　含稀土的Fe-Cr-Al合金网作负载型钯催化剂的载体，性能较为理想，但其耐热性有待于进一步提高.故此采用一定的高温煅烧法对此载体进行老化处理，以期提高催化剂的耐热性能.分别以经此高温处理的合金网和未经处理的合金网作载体，按方法1制得钯含量为0.1%的催化剂进行性能评价，结果如表1所示.
+　　从结果看到，载体经高温预处理后，起燃温度较高，但完全燃烧温度较低，即完全燃烧活性较好.同时实验也表明其催化活性稳定，耐热性能远好于载体未经处理的催化剂.其机制解释为：在高温煅烧处理过程中，合金表面晶型重整，部分Al氧化成α-Al2O3,有效地提高了载体的高温稳定性，同时在高温下稳定的α-Al2O由此看到，不同载体表面的耐高温稳定性不同，对催化剂表面结构的高温稳定性影响也不同.含稀土的Fe-Cr-Al合金载体的催化剂表面微观结构热稳定性良好，它有效地阻止了活性组分蠕变凝结，从而使催化剂具有较好的活性，表明载体对催化剂的耐热稳定性具有重要的影响3有效地阻止了活性组分钯在高温下的蠕变聚结，维持了钯的具有良好催化活性的高分散状态，防止了催化剂的高温失活，从而提高了催化剂的热稳定性.
+2.4　不同制备方法对催化剂活性的影响
+　　将含有稀土的Fe－Cr－Al合金作为载体，经一定的高温煅烧预处理后，分别采用前述的方法1、方法2和方法3制备出系列催化剂进行活性评价，各催化剂的活性组分Pd含量见表2，苯的转化率与催化反应温度关系见图5.
+表2　各实验催化剂中Pd的百分含量
+Table 2 Pd percentage content of experimental catalysts
+
+
+催化剂编号方法1方法2方法3
+123456789101112131415
+Pd,%0.050.100.150.0050.010.050.100.150.200.0050.010.050.100.150.20
+
+
+图5　苯的转化率与催化反应温度关系
+A.方法1制得的催化剂　B.方法2制得的催化剂　C.方法3制得的催化剂
+Fig.5 Relationship between conversion percent of benzene and reaction temperature
+　　从图5可以看到：方法1制得的催化剂的活性最差，方法2制得的催化剂的活性较好，而方法3制得的催化剂的活性最好，苯的起燃温度和完全燃烧温度均较低(图6).　　
+
+
+图6　不同制备方法的催化剂的催化转化温度
+A.方法1制得的催化剂　B.方法2制得的催化剂　C.方法3制得的催化剂
+Fig.6 Conversion temperature of different catalysts
+　　从实验结果还看到，3种方法制得的催化剂的活性组分Pd的最佳含量不同，方法3系列的活性组分Pd的含量最少，为0.01%(w/w)．
+　　研究表明［5］，采用溶胶法制备的催化剂Pd能均匀的分散在Al2O３的网状结构中，耐高温性好，沉积过程可能的反应机制为：当pH值较低时，H+消耗了载体表面的羟基，此时Pd按下式交换到载体表面：(其中A1、A2为载体原子，可以相同也可以不同)；当pH值较高时，PdCl42-与载体表面羟基发生相互作用，此时Pd按沉淀机理吸附在载体表面：PdCl42-+2OH-→Pd(OH)2↓+4Cl-.由于方法2的整个过程是沉积过程伴随着还原过程，活性反应中心的形成不象方法1化学镀过程形成紧密有序的金属层，而与胶体沉积网络结构共生，易于形成粒径更小的Pd催化活性中心，表现出较高的催化活性.方法3利用化学镀过程Pd与载体形成紧密结构与载体结合力强的特点，提高活性中心的抗蠕动变形性，增强溶胶法催化剂的耐高温性，该法是两种方法的综合，两种机理均发生作用，但不是简单的加和，因而Pd分散度高，用量少.活性组分的形成与载体作用方式不同，从而导致了催化性能的不同.其机制有待于进一步详细探讨.
+
+3　小结
+　　1.金属负载钯催化剂的载体不同，其芳烃催化燃烧活性及耐热性不同.以含稀土的Fe－Cr－Al合金为载体的Pd催化剂芳烃化合物燃烧活性优于Fe－Cr－Al合金和不锈钢.稀土对催化剂的活性和耐热性有明显的促进作用.
+　　2.高温预处理催化剂载体可稍提高催化剂的耐高温性.
+　　3.采用化学镀和络合物沉积相结合的方法可明显提高催化剂的活性.
+作者单位：叶　华　　国家技术监督局标准物质研究中心气室，北京　100013；周志刚北京大学环境科学中心环境模拟与污染控制国家重点联合实验室，北京　100871；方　方　郑菁英　戴乾圜北京工业大学化学与环境工程学系有机教研室，北京　100022)
+参考文献
+　1　戴乾圜.化学致癌及化学致癌机理的研究.中国科学(B辑)，1979，10：964—977
+　2　Yuan S B et al.Catalytic combustion of diesel soot particulate on copper catalysts supported on TiO2:Effect of potassium promoter on the activity.Applied Catalysis B:Environmental,1994,3:319—333
+　3　Maior W F et al.Efficiency of air cleaning by catalytic afterburning with electric heaters.Catalysis Today,1993,17:225—234
+　4　叶　华，方　方等.负载型钯催化剂完全氧化性能的研究.北京工业大学学报，1997，23(1)：68—72
+　5　林崇衡，汪　仁.Pd/Al2O3催化剂的高温热烧结研究.催化学报，1997，18(2)：93—96
+1997-11-17收到原稿
+1998-08-03收到修改稿
+
+

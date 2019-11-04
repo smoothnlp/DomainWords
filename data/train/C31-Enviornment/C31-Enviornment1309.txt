@@ -1,0 +1,103 @@
+环境科学学报
+ACTA SCIENTIAE CIRCUMASTANTIAE
+1999年 第19卷 第3期 Vol.19  No.3 1999
+
+
+
+　　酸性溶液中铝-氟反应动力学*
+徐仁扣　季国亮　
+摘要　研究了酸性溶液中铝-氟反应的动力学，结果表明，铝-氟之间的反应速率随温度和pH的 升高而增加.低pH下以Al3++F-=AlF2+反应为主，较高pH下由于AlOH2+参与反应及OH-的催化作用，反应速率加快.在铝的浓度比氟过量10倍的情况下，铝-氟之间的反应可以用一级反应动力学方程来拟合，即为假一级反应.当pH＜3.8时，柠檬酸和草酸的存在使反应速度加快，而当pH＞3.8时，有机酸使铝-氟反应速度变慢.有机酸在不同的pH下存在不同的作用机制.
+关键词　酸性溶液；铝-氟络合反应；动力学.
+Kinetics of aluminum-fluoride complexation in acid solution
+XU Renkou, JI Guoliang 
+The Institute of Soil Science, Chinese Academy of Sciences, Nanjing 210008
+Abstract　The results of a study on the kinetic of aluminum fluoride complexation in acid solution indicated that the rate of the reactions increased with an increase of pH and a rise in temperature. At lower pH, the reaction, Al3++F-=AlF 2+, was of predominant. At higher pH, the rate increasesd due to the involveme nt of Al-OH complexes and catalysis of OH-. When the initial concentration of aluminum was 10 times higher than that of fluoride, the reaction rate followed the kinetic equation of the first order reaction. The aluminum-fluoride complex ation was influenced by organic-acids.When pH was lower than 3.8,citric acid a nd oxalic acid accelerated the aluminum-fluoride comple-xation,but when pH was higher t han 3.8, they slowed down the complexation. A possible mechanism was discussed.
+Keywords　acid solution, aluminum-fluoride complexation, kineti cs.
+　　随着工业化的发展，酸性沉降物的量不断增加［1］，这导致土壤和地表水的酸化速度加快，有毒元素铝的活动性增加［2，3］.土壤和地表水均为开放体系，其组成及其中所发生的化学反应均随着环境条件的改变而不断发生变化.溶液中铝-氟之间有很强的络合作用，铝-氟络合反应对铝的溶解、铝离子的形态分布及铝的迁移和转化都具有重要的影响，研究铝-氟之间的络合反应动力学对改良酸性土壤、减轻土壤和地表水中的铝毒及保护环境具有重要意义.
+1　材料和方法
+1.1　溶液的配制
+　　铝溶液：准确称取纯铝箔(含量不少于99.5%)0.2698 g，在20 mL浓HCl中完全溶解后移入1 L容量瓶中，并用去离子水定容至刻线，此溶液为0.01 mol/L的铝标准溶液.实验中所用的10-4 mol/L铝溶液是由铝标准溶液稀释配制而成，并用稀NaOH溶液小心将溶液pH调至所需的值.在有机酸对铝-氟反应的影响的实验中所用的溶液，由一定量的铝标准溶液和有机酸的标准溶液配制而成(除特别说明外，有机酸浓度均为0.1mmol/L)，用稀NaOH溶液小心将溶液pH调至所需的值，并放置2h，让反应达到平衡.
+1.2　实验方法
+　　动力学实验中游离F-的活度用氟电极测定.除温度影响实验外，所有实验都在12-13℃下进行.虽然在此温度下，氟电极从空白溶液至一定浓度的响应时间较长，一般在20-30s之间，但氟电极对F-浓度的改变的响应较快(图1)，当F-浓度从4μmol/L增加至7 μmol/L或由7μmol/L增至10μmol/L时，氟电极的响应时间均在5 s左右.因此，如果将动力学实验中的第一点的读数时间定在20 s之后，则用氟电极测定铝-氟反应过程中F-的活度是可行的.
+　　进行动力学实验时，在50 mL的塑料烧杯中加入50 mL(10-4 mol/L)的铝溶液，用磁力搅拌器搅拌，将氟电极和甘汞电极浸入溶液，用毫伏计测量二电极的电位差(本实验用ORION720型毫伏计).用微量加液器加入50μL(0.01 mol/L)氟标准溶液，使氟的初始浓度为10-5 mol/L，同时按动秒表记时，定时读取电位差值，并根据标准曲线换算成F-活度值.由于溶液离子强度很低，可以认为溶液中离子的浓度与活度相等.
+
+
+图1　氟电极的响应特性曲线
+Fig.1 Response time curves of a fluoride electrode
+1.3　溶液组成的计算
+　　反应开始时，铝、氟的浓度分别为10-4 mol/L和10-5 mol/L，铝离子的浓度为氟离子的10倍，因此可以认为反应产物仅为AlF2+.假定溶液中HF的离解反应的速度很快，能迅速达到平衡，这样就可以根据某一时刻测定的游离F-的活度和溶液pH计算出反应产物AlF2+的浓度：
+［ALF2+]=[F]总-[HF]-[F-]=[F]总-[F-]-[H+][F-]/KHF
+KHF为HF的离解常数，25℃下其值为6.8×10-4，根据反应的生成热的数据［4］推算的平衡常数与温度的关系为：logK=-757.658/T-0.6288，T为绝对温度.
+2　结果和讨论
+2.1　温度和pH对反应速率的影响
+　　铝-氟之间的反应速率明显受温度和溶液pH的影响，如图2和图3所示.
+
+
+图2　pH对铝-氟反应速率的影响(12℃)
+Fig.2 Effect of pH on the rate of reaction between aluminum and fluoride (12℃)
+
+
+图3　温度对铝-氟反应速率的影响(pH 3.44)
+Fig.3 Effect of temperature on the rate of reaction betw een aluminum and fluoride (pH3.44)
+　低pH下反应速率很慢 ，当温度为12 ℃，pH为3.75时，10 min后仅有60%的氟与铝反应.随着pH升高，反应速率加快，当pH增加至4.2时，在2min内，几乎所有的氟均与铝形成了络合物.当pH增至4.31时，反应几乎在1min内完成(图2).温度的增加使反应活化能降低，反应速率加快.在pH3.44的溶液中，13 ℃反应8min仅有28%的氟与铝反应，而22℃时形成AlF2+络合物的氟占总氟的91%(图3).因此，低温和低pH均不利于铝-氟之间的络合反应.
+2.2　络合反应对一级动力学方程的拟合及反应机制
+　　溶液中铝-氟之间有如下4种可能的反应途径［5］：
+Al3++F-=AlF2+
+(1)
+AlOH2++F-+H+=AlF2++H2O
+(2)
+Al3++HF=AlF2++H+
+(3)
+AlOH2++HF=AlF2++H2O
+(4)
+假定反应以式(1)、(3)为主，由于铝的初始浓度是氟的10倍，可以认为其浓度在反应过程中基本不变，如果反应符合一级反应(假一级反应)，则有：
+d[AIF2+]t/dt=K1[F-]t+K2[HF]t=K1[F-]t+K2[H+][F-]t/KHF
+=(K1+K2[H+]/KHF)[F-]t
+(5)
+又有
+[F]总=[AIF2+]+[F-]+[HF]=[AIF2+]+[F-]+K2[H+][F-]t/KHF
+[F-]=( [F]总-[AIF2+] )KHF/(KHF+[H+])
+(6 )
+将式(6)代入式(5)得
+d[AIF2+]t/dt=｛(K1KHF+K2[H+])/(KHF+[H+] )｝([F+]总-[AIF2+]t)
+(7)
+将式(7)积分并取[AIF2+]0=0得
+ln( [F]总-[AIF2+] )t=- Kt
+(8)
+其中K为表观速率常数，K=(K1KHF+K2[H+])/(KHF+[H+]).
+　　根据不同pH下铝-氟反应的动力学数据，以log([F]总-[AIF2+]t)对时间t作图结果见图4.由图可见，在pH3.44-pH4.30的范围内log([F]总-[AIF2+]t)与时间t呈直线相关，与上述推导的结果相一致.说明在铝过量的酸性条件下，铝-氟之间的络合反应符合一级反应动力学方程.从图中直线的斜率可以求出反应的表观速率常数(表1).随pH升高，表观反应速率常数增大，说明铝-氟之间的反应速率随pH升高而增加.根据计算出的表观速率常数值可对K1和K2的值进行比较，结果表明4个不同pH下K1均大于K2，说明在酸性条件下上述反应(1)是主要反应.随着pH的升高，反应速率加快，有人认为是AlOH2+参与反应的缘故.因为OH-和F-电荷相同，离子半径相近，F-取代AlOH2+中的OH-比取代Al(H2O)63+中的H2O容易［6］.Ares(1986)用连续加入法研究铝-氟之间的反应时发现，每加入一次氟，溶液pH会有一个迅速升高的过程，随后则变化很小［7］.说明上述反应机理的存在.在本实验中也观察到这一现象，即加入氟后，溶液pH会迅速有一微小的升高.但即使在比较低的pH范围内，pH的改变也会使铝-氟反应速率发生明显的变化(图2).在pH3.38的铝溶液中，12 ℃时AlOH2+仅占溶液中总铝的1%左右，而此时铝-氟反应速率比pH2.89时已有明显的增加.因此，作者认为，在铝-氟反应中，OH-起了类似催化剂的作用，即加入的F-优先与AlOH2+反应并置换出的OH-，置换出的OH-再与Al3+迅速反应形成AlOH2+，这样即使AlOH2+的浓度很低也能使反应速率加快.
+表1　不同pH时铝-氟反应的表观速率常数
+Table 1 Apparent rate constants of reaction between aluminum and fluoride at various pH
+
+pH速率常数，s-1
+3.448.45×10-4
+3.802.43×10-3
+4.142.10×10-2
+4.305.25×10-2
+
+
+图4　铝-氟反应对一级动力学方程的拟合
+Fig.4 Fitting of the reaction between aluminum and fluro ide to the first-order kinetic equation
+2.3　有机酸对反应速率的影响
+　　有机酸对铝-氟反应速度的影响在不同的pH下有不同的表现，图5所示为柠檬酸和草酸对铝-氟反应速率的影响.
+
+
+图5　柠檬酸和草酸对铝-氟反应速率的影响
+Fig.5 Effects of citric and oxalic acids on the rat e of reaction between aluminum and fluoride
+　　在pH3.8的溶液中，两种酸的存在对反应速率没有明显的影响；当pH小于3.8时，柠檬酸和草酸均使反应速率加快；但当pH大于3.8时，有机酸的存在使反应速率降低.从有机酸的浓度对铝-氟反应速率的影响来看，低pH下，不同浓度有机酸的存在，铝-氟反应速率差别不大，如图6所示.在pH2.89，草酸浓度分别为0.1 mmol/L、0.5 mmol/L和1.0 mmol/L的条件下，铝-氟之间的反应速率无明显差别.但在较高pH下，随着有机酸浓度的增加，铝-氟反应速率逐渐降低，且在高浓度下，这种差别更明显(图6).　　
+
+
+图6　草酸浓度对铝-氟反应速率的影响
+Fig.6 Effect of the concentration of oxalic acid on the rate of reaction between aluminum and fluoride
+不同pH下有机酸的不同表现说明存在不同的反应机制，在低pH下，有机酸以分子形态与铝形成弱键合的络合物(外圈型)，此时有机配体比H2O更易为F-所置换，所以有机酸的存在使反应速率加快.但在pH较高的情况下，有机酸的离解度增加，此时有机酸以酸根形态与铝形成强键合的络合物(内圈型)，有机配体不容易为F-所置换，铝-氟反应速率变慢，且随有机酸浓度增加，有机配体与F-对铝的竞争作用加强，所以在较高pH下，随有机酸浓度增加，铝-氟反应速率明显减小.
+*国家自然科学基金资助的研究课题(49401009，49471041) 
+作者单位：中国科学院南京土壤研究所，南京　210008
+参考文献
+［1］　丁国安等.中国酸雨现状及发展趋势.科学通报，1997，42(2)：169 
+［2］　Binkley D et al. Acid deposition and forest soil. Ecological Studies 72. Springer-Verlag New York Inc. 1989.12,65
+[3] Tamm C O, Hallbacken L. Changes in soil pH over a 50-year period under diffe rent forest canopies in SW sweden. Water air and Soil Pollut, 1986,31:337
+[4] Schecher W D, Driscoll C T. ALCHEMI:a chemical equilibrium model to assess th e acid-base chemistry and speciation of aluminum in dilute solutions. In “Chemi cal Equilibrium and Reaction Models” Soil Sci Soc of Am, Am Soc of Agron. 1995. 325
+[5] Plankey B J, Patterson H H.Kinetics of aluminum fluoride complexation in ac idic waters. Environ Sci Technol, 1986,20:160
+[6] Ares J. Identification of aluminum species in acid forest soil solution on ba sis of Al:F reaction kinetics: 1.reaction paths in pure solution. Soil Sci, 1986 ,141:399
+[7] Ares J.Identification of hydrolysis products of aluminum in natural water: I. n -dimensional calibration of Al/F kinetic pathways. Anal Chim Acta, 1986,187:181 
+1997-09-01收到原稿　1997-12-29收到修改稿

@@ -1,0 +1,120 @@
+环境科学研究
+RSEARCH OF ENUIRONMENTAL SCIENCES
+1999年 第12卷 第1期  Vol 12 No.1 1999
+
+
+
+水中臭氧分解动力学研究
+张　晖　杨卓如　陈焕钦
+摘　要　在磷酸盐缓冲液中研究了臭氧的自分解，根据臭氧分解机理推导出其动力学方程。由不同温度和pH值下的实验结果确定出kT,0,n以及活化能E。
+关键词　臭氧　分解　动力学
+Kinetics of Ozone Decomposition in Water
+ZHANG Hui1)　YANG Zhuoru2)　CHEN Huanqin2)
+( 1)Department of Environmental Science,Wuhan University,Wuhan　430072;
+2)Research Insitute of Chemical Engineering,South China University of Technology,Guangzhou　510641)
+Abstract　Studies on ozone self-decomposition were performed in the phosphate buffered solution.From the decomposition mechanism,the kinetic expression was derived as.The values of kT,0,n and activation energy E were determined according to the results at various pH and temperature.
+Keywords　Ozone; Decomposition; Kinetics
+
+　　随着臭氧在水处理过程中的应用，液相臭氧的自分解也引起了人们的重视，但研究的侧重点各有不同。一种以Staehe Lin和Hoigne［1，2］为代表，研究液相臭氧分解产生·OH等自由基的链反应机理；另一种则以Kuo［3，4］为代表，研究从气相传入液相的臭氧其自分解反应对有机物臭氧化过程的影响，这样就提出了许多分解动力学表达式［5］。但由于反应介质——水或水溶液组成等方面的差异，导致这些动力学表达式形式各异。为此Sotelo等［6］根据Weiss［7］提出的如下链反应机理：
+　　引发　
+　　　　　
+　　增长　
+　　　　　
+　　终止　
+推导出其动力学方程为
+　　
+　　该方程可以较好地关联不同温度和pH值下的实验结果。为保持实验过程中恒定的pH值，选用磷酸盐缓冲液作为实验介质。由于磷酸盐是一种较强的·OH自由基清除剂［2］，它与自由基之间的反应在链反应的终止步骤中将占主导地位，这在Weiss的机理反应式中未表现出来，因而由此推出的动力学方程并不是对臭氧分解过程的真实描述。
+　　Nadezhdin［8］在总结前人提出的各种链反应基础上，提出了如下的臭氧分解历程：
+　　引发　
+　　　　　
+　　增长　
+　　　　　
+　　终止　(相对于后2个反应可忽略)
+
+并得到不同pH值下的动力学表达式：
+
+同时特别指出，在·OH自由基清除剂存在的条件下，
+　　该文也选择磷酸盐缓冲液作为实验介质，研究不同温度和pH值下的臭氧分解过程，以Nadezhdin的分解机理为基础，推导并确定出其动力学方程。
+1　实验部分
+　　文中采用的均相法研究臭氧的分解过程。实验介质为磷酸盐缓冲液，pH值为2.0～8.0，其中磷酸盐浓度保持为0.05 mol/L，液体温度由恒温水夹套调节。实验时首先向缓冲液中通入含臭氧的空气，待一段时间液相臭氧浓度稳定后，停止通气，计时并由靛蓝法［9］测定此时的液相臭氧浓度，然后定时取样分析其中的臭氧浓度。
+2　结果与讨论
+2.1　pH值的影响
+　　图1显示随着pH值的增加，臭氧自分解的速度加快。根据臭氧分解的链反应机理知，其中一个链引发反应为：
+
+或　
+
+
+
+图1　pH值的影响
+因此pH值的升高，即OH-根离子浓度的增加，利于链反应的引发，从而促进臭氧的自分解。
+2.2　温度的影响
+　　液相温度的升高必然导致速率常数的提高，从而加速臭氧的自分解，如图2所示。
+
+
+图2　温度的影响
+2.3　臭氧分解动力学方程的确定
+　　目前许多研究者在确定臭氧分解动力学表达式时，仍停留在对实验数据进行经验关联［3，10，11］。他们将该表达式写成如下形式：
+
+　　积分后得到
+　　
+或　
+　　根据前人的工作知m一般为1，1.5或2，这样将m的3种取值分别进行最小二乘关联，拟合得最好(即相关系数r最大)的m值即为臭氧分解反应级数。文中按上述方法进行数据处理，结果见表1。
+表1　不同m值下的处理结果(r值)
+
+mpH
+2.05.88.0
+10.9960.9980.994
+1.50.9990.9980.998
+20.9990.9930.998
+
+　　注：温度为30℃
+
+　　由表1知，不同m值下的处理结果相差并不显著，因此单纯的经验关联无法确定臭氧分解的真实反应级数，必须以臭氧的分解机理为基础来推导并确定其反应动力学方程。
+　　该实验介质为磷酸盐缓冲液，其中H2PO4-和HPO42-根离子是较强的·OH自由基清除剂：
+
+　　此时臭氧的分解历程应为Nadezhdin提出的链反应再加上如下的链终止反应：
+
+　　其中Si为H2PO4-或HPO42-根离子。
+　　分别对O3，和进行衡算，在假定和为稳态的条件下，可推出
+
+　　其中Kw=［H+］［OH-］。
+　　由文献［2，8］提供的各速率常数参考值和实验条件知，等式右边括号中的第一项相对于第二项可忽略，则
+　　
+　　由于H2PO4-和HPO42-根离子之间存在如下平衡：
+　　
+　　为简便起见，可令
+　　
+　　其中［S］为磷酸盐浓度，文中为0.05 mol/L保持不变，这样的表达式可简化为
+
+　　考虑温度的影响，上式可写成Arrhenius形式：
+
+　　按照m=2时的情形对实验数据进行最小二乘关联，可求出不同pH值下的k′T值。根据pH为5.8时不同温度下的速度常数值，由ln k′T对1/T作图(如图3所示)，该直线斜率为-E/R，则可求出活化能E=128.5 kJ/mol。
+
+
+
+图3　ln k′T对1/T的实验关联
+　　再根据不同pH值和温度下的速率常数值，由(ln k′T+E/RT）对-ln［OH-］作图(如图4所示)，由该直线的斜率和截距值可求出n=0.18, kT,0=3.05×1025。
+　　这样臭氧自分解反应动力学方程为：
+
+
+
+图4　ln k′T+E/RT对-ln［OH-］的实验关联
+3　结论
+　　以Nadezhdin［8］提出的臭氧自分解机理为基础，推导出·OH自由基清除剂存在时的分解动力学方程。臭氧分解速率随温度和pH值的提高而加快，根据实验结果，确定出动力学方程的Arrhenius形式为：
+
+第一作者：男，1964年生，工程师
+作者单位：张　晖　武汉大学环境科学系，武汉　430072；
+　　　　　杨卓如　陈焕钦　华南理工大学化工研究所，广州　510641
+参考文献
+1　Staehelin J,Hoigne J.Environ Sci Technol,1982,16:676.
+2　Staehelin J,Hoigne J.Environ Sci Technol,1985,19:1206.
+3　Kuo C H.Environ Prog,1982,1:189.
+4　Mehta Y H,George C E,et al.Can J Chem Eng 1989,67:118.
+5　张晖.有机废水中对硝基酚的臭氧化法处理:〔学位论文〕.广州：华南理工大学，1995.
+6　Sotelo J L,Beltran T J,et al.Ind Eng Chem Res,1987,26:39.
+7　Weiss J.Trans Faraday Soc,1935,31:668.
+8　Na dezhdin A D.Ind Eng Chem Res,1988,27:548.
+9　Bader H,Hoigne J.Wat Res,1981,15:449.
+10　Sotelo J L,Beltran F J,et al.Wat Res,1989,23:1239.
+11　Ku Y,Su W J,et al.Ind Eng Chem Res,1996,35:3369. 
+收稿日期：1997－11－13　修回日期：1998－05－20

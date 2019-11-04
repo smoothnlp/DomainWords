@@ -1,0 +1,34 @@
+上海航天
+AEROSPACE SHANGHAI
+2001 Vol.18 No.3 P.8-14
+
+
+
+
+应用分力合成的步进电动机驱动方案研究
+王凤鸣　 陕晋军　 高桦　 刘暾　 
+摘　要：针对现代航天器往往具有大型挠性附件以及步进电机常作为其主要驱动系统的特点，对分力合成主动振动抑制方法进行了讨论，建立了相应的数学模型，对步进电机驱动挠性结构时产生的振动以及挠性振动对刚体运动的影响进行了分析，提出了应用分力合成方法的驱动方式。数值仿真和实验均验证了该方法的正确性。
+关键词：分力合成方法；挠性附件；步进电动机；振动测试
+分类号：TM383.6　文献标识码：A
+文章编号：1006-1630(2001)03-0008-07
+Study on Driving Strategies of Stepping Motor Using Component Synthesis Method 
+WANG Feng-ming（Dept. of Astronautics and Mechanics，Harbin Institute of Technology，Harbin Heilongjiang 150001,China）　
+SHAN Jin-jun（Dept. of Astronautics and Mechanics，Harbin Institute of Technology，Harbin Heilongjiang 150001,China）　
+GAO Hua（Dept. of Astronautics and Mechanics，Harbin Institute of Technology，Harbin Heilongjiang 150001,China）　
+LIU Dun（Dept. of Astronautics and Mechanics，Harbin Institute of Technology，Harbin Heilongjiang 150001,China）　
+Abstract：Considering the large flexibility in modern spacecraft and stepping motors are often used to drive the flexible appendages, in this paper, we discuss the active vibration suppression method with component synthesis. The corresponding mathematics model was built and the analysis of flexible vibration caused by different driving strategies of stepping motor and its influence on rigid attitude were done. A novel driving strategy using component synthesis method was proposed. Both numerical simulation and experiment validate this new method.
+Keywords：Component synthesis method；Flexible appendage；Stepping motor；Vibration test
+作者简介：王凤鸣（1963-），男，工程师，博士生，研究领域：机械设计、设备维修和结构动力学分析。 
+作者单位：王凤鸣（哈尔滨工业大学航天工程与力学系，黑龙江哈尔滨 150001）　
+　　　　　陕晋军（哈尔滨工业大学航天工程与力学系，黑龙江哈尔滨 150001）　
+　　　　　高桦（哈尔滨工业大学航天工程与力学系，黑龙江哈尔滨 150001）　
+　　　　　刘暾（哈尔滨工业大学航天工程与力学系，黑龙江哈尔滨 150001）　
+参考文献：
+［1］[美] Harrington R F,王尔杰等译. 计算电磁场的矩量法[M].北京:国防工业出版社, 1981.
+［2］徐献瑜,李家楷,徐国良.Padè逼近概论[M].上海: 上海科学技术出版社, 1990.
+［3］徐利治,王仁宏,周蕴时. 函数逼近的理论与方法[M]. 上海: 上海科学技术出版社, 1990.
+［4］Richmond J H. Scattering by a dielectric cylinder of arbitrary cross section shape[J]. IEEE Tran. AP, 1965,(5): 334-341.
+
+收稿日期：2000年10月31日
+修稿日期：2000年12月27日
+出版日期：2001年3月1日

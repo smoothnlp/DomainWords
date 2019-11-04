@@ -1,0 +1,34 @@
+环境科学研究
+RESEARCH OF ENVIRONMENTAL SCIENCES
+2001 Vol.14 No.1 P.4-8
+
+
+
+
+北京、东京、筑波大气中有机污染物组成研究
+黄业茹　 狄一安　 施钧慧　 西川雅高　 
+摘　要：用低流量采样器及双层采样滤膜(石英及固相萃取用C18膜)采集了北京、东京和筑波三城市冬季(1999年1月)大气颗粒物和大气气相物质，3个城市的共同特点是大气气相物质中含有很高浓度的苯环数2～4的多环芳烃及碳数小于20的正构烷烃，大气颗粒物中以5～6个苯环多环芳烃为主。冬季正构烷烃没有明显的偶数碳数和奇数的区别。但是，北京大气气相物质和颗粒物中多环芳烃浓度明显高于东京和筑波，而且各正构烷烃及多环芳烃的浓度分布也与东京和筑波的不同，表明冬季大气中有机污染物来源不同。
+关键词：城市空气；　有机污染物； 多环芳烃； 正构烷烃； 大气颗粒物； 大气气相物质
+分类号：X513　文献标识码：A
+文章编号：1001-6929(2001)01-0004-05
+PAHs and Normal-Alkanes in Urban Air of Beijing,Tokyo and Tsukuba
+HUANG Ye-ru（Sino-Japan Friendship Center for Environmental Protection, Beijing　100029,　China）　
+DI Yi-an（Sino-Japan Friendship Center for Environmental Protection, Beijing　100029,　China）　
+SHI Jun-hui（Sino-Japan Friendship Center for Environmental Protection, Beijing　100029,　China）　
+NISHIKAWA Masataka（National Institute of Environmental Studies, Tsukuba　305， Japan）　
+Abstract：Low volume sampler and two layer filters,in which one was a quartz filter and another C18 membrane disk commonly used for solid phase extraction,were used to collect urban air samples in Beijing,Tokyo and Tsukuba.The common feature was that PAHs with two to four benzene rings and alkanes with carbon number less than 20 were predominantly gaseous,four benzene ring PAHs a mixture of both phase and five and six benzene rig PAHs primarily particulate.There was no significant difference of odd and even carbon number.Higher concentrations of PAHs were found in both particulate and gas phases in Beijing samples than those in Tokyo and Tsukuba.Meanwhile the concentration distribution of each normal-alkanes and PAHs in Beijing was also different with those in Tokyo and Tskuba.
+Keywords：urban air; organic pollutants; polycyclic aromatic hydrocarbons (PAHs); normal alkanes; particulate; gas phase
+作者简介：黄业茹(1963-)，女，山东蓬莱县人，研究员，博士后. 
+作者单位：黄业茹（中日友好环境保护中心， 北京　100029）　
+　　　　　狄一安（中日友好环境保护中心， 北京　100029）　
+　　　　　施钧慧（中日友好环境保护中心， 北京　100029）　
+　　　　　西川雅高（日本国立环境研究所， 筑波　305）　
+参考文献：
+［1］Mazurek M A,Dass G R,Simoneit B R T.Interpretation of high-resolution gas chromatography and high-resolution gas chromatography/mass spectrometry data acquired from atmospheric organic aerosol samples［J］.Aerosol Sci Technol,1989,10:408～420.
+［2］Simoneit B R T,Staandley L J,Cox R E.Organic matter of the troposphere-Ⅳ.Lipids in Harmattan aerosols of Nigeria［J］.Atmos Environ,1988,22:983.
+［3］Sicre M A,Marty J C,Ssaliot A,et al.Aliphatic and aromatic hydrocarbons in different sized aerosols over the Mediterranean Sea:Occurrence and origin［J］.Atmos Environ,1987,21:2247.
+［4］Simoneit B R T,Mzirek M A.Organic matter of the troposphere-Ⅱ.Natural background of biogenic lipid matter in aerosols over the rural western Unite States［J］.Atmos Environ,1982,16:2139.
+［5］田边子.GC/MS によゐ浮游粉じん中の多环芳香族炭化水素类及びn-ァルカン类の分析一超音波抽出溶媒の检讨と环境试料ヘの适用［J］.环境化学，1997，7：841.
+［6］Baker J E,Eisenreich S J.Environ Sci Technol,1990,24:342.
+收稿日期：2000年1月27日
+出版日期：2001年1月30日

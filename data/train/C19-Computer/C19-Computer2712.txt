@@ -1,0 +1,120 @@
+软件学报
+JOURNAL OF SOFTWARE
+1999年 第10卷 第12期  Vol.10 No.12 1999
+
+
+
+非正则精确模型的布尔操作
+唐　敏　董金祥　李海龙　何志均
+摘要　为了加强造型系统的表达能力，实现对线框模型、曲面模型和实体模型的统一表示和操作，该文采用非正则精确模型作为几何对象表示的数据结构，并给出了相应的布尔操作实现算法，在保证效率和精确性的同时确保鲁棒性是算法的目标.作为一个特征造型系统的几何核心，该算法已经在基于NT平台的特征造型系统GS-CAD98中实现.
+关键词　非正则模型，布尔操作，裁剪曲面片，鲁棒性.
+中图法分类号　TP391
+Boolean Operation of Non-Regular Precise Geometric Models
+TANG Min DONG Jin-xiang LI Hai-long HE Zhi-jun
+(State Key Laboratory of CAD & CG Zhejiang University Hangzhou 310027)
+(Artificial Intelligence Institute Zhejiang University Hangzhou 310027)
+Abstract　 To enhance the geometric ability of current modeling system, the non-regular precise geometric model is used as the unified data structure to represent and manipulate the wire-frame models, the surface models and the solid models in the algorithms. The authors present the data structure and Boolean operation in this paper. For Boolean operation, accuracy, efficiency and robustness are the main consideration. As the geometric kernel of a feature based modeling system, the algorithm has been implemented in a feature based modeling system named GS-CAD98 on NT platform.
+Key words　Non-Regular geometric model, Boolean operation, trimmed patches, robustness.
+　　随着特征造型技术的飞速发展，人们对几何造型系统核心的要求也进一步提高.只支持单一实体模型的造型核心在以下几个方面受到了挑战［1～4］：
+　　(1) 由于缺乏曲面模型，无法精确地表达和操作符合特定形状和连续性条件的雕塑曲面片；
+　　(2) 针对不同的应用，形状特征应该可以表达为任意维数，例如体特征、面特征和线框特征等；
+　　(3) 几何形状应可以允许以线框、曲面和实体的形式存在，因为在各个独立的设计阶段，并不总需要完整的实体模型；
+　　(4) 基于精确实体模型的鲁棒、高效和精确的布尔操作是目前提高造型能力的瓶颈.
+　　为了将线框、曲面和实体的表示和操作置于统一的体系结构下，我们采用非正则精确模型来表示几何模型.本文详细讨论了在实现布尔操作的过程中为了达到鲁棒、高效和精确的目标而采用的一些技术.模型的精确信息采用参数裁剪曲面片表示，也可以推广到代数曲面.为了得到精确的几何结果，曲面求交算法的选择是关键.曲面求交的算法主要分为解析法、子分法、步进法、区间分析法.目前，基于步进的方法，加上环检测、奇异情况处理、分支跳跃技术，已经可以鲁棒地计算曲面间非退化求交［5～8］的问题.
+　　在几何元素求交时，我们采用了层次求交的方法.原因有两个，一方面，这是由非正则模型中的拓扑层次结构决定的；另一方面是因为高维元素的边界通过低维元素来定义，从而避免了分别求交时由于计算误差而引起的裂纹以及拓扑生成的不一致性.对于曲面求交的退化情况，例如部分重叠，可以通过侧面边界曲面交线来找出结果，而不是直接对重叠曲面求交，从而提高了系统的可靠性.另一个关键技术是交线跟踪，在几何求交的过程中，利用模型的拓扑信息，找出相邻的最有可能相交的几何元素对，并记录跟踪交线分支，从而易于克服布尔操作中由于交线不封闭而引起的区域分类失败的情况.
+1 非正则精确模型表示
+　　在非正则模型中［9］，一个顶点表示为零维元素，对应于R1中的一个位置矢量；一条边表示为一个连通的、开放有界的一维元素，对应于参数域上的一条样条，并不包含端点；一个面表示为一个连通的、开放有界的二维元素，对应于参数域上的一个剪裁区域，并不包含边界顶点和边；一个体表示为一个连通的、开放有界的三维元素，根据其边界面的法向量对应于R3上的一个空间区域，并不包含边界上的顶点、边和面.
+　　图1给出了非正则精确模型的数据结构，图中右上角为几何信息，左部为拓扑信息，在图中线框、曲面和实体模型统一于体(solid)的结构下.每个模型在拓扑上由体、壳、线框、面、边、顶点、半边组成，面包含一个或多个环，环由半边构成，每条边分为一对方向相反的半边.几何信息由分别附加在面、边、顶点上的裁剪曲面、空间曲线和空间点信息组成.
+
+图1　非正则精确模型的数据表示
+　　体模型中面的几何信息为一张参数裁剪曲面，边的几何信息为一条R3上的空间样条，这是为了避免两个邻接面定义在曲面参数域上的边界曲线由于误差而产生裂纹.顶点的几何信息为R3上的一个位置矢量.
+为了精确地表达雕塑曲面，每个体中面的几何信息通过一组参数裁剪曲面片定义，我们用张量积有理Bézier曲面F(s,t)表示每个曲面片：
+
+其中Vij=(xij,yij,zij)为曲面片的控制顶点，为Bernstein多项式.F(s,t)可看成从参数空间(s,t)平面到三维空间R3的一个映射.裁剪曲面通过原参数空间及其上的裁剪曲线定义.裁剪曲线一般是高阶曲线，不能精确参数化.我们用参数域上的分段线性链来近似表示，得到的裁剪区域为曲面参数域上的多边形.为了表示紧凑，在一定误差范围内用样条近似高阶交线，这样,裁剪区域就通过曲面参数域上的一组样条来定义.
+2 算法概述
+　　整个算法大体分为求交检测、曲面片求交和分割、区域分类和生成体［10］三个阶段.
+　　(1) 求交检测.首先对两个输入体的几何元素:顶点、边和面，用包围盒测试和线性规划法去掉不相交的情况，记录可能相交的元素对.
+　　(2) 曲面片求交和分割.对于求交检测后记录的可能相交的元素对，按照顶点、边、面的层次关系进行几何求交，即按Vertex-Vertex,Vertex-Edge,Vertex-Face,Edge-Edge,Edge-Face,Face-Face的次序来确保拓扑分割的一致性.为了提高求交速度和稳定性，根据面面相交的情况进行分析，沿已求得的交线走向进行跟踪求交.在求交过程中，适当插入新顶点和边，并分割曲面片产生新曲面片，得到的交线按照次序记录在交线链中.
+　　(3) 区域分类和生成体.由于参加布尔操作的两个体封闭紧凑，上一步得到的交线链必然是体边界上的一系列闭环，它们把体划分为独立的边界部件.区域分类判别每个边界部件相对于另一个体边界的in-out关系，然后根据布尔操作类型,选择适当的边界部件沿着交线环进行边界粘合，生成结果体.
+　　以图2中的圆柱和方块进行并操作为例，首先进行求交检测，找出可能相交的Solid A中的前平面和Solid B中的圆柱面，然后进行曲面求交和分割.将Solid A和Solid B分别划分为两个部分(a),(b)和(c),(d)，再进行区域分类，将Solid A中不属于Solid B的部分(a)和Solid B中不属于Solid A的部分(c)找出来，沿交线粘合形成结果体.
+
+图2　圆柱和方块的并操作的过程
+3 曲面片求交和分割
+3.1 相交检测
+　　每个曲面片都有自己的包围盒.由Bézier曲面的凸包性［11］可知，控制顶点的凸包完全包含了整张曲面，因此，通过包围盒测试可以过滤掉大部分不可能相交的情况，然后运用线性规划来剪裁.该线性规划问题表达为：如果在两个曲面片中有一个分离平面，则它们不相交.因此，如果两个控制点集存在一个分割面，则曲面片对不相交.我们实现了Seidel［12］的线性规划算法.通过这两种方法，我们记录下少数可能相交的面对.
+3.2 参数曲面片交线计算
+　　参数曲面和代数曲面求交是一个在计算机图形学和几何造型中经常发生的操作，目前已有大量文献讨论了这个问题.所用方法大致分为子分法［13］、区间算术［14,5］、格子求交［15］、解析法［16,17］和步进法［18～20］.最新的技术组合了不同方法的特征,统称为混合算法［21］.
+　　本系统采用了解析法和步进法相结合的方法，将求交问题代数化，把交线的投影作为一条代数平面曲线求值.算法利用矩阵计算跟踪交线，跟踪是几何操作，通过计算平面曲线降低了几何复杂度.本系统所采用的跟踪算法可以在跟踪阶段检测出奇异点的存在，从而精确而高效地得到交线.
+　　曲面片的交线可以看成是参数域上的开环和闭环，例如图3中的l′和l.对于开环，它必然与曲面边界有一个交点，结合上节所述的层次求交技术，这个交点由Edge-Face求交中的曲线和曲面求交得到，我们将它作为跟踪的初始迭代点.对于闭环，由Hohmeyer［6］的基于Gauss图的环检测算法进行判别，然后对其进行子分，将其转化到开环的情况.这样可以确保所有的Face-Face相交时不会形成环，于是可以采用交线跟踪分割技术对求交进行加速.
+
+图3　交线环分析，l′和l分别对应于参数域上的开环和闭环 
+3.3 层次求交
+　　在体中，高维元素的边界通过低维元素来定义.因此，在求交过程中应先完成低维元素间的求交分割，然后再完成高维元素间的求交，这个过程称为层次求交.例如,一个面与另一个面求交的结果依赖于它与定义该面的边和顶点相交的结果.另外,低维的每条边会参与其两个高维邻面与其他表面求交，如果重复计算它与其他面的交点，不仅费时，还可能引起分割的不一致性.如图4所示，曲面S1和S2分别与S0求交，边界空间曲线C0两次与S0求交，因误差引起交点P0≠P1，导致曲线C0被S0分割不一致.因此，我们采用了层次求交的算法，将求交按照Vertex-Vertex求交、Vertex-Edge求交、Edge-Edge 求交和Vertex-Face求交、Edge-Face求交、Face-Face求交的次序进行.下面分别分析这些情况.
+
+图4　S1和S2分别与S0求交，因误差引起交点
+P0≠P1，曲线C0被S0分割不一致
+　　(1) Vertex-Vertex求交.检测顶点是否重合，若重合,则从后继Vertex-Vertex, Vertex-Edge和Vertex-Face求交中删除.
+　　(2) Vertex-Edge求交.判断顶点到曲线的距离，若在误差范围内，则插入新顶点将边分裂，原顶点和新顶点标为重合，并不再参加后继求交，而两条新边参加后继求交.
+　　(3) Edge-Edge 求交.若两条边曲线在误差范围内交于某点，将两条边分裂，并将两个新顶点标为重合，并不再参加后继求交，而新产生的边参加后继求交.
+　　(4) Vertex-Face求交.若顶点在误差范围内落在曲面上，在面上产生一个单点内环，并将原顶点和新顶点标为重合.
+　　(5) Edge-Face求交.由于边的端点已经进行了Vertex-Face求交，重合顶点数为0,1,2.若为2，仍需进一步进行曲线和曲面重合测试，若重合，插入新边并将面分割.
+　　(6) Face-Face求交.进行参数曲面片求交，在已插入的单点内环间和已插入边,根据交线插入新边,将面进行分割.
+3.4 交线跟踪分割
+　　在上节求出了Face-Face相交的曲面交线的基础上，我们采用了交线跟踪分割技术来求出交线链.求交的过程可以看成是找出所有曲面片的交线段的过程，可以进行穷举式的两两求交，但考虑到几何求交中的计算误差可能带来后继连接失败，从而导致生成拓扑非法的体，我们采用了交线跟踪的方法.在曲面的参数域上考虑交线的情况，可分为以下几种情况（闭环的情况已经由上一节排除），如图5所示.
+
+图5　跟踪情况
+　　情况1：下次加入求交面对为(S1,S′2),(S2,S′1).
+　　情况2：下次加入求交面对为(S′1,S′2),(S″1,S″2).
+　　情况3：下次加入求交面对为(S1,S′2),(S1,S″2).
+　　在实际求交的情况下，预测可能并不符合实际情况，算法在最坏的情况下退化为穷举法.
+　　跟踪分割具体算法如下：
+　　(1) 设(fi,fj)为经过相交检测后仍有可能相交的面对，fjSB,fiSA，从候选面对缓冲池中取出(fi,fj)；
+　　(2) 如果(fi,fj)的交线集Cij≠Φ，继续，否则跳转(6)；
+　　(3) 如果Cij封闭，将Cij加入交线链缓冲池中，跳转(6)，否则，继续；
+　　(4) 如果Cij可与不封闭交线链缓冲池中某段相连产生C′ij，则继续，否则将Cij加入不封闭交线链缓冲池中，跳转(6)；
+　　(5) 如果C′ij封闭，则将C′ij加入交线链缓冲池中，继续，否则将C′ij加入不封闭交线链缓冲池中，继续；
+　　(6) 根据fi,fj的拓扑信息进行交线跟踪，更新候选面对缓冲池，继续；
+　　(7) 如果候选面对缓冲池非空，从候选面对缓冲池取出(fi,fj)，跳转(2)，否则返回，求交结果在交线链缓冲池中.
+4 区域分类和退化情况处理
+　　求交过程的结果是得到交线环和被分割开的边界部件，例如，在图2中，方块被分为(a)和(b)，圆柱被分为(c)和(d).我们需要对每个边界部件进行分类测试，再根据特定的布尔操作类型决定该边界部件是否属于新体，规则如下，A,B为参加布尔操作的两个体，
+
+　　对边界部件进行分类测试的过程称为区域分类.由于体封闭紧凑，如果边界部件上的一个顶点在另一个体外部，则整个边界部件在另一个体外部，反之亦然.
+　　判断一个顶点是否在一个体内是一个很费时的操作，需要计算从该点出发的一条射线与体交点的个数，如果是奇数，则点在内部，否则在外部.这涉及到曲线/曲面求交，其复杂度对于曲面的次数很敏感.事实上，由体的拓扑信息我们可以得到边界部件间的邻接关系，对每个体只需计算一次内外测试就可以完成其区域分类.由于体边界连续，从一个边界部件跨过交线环到达邻接边界部件时，其相对于另一个体的内外关系取反.通过确定一个边界部件的分类属性，然后通过交线环扩散到体的所有边界部件.
+　　退化情况是所有实用系统必须面对的问题，在大多数系统中，退化情况会导致失败或退出.根据文献［12］，退化情况分为奇异点、接触边和面重合3种情况.由于采用了层次求交和跟踪分割，我们的实现能较好地处理前两种情况以及两个曲面片重合区域被曲线边界限定时的情况.这已经能够较好地满足实践的需要了.
+5 实现和结果
+　　我们已经在NT平台上用C语言实现了该算法.参数化特征造型系统GS-CAD98是从工作站平台上的ZD-MCADII系统演化而来的.原系统ZD-MCADII采用的是多面体模型，但考虑到应用领域对于高精度数控加工、外形美学设计的要求，我们引入了非正则精确模型，而布尔操作是一个重要的造型手段.在图6的实例中，对于左边叶轮，用13个辅助面求其截面，每次做截面都进行了一次实体模型与曲面模型（该处为平面）的布尔操作.图6的右下方为13个截面的重叠图，右上方为其中的一个截面.图7为基座线框模型与平面相交的截交线.在最坏的情况下，当两个体的所有曲面片都相交时，算法的复杂度为O(mn)，m和n分别为两个体中的曲面片数.在造型实践中,通过大量雕塑体的布尔操作随机测试，算法的平均复杂度为O(k)，k为实际相交的曲面片对数.
+
+图6　叶轮截面实例
+
+图7　基座线框截面实例
+*本文研究得到国家自然科学基金、国家863高科技项目基金和浙江大学CAD&CG国家重点实验室开放课题基金资助.
+作者简介：唐敏，1974年生，博士，讲师，主要研究领域为计算机图形学与辅助设计，几何造型.董金祥，1945年生，教授，博士生导师，主要研究领域为计算机图形学与CAD，先进制造技术与自动化，DBMS.
+　　　　　李海龙，1970年生，博士，讲师，主要研究领域为CAD，特征参数化设计.
+　　　　　何志均，1923年生，教授，博士生导师，主要研究领域为人工智能，CAD&CG，智能软件工程.
+本文通讯联系人:唐敏，杭州310027,浙江大学1549信箱
+作者单位：浙江大学CAD&CG国家重点实验室　杭州　310027
+　　　　　浙江大学人工智能研究所　杭州　310027
+E-mail: tang-m@netease.com
+参考文献
+　　1　Hoffman C H. Geometric and Solid Modeling. San Mateo, CA: Morgan Kaufmann Publishers, Inc., 1989
+　　2　Masuda H. Topological operators and Boolean operations for complex-based nonmanifold geometric models. Computer Aided Design, 1993,25(2):119～129
+　　3　Wiler Kenin J. Edge-based data structures for solid modeling in curved-surface environments. IEEE Computer Graphics and Applications, 1985,5(1):21～40
+　　4　Stroud I. Modeling with degenerate objects. Computer Aided Design, 1990,22(6):344～351
+　　5　Hu Chun-yi, Maekawa Takashi, Patrikalakis N M et al. Robust interval algorithm for surface intersections. Computer Aided Design, 1997,29(9):617～627
+　　6　Hohmeyer M E. Robust and efficient intersection for solid modeling ［Ph.D. Thesis］. Berkeley: University of California, 1992
+　　7　Krishnan S, Manocha D. An efficient surface intersection algorithm based on the lower dimensional formulation. Technical Report, TR94-064, University of North Carolina, 1994
+　　8　Sederberg T W, Nishita T. Geometric hermite approximation of surface patch intersection curves. Computer Aided Geometric Design, 1991,8:97～114
+　　9　Gursoz E L, Choi Y, Friedrich B P. Boolean set operations on non-manifold boundary representation objects. Computer Aided Design, 1991,23(1):33～39
+　10　Crocker G A, Reinke W F. An enditable nonmanifold boundary representation. IEEE Computer Graphics & Application, 1991. 39～51
+　11　Farin G. Curves and surfaces for computer aided geometric design: a practical guide. New York, NY: Academic Press Inc., 1993
+　12　Seidel R. Linear programming and convex hulls made easy. In: Proceedings of the 6th Annual ACM Conference on Computational Geometry. Berkeley, 1990. 211～215. http://www-tcs.cs.uni-sb.de/seidel/index.en.html
+　13　Lane J M, Riesenfeild R F. A theoretical development for the computer generation and display of piecewise polynomial surfaces. IEEE Transactions on Pattern Analysis and Machine Intelligence, 1980,2(1):150～159
+　14　Snyder J. Interval arithmetic for computer graphics. In: Proceedings of ACM Siggraph. 1992. 121～130. http://www.gg.caltech.edu/papers/intervalabstract.html
+　15　Rossignac J R, Requicha A A G. Piecewise-circular curves for geometric modeling. IBM Journal of Research and Development, 1987,31(3):296～313
+　16　Sederberg T W. Implicit and Parametric Curves and Surfaces, ［Ph.D. Thesis］. Prude University, 1983
+　17　Sarraga R F. Algebraic methods for intersection. Computer Vision, Graphics and Image Processing, 1983,22:222～238
+　18　Farouki R T. The characterization of parametric surface sections. Computer Vision, Graphics and Image Processing, 1986,33:209～236
+　19　Bajaj C L, Hoffmann C M, Hopcroft J E H. Tracing surface intersections. Computer Aided Geometric Design, 1988,5:285～307
+　20　Kriezis G A, Patrikalakis N M, Wolter F E. Topological and differential equation method for surface intersections. Computer Aided Design, 1992,24(1):41～55
+　21　Krishnan S, Gopi M, Manocha D et al. Interactive boundary computation of boolean combinations of sculptured solids. Computer Graphics Forum, 1997,16(3):67～78
+本文1998-09-11收到原稿,1999-01-11收到修改稿

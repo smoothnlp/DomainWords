@@ -1,0 +1,30 @@
+上海航天
+AEROSPACE SHANGHAI
+2001 Vol.18 No.1 P.39-43
+
+
+
+
+卫星姿态控制系统自主故障诊断与重构
+吴德安　 
+摘　要：以某极轨对地观测卫星为背景，分析了姿态控制系统中单机部件出现故障时，系统将会出现的状态变化情况，找出故障部件的判定方法；提出采用产生式规则与框架的混合知识表示结构，描述姿控系统及其故障特点；并提出了系统发生故障时，故障部件的自主隔离、备份部件的自主切换和系统重构方案。仿真初步验证了该方案的可行性。
+关键词：卫星姿态控制；故障诊断；重构
+分类号：V448.22+2　文献标识码：A
+文章编号：1006－1630（2001）01－0039－05
+Automating Fault Diagnosis and Replacement for Satillite Attitude Control System
+WU De-an（No.812 Institute of SAST, Shanghai 200233, China）　
+
+Abstract：This article analyzes the status change in the attitude control system when faults appear based on one polar-orbit satellite, and provides a method to decide faulty component. It also puts forward a mixed knowledge represention which uses generating rules and frames to describe attitude control system and fault characteristics and the approach for automatic seperation of faulty component, automatic switch of spare parts and system replacement. Simulation test verifies the system's fearibility.
+Keywords：Satellite attitude control; Fault diagnosis； System rebuild
+作者简介：吴德安（1967-），男，工程师，硕士，研究领域：卫星姿控系统设计。 
+作者单位：吴德安（上海航天技术研究院812所，上海 200233）　
+
+参考文献：
+［1］田盛丰.人工智能原理与应用[M].北京：北京理工大学出版社,1993.
+［2］Sergio B,G.Diagnostic Models for Engineer Process Management Tools[J].Reliability Engineering and System Safety,1990,30：21～50.
+［3］Holtzman,S. Intelligent Decision Systems[M].Addison-Wesley,Menlo Park,CA,1989.
+［4］Raiffa, H. Decision Analysis[M]. Addison Wesley,Reading,MA,1968.
+
+收稿日期：1999年9月1日
+修稿日期：2000年9月19日
+出版日期：2001年2月25日

@@ -1,0 +1,61 @@
+城市环境与城市生态
+URBAN ENVIRONMENT & URBAN ECOLOGY
+1999年 第12卷 第4期 Vol.12 No.4 1999
+
+
+
+控制星湖内源性营养物质磷负荷的有效性研究
+成晓玲　陈华章　余　倩　刘春英　黄上信
+　　摘要：本文研究了天然沸石与石灰，铝盐、铁盐对湖水—沉积物系统中的湖水脱磷的可能性，以期在对星湖内源性营养物质磷负荷的控制方面提供科学依据。
+　　关键词：天然沸石；石灰；铝盐；铁盐；内源磷负荷
+　　中图分类号：X524　　文献标识码：A　　文章编号：1002-1264(1999)04-0007-02
+Effectiveness of Controlling Internal Phosphorus Loading in Xing Lakes
+CHENG Xiao-ling1，CHEN Hua-zhang1，YU Qian2，LIU Chun-ying1，HUANG Shang-xin1
+（1.Experiment and Research Center，Guangdong University of Technology,Guangzhou 510090)
+(2.Dept. of Chemical Engineering，Guangdong University of Technology, Guangzhou 510090 )
+Abstract：The possibility of reducing phosphorus loading by using of natural zeolite ，Calcium lime and Aluminium salt, Ferris salt additions to lake water-sediment system is proposed in the paper. It is expected to provide scientific basis for control of internal phosphorus loading in Xing Lakes.
+Key words：natural zeolite；　Calcium lime；　Aluminium salt；　Ferris salt；　internal phosphorus loading 
+　　湖泊的富营养化近些年来已成为一个世界性的环境问题，并已越来越多地引起人们的重视。湖泊污染的防治，可以概括为两方面的措施：一是外环境治理，包括截断污水或者去除污水中的污染物质和营养物质；二是内环境治理，即减少污水中的污染物质和营养物的量。无论外环境还是内环境整治，目的都在于降低营养物质的负荷，控制住藻类的异常增殖，逐步提高水的质量。为了有效地控制湖泊内部磷富集，应视不同情况，采取不同的方法［1-3］。国外就有利用投加铝盐等办法来沉淀湖中的磷酸盐，以减缓湖泊富营养化的程度［4-6］。本文利用pH为7.86和总磷含量为0.056　mg/L的星湖湖水与沉积物组成的系统进行了投加天然沸石与生石灰、铁盐、铝盐等的湖水脱磷的实验室试验，探讨其脱磷的效果，为星湖综合治理方案提供技术依据。
+1用天然沸石控制内源性磷负荷研究
+　　分别向有湖水—沉积物组成的模拟系统中，定量投入经过焙烧过的粉状天然沸石进行交换和吸附试验，第五天取样测定总磷，测定结果见图1。
+
+
+图1　天然沸石脱磷试验
+　　从图1中可以看出，天然沸石的投入量增加，磷的脱除率随之增加，当沸石的量增加到1000　mg/L时，磷的脱除率上升为57.14%。试验结果表明，天然沸石对磷有较好的脱除效果。
+2　用石灰控制内源性磷负荷研究
+　　水体的pH值决定磷酸根存在的形式。在较高pH下，石灰与磷酸根离子发生反应，生成CaHPO4或Ca5(OH)(PO4)3，达到去除磷的目的。为此我们向湖水—沉积物组成的模拟系统中投入一定量石灰，第五天取样测定pH值和总磷，结果见图2和图3。
+
+
+图2　石灰投入量与pH值的变化
+
+
+图3　石灰脱磷试验
+　　从图2、图3 中可以看出，石灰的加入，导致湖水pH值提高，湖水中总磷浓度增加。加入的量越多，pH值越高，总磷的浓度增加的越多。
+3　用铁盐控制内源性磷的研究
+　　磷能同铁盐生成不溶性的磷酸铁。加入铁盐过量时，多余的铁盐会生成氢氧化铁，而氢氧化铁又可以吸附那些不稳定的扩散状态的胶体而生成絮凝作用，因而也促进水质净化。原湖水的pH值为7.86，而当投入铁盐时，pH值将在7.60-7.90范围内变化，对湖水的酸碱度影响不大。从图4可以看出，随着投入铁盐量的增加，一般能脱除原湖水总磷的21-48%，总磷含量降到了0.03　mg/L以下。
+
+
+图4　铁盐脱磷试验
+4　用铝盐控制内源性磷负荷的研究
+　　磷酸根离子也能同铝生成磷酸铝沉淀。当向水体中投入硫酸铝或聚合氯化铝后，多余的铝盐水解，生成氢氧化铝胶体。由于氢氧化铝是絮凝物，具有很强的凝聚性，对磷、悬浮颗粒有较强的吸附性，能使水体透明度增加。我们试验了硫酸铝及聚合氯化铝对湖水—沉积物模拟体系的脱磷效果，结果见图5、图6。
+
+
+图5　硫酸铝脱磷试验
+
+
+图6　聚合氯化铝脱磷试验
+　　从图5、图6可以看出，硫酸铝和聚合氯化铝都可以脱除原湖水总磷的50%左右。其pH值的变化范围为7.55-7.86，总磷含量降到0.03　mg/L以下。从试验中还发现投入铝盐后，湖水澄清快，且使湖底表面沉积物颗粒变粗，不易泛起。
+5　结论
+　　（1）向湖水—沉积物模拟系统投加天然沸石对湖水脱磷有较好的效果。加入石灰导致pH值增高和磷的释放增大，也影响水生生物的生存环境。
+　　（2）向湖水投加有化学与混凝作用的铁盐与铝盐试验都有较好效果，能脱除原湖水总磷含量的50%左右，并使其含量分别降到0.03mg/L以下，但以铝盐较佳，它既可使湖水易清，而且药剂用量少，这种方法值得进一步探索。
+作者简介：成晓玲　女，讲师，从事教学及科研工作。
+作者单位：成晓玲，陈华章，刘春英，黄上信　广东工业大学实验研究中心，广州　510090
+　　　　　余　倩　广东工业大学化学工程系，广州　510090
+参考文献
+［1］　彭近新，陈慧君. 水质富营养化与防治(第一版)，北京：中国环境科学出版社，1988：157-161
+［2］　金相灿，屠清瑛. 湖泊富营养化调查规范(第二版)，北京：中国环境科学出版社，1990：208-238
+［3］　罗阳，刘敬. 控制湖泊内源磷负荷的有效性研究. 水资源保护，1996（2）：52-55
+［4］　Babin J., E. E. Prepes, T.P. Murphy & H. R. Hamilton. A test of lime on algal biomass and total phosphorus concentrations in Edmonton stommater retention lakes,1989
+［5］　Prepas E. E., R. P. Murphy, J. M. Crosby, D. T. Walty. Reduction of phosphorus and chlorophyll a concentrations following CaCO3 and Ca(OH)2 additions to hypereutrophic Figure Eight Lake. Alberta. Env. Sci. Technol, 1990(24): 1252-1258
+［6］　Smeltzer E., A successful alumlaluminate treatment of lake Morey. Vermont: lake Reserv. Mang,1990(6): 
+9-19

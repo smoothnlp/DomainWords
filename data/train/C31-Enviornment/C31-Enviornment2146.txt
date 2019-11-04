@@ -1,0 +1,41 @@
+环境科学研究
+RESEARCH OF ENUIRONMENTAL SCIENCES
+2001 Vol.14 No.2 P.26-29
+
+
+
+
+氟里昂替代品降解产物TFA对生态环境的影响评价
+万小春　 胡建信　 张剑波　 
+摘　要：氟里昂替代品的降解产物三氟乙酸(TFA)可以在水体中稳定存在，无明显的光解和生物降解，TFA以致在一些水体中不断累积。预计到2010年大气中TFA的含量可达到5～20pg/m3，降水中其含量可达到100～160ng/L。累积到一定的浓度时，TFA对生态系统包括动植物的危害是明显的，可抑制植物生长，并对动物造成伤害。
+关键词：氟里昂替代品；　三氟乙酸；　降解；　积累；　生态影响
+分类号：X826　文献标识码：A
+文章编号：1001-6929(2001)02-0026-04
+Evaluation of Environment Impact of Trifluoroacetates from the Degradation of CFC Substitutes
+WAN Xiao-chun（Center for Environmental Sciences, State Key Laboratory of Atmosphere Environment Simulation and Pollution Control, Peking University,　Beijing 100871, China）　
+HU Jian-xin（Center for Environmental Sciences, State Key Laboratory of Atmosphere Environment Simulation and Pollution Control, Peking University,　Beijing 100871, China）　
+ZHANG Jian-bo（Department of Technical Physics, Peking University,　Beijing 100871, China）　
+
+Abstract：Trifluoroacetates (TFAs) produced from degradation of CFC substitutes, unaffected by photochemical reaction and biodegradation, will present and cumulate in water system. It is estimated that TFA concentration should be 5～20 pg/m3 in air and 100～160 ng/L in precipitation unto 2010. TFA accumulating to critical concentration will endanger ecosystem evidently by restraining plant growth and harming animals.
+Keywords：substitutes of CFC;　trifluoroacetates;　degradation;　cumulate;　environment impact
+基金项目：国家自然科学基金资助项目(29977001)
+作者简介：万小春(1975-)，女，河南开封市人，硕士研究生. 
+作者单位：万小春（北京大学 环境科学中心 大气环境模拟与污染控制国家重点实验室，北京　100871）　
+　　　　　胡建信（北京大学 环境科学中心 大气环境模拟与污染控制国家重点实验室，北京　100871）　
+　　　　　张剑波（北京大学 技术物理学系，北京　100871）　
+
+参考文献：
+［1］　UNEP.Study on the Potential for Hydrocarbon Replacements in Existing Domestic and Small Commericial Refrigeration Appliances.New York:United Nations Publication,ISBN 92|807|1765|0.
+［2］ 中国国家环境保护总局.中国逐步淘汰消耗臭氧层消耗物质国家方案[R]．北京，国家环境保护总局，1999.19.
+［3］　Wallington T J,Hurley M D.Role of excited CF-3CFHO radicals in the atmosphere chemistry of HFC|134a.J Phys Chem.,1996,100:18116～18122.
+［4］ McColluch A.AFEAS.(Alternative Fluorocarbons Environmental Acceptability Study) Workshop on the Environmental Fate of TFA.Miami Beach,FL,AFEAS Administrative Organization,March 1994.
+［5］ CHAD E WUJCIK,THOMAS M CAHILL,IAMES N SEIBER.Determination of trifluoroacetic acid in 1996-19976 precipitation and surface waters in california and nevada.Environ Sci Technol.1999,33:1747～1751.
+［6］ AFEAS.TFA Research Overview .Washington,USA：AFEAS Program Office,May 28,1999.
+［7］ Emptage M N J,Tabinowski J,Odem J M.The effects of fluoroacetates on methanogenesis in samples from selected methanogenic environments.Environ Sci Technol， 1997,31:2.
+［8］ Laurel J,Standley Thomas L.Bott.Trifluoroacetate,an atmospheric breakdown product of hydrofluorocarbon refrigerants:Biomolecular fate in aquatic organisms.Environ Sci Technol,1998,32:469～475.
+［9］ AFEAS.TFA and Seasonal Wetlands,Washington， USA：AFEAS Program Office,May 28,1999.
+［10］ Kotamarthi V R.TFA from Degradation of HCFCs and HFCs:A Three|dimension Modeling Study. J Geophy Res,1998,103(5):5747～5785.
+［11］ LCSS.TFA,Prodent Practices in the Laboratory:Handling and Disposal of Chemicals.Washington， USA：National Academy of Sciences,1995.
+
+收稿日期：2000年3月2日
+出版日期：2001年3月30日

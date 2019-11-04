@@ -1,0 +1,112 @@
+软件学报
+JOURNAL OF SOFTWARE
+1999年 第10卷 第12期  Vol.10 No.12 1999
+
+
+
+基于神经网络的汉语口语多义选择
+王海峰　高文　李生
+摘要　汉语口语分析是交互式话语处理中的重要环节.在汉语中，有意义的最小单位是词，因此多义选择是口语分析系统必须首先解决的问题.该文提出了一种基于精简循环网络的汉语口语多义选择方法,并从词汇的语法、语义分类所固有的内在联系出发,给出了语法、语义的一致化处理策略.通过使用会面安排领域的口语语料进行实验,多义选择的开放测试的正确率为96.9%.
+关键词　神经网络,精简循环网络,口语分析,汉语口语,多义选择.
+中图法分类号　TP18
+Word Sense Disambiguation of Spoken Chinese Using Neural Network
+WANG Hai-feng　GAO Wen　LI Sheng
+(Department of Computer Science and Engineering Harbin Institute of Technology Harbin 150001)
+Abstract　Spoken Chinese analysis lies in the center of interactive speech processing system.The smallest meaningful unit in Chinese language is the word,so word sense disambiguation is the basis of spoken Chinese analysis.In this paper, the authors propose a novel method for spoken Chinese word sense disambiguation based on a simple recurrent network. This method provides a consistent processing strategy for syntax and semantics according to the internal logic between the word syntactic classification and semantic classification. Applied in the corpus for meeting schedule, this method achieves an accuracy of 96.9% in an open testing of word sense disambiguation.
+Key words　Neural network, simple recurrent network, spoken language analysis, spoken Chinese, word sense disambiguation.
+　　口语分析是口语的计算机处理中的重要环节之一.口语具有许多不同于书面语的特点,比如，口语中的不连贯现象（包括迟疑、支吾、重复、更正、语气词插入等）、语法约束相对较弱、没有明确的句子边界等［1,2］.另外,口语分析还必须容忍和处理语音识别错误.因此,口语分析方法必须具有更强的容错能力和鲁棒性.
+　　同一词汇在不同的上下文环境中可能具有不同的语法和语义属性,这就是词的多义现象.一个多义词的语法、语义属性在一定的上下文环境中是唯一确定的,多义选择任务就是在特定语境中为多义词选择唯一正确的义项.词的语法和语义属性是构成语言结构和意义的基础,词汇级多义选择的准确程度直接关系到整个口语分析的成败.
+　　为了满足口语分析的需要,各国研究者在借鉴书面语分析方法的同时,也对其进行了必要的改造［3，4］.神经网络方法因其较强的学习能力和良好的鲁棒性而受到众多口语分析研究者的重视［4］.精简循环网络(simple recurrent network,简记为SRN)［5］通过上下文单元(context units)的引入而使网络具备了记忆和利用上下文的能力.Wermter等人将SRN用于德语口语分析，取得了良好的结果［4］.但Wermter等人对语法和语义类的选择各自独立,忽视了语法和语义的内在联系,没有考虑它们的一致性问题.
+　　本文首先介绍SRN,然后给出基于SRN的汉语口语多义选择方法,并提出一种语法和语义的一致化理策略,最后分析实验结果并得出结论.
+1　精简循环网络
+　　SRN由Elman首先提出,并用于时间序列预测问题［5］.之后,很多学者对SRN的能力和应用做过研究［4,6,7］.此网络结构如图1所示.
+
+图1　精简徨网络
+　　在网络运算和训练中,输入层和上下文层组成网络的联合输入层.这样,就可以把网络作为一个k+m个输入神经元的3层前馈网络来处理了,只是其输入层的前k个单元把网络隐藏层的前一组输出作为自己的输入.通常,SRN采用BP算法进行网络参数训练.
+通过上下文层的引入,SRN可以使用较大范围的上下文作为当前运算的依据［5］.
+2　基于精简循环网络的多义选择
+2.1　基本知识集
+　　 鉴于话语处理存在突出的困难,目前各国学者在从事这方面的研究时,都将其限定在一个明确的应用领域内,这样既降低了难度,又有明确的应用价值.本文所述方法用于面向会面安排(meeting schedule)的汉英口语翻译［8］，共录制了关于会面安排的对话150段,然后人工逐音、逐字地听写、誊录获得与语音材料完全对应的文本语料库约20 000字(包含对话中各种人为错误和非人为噪声).经过分词处理,得到839个词的汉语词表.将通常语法书上的词类进行细化,确定了与领域无关的语法类26个.语义描述的是语言的意义,而话语的意义与其领域背景有关,因此,在限定领域的口语分析中,语义分类的确定也都是与领域相关的.本文从会面安排领域口语对话的特点出发,建立了包括37个语义类的领域相关语义集.最后,为词表中的词逐个添加语法语义分类,得到口语分析用词典.
+一个词条可能有多个义项,每个义项都有自己的语法和语义类.同一词条的任意两个义项的语法和语义类不同时相等.义项数大于1的为多义词.多义现象的静态和动态分布特征见表1.
+表1　多义现象的分布特征
+
+　静态特征(对词典统计结果)动态特征(对语料统计结果)
+个　数百分比(%)个　数百分比(%)
+总词数839—10 838—
+多义词627.42 58023.8
+语法兼类词404.81 72115.9
+语义兼类词546.42 23420.6
+
+　　由表1可以看出,多义词的比例虽然不大,但使用频度却较高,多义选择很有必要.值得指出的是,这一比例低于通用词典和普通文本语料库是因为我们所使用的词典是限定领域的. 
+2.2　语法类选择
+　　口语中没有逗号、句号等明显的分隔标志,因而无法像书面语那样以句子为单位进行分析.为此,我们引入了话轮(dialog turn)［9］的概念.一个话轮是指一个说话人不被打断地、连续说出的一段话.本文所实现的选择算法以话轮为单位,选择时只使用话轮内上下文信息.
+　　令网络在接收第p个输入Ap=ap1,ap2,...,apm时,相应各层的输出为:隐藏层Hp=hp1,hp2,...,hpk,上下文层Bp=bp1,bp2,...,bpk,输出层Op=op1,op2,...,opn.若网络处在学习阶段,与Ap相应的理想输出Tp=tp1,tp2,...,tpn.
+　　上下文层的值等于网络处理前面一个样本时隐藏层的值,所以，当p≥2时,有Bp=Hp-1.而当p=1时,b1i被赋予(-1,+1)区间内的初始值.
+　　网络的输入层和上下文层组成有k+m个神经元的联合输入层,当接收第p个输入时,联合输入层的网络总输入为Cp=［Bp,Ap］=［bp1,bp2,...,bpk,ap1,ap2,...,apm］=［cp1,cp2,...,cpk+m］.
+　　对于f个元素的语法类集合W=｛w1,w2,...,wf｝(本系统中f=26),有m=f,n=m,输入层和输出层神经元分别与语法类集合W中的元素一一对应.隐藏层和上下文层神经元数目k根据经验确定.
+对于有q个词的话轮S=［s1,s2,...,sq］,设S的正确标记串为R=［r1,r2,...,rq］,其中rp∈W(p=1,2,...,q).对于词sp(1≤p≤q),其所有可能标记的集合Wp=｛Wd1,Wd2,...,Wdh｝,Wp∈2W且Wp≠,Wp中的元素是由词典中该词的所有词类确定的.在话轮中,词sp的正确标记为rp.
+　　当系统接收sp时,与之对应的网络输入向量Ap=［ap1,ap2,...,apm］的分量api按如下方法构造.若词典中sp有语法类wi(即wi∈Wp),则api=1,否则api=0.此时,网络理想输出Tp=［tp1,tp2,...,tpm］的分量tpi,按如下方法构造.若sp的正确标记为wi(即wi=rp),则tpi=1,否则tpi=0.
+　　系统的运行分为学习过程和选择过程.在学习过程,采用引入动量项的BP算法［10］作为基本学习算法,训练集由经过人工标注和校对的汉语口语对话组成.在选择过程,网络使用学习过程得到的网络参数.第p个词sp产生网络输入Ap,经过计算得到相应的网络输出Xp=［xp1,xp2,...,xpf］.若只单独考虑语法类选择,令i=则sp的语法类为wi.
+2.3　语义类选择
+　　语义类选择的过程与语法类选择类似,但其中各层神经元的个数需作相应调整.对于g个语义类的集合V=｛v1,v2,...,vg｝(本系统中的g=37),有m=g,n=m.
+　　采用训练好的网络进行语义类选择时,第p个词sp输入时得到网络输出Yp=［yp1,yp2,...,pyg］.若只单独考虑语义类选择,令则sp的语义类为vj.
+2.4 语法、语义的一致化处理
+　　分别用两个SRN对语法、语义独立进行选择,难免会出现不一致问题.由于同一词条的任意两个义项的语法和语义分类值不同时相等,所以可由语法语义对(wi,vj)来唯一标志词条的每一个义项.词sp的u个义项组成义项集:Zsp=｛(wd1,ve1),(wd2,ve2),...,(wdu,veu)｝.其中对于任意1≤i≤u,有1≤di≤f,1≤ei≤g.且对于任意i≠j,1≤i,j≤u,有wdi=wdjvei≠vej.对任意1≤i≤f,1≤j≤g,若语法语义对(wi,vj)∈Zsp,则(wi,vj)对于词sp是一致的,若则(wi,vj)对于词sp是不一致的.在词典填写无误时,若为词sp选择的语法语义对(wi,vj)对于sp是不一致的,则意味着语法和语义的选择至少有一个是错误的,需一致化处理.
+　　一个正确选择,必须首先保证语法语义对是一致的.为确保一致性,决定综合语法选择输出向量Xp和语义选择输出向量Yp来为词sp的每一义项(wdi,vei)∈Zsp构造评价函数.与wdi对应的语法选择的网络输出为xpdi,与vei对应的语法选择的网络输出为ypei,求它们的加权和，得
+　　　　　　　　　　　　　　　　(1)
+　　加权系数α根据经验确定.令
+　　　　　　　　　　　　　　　　　　(2)
+则选定(wdi,vei)为sp的义项.由于(wdi,vei)∈Zsp,所以它对于词sp必然是一致的.
+2.5　实验
+　　对第2.1节所述的口语对话进行人工标注,得到训练和测试用语料.从中随机抽取80段作为训练集,其余70段作为开放测试集.先用训练集分别训练用于语法和语义选择的两个网络.然后分别用训练好的两个网络对语法选择和语义选择进行测试,并在确定加权系数α后,对多义选择的综合结果进行测试.测试时,分别用训练集和开放测试集得到封闭和开放测试结果.测试结果包括消歧率和准确率.
+
+　　其中,“语料中需要选择的总词数”在语法、语义和多义选择中分别指语料中语法兼类的总词数、语义兼类的总词数和多义词总数.表2列出了单独语法、语义选择及最终的多义选择3种结果.
+表2　多义选择实验结果
+
+　封闭测试开放测试
+消歧率(%)准确率(%)消歧率(%)准确率(%)
+语法选择89.498.384.097.5
+语义选择91.598.285.797.1
+多义选择93.098.387.396.9
+
+　　在实验中,用于语法类选择的网络隐藏层神经元数目为39,用于语义类选择的网络隐藏层神经元数目为50.在奔腾MMX166(32M内存)机器上,多义选择速度约为650词/s.
+　　在进行多义选择时,加权系数α的确定过程如下:
+① α将的初始值置为0.2,置当前加权系数β=α,当前准确率γ=0,α的变化步长δ=0.01；
+　　② 根据当前的α值进行多义选择,并计算准确率μ；
+　　③ 若μ>γ,则β=α,γ=μ；
+　　④ α=α+δ；
+　　⑤ 如果α≤0.8，转②；
+　　⑥ α=β,结束.
+　　将上述过程用于封闭集和开放集,分别得到α值为0.42和0.41,相应的准确率见表2.
+3　结论
+　　通过观察和分析实验结果,发现口语分析有如下几个特点.
+　　(1) 在表2中,鉴于需要选择的总词数不同,准确率可比性不强，而消歧率则可较好地反映算法能力.语义选择的消歧率高于语法选择,说明口语分析的特有困难对语义分析的影响较小,语法上不完整的话语在语义上往往是完整的.多义选择整体消歧率好于语法、语义各自独立选择的消歧率,这说明一致化处理策略切实有效,它不但保证了语法和语义的一致,还使消歧率有所提高.
+　　(2) α值小于0.5表明,当语法语义选择结果不一致,需加权求和时,语义权重更大,这也从另一侧面说明了口语中语义分析的结果比语法分析更可靠.
+(3) 使用本文的方法取得了良好的效果可以归结为如下原因:具有良好鲁棒性和容错能力的神经网络方法确实能较好地处理包含大量不连贯现象和不符合语法现象的口语；限定明确的应用领域效果显著.
+(4) 本文的研究是在限定应用领域的条件下展开的.目前,无限制的、任意内容的口语分析还无法实现［1,2,4］.但神经网络较强的学习能力保证了本文的方法很容易向其他领域扩展,扩展时只需收集、加工相应的口语语料，重新定义与领域相关的语义集并填写词典即可.
+　　关于本文的方法,尚有如下几个问题需要说明:
+　　(1) 标准的SRN只记忆和使用上文信息（当前输入之前的所有输入信息）,而未使用下文信息,为了能使用下文信息,一些学者提出了改进措施［7］.本文没有采用改进措施是基于如下原因:利用下文信息将使时空开销大大增加,如文献［7］中的方法使输入层神经元个数增加了7倍；利用下文信息将影响实时性.实验结果表明,即使未使用下文信息,准确率相当高,可以满足口语分析的需要.
+　　(2) 在网络训练和运算中不但要处理多义词,而且无需选择的非多义词也要逐一处理,增加了系统开销.但由于上文的非多义词构成了多义选择的根据,而上文信息记忆于神经网络内部状态(上下文层).因此,非多义词参加训练和运算是必要的.好在系统的多义选择速度是完全可以接受的.
+　　本文提出的基于SRN的汉语口语多义选择方法已应用于面向会面安排的汉英口语翻译系统,效果令人满意.
+*本文研究得到国家自然科学基金、国家863高科技项目基金、国家教育部跨世纪人才基金和中国科学院“百人计划”基金资助.
+作者简介：王海峰,1971年生,博士生,主要研究领域为机器翻译,计算语言学，人工神经网络.
+　　　　　高文,1956年生,博士，教授,博士生导师,主要研究领域为人工智能，多媒体技术.
+　　　　　李生,1943年生,教授,博士生导师,主要研究领域为机器翻译,计算语言学，人工智能.
+本文通讯联系人:王海峰,北京100080,北京市海淀区知春路49号希格玛中心五层
+作者单位：哈尔滨工业大学计算机科学与工程系　哈尔滨　150001
+E-mail: i-haiwan@microsoft.com
+参考文献
+　　1　Waibel Alex. Interactive translation of conversational speech. IEEE Computer, 1996,29(7):41～48
+　　2　Kitano Hiroaki. Speech-to-Speech Translation: A Massively Parallel Memory-based Approach. Hingham, MA, Kluwer Academic Publishers, 1994
+　　3　Lavie A. GLR*: a robust grammar-focused parser for spontaneously spoken language ［Ph.D. Thesis］. Pittsburgh, PA: Carnegie Mellon University, 1996
+　　4　Wermter S, Weber V. SCREEN: learning a flat syntactic and semantic spontaneous language analysis using artificial neural networks. Journal of Artificial Intelligence Research, 1997,6(1):35～85
+　　5　Elman Jeffery L. Finding structure in time. Cognitive Science, 1990,14(2):179～211
+　　6　Servan-Schrieber D, Cleeremans A, McClelland L. Graded state machines: the representation of temporal contingencies in simple recurrent networks. Machine Learning, 1991,7(2～3):161～194
+　　7　刘伟权,钟义信.基于SRNN神经网络的汉语文本词类标注方法.计算机研究与发展,1997,34(6):421～426
+(Liu Wei-quan, Zhong Yi-xin. Part-of-speech tagging with simple recurrent neural network. Computer Research and Development, 1997,34(6):421～426)
+　　8　王海峰,高文,李生.面向受限领域的汉英口语翻译.见:陈力为,袁琦编.语言工程.北京:清华大学出版社,1997.219～224
+(Wang Hai-feng, Gao Wen, Li Sheng. Chinese-English spoken language translation in limited domain. In: Chen Li-wei, Yuan Qi eds. Language Engineering. Beijing: Tsinghua University Press, 1997. 219～224)
+　　9　何自然.语用学概论.长沙:湖南教育出版社,1988
+(He Zi-ran. A Survey of Pragmatics. Changsha: Hu'nan Education Press, 1988)
+　10　Rumelhart D E, McClelland J L. Parallel Distributed Processing, Ⅰ: Foundations. Cambridge, MA: MIT Press, 1986
+本文1998-09-11收到原稿,1998-12-01收到修改稿

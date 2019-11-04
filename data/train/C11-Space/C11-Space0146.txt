@@ -1,0 +1,176 @@
+宇 航 学 报
+JOURNAL OF ASTRONAUTICS
+1998年4月  第19卷  第2期科技期刊
+
+
+考虑臂杆柔性的空间机器人
+逆动力学仿真研究
+王树国 丁希仑 蔡鹤皋
+(哈尔滨工业大学机器人研究所*哈尔滨*150001)
+摘  要   本文在考虑臂杆柔性的情况下，利用拉格朗日公式推导出空间机
+器人操作臂的动力学方程。基于所得到的非线性模型，在最优控制理论的基
+础上，用Treanor法结合打靶法研究了其动力学逆问题的解法及振动的有效
+控制问题，并以平面二臂杆空间机器人操作臂为例进行了逆动力学仿真的研
+究，仿真结果很好。
+
+主题词  逆动力学  柔性臂  仿真
+　
+SIMULATION STUDY ON INVERSE DYNAMICS OF
+THE SPACE ROBOT WITH FLEXIBLE LINKS
+Wang Shuguo Ding Xilun Cai Hegao
+(Robot Research Institute of Harbin Institute of Technology
+*Harbin*150001)
+Abstract  In this paper,the dynamic model of the space robot arm is obtained by the 
+formula of Lagrange,under the condition of the links with flexibility.On the base of the 
+optimal theory,the problems of inverse dynamics and the vibration control of the arm 
+are studied using the methods of Treanor and Shooting on the nonlinear model given 
+above.And then the inverse dynamic method is simulated with a two-link planar 
+flexible robot arm as an example,the simulation results convinced the method is very 
+good.
+
+Key words  Inverse dynamics  Flexible arm  Simulation
+1  引言
+
+　　用于建造宇宙空间站和抓取卫星的机器人一般具有手臂长、负载大、质
+量轻等特点，因此，考虑臂杆柔性的空间机器人动力学问题的研究是非常必
+要的，近年来已经引起了许多研究者的注目［１］－［４］。但由于考虑柔
+性的空间机器人操作臂的动力学模型的非线性和强耦合性，使得其逆动力学
+问题的求解比较复杂，柔性所引起的振动的控制也比较困难。在以往的逆动
+力学问题的研究中，Dong-Sookwon和Wayne J.Book(1990)［3］提出了一种逆
+动力学开环控制的方法，其把塑动力学系统分为正因果部分和反因果部分，
+对一定的末端轨迹计算出所需的力矩。方法简单，用于反馈控制具有很好的
+效果，但该法局限于线性系统和单柔性臂的情况。F.Xi和R.G.Fenton(1993)
+［４］提出了一种顺序积分的方法，其借助于柔性臂运动学方程，在通过动
+力学方程显式地求解臂杆变形的同时，隐含地得到了关节的运动，把计算所
+得到的关节运动和臂杆变形代入动力学方程得出了所需的关节驱动力矩，从
+而使逆动力学问题得到解决。所提出的方法较其它方法在原理上和计算方面
+直截了当，但所得结果在关节运动结束后，仍有较大得残余响应，并且该法
+的计算速度和收敛性都不太理想。
+
+　　本文是在最优控制理论的基础上，利用Treanor方法结合打靶法来求解
+柔性臂的逆动力学问题，得到了大质量负载下柔性臂的最优驱动力矩。所给
+出的方法适用性强，仿真效果好，所得到的最优驱动力矩能有效地抑制柔性
+臂的振动。
+
+    
+2  考虑柔性的空间机器人操作臂动力学模型的建立
+
+　　首先，我们假设空间机器人操作臂为均匀细长杆，其截面尺寸远小于其
+长度，故可忽略剪切变形和转动效应，只考虑弯曲弹性变形的影响。运动过
+程中，取臂杆为常量lｉ，不考虑重力。
+
+　　选取关节广义坐标θｉ和各弹性臂杆的模态坐标ｐij（i＝1,2，…ｎ；ｊ
+＝1,2.，…ｍ）为系统的广义坐标，用拉格朗日方程进行推导，其一般形式为
+
+(2.1)
+
+式中T、V、R分别为系统的动能、势能和Rayleigh耗散函数，Ｑｉ为除了粘滞
+阻力外，与其它非有势力对应的广义力，ｑi为系统的广义坐标，。
+
+　　经过复杂的推导，所得到的非线性模型一般可以表示为如下形式：
+
+
+（2.2）
+其中，Mｎ×ｎ为正定对称时变的质量矩阵，
+Fｎ×１为包含哥氏力、离心力和弹性力等的ｑ与的耦合列阵，τｎ×１为外
+加驱动力矩列阵。
+
+3  逆动力学解法
+3.1  逆动力学模型推导
+
+    令
+，则＝
+，由式(2.1)得：
+＝Ψ（x，τ，t）　　（3.1）
+其中，
+
+
+　　对于我们所研究的空间机器人，一般要求设计关节输入力矩τ（t）
+（t∈［ｔ0，tｆ］）满足：
+
+a.运动结束时，θ（ｔｆ）＝θｆ，θｆ为期望的关节转角。
+
+b.运动结束时，弹性振动、位移为零，即p（tｆ）＝0，（tｆ）＝0。
+
+ｃ.运动结束时，转速为零，即（tｆ）＝0。
+
+ｄ.因为τ（ｔ≥ｔｆ）＝0，因此，要求（tｆ）＝0，（tｆ）＝0。
+
+　　应用最优控制理论，取系统的性能指标为：
+
+我们需求的是函数F(s)的一个零点。因为x（tｆ，s）和F(s)一般是s的连续
+可微函数，从而用Newton-Raphson方法确定。由一个初值s（0）出发，按
+照式(3.7)进行迭代计算。
+ｓ（ｉ＋１）＝ｓ（ｉ）－ＤＦ－１（ｓ（ｉ））·Ｆ（ｓ（ｉ））
+
+（3.7)
+其中，F－１为F的逆，DF－１为F－１关于s的导数。
+
+具体实现步骤如下：
+
+(1)利用Treanor法计算方程组(3.5)。
+
+(2)将步骤(1)的结果代入(3.3)求τ*（ｔ）。
+
+(3）据式(3.6)求F（ｓ（ｉ））之值。
+
+(4)判断｜F（s（i））｜<ε是否成立，ε为与要求精度有关的小的正
+常数，若成立，则输出结果x（t）和τ*（ｔ），结束运动。否则按式
+(3.7)迭代计算ｓ（ｉ＋１），返回步骤(1)。
+
+为了保证求解式(3.5)时，数值更快的趋于稳定，取时变加权阵ｖ＝ｖ0ｅat，
+ｗ0ｅBt，α>0,β>0。
+    
+4  仿真研究
+
+　以平面二杆空间机器人柔性臂为例进行仿真(取末端带有集中质量的悬臂梁
+的变形形式为模态函数，柔性变形取二阶模态)。如图1所示，其具体的动力
+学模型参见文献［５］。
+
+　　在已知臂末端质量Ｍ＝500.00kg，柔性杆单位长度质量ρ＝0.5kg／ｍ，
+抗弯刚度EI＝200.0Ｎ*ｍ２，关节转动惯量Jｌ＝1.0kgｍ２，Ｊ２＝0.2kgｍ２，
+臂杆长度ｌ1＝ｌ2＝2.0ｍ的情况下，若给出加权对角阵ｖ８×８和ｗ２×２的对
+角元素为＝［0.0，0.0，0，500.0ｅ５.５ｔ，400.0ｅ５.５ｔ，0.0，0.0，
+2.0ｅ２.５ｔ，１0ｅ２.５ｔ］Ｔ，＝［20ｅ２.５ｔ，20ｅ２.５ｔ］Ｔ。系统变
+量初始值为ｘ0＝［0，0，0，0，0.002，0.01，0，0］Ｔ，伴随向量λ0＝
+［0，0，0，0，2.0，1.0，1.0，1.0］Ｔ，仿真的研究结果见图2～图6所示。
+
+
+图1 平面二杆柔性臂系统描述
+
+图2 臂杆2末端振动的响应
+
+图3 臂杆1的转角响应
+
+图4 臂杆2的转角响应
+
+
+
+图5 关节1上施加的驱动力矩
+
+图6 计算得到的关节2上的驱动力矩
+5  结论
+
+　　本文重点探讨了基于最优理论的柔性臂逆动力学问题的有效解法。通过
+理论分析和具体的仿真研究，我们可以得出如下结论：
+(1)所提出的方法能有效地求解空间机器人柔性臂的逆动力学问题。
+(2)所得到的最优驱动力矩能有效地抑制柔性臂的末端振动。
+(3)算法的速度较快，但要达到实时仿真的目的还不可能。可以用此法预先
+离线计算得到柔性臂最优的驱动力矩，供实际控制时参考。另外，该法解
+的收敛性对初值依赖较大，应用Newton法具有局部二次收敛性，但收敛域
+通常不大。也可以考虑采用改进的Newton法或拟Newton法等。
+(4)本章所提出的方法对于求解多柔性杆机器人操作臂逆动力学问题的情
+况也同样适用。
+
+　
+参考文献
+1  Farshad Khorrami,Shihua Zheng.Vibration Control of Flexible-link Manipulators.
+Proc.American Control Conf.,1990:175-180
+2  W.Yim.End-Point Trajectory Control,Stabilization and Zero Dynamics of a Three-
+Link Flexible Manjpulator.Proc.of IEEE Conf.on Robotics and Automation,1993:468-473
+3  Dong Soo Kwon and Wayne.J.Book.An Inverse Dynamic Method Yielding Flexible 
+Manipulator State Trajectories.Proc.American Control Conf.,1990:186-193
+4  F.Xi,R.G.Fenton.A Sequential Integration Method for Inverse Dynamic Analysis of 
+Flexible Link Manipulators.Proc of IEEE Conf.on Robotics and Automation,1993:743-748.
+5  丁希仑.空间机器人柔性臂动力学与控制的研究.哈尔滨工业大学博士学位
+论文，1996

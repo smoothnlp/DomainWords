@@ -1,0 +1,94 @@
+环境科学研究
+RESEARCH OF ENUIRONMENTAL SCIENCES
+1999年 第 12卷 第3期 vol.12 No.3 1999
+
+
+
+硝基苯与苯胺类废水生物降解协同作用研究
+韦朝海　任　源　谢　波　吴超飞　陈惠中　陈焕钦
+摘　要　从各种菌源中分离得到硝基苯和苯胺的高效降解菌，研究其对这2类化合物的降解规律，发现C.perfringens在厌氧条件下主要将硝基苯降解为苯胺，而Pseudomonas mendocina和Klebsiella pneumoniae在好氧条件下可将硝基苯分解为无害化物质，但降解速度较厌氧过程慢。好氧条件下，硝基苯对苯胺的降解有明显的抑制作用，而苯胺对硝基苯的抑制作用不明显，导致混合菌对混合基质的降解速度下降。不同微生物对含硝基苯和苯胺类化合物废水的降解机理表现出明显的差异，高效的微生物应该体现在既能分解初始污染物，又能分解次级产物，实现完全无害化的目标。
+关键词　硝基苯　苯胺　生物降解　废水处理
+Study of Cooperate Biodegradation of Wastewater Containing
+Nitrobenzene and Aniline
+WEI Chaohai REN Yuan XIE Bo WU Chaofei CHEN Huizhong CHEN Huanqin
+(College of Chemical Engineering, South China University of Technology, Guangzhou 510640)
+Abstract　The bacteria that can efficiently degrade nitrobenzene and aniline have been separated from various sources. By studing the biodegradation characteristics of these two compounds, it is found that C.perfringens can degrade nitrobenzene to aniline in anaerobic process, Pseudomonas mendocina and Klebsiella pneumonia can transform nitrobenzene to harmless substance respectively in aerobic process but the degradation rate is lower than that in anaerobic process. Nitrobenzene inhibits the degradation of aniline in aerobic condition, and the opposite effect is not obvious so that the degradation rate of mixed bacteria to mixed substances will decrease. The degradation mechanisms of different microbes for the wastewater containing nitrobenzene and aniline show sharp differences. The efficient microbes can degrade not only the initial pollutants but also the next products to harmless substances entirely.
+Keywords　Nitrobenzene; Aniline; Biodegradation; Wastewater treatment
+　　硝基苯和苯胺类化合物均是广泛应用的化工原料，国内每年生产苯胺8万t以上，其下游产品有150余种，全世界每年排入环境中的硝基苯和苯胺类化合物约为1和3万t［1～3］。随着精细化工工业的发展，对这2类化学品的需求呈明显上升趋势，由此进入环境的量也会继续增多。硝基苯、苯胺及其衍生物对生态生物均表现出不同程度的毒性，被列为环境优先控制污染物，在工业排水中要求严格控制。对于微生物而言，硝基苯类均属于难降解性物质，苯胺属于可降解性物质，而大部分的苯胺衍生物也属于难降解性物质［4］。由于苯胺类化合物大部分均来源于相应的硝基苯化合物的还原过程，在废水中的出现往往表现出共存关系，故研究对硝基苯和苯胺类化合物有高效降解能力的菌种特征并分析它们之间的关系对于提高生化法处理含这2类化合物废水的效率及选用合理的工艺技术路线均具有非常重要的指导意义。
+1　生物试验与鉴定
+1.1　菌种的分离
+　　菌源来自广东一些药厂下水道的污泥中。选择培养基：0.3%K2HPO4；0.3%KH2PO4；0.5%NaCl；0.05%MaSO4，将硝基苯或苯胺按一定量加入作为微生物生长的唯一碳源和能源。
+　　菌种分离与纯化：将浓缩后的活性污泥加入装有玻璃珠的三角瓶，摇动将其打碎搅匀，稀释划平板分离，放置于30　℃恒温箱内培养数天，观察菌落生长情况，把形成的耐受力强单菌落挑斜面保存。反复划线纯化，把长出的不同形态的单菌落再分别挑斜面，作为试验用原始菌。
+1.2　菌种的诱变与驯化
+　　将原始菌液接入含苯胺400 mg/L左右的选择培养基中，之后每天再加入一定量的苯胺，置30　℃摇床振荡培养，7 d为1个驯化周期。每个周期结束后将菌液移至新鲜的培养基中，重复驯化过程。期间还隔天将驯化菌液置于设有磁场环境和一定剂量紫外光线条件下诱变若干时间。经过一段时间的驯化与诱变得到目的菌液，菌悬液经离心及清洗，制成含湿菌体约3 g/L的菌悬液作为实验用菌液。硝基苯降解菌的做法类似。
+1.3　菌种的观察与鉴定
+　　将所得菌液在牛肉膏培养基上划平板，30 ℃下恒温培养，观察并记录菌种经驯化、诱变后的生长情况、菌落特征，镜检菌体的形态结构，进行革蓝氏染色。经鉴定硝基苯的厌氧菌为C.perfringens(产气荚膜杆菌)，好氧菌为Pseudomonas mendocina(门多萨氏菌)和Klebsiella pneumoniae (肺炎克雷伯氏菌)的混种。苯胺的好氧菌为Ochrobactrum anthropi(人苍白杆菌)。它们的特征列于表1中。
+表1　硝基苯与苯胺降解菌的菌落特征
+
+特征C.perfringensPseudomonas mendocinaKlebsiella pneumoniaeOchrobactrum anthropi
+颜色浅黄色黄棕色灰白色乳白至乳黄色
+透明度—不透明透明不透明
+质地—奶油状—蜡状
+菌落直径(mm)0.5～1.2 1～2 3～4 0.5～2
+菌体大小(0.1～0.6) μm×(0.5～1.5) μm—(0.3～1.5) μm×(0.6～6.0) μm—
+形状杆状(链状排列)杆状卵圆状或球杆状球状或棒状
+隆起状—扁平高凸低凸
+边缘———整齐
+表面状态—光滑—光滑
+光泽—微光泽光泽光泽
+革蓝氏染色阴性阴性阴性阴性
+
+
+2　降解特性试验
+2.1　厌氧条件下的降解
+　　在严格厌氧操作条件下将受试物硝基苯、接种菌液和营养物加入窄口培养瓶中，控制硝基苯浓度为150 mg/L左右，加入Na2S(0.5 mg/L)以提供还原条件，用N2除去O2后密封，在35　℃恒温摇床上培养，对系列实验定时分析受试物浓度、中间产物浓度(主要分析苯胺)、COD及pH值，评价以硝基苯为唯一碳源和能源条件下厌氧生物降解特性。在此条件下根据受试物、中间产物浓度及COD值的历时变化与分布，推测降解机理，实验结果见图1。
+
+
+1.苯胺　2.硝基苯　3.pH值　4.硝基苯　5.COD值
+图1　厌氧条件下硝基苯的降解特性
+　　从图1中可见，苯胺与硝基苯存在着一定的关联作用，即随着硝基苯的厌氧降解，苯胺浓度逐渐增大，并且趋于稳定值，说明硝基苯厌氧降解菌利用苯胺的能力很低，从COD值的变化也反映了这个现象，即溶液COD值与硝基苯和苯胺的理论COD值之和较接近。溶液的pH值随时间的增长而增大，理解为是偏碱性苯胺浓度增大所致。从上述一些实验研究结果可知，硝基苯在厌氧条件下易于降解生成苯胺，降解完全，降解速度较好氧条件下快得多，但硝基苯厌氧降解菌基本上不能利用它的次级产物苯胺，表现为COD值的变化很小。
+2.2　好氧条件下硝基苯的降解
+　　在大量初步研究工作的基础上，用分离到的硝基苯好氧降解菌进行受试物的降解试验，初始受试物的浓度定为20 mg/L左右，接种量为5 mL菌悬液(约2×109个/mL)，pH调至7.0左右，添加适量营养元素，然后置于35 ℃的恒温摇床上以120 r/min振荡培养，测定降解过程中硝基苯浓度、苯胺浓度、COD值的历时变化，分析降解特性和推测其降解机理。实验共做了8组，根据统计方法处理数据，列出结果如图2所示。
+
+
+1.苯胺浓度　2.硝基苯浓度　3.COD值　4.COD去除率　5.硝基苯去除率
+图2　好氧条件下硝基苯降解特性
+　　硝基苯在好氧条件下的降解速度较慢，这与文献［1］的报导是相符的。硝基苯及其衍生物难以生物降解的原因是由于硝基的吸电子性使得苯环上电子云密度下降，从而使氧化酶的亲电子受阻。20 mg/L的硝基苯完全降解需要10 d以上，前10 d的降解速率较高，而后降解极为缓慢，说明可能存在某一种抑制效应。试验发现硝基苯好氧降解菌的耐受能力较低，当浓度超过100 mg/L时难以生化降解，说明硝基苯的毒性要比苯胺大得多。通过COD值的变化发现硝基苯好氧降解菌可以同时降解中间产物 而将部分底物完全矿化，因此，寻找高效的好氧降解菌是今后研究的一个重点。试验过程中苯胺的出现是很不稳定的，浓度普遍低于1.0 mg/L，约有60%的情况检测不出来，这是目前还无法解释的实验现象。
+　　实验发现，分离所得到的硝基苯好氧降解菌对二硝基苯(邻、间、对)和三硝基苯均有一定程度的降解，其研究结果有待于完善。
+2.3　好氧条件下苯胺的降解
+　　笔者曾对从多处菌种来源中分离到的苯胺高效降解菌Ochrobactrum anthropi进行系统的降解特性研究，发现该菌种对苯胺的最高降解速度可达10.05 mg/(L.h)，并能将苯胺完全无害化［5，6］。
+3　混合基质、混合菌种的降解试验
+　　实际工程中含有难降解有机物的工业废水是多种成分共存的混合液。单一基质、单一菌种条件下有机物生物降解性能的研究结果与实际废水处理情况相比有较大差距，难以有效地指导工程实践。在本研究工作中，将含约20 mg/L硝基苯和100 mg/L苯胺溶液混合成受试液，在适宜的接种量条件下了解其降解情况，结果如图3所示。研究发现硝基苯对苯胺的降解有明显的抑制效应，苯胺对硝基苯的抑制作用不明显。混合基质、混合菌种情况下的降解比单一基质、单一菌种的降解速度要慢得多，表现出拮抗效应。图4为用混合菌降解桂林制药厂废水的实验结果，原水浓度COD为1 610.5 mg/L，18 h其COD去除率达到80%以上。根据厂方提供的生产工艺材料分析，废水主要成分为对硝基苯乙酮、氯代苯胺及一些杂环化合物，证明了所筛选的菌种的性能是优越的，可以处理含苯胺和硝基苯及其衍生物的实际药厂废水。
+
+
+1.苯胺(苯胺菌)　2.硝基苯(苯胺菌)　3.苯胺(硝基苯菌)　4.硝基苯(硝基苯菌)
+5.苯胺(苯胺菌+硝基苯菌)　6.硝基苯(苯胺菌+硝基苯菌)
+图3　混合基质、混合菌种条件下的降解
+
+
+图4　药厂废水COD降解情况
+4　硝基苯、苯胺降解的相关机理分析
+　　由于生物降解过程的复杂性，硝基苯类化合物降解途径目前仍所知甚少［7，8］。厌氧环境下硝基苯降解为苯胺被理解为硝基苯上的硝基得电子还原所致，其推测的模型为［9］：
+
+　　上述预测的中间产物目前还没有得到充分的验证，然而最终产物苯胺的出现在实验研究中已被证实。
+　　在硝基苯的好氧降解机理研究中，Billy E.Haigler 等［1］利用3株菌种分别试验，并且验证了有关中间产物，发现硝基苯的降解途径是有差异的，他们没有研究进一步矿化的降解途径。而Kwan－Hye Juang ［8］的研究工作中重点阐明了混合降解途径的存在，即甲苯双氧化酶的作用使硝基苯羟基化成硝基邻苯二酚，为脱氢酶脱硝基提供了渠道，再经过开环途径而实现完全的矿化。
+　　复杂有机化合物的生物降解途径富于变化，各文献报导存在差异，需要加深认识，这正是科研发展的魅力所在。值得指出的是在已经报导的研究工作中没有发现好氧环境下有苯胺中间体产生的信息，而在笔者的研究工作中多次被检出，这一实验现象非常值得今后深入探索查明。综合实验结果与分析讨论，认为在废水处理微生物筛选中除了考虑降解效率高、适应性强、易于放大培养等因素外，还有一个非常重要的方面是要求一种(类)微生物既能分解初始污染物，又能分解次级产物，实现完全无害化的目标。对于含硝基苯类化合物的废水应采用厌氧与好氧相结合的生物处理技术。
+5　结语
+　　a.实验筛选分离到了硝基苯的厌氧降解菌1株，好氧降解菌2株，分别为C.perfringens(产气荚膜杆菌)，Pseudomonas mendocina(门多萨氏菌)和Klebsiella pneumoniae (肺炎克雷伯氏菌)，还得到了苯胺的好氧降解菌为Ochrobactrum anthropi(人苍白杆菌)，与文献报导数据相比较，它们对硝基苯和苯胺有高效的降解作用。
+　　b. 硝基苯的厌氧降解产物主要为苯胺，降解过程中废水COD值的变化不明显。门多萨氏菌和肺炎克雷伯氏菌能将硝基苯好氧分解并利用其中间产物，将废水的COD值降低而实现底物的完全矿化即无害化，但降解速度较慢。
+　　c.硝基苯对苯胺的降解有抑制作用，而苯胺对硝基苯的好氧降解的抑制作用不明显。混合基质及混合菌种情况下的降解作用要比单一基质、单一菌种的降解速度要慢得多，表现为拮抗效应。
+　　d.硝基苯和苯胺有效的生物降解途径机理有待于进一步深入探讨。生物降解机理的明确对建立含这2类化合物的废水的实际处理工艺理论具有重要的指导意义。
+*国家自然科学基金(29407051)和广东省自然科学基金(940758)资助项目
+作者简介：男，1962年生，博士，副教授
+作者单位：华南理工大学化工学院，广州　510640
+6　参考文献
+1　Billy E,Haiglar, Spain J C. Biotransformation of Nitrobenzene by bacteria cantaining toluene degradative pathways. Appl Environ Microbiol, 1991, 57(11):3156.
+2　杨义燕，苏海佳，秦炜,等.络合萃取法处理工业苯胺废水.化工进展，1995(2)：24～27.
+3 US EPA. Nitrobenzene initial report of the TSCA interagency testing committee and information dossiors on substances designated (EPA 560-10-88-001).Washington D C: U S Environmental Protection Agency,1988.
+4 Alexander M.Biodegradation of organic chemicals environmental concern. Science, 1981, 211:132～138.
+5 韦朝海，任源，吴超飞，等.Ochrobactr um anthropi对苯胺的降解特性研究.环境科学，1998，19(5)：22～24.
+6　任源，吴超飞，韦朝海.苯胺降解菌的驯化筛选研究.环境科学研究,1998，11(4)：4～6.
+7　Spanggord R J, Spain J C, Nishino S F, et al. Biodegradation of 2,4－dinitroluene by Pseudomonas sp. Appl Environ Microbiol, 1991, 57:3200.
+8 Kwan－Hye Juang, Jang－Young Lee, Hak－Sung Kim, et al. Biodegradation of Nitrobenzene through a hybrid pathway in pseudomonas putida. Biotechnol and Bioengng, 1995, 48:625.
+9 Frank M Dunnlvant, Ren　P Schwarzenbach. Reduction of Substitute Nitrobezenes in aqueous solution containing natural organic matter. Environ Sci Technol, 1992, 26:2133.
+收稿日期：1998－07－07

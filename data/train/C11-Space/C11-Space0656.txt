@@ -1,0 +1,37 @@
+上海航天
+AEROSPACE SHANGHAI
+2001 Vol.18 No.3 P.36-40
+
+
+
+
+系统可靠性优化方法
+高尚　 
+摘　要：介绍了系统可靠性优化的各种模型:组合优化模型、两类失效模式优化模型、可靠性优化分配模型、多目标优化模型以及可靠性模糊优化模型等。分析了可靠性优化分配模型各种解法的优缺点。研究认为，蒙特卡罗法具有简单和广泛适用性特点，因而推荐使用该法。
+关键词：可靠性优化；多目标优化；模糊优化；蒙特卡罗法
+分类号：TB114　文献标识码：A
+文章编号：1006-1630(2001)03-0036-05
+Optimization Method of System Reliability 
+GAO Shang（Dept. of Electronics and Information, East China Shipbuilding Institute, Zhenjiang Jiangsu 212003,China）　
+
+Abstract：In this paper，several optimal models are discussed including combinatorial optimization model，two-failure-mode optimization model，optimum allocation model，Multi-objective optimization model and fuzzy optimization model. Many optimization methods to solve optimum allocation model and their advantages and shortages are analysed. Monte-Carlo method is provided，which is a simple practical optimization algorithm, and can be widely used.
+Keywords：Reliability optimization；Multi-object optimization；Fuzzy optimization；Monte-Carlo method
+
+作者简介：高尚（1972－），男，讲师，研究领域：武器系统分析。 
+作者单位：高尚（华东船舶工业学院电子与信息系，江苏镇江 212003）　
+
+参考文献：
+［1］曹晋华,程侃.可靠性数学引论[M]. 北京：科学出版社,1986.
+［2］Tillman F A ,Hwang C L ,Kuo W, 刘炳章译.系统可靠性最优化[M] .北京：国防工业出版社,1988.
+［3］梅启智,廖炯生,孙惠中.系统可靠性工程基础[M].北京：科学出版社,1987.
+［4］顾敏.固体火箭发动机可靠性分配-随机枚举的Monte-Carlo法[J].系统工程与电子技术,1991,(2).
+［5］袁亚华.系统可靠性的多资源目标优化算法[J].系统工程与电子技术,1991,(4).
+［6］崔创福.系统可靠度的模糊分配[J]. 军械工程学院学报,1991,(3).
+［7］高尚.系统可靠性中的优化设计[J]. 电子产品可靠性与环境试验,1994,(1).
+［8］汪培庄.模糊集合论及其应用[M]. 上海：上海科学技术出版社,1986.
+［9］魏权龄,王日爽,徐兵. 数学规划与优化设计[M].北京：国防工业出版社,1984.
+［10］高尚.可靠性与维修性指标综合权衡[J].系统工程与电子技术,1998,(7).
+［11］[美]曾天翔,丁连芬,等译.可靠性设计手册[M].北京：航空工业出版社,1987.
+
+收稿日期：2000年9月8日
+出版日期：2001年3月1日

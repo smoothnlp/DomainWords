@@ -1,0 +1,94 @@
+宇航学报 
+JOURNAL OF ASTRONAUTICS
+1998年 第19卷 第1期 No1 Vol.9 1998科技期刊
+
+　　压电驱动二维超精密微动工作台
+定位补偿系统的研究
+朱喜林
+(吉林工业大学机械工程系*长春*130025)
+高　鹏
+(北京航空航天大学计算机系*北京*100083)
+袁哲俊　姚英学
+(哈尔滨工业大学机械工程系*哈尔滨*150001)
+　　摘　要　本文首先介绍了压电驱动二维微动工作台定位补偿系统的结构特点,然后对微动工作台的性能进行了分析,给出了性能实测结果,最后研究了系统在超精密定位补偿方面的应用。
+　　主题词　压电驱动　工作台　定位　补偿
+STUDY ON SYSTEM OF POSITIONING AND 
+COMPENSATING BASED ON PIEZODRIVEN 
+TWO-DIMENSION ULTRAPRECISION 
+MICRO DISPLACEMENT WORKTABLE
+Zhu Xilin
+(Jilin University of Technology,Dept.of Mechanical Engineering*Changchun*130025)
+Gao Peng
+(Beijing University of Aeronautics and Astronautics*Beijing*100083)
+Yuan Zhejun　Yao Yingxue
+(Harbin Institute of Technology,Dept.of Mechanical Engineering*Harbin*150001)
+　　Abstract　The feature of positioning and compensating system based on piezodriven two-dimension micro displacement worktable was introduced in this paper firstly,then the performance of precision worktable was analyzed,the experimental results were given,finally the application of system in ultraprecision positioning and compensating was studied.
+　　Key words　Piezodriven　Worktable　Positioning　Compensating
+1　引　言
+　　作为精密机械与精密仪器的关键技术之一的微位移技术,近年来随着微电子技术、宇航、生物工程等学科的发展越来越引起人们的重视。例如,精密工作台,无论是大行程的精密定位,还是小范围的对准,都离不开微位移技术。另外,为了提高加工精度,降低干扰,常需进行误差补偿,误差补偿也离不开微位移技术,因此,该项技术成为现代工业部门的共同基础。近年来,随着微米/纳米技术研究的深入,对微位移技术也提出了较高的要求。本文介绍了一种新的压电驱动的高分辨率、宽行程、高频响的二维微动工作台,研究了它在超精密定位补偿中的应用。
+
+
+图1　微动工作台结构简图
+2　系统描述
+　　图1是二维超精密微动工作台结构简图,各连接处都为柔性铰链结构［1］,该工作台内外层都是四支承的对称结构,内层(X向)工作台刚性嵌套在外层(Y向)工作台内,分别采用两个压电陶瓷驱动,实现二维运动。该工作台有两级放大机构。以外层为例,驱动源输出的微小位移dP经一级杠杆放大后,传至中间杆(平动),最后,经二级杠杆放大,所以,工作台输出位移为:
+d=m1m2dP
+(1)
+其中:m1=1+R1/R,m2=1+R3/R2
+
+
+图2　系统结构框图
+由于采用二级放大结构,该工作台满足各类宽范围扫描、高精度运动场合的要求。图2为压电驱动二维超精密微动工作台定位补偿系统结构框图,位置传感器为两个高精度的双频激光干涉仪,由PC-486及高速信号处理卡TMS320C30(一次浮点乘加60ns)组成的主从系统做为控制器,系统可实现纳米级的定位及补偿。
+3　微动工作台性能分析
+　　使用电容测微仪、高压驱动电源、控制计算机对所研制的二维微动工作台进行标定,结果如图3所示。通过快速信号记录仪、分析仪做激振实验,可得到工作台动态特性曲线如图4所示。由实验曲线可知,位移特性与驱动电压间具有明显的比例关系,其重复精度好、零点误差小。该曲线存在非线性及滞后误差的影响,这是由压电陶瓷的固有特性造成的,在实际应用中,可通过软件补偿来消除,双向运动范围都达到40μm以上,位移分辨率优于10nm,实际所得的双向干扰仅为1%,X向及Y向固有频率都为500Hz以上,大大高于同类行程的二支点支承的微动工作台,有利于提高扫描频率,降低外界随机因素的干扰。　　
+
+
+图(a)　X向　　　(b)　Y向
+图3　电压——位移关系曲线
+
+
+图(a)　X向　　　(b)　Y向
+图4　动态特性曲线
+4　定位补偿系统研究
+　　以柔性铰链为导向机构的超精密微动工作台可用于能束加工、超精密加工及检测、微操作系统等要求具有纳米级定位补偿的技术领域中。设图3所示的上升曲线方程为:
+S=C1VC2
+(2)
+变换为:lgS=lgC1+C2lgV
+(3)
+　　利用公式(3)进行线性回归,可以得到C1及C2值,按等步长进行扫描,计算机控制扫描驱动电压为一非线性变化量,可以消除非线性误差,并可在纳米尺度内匀速运动,进行超精密定位,此时,系统处于开环状态。当用于补偿时,相当于一个闭环的随机系统,如图5所示,调节器为比例积分形式,传递函数为:
+
+
+图5　闭环控制系统框图
+
+(4)
+其中KP,TI分别为比例及积分常数,是待设置的控制参数,压电陶瓷环节呈电容特性,其传递函数:
+
+(5)
+其中km,Tm为比例及时间常数,微动工作台相当于多自由度的弹性阻尼系统,其传递函数为:
+
+(6)
+其中ωn,ξ分别为固有频率及阻尼系数,图中的高压放大及传感器环节分别设为常数A和K,整个系统的传递函数为:
+
+(7)
+将s换成jω得:
+
+(8)
+　　若使整个系统能实时补偿位置的变化,则输出电压要跟踪参考电压Vr,应满足下列条件:
+
+
+图6　仿真结果
+模:A1(ω)=｜G(jω)｜=1
+(9)
+相位移:φ1(ω)=0
+(10)
+　　由公式(9),(10)可以解出KP和TI的值,给定A,K,km,Tm,ξ,ωn的值,通过所建立的数学模型对闭环控制系统进行仿真,结果如图6所示,可见系统具有很好的响应效果。反馈参数确定以后,把公式(4)化为离散形式,用TMS320C30指令代码编制程序即可用于位置的纳米级实时补偿控制。
+5　结　论
+　　(1)超精密二维微动工作台具有高分辨率、宽行程、高频响的特点。
+　　(2)计算机控制压电陶瓷的运动,可以实现纳米级定位。
+　　(3)闭环控制系统能对位置误差进行实时补偿,仿真结果表明,该系统具有很好的动态响应效果。
+参考文献
+  1　薛实福等.精密仪器设计.北京:清华大学出版社,1989,10:184-193
+  2　Fu J.et al..Long-range Scanning Tunneling Microscope.Rev.Sci.Instrum.,1992,63(4):2200-2205
+  3　Kunitoshi Nishimura.A Spring-guided Micropositioner With Linearized Subnanometer Resolution.Rev.Sci.Instrum,1991,62(8):2004-2007
+  4　胡小唐等.用于扫描探针显微技术的空间超精密定位系统.天津大学学报,1996,29(1):1-6
+本文于1996年7月11日收到
+　　*国家自然科学基金资助项目

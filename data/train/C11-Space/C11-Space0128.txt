@@ -1,0 +1,120 @@
+宇航学报 
+JOURNAL OF ASTRONAUTICS
+1998年 第19卷 第1期 No1 Vol.9 1998科技期刊
+
+耦合多体系统动力响应计算*
+陆毓琪　芮筱亭　刘正福　黄葆华
+(南京理工大学应用数学系*南京*210094)
+　　摘　要　由于弹性体与刚体之间的动力耦合,使得耦合多体系统的特征值问题非自共轭,难以用经典的模态分析方法解决含有刚、弹耦合多体系统的动力响应问题。本文以某多体系统为例,建立了耦合多体系统的特征值和边值问题的增广公式,进而求得了用正交的增广特征矢量级数表示的系统对任意激励的响应。
+　　主题词　耦合多体系统　算子　自共轭　正交
+DYNAMIC RESPONSE OF 
+THE COUPLED MULTIBODY SYSTEM
+Lu Yuqi　Rui Xiaoting　Liu Zhengfu　Huang Baohua
+(Nanjing University of Science and Technology*Naijing*210094)
+　　Abstract　The eigenvalue problem of coupled multibody system is not self-adjiont and the study of dynamic response of the system by classical modal analysis method is difficult because of the dynamic coupled action between tlastic bodies and rigid bodies.In this paper,we take a multibody system as example,the augmented formulas of eigenvalue and boundary value problem of the multibody system are developed.The general response of the system to arbitrary excitations is accurately represented by the orthogonal augmented eigenfunction series.
+　　Key words　Coupled multibody system　Operator　Selfadjoint　Orthogonal
+1　引言
+　　多体系统对任意激励的动力响应计算问题具有重要的理论意义和实用价值。近三十年来迅速发展的多体系统动力学的各种方法［7,8］,为多体系统动力响应的数值计算提供了强有力的工具,随着科学技术的发展,许多工程问题在机械系统设计中需要做到:1.解决含有刚体和弹性体耦合系统的固有振动特性的计算问题;2.希望能进行多体系统对任意激励动力响应的精确分析。
+　　近几年出现的多体系统传递矩阵法［1-5］,为解决上述第1个问题提供了一个简捷的方法。由于弹性体与刚体之间的动力耦合作用,使得多体系统的特征值问题非自共轭。特征矢量在通常意义下不正交,从而不能直接用模态分析方法求解刚、弹耦合多体系统的动力响应,难以对系统的动力响应进行精确分析。
+　　本文以某多体系统为例,建立满足自共轭条件的耦合多体系统特征值和边值问题的增广公式,进而求得了正交的增广特征矢量,并用增广特征矢量级数表示多体系统对任意激励的响应,为解决上述第2个问题提供了一种方法。
+2　力学模型
+
+
+图2.1　耦合多体系统
+　　系统由平面运动的刚体A和与其固结的匀质梁B组成,以固结点O为坐标原点,建立静止直角坐标系,X轴沿未变形的梁的中心轴线指向梁的另一端。设作用在刚体上的主矢和主矩分别为F0(t)j和τ0(t)k,作用在梁上的分布力为f(x,t)j,(i,j,k)为直角坐标系的单位矢量。设梁的抗弯刚度和单位长度的质量分别为EI和,刚体的质量和绕质心的转动惯量分别为m和J*。求系统的动力响应。见图2.1
+3　系统的固有振动特性
+　　根据多体系统传递矩阵法［1-5］,系统任一点的状态矢量表示为Z=［y,θ,M,Q］T,式中y,θ,M和Q分别表示位移、转角、力矩、力。则有:
+Z(x)=UZ(-l)(3.1)
+式中,系统的传递矩阵
+U=U1U2(3.2)
+U1和U2分别为梁和刚体的传递矩阵［5］,Z(-l)为刚体端点的状态矢量,l=a+b。
+　　系统的边界条件为
+Z(L)=［y(L),θ(L),0,0］T(3.3)
+Z(-l)=［y(-l),θ(-l),0,0］T(3.4)
+　　将式(3.3)、(3.4)代入式(3.1)得频率方程
+U31U42-U32U41=0(3.5)
+解式(3.5),即可求得耦合系统的各阶固有频率。设所得频率均为单根,即
+O=ω21＜ω22＜ω23＜……
+　　由式(3.1)得振型函数
+y(x)=C1U11+C2U12(3.6)
+式中,C1、C2为任意常数,并且
+C2/C1=-U31/U32=-U41/U42(3.7)
+上述各式中
+U11=S(λx)+mbω2U(λx)/(λ2EI)+mω2V(λx)/(λ3EI)
+U12=lS(λx)+T(λx)/λ+(mab-J*)ω2U(λx)/(λ2EI)+maω2V(λx)/(λ3EI)
+U31=λ2EIU(λL)+mbω2S(λL)+mω2T(λL)/λ
+U32=λ2EIlU(λL)+λEIV(λL)+(mab-J*)ω2S(λL)+maω2T(λL)/λ
+U41=λ3EIT(λL)+mbω2λV(λL)+mω2S(λL)
+U42=λ3EIlT(λL)+λ2EIU(λL)+λ(mab-J*)ω2V(λL)+maω2S(λL)(3.8)
+S(λx)、V(λx)、U(λx)、T(λx)为Крыдов函数［9］。
+为系统固有振动频率。
+4　增广特征矢量及其正交性关系
+　　设空间｜α｜=H(Ω)R2,其中H(Ω)为Hilbert空间,Ω为梁的定义域(0,L］,｜α｜中的任意元素U=［U(x),U1,U2］T,U(x)∈H(Ω),U1,U2为两个标量,在｜α｜上定义内积
+〈U,V〉=∫L0U(x)V(x)dx+U1V1+U2V2(4.1)
+　　定义增广算子
+(4.2)
+(4.3)
+其中,算子的定义域为空间｜α｜的子空间
+D={V｜V=［U(x),U(0),U′(0)］T,U″(L)=0,U(L)=0,U(x)∈H(Ω),
+且U(x)在Ω上有四阶导数}(4.4)
+则原来的特征值问题等价于
+ω2MV=KV,　V∈D(4.5)
+其中
+VK(x)=［yK(x),yK(x)｜x=0,y′K(x)｜x=0］T,(K=1,2,…)(4.6)
+我们称其为增广特征矢量。
+　　式(4.5)的解构成空间｜α｜的一个子空间,设Vj,VK为式(4.5)的对应于不同特征值ω2j,ω2K的特征矢量,则
+
+(4.7)
+〈KVj,VK〉=∫L0EIy(4)j(x)yK(x)dX+EI(y(3)j(0)yK(0)-y(2)j(0)y′K(0))
+=∫L0EIy(4)K(x)yj(x)dX+EI(y(3)K(0)yj(0)-y(2)K(0)y′j(0))=〈Vj,KVK〉(4.8)
+算子M和K在(4.5)的解空间上是自共轭的,(4.5)的增广特征矢量是正交的
+〈MVj,VK〉=δjKdK　(j,K=1,2,…)(4.9)
+〈KVj,VK〉=δjKω2KdK　(j,K=1,2,…)(4.10)
+(4.11)
+5　系统的响应
+　　使用增广表述后,原边值问题可表述为
+MWtt(x,t)+KW(x,t)=F(x,t)
+(5.1)
+W(x,0)=［U0(x),U0(0),U′0(0)］T(5.2)
+Wt(x,0)=［V0(x),V0(0),V′0(0)T(5.3)
+式中
+W(x,t)=［y(x,t),y(0,t),yx(0,t)］T(5.4)
+Wt(x,t)=［yt(x,t),yt(0,t),yxt(0,t)］T(5.5)
+F(x,t)=［f(x,t),F0(t),-τ0(t)+bF0(t)］T(5.6)
+U0(x)=y(x,0),U0(0)=y(0,0),U′0(0)=yx(0,0)(5.7)
+V0(x)=yt(x,0),V0(0)=yt(0,0),V′0(0)=yxt(0,0)(5.8)
+　　式(5.1～5.3)就是用增广表述法表示的多体系统的动力学方程,设其解为
+W(x,t)=∑∞K=1VK(x)qK(t)(5.9)
+代入(5.1),并与Vj(x)作内积得
+
+利用正交性可得
+(5.10)
+解方程(5.10)得
+(5.11)
+(5.12)
+把它们代入(5.9)就可得所需要的解。
+　　式中
+7(5.13)
+7(5.14)
+(5.15)
+系统中刚体的响应为
+y(t)=y(0,t)-yx(0,t)b(5.16)θ(t)=yx(0,t)(5.17)
+式中y(t)表示刚体质心的位移,θ(t)表示为刚体的转角。
+　　显然上述耦合多体系统动态特性的精确分析方法,还可以进一步推广。
+6　算例
+
+
+图6.1　梁中点的响应
+用上述方法求解某多体系统的响应,由电算得到梁中点前8秒时间的响应历程,如图6.1。
+7　结论
+　　由上述可见:多体系统传递矩阵法为解决诸如航天、兵器等工程问题中的多体系统固有振动特性问题提供了方法;通过构造增广算子和增广特征矢量,建立其正交条件,使多体系统传递矩阵法可以解决多体系统动力响应的精确分析问题。
+参考文献
+  1　芮筱亭,隋文海,邵允中.刚体的场传递矩阵及其在多体动力学中的应用.宇航学报,1993,4:82-87
+  2　芮筱亭,陆毓琪.多体系统振动的传递矩阵法.宇航学报,1995,3:41-47
+  3　Stein E,Hang Y J,芮筱亭,陆毓琪,曾仕伦,刘正福.TraNSFER Matrix method of damping multibody systems vibration.宇航学报,1996,2:28-35
+  4　芮筱亭等.多体系统发射动力学.国防工业出版社,1995
+  5　芮筱亭,陆毓琪,付效山,俞占鸿.多体系统传递矩阵法.南京大学出版社,已付印
+  6　Yang B.Linear vibration of a compled spring-rigrdbar system,Proceedings of the International Conference on Vibration Engineering,International Acadlmic Publishers,1994
+  7　刘延柱等.多刚体系统动力学.高等教育出版社,1989
+  8　Witlenburg J.Dynamics of Systems of Rigid Bodies,B.G.Teubner,Stuttgart,1977(中译本:谢传锋译,多刚体动力学,北京航空学院出版社,1986)
+  9　И．М．Бабаков，Теория　копебаний，Гостехиздат,(中译本:振动理论,蔡承文等译,人民教育出版社,1963)

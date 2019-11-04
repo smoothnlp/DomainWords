@@ -1,0 +1,35 @@
+上海航天
+AEROSPACE SHANGHAI
+2001 Vol.18 No.3 P.45-49
+
+
+
+
+多传感器数据融合与弹道落点的预报
+马清华　 何念念　张毅　 
+摘　要：为了更精确地对弹道落点进行预报，对多传感器数据融合技术进行了分析，给出了雷达、红外系统和光测系统与传感器融合子系统连用的实例，并得出结论：单传感器的精度是难以满足现代战争需要的，寻求一种较好的融合方法来提高落点预报精度虽是一个难题，但仍是可行的。
+关键词：落点预报；红外系统；雷达；遥测；数据融合；目标跟踪
+分类号：TJ761.2　文献标识码：A
+文章编号：1006-1630(2001)03-0045-05
+Prediction of Multisensor Data Fusion and Ballistic Impact Point
+MA Qing-hua（Xi'an Second Artillery Engineering College，Xi'an Shaanxi 710025, China）　
+HE Nian-nian（Xi'an Second Artillery Engineering College，Xi'an Shaanxi 710025, China）　
+ZHANG Yi（Xi'an Second Artillery Engineering College，Xi'an Shaanxi 710025, China）　
+
+Abstract：In modern warfare, the prediction accuracy of the ballistic impact point is vital to the campaign intention of either the defensive or the aggressive. To predict the impact point more precise, it is very necessary to fuse all kinds of sensors data. In this the paper analysis to the multisensor data fusion technology is made and a conclusion is made. Any kinds of sensors' precision now is hard to meet the need of modern warfare; To seek a better method of data fusion to solve the problem is very hard, but it is possible.
+Keywords：Impact point prediction；Infrared system；Radar；Telemetry；Data fusion；Target tracking
+作者简介：马清华(1977-),男，硕士生，研究领域：数据融合和落点预报。
+作者单位：马清华（西安第二炮兵工程学院，陕西西安 710025）
+　　　　　何念念（西安第二炮兵工程学院，陕西西安 710025）
+　　　　　张毅（西安第二炮兵工程学院，陕西西安 710025）　
+
+参考文献：
+［1］杨靖宇.战场数据融合技术[M].北京：兵器工业出版社,1994.
+［2］康耀红.数据融合理论与应用[M].西安：西安电子科技大学出版社,1997.
+［3］付伟.舰载多传感器数据综合分析[J].航天电子对抗1998,(1).
+［4］刘曙阳,程万祥.C3I系统开发技术[M].北京：国防工业出版社1999.
+［5］刘同明,夏祖勋,解洪成.数据融合技术及其应用[M].北京：国防工业出版社,2000.
+
+收稿日期：2000年4月21日
+修稿日期：2000年6月1日
+出版日期：2001年3月1日

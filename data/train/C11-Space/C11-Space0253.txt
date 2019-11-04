@@ -1,0 +1,113 @@
+　宇航学报
+JOURNAL OF ASTRONAUTICS
+1999年 第20卷 第3期 vol.20 No.3 1999
+
+
+
+　　万有引力场中带挠性太阳帆板
+航天器的姿态稳定性*
+戈新生　刘延柱
+　　摘　要　本文讨论带双侧挠性太阳帆板航天器在万有引力场中的姿态运动。建立带挠性帆板航天器的欧拉方程和帆板强迫振动方程。利用Galerkin方法对动力学方程离散化，利用Kelvin-Tait-Chetayev定理判断航天器在轨道坐标系内相对平衡的稳定性。导出适用于任意阶模态的解析形式稳定性充分条件。
+　　主题词　姿态稳定性　挠性多体动力学　Kelvin-Tait-Chetayev定理
+ATTITUDE STABILITY OF SPACECRAFT 
+WITH TWO FLEXIBLE SOLAR ARRAYS 
+IN GRAVITATIONAL FIELD
+Ge Xinsheng
+(Beijing Institute of Machinery Industry.Beijing.100085)
+Liu Yanzhu
+(Shanghai Jiaotong University.Shanghai.200030)
+　　Abstract　The attitude motion of a spacecraft,composed of the main rigid body and two flexible solar arrays in gravitational field is discussed in the present paper.The Euler's equations of spacecraft with two flexible solar arrays and the equations of forced vibration are obtained.The dynamical equations are discretized vis use of Galerkin's method,and the stability of relative equilibrium of the spacecraft in the orbit frame is determined by Kelvin-Tait-Chetayev theorem.A sufficient condition of stability in analytical form for arbitrary number of modes is obtained.
+　　Key words　Attitude stability Flexible multibody dynamics Kelvin-Tait-Chatayev theorem
+　　1　引言
+　　自美国发射的探险者1号卫星失稳以后，关于挠性附件的弹性变形对航天器姿态稳定性的影响问题，引起了科技界的极大关注。随着航天技术中大面积太阳能电池阵的普遍采用，带挠性帆板航天器的姿态动力学与控制的研究受到广泛重视。Cherchas,Houghes［1］和Pfeiffer,Pohl［2］利用模态分析将连续体的分布参数集中化为离散系统并用数值方法讨论带挠性太阳翼的双自旋卫星和飞轮控制卫星的姿态运动。Ibrahim,Misra［3］通过理论和实验研究了航天器的天平动与太阳帆板的振动等诸因素的耦合作用对系统的稳定性影响。刘延柱［4，5］分别讨论了万有引力场中带单侧挠性板非轴对称航天器和陀螺体在轨道坐标系中相对平衡的稳定性，导出解析形式稳定性判据。本文讨论在圆轨道中运行的带双侧挠性太阳帆板的航天器在万有引力矩作用下的姿态稳定性。首先建立带太阳帆板航天器的姿态动力学方程和帆板强迫振动方程，利用Galerkin方法对其进行离散化，并利用Kelvin-Tait-Chetayev定理判断航天器在轨道坐标系中相对平衡的稳定性，导出适用于任意阶模态的解析形式稳定性充分条件，分析帆板的弹性变形对航天器姿态稳定性的影响。
+　　2　带挠性太阳帆板航天器的欧拉方程
+　　讨论万有引力场内带挠性帆板的轨道静止航天器在圆轨道中的姿态运动。设航天器由主刚体B0和沿主轴双侧对称固定的矩形挠性帆板B1、B2组成(见图1)。挠性帆板Bi(i=1,2)为悬臂薄板结构，其长度、高度和厚度分别为a、b、h，中面固定端的中点O′距系统质心O的距离为r。沿主刚体B0质量远大于帆板Bi(i=1,2)的质量，忽略帆板弹性变形对质心偏移的影响。以O为原点建立轨道坐标系(O-XYZ)，其中X轴沿地心O0至O的矢径方向，Y轴沿轨道运动的切线，Z轴沿轨道平面法线。将主刚体的主轴坐标系(O-xyz)选作浮动坐标系，z轴平行于帆板Bi(i=1,2)的固定边，x轴沿帆板弹性位移方向。设帆板未变形时中面为(y,z)坐标面，其上任意点Pi的位置用矢径表示，为Pi点的弹性位移，则变形后帆板中面上任意点Pi相对O点的矢径可写为
+　　　　　　　　　　　　　　　　　,　(i=1,2)　　　　　　　　　　　　　(1)
+其中
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　(2)
+
+图1　带挠性太阳帆板航天器
+　　主轴坐标系(O-xyz)相对轨道坐标系(O-XYZ)的姿态以卡尔丹角θ、ψ、φ表示(见图2)。轨道坐标系以角速度ωc绕Z轴匀速转动，只保留θ、ψ、φ的一次项，主刚体角速度相对(O-xyz)各轴的投影为
+　　　　　　　　　　　　　　　　　　　(3)
+
+图2　参考坐标系
+　　利用系统相对质心O的动量矩定理，得到带太阳帆板航天器系统相对O点的欧拉方程
+　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　(4)
+其中“”表示相对浮动坐标系(O-xyz)的相对导数，γ为帆板的体密度。积分域S1、S2分别为帆板B1和B2变形前的中面，即S1:r≤y≤r+a,;S2:-r-a≤y≤-r,。为主刚体连同变形后的挠性板相对质心O的惯性张量，忽略弹性变形引起系统主惯性矩A、B、C的附加惯性矩微小变化，则相对(O-xyz)的分量为
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(5)
+其中Jij为帆板弹性变形产生的惯性积
+　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(6)
+　　　　　　　　　　(6)
+为作用于系统的万有引力对O点的主矩，其相对(O-xyz)各轴的投影为
+　　　　　　　　　　　　　　　(7)
+将式(2)、(3)、(5)、(7)代入方程(4)，导出带双侧挠性帆板航天器姿态运动的动力学方程　　　　　　　　　　　　　　(8)
+　　　　　　　　　　
+　　3　帆板的振动方程
+　　为使方程组(8)封闭，考虑挠性帆板Bi(i=1,2)的强迫振动方程。设作用于帆板Bi上的分布载荷为(y,z,t),沿x轴的弹性位移为ui(y,z,t)，列出帆板Bi(i=1,2)的横向振动方程
+　　　　　　　　　　　　　　　　　　　　　　　　　　　(9)
+其中D为帆板的弯曲刚度，定义为：
+
+E、v分别为帆板的弹性模量和泊松比。(y,z,t)为惯性力和万有引力引起的沿x轴方向的分布载荷，分别记作和(i=1,2)，即
+　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　(10)
+　　　　　　　　　　　
+其中μ为万有引力参数，、分别为帆板Bi中面上任意点Pi和质心O相对地心O0的矢径，
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(11)
+将式(2)、(3)、(11)代入式(10)，并注意，化简后得到
+　　　　　　　　　　　　　(12)
+将帆板Bi的强迫振动方程(9)中的分布载荷以式(12)代入，导出
+　　　　　　　　
+　　　　　　　　　　　(13)
+　　4　方程的离散化
+　　设挠性帆板B1和B2有相同的模态函数，利用迦辽金离散化方法，将惯性力和万有引力作用下的帆板Bi强迫振动特解ui(y,z,t)写成一端固定的悬臂板自由振动模态Φj(y,z),(j=1,…,N)的线性组合［6］
+　　　　　　　　　　　　　　　　　　　　　　　　　(14)
+其中qij(i=1,2,j=1,…,N)为帆板Bi各阶模态坐标。模态Φj满足以下正交条件：
+　　　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(15)
+　　　　　　　　　　　　　　　
+其中δjk为克罗尼克符号，σj为板自由振动的第j阶固有频率。将式(14)代入方程(8)和(13)，式(13)各项再依次乘以Φj(j=1,…,N),并沿帆板中面对y,z积分，利用式(15)进行简化，导出离散化的动力学方程
+　　　　　　(16)
+其中参数mj,nj定义为
+　　　　　　　　　　　　　　　　　(17)
+mj和nj是由对称和反对称模态构成的积分，分别由帆板的弯曲变形和扭转变形引起。
+　　5　姿态稳定性条件
+　　将方程组(16)写作矩阵形式，其中的δjk以1或0代替，得到
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(18)
+其中q为由2N+3个广义坐标qj排列而成的广义坐标列阵，M为2N+3阶对称惯量阵，G为2N+3阶反对称陀螺阵，K为2N+3阶对称刚度阵。各矩阵定义为
+
+　　　　
+　　　　　　(19)
+　　　
+　　利用Kelvin-Tait-Chetayev定理判断系统在轨道坐标系内相对平衡的稳定性［7］。质量阵M的正定性条件通过初等变换整理为
+　　　　　　　　　　　　　　　　　　　　　(20)
+由于、、与挠性帆板的惯性矩同数量级，后者已包含于系统的总惯性矩A、B、C，因此惯量阵M必正定。系统的稳定性取决于刚度阵K的正交性，由式(19)刚度阵K的正定性可导出以下条件
+　　　　　　　　　　(21)
+根据Kelvin-Tait-Chetayev定理，条件(21)为带双侧帆板航天器轨道坐标系内相对平衡稳定性的充分条件。
+　　讨论两种特例：
+　　1)令nj=0(j=1,…,N)，则挠性帆板退化为沿x轴方向弯曲变形的挠性杆，条件(21)转化为带一对挠性杆航天器姿态稳定性条件［8］
+　　　　　　　　　　　　　　　　　　　　　(22)
+　　2)令mj=nj=0,(j=1,…,N)，条件(21)则化为周知的万有引力场中刚体卫星姿态稳定性条件
+　　　　　　　　　　　　　　　　　　　　C＞B＞A　　　　　　　　　　　　　　　　(23)
+　　引入以下无纲参数λ、β、δ、ε
+　　　　　　　　　　　　　　　　　　　　　(24)
+　　若挠性帆板的惯性矩在系统的总惯性矩中所占比例较小，则δ、ε为小参数，只保留δ、ε的一次项，稳定性条件(21)可简化为
+　　　　　　　　　　　　　　　　　　　　　　　(25)
+　　以λ、β为坐标轴建立参数平面(λ，β)，图3(a)给出以δ为参变量的(λ，β)参数平面内的稳定域边界，图中表示了帆板弯曲变形对航天器姿态的影响。图3(b)给出以ε为参变量的(λ，β)参数平面内的稳定域边界，图中表示了帆板扭转变形对航天器姿态的影响。通过本文的讨论可以看出由刚体航天器在(λ，β)参数平面上围成的三角形拉格朗日区随着帆板的变形的增大而逐渐缩小，分别体现出帆板的弯曲变形和扭转变形对航天器姿态稳定性的不利影响，从而为带挠性太阳帆板航天器的失稳现象提供了理论解释。
+　　　　　　　　　　
+　　(a)　　　　　　　　　　　　　　　　　　(b)
+图3　带挠性太阳帆板航天器的稳定域
+*国家自然科学基金资助项目
+作者单位：戈新生：北京机械工业学院.北京.100085
+　　　　　刘延柱上海交通大学.上海.200030
+参考文献
+　　1　Cherchas D B,Houghes P C.Attitude stability of a dual-spin satellite with a large flexible solar array.J Spacecraft and Rockets,1973,10(2);126～132
+　　2　Pfeiffer F,Pohl A.Dynamics of a satellite with a flywheel and flexible solar array.Raumfahrtforschung,1974,(6);277～285
+　　3　Ibrahim A E,Misra A K.Attitude dynamics of satellite during deployment of large plate-type structures.J.Guidance,Control and Dynamics,1982,5(5);442～447
+　　4　刘延柱.万有引力场中带挠性板非轴对称航天器的姿态稳定性.固体力学学报，1994，(15)4：296～302
+　　5　刘延柱.万有引力场中带挠性板陀螺体的稳定性.非线性动力学学报，1995，(增刊)，166～172
+　　6　Meirovitch L.Elements of Vibration Analysis.McGraw-Hill,1975
+　　7　Zajac E E.The Kelvin-Tait-Chetayev theorem and extensions.J Astronaur Science,1964,11(2);46～49
+　　8　刘延柱.航天器姿态动力学.北京：国防工业出版社，1995
+收稿日期:1997年2月24日,修回日期:1998年3月23日

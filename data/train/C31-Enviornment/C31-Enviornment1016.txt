@@ -1,0 +1,43 @@
+环境科学研究
+RESEARCH OF ENVIRONMENTAL SCIENCES
+2001 Vol.14 No.1 P.61-64
+
+
+
+
+我国部分商品瓶装饮用水中挥发性有机物的研究
+肖贤明　 王新明　 刘祖发　 傅家谟　 
+摘　要：应用Tekmar3000吹扫捕集-气相色谱质谱组合分析仪，参照USEPA的标准分析方法，对我国某些商品瓶装饮用水中挥发性有机物进行了定量分析，结果表明，其含量一般在1～8μg/L，其中普遍含有具三致潜力的卤代烃与苯系物。虽然这些毒理性指标均可达到我国瓶装饮用纯净水卫生标准，但与国外优质瓶装饮用水相比，存在明显的差距。瓶装饮用水中挥发性有机物主要与深度处理技术和组合工艺有关，可通过改进这些技术而得以有效控制。
+关键词：挥发性有机物；　毒理性；　瓶装饮用水
+分类号：X799　文献标识码：A
+文章编号：1001-6929(2001)01-0061-04
+Study on Volatile Organic Compounds in Some Bottled Water for Drinking Produced in China
+XIAO Xian-ming（State Key Laboratory of Organic Geochemistry,Guangdong Key Laboratory of Environmental Resource Utilization and Protection,Guangzhou Institute of Geochemistry,CAS,Guangzhou　510640,China）　
+WANG Xin-ming（State Key Laboratory of Organic Geochemistry,Guangdong Key Laboratory of Environmental Resource Utilization and Protection,Guangzhou Institute of Geochemistry,CAS,Guangzhou　510640,China）　
+LIU Zu-fa（State Key Laboratory of Organic Geochemistry,Guangdong Key Laboratory of Environmental Resource Utilization and Protection,Guangzhou Institute of Geochemistry,CAS,Guangzhou　510640,China）　
+FU Jia-mo（State Key Laboratory of Organic Geochemistry,Guangdong Key Laboratory of Environmental Resource Utilization and Protection,Guangzhou Institute of Geochemistry,CAS,Guangzhou　510640,China）　
+Abstract：By using a system combining Tekmar 3000 purge and trap concentrator with HP 5972 GC/MSD,with reference to the US EPA standard test methods,a quantitative analysis on volatile organic compounds (VOCs) in some bottled waters for drinking produced in China was made.The results showed that all of these bottled waters contain a minor amount of VOCs,mostly in the range of 1.0～8.0 μg/L,including halogenated hydrocarbons and BTEX which are carcinogenic and mutagenic chemicals.It was noted that the VOCs in these bottled waters are obviously higher than that in two types of well-known bottled water from France although they are much lower than Chinese national standard of bottled water for drinking.The VOCs in the bottled waters are mainly related to the techniques and their combination to be used to purify the waters,and can be removed by improving these techniques.
+Keywords：volatile organiccompounds;　　toxicity;　bottled water for drinking
+基金项目：广东省科委科技攻关百项工程项目资助(99B06901G)
+作者简介：肖贤明(1962-)，男，湖南汉寿县人，研究员，博士. 
+作者单位：肖贤明（中国科学院 广州地球化学研究所 有机地球化学国家重点实验室及广东省环境资助利用与保护重点实验室，广东 广州　510640）　
+　　　　　王新明（中国科学院 广州地球化学研究所 有机地球化学国家重点实验室及广东省环境资助利用与保护重点实验室，广东 广州　510640）　
+　　　　　刘祖发（中国科学院 广州地球化学研究所 有机地球化学国家重点实验室及广东省环境资助利用与保护重点实验室，广东 广州　510640）　
+　　　　　傅家谟（中国科学院 广州地球化学研究所 有机地球化学国家重点实验室及广东省环境资助利用与保护重点实验室，广东 广州　510640）　
+参考文献：
+［1］司徒福康.市售饮用水的发展与展望［J］.净水技术，1997，61(3)，36～40.
+［2］Thomason M M,Bertsch W.Evaluation of sampling methods for the dertermination of trace organics in water［J］.J Chromatogr,1983,279:383～395.
+［3］Longbotton J E,Lichtenberg J J.Method 601,purgable halecarbons,in test method,methods for organic chemical and analysis of municipal and industrial waste water［S］.EPA 600/482-657,Environmental Protection Agency,Lincinnati,OH,1982.
+［4］王新明.珠江三角洲一些城市挥发性有机物初步研究［Ph-D］.广州：中国科学院广州地球化学研究所，1997.13～18.
+［5］Crump K.Environmental impact and health effects ［A］.Plley R L,Gorchev H,Hamilton D H,eds.Water chlorination:environmental impact and health effects［C］.Ann Arbor,Ml:Ann Arbor Science Publishers Inc,1983.4:1487～1490.
+［6］Fishbein L.Potential halogenatel industrial carcinogenic and mutagenic chemicals,I:Halogenatal saturated hydrocarbons［J］.Sci Total Environ,1979,11:163～169.
+［7］Simmon V F.The mutagenic activity of halogenatel compounds found in chlorinated drinking water［A］.Jolley R L,Gorchev H,Hamilton D H,eds.Water chlorination:environmental impact and health effects［C］.Ann Arbor,MI:Ann Arbor Sciences Publishers inc.,1981.2:417～423.
+［8］Rook J J.Formation of haloformes during chlorination of natural waters［J］.Water Treat Exam,1974,23:234～240.
+［9］Peters C J.Factors influencing the formation of haloforms in the chlorination of humic materials［J］.Environ Sci Technol,1980,64:1391～1399.
+［10］Stuart W,Krasnev.The occurrence of disinfection by-products in US drinking water［J］.J AWWA,1989,81(8):41～53.
+［11］李正明，王兰昌.矿泉水和瓶装水生产技术手册［M］.北京：中国轻工业出版社，1994.35～79.
+［12］Herman R.Pre-filters may effect RO removal of fluoride,mercury and chromium［J］.Water Condition and Purification,1999,41(6):106～110.
+［13］Epstein S S,Zavon M.Is there a threshold for cancer?［A］.Manners D X,ed.International water quality symposium:water Its effects on life quality［C］.Wash D C,Water Quality Research Council,1974.54～62.
+［14］许保玖.给水处理理论与设计［M］.北京：中国建筑工业出版社，1992.1～100.
+收稿日期：1999年12月30日
+出版日期：2001年1月30日

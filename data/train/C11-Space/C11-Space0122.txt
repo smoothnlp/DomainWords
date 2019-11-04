@@ -1,0 +1,109 @@
+宇航学报 
+JOURNAL OF ASTRONAUTICS
+1998年 第19卷 第1期 No1 Vol.9 1998科技期刊
+
+非线性晃动问题的ALE边界元方法*
+岳宝增　王照林　匡金炉
+(清华大学工程力学系 北京 100084)
+　　摘　要　利用ALE(任意的Lagrange-Euler)边界元方法数值求解了具有自由液面的非线性晃动问题,即受外力激励下流体的非线性振动问题。把ALE有限元方法的思想应用到边界元方法中,得到了ALE边界元方法。对于自由液面的非线性动力边界条件,应用Galerkin加权方法进行了有限元数值离散。为了增加求解精度,对动力边界条件提出了增加误差修正项的数值求解方法。对时间变量采用Newmark方法进行离散。推导了系统非线性方程的预测-多次校正法迭代格式。进行了算例分析与比较,得到了令人比较满意的结果。
+　　主题词　液体晃动　边界元法　ALE边界元方法
+THE ALE BOUNDARY ELEMENT METHODS IN 
+SOLVING NONLINEAR SHOSHING PROBLEMS
+Yue Baozeng　Wang Zhaolin　Kuang Jinlu
+(Department of Engineering Mechanics,Tsinghua Univerity,Beijing*100084*China)
+　　Abstract　The ALE(Arbitrary Lagrange-Euler)boundary element method is used for dealing with nonlinear sloshing problem(nonlinear oscillations of a liquid in a container subjected to forced oscillation).The ALE boundary element methods is derived by applying the idea of ALE finite element method.The dynamic boundary condition is redused to a weighted residual equation by employing the Galerkin nethod.Due to the nonlinearity of the problem,a general corrective procedure is used for the numerical analysis.The system equation is discretized by the use of Newmark Method timewise and the predict-multi corrective steps method is used in iteration procedure.At last,computation example and computed result is given.
+　　Key words　Fluid sloshing　Boundary element method　ALE boundary element method
+　1　引言
+　　液体的晃动问题在航天、航空、大型化工设备等许多方面都有研究的背景。由于自由液面上的动力边界条件(Bernoulli's)及自由液面的位置随着时间的变化而移动,因此,求解晃动问题是一个既困难又麻烦的课题。有限元法被应用于求解晃动问题获得了极大的成功。用有限元法求解液体晃动问题时,运动的流体与有限元网格之间的关系即动力学描述是极为重要的。由于拉格朗日方法和欧拉方法这两种经典的描述方法各有长短,这就使人们把这两种方法结合起来使用,得到了ALE有限元方法［1,2］。边界元方法以有限元方法为基础,突出优点是可将求解空间降低一维,80年代以来用以求解带有自由液面的晃动问题［3］取得了极大进展。本文推导了ALE边界元计算格式及非线性边界元方程的预报——多次校正迭代格式,对时间变量采用Newmark方法进行离散。在跟踪自由液面时,提出了一种简便合理的网格更新方法,通过设计满足一定条件的网络移动速度使边界上的网格点保持在边界上,并使单元形状不发生畸变。
+2　ALE描述方法
+　　物质点t时刻在空间坐标中的位置为:x=x(X,t),物质点t时刻在参考坐标系中的位置为:x=x(,一个函数f一般表示为空间和时间的函数,同时在参考坐标及随动坐标中也可表示为各自坐标和时间的函数,从而有关系式:
+
+x,分别为空间坐标,物质坐标,网络参考坐标。而
+(1)
+其中
+　表示固定x时求导，Na是时间维数。
+定义为当地导数。
+定义为网格导数，简计为
+定义为质点速度。
+定义为网格速度。
+定义为质点在参考坐标系中的速度。
+可以看到:
+　　　　　　　(2)
+由(1)式得:
+(3)
+其中:ci=ui-wi,定义为ALE描述下的对流速度。时参考坐标取为物质坐标,网格跟随物质质点,变为Lagrange描述。(2)时,参考坐标取为空间坐标,网格不动,此时变为Euler描述。
+3　ALE网格速度的确定与网格更新
+　　在ALE描述下,网格可以按任意合适的方式进行设计,但为了能够达到跟踪边界尤其是流体晃动时的自由面,其上的网格点必须永远在边界上,这样网格点的速度设计就受到限制即速度的约束条件。假设边界面(或线)的方程为:
+F(x,t)=0(4)
+由于流体质点和网格点始终在边界上即永远满足方程(4)式,所以有:
+(DF)/(Dt)=0;(dF)/(dt)=0
+从而有关系:,而边界面方程函数的梯度方向即边界面的法线方向,则可得
+v*n=w*n(5)
+在满足上式的条件下,自由液面上的网格点的移动速度可按如下及种方式设计。
+
+
+图1　自由液面上网格结点速度方向
+图1表明边界结点可以按:(a)预先给定的方向如水平方向或竖直方向,(b)垂直于自由液面方向或者,(c)当地流体速度矢量的方向转动,在最后一种情况就得到边界上的拉格朗日描述。本文算例采用了方法(a),即水平方向采用欧拉描述,竖直方向采用拉格朗日描述。由(5)式,自由液面上网格结点移动的速度为:
+　　　　　　　　　　　(6)
+　　　　　　　　　(7)
+在求解过程中,每一时间步网格需要更新一次,对于tn+1时刻,网格结点的坐标可按下式计算:
+xn+1i=xni+∫tn+1tnwidt　　　　　　　(8)
+4　数学模型
+　　本文以流体的不可压缩,无粘,非定常无旋理论为基础,物理模型如图2
+　　控制方程为:
+　　                                                     (9)
+　
+
+
+图2　物理模型
+　　其中：F（x，y，z）=0为自由液面方程，μφ项是反应流体粘度阻尼效应的所谓Rayleigh阻尼项。μ一般采用实验数据。ax（t）为一水平加速度激励。S1为自由液面，S2为贮箱刚性壁。由：，可推出：代入动力学边界条件可得：由关系式：
+
+经过化简可得：
+（11)
+其中:,即x保持不变,竖直方向跟随自由液面的时间导数,β表示自由液面和水平面的夹角。
+5　系统方程的数值离散
+　对方（9）进行边界元离散，在每一单元上设：其中插值函数为单元长度。根据边界元方法[4]（9）式可离散为：
+
+而：上结点个数
+n1为自由液面S1上的结点个数，A为嗯n阶方阵。对于动力边界条件（10），为了消除解的不稳定性[3，5]，引入误差修正项D，用下式代替（10）式：
+　　(13a)
+　　D=0(13b)
+根据有限元知识,利用加权余量法可推导出单元上的离散方程如下:
+(14)
+其中:
+
+单元集成后可写成如下形式:
+(15)
+时间变量采用Newmark方法离散,化简后可得如下形式的方程:
+(16)
+由(12),(16)式可得:
+(17)
+其中:A1=c+c1γΔt,B1=γΔtG,γ是按积分精度和稳定性而决定的参数(一般γ≥0.5),n,n+1代表时间步。(17)式为非线性方程,下面给出预测——多重校正格式的计算过程;
+预测得:
+
+校正步
+
+
+其中:采用Newton-Raphson方法求解。
+6　算例
+　　(1)本文选取文献［3］中的算例,b=0.45m,h=0.6m,初始条件为当t=0时:
+
+贮箱受横向加速度激励:
+αx(t)=-X0ω2sinωt;X0=0.002m;ω=5.5rad/sec;Δt=0.008sec
+计算结果如图3,与文献［3］比较基本一致,从计算结果可知,经过一段时间(例如8秒)历程后晃动幅值将不再有明显增加,这是因为液体微料的纵向加速度不可能超过质量力场的加速度,这一结论与试验结果吻合。文献［3］中没有直接得到这一计算结果,此外,由于本文没有对非线性方程进行线化处理,时间增量要求比较小(文献［3］中Δt=0.015sec)。　　
+
+
+图3　波高η的时间历程
+(2)考察三阶模态自由晃动问题。本文模拟出的前8个周期内不同时刻的自由液面形状如图4所示,非常明显地显示了共振时驻波的三个点,与有关的试验结果基本一致,其中自由晃动的幅值取为0.15cm。　　
+
+
+图4　不同时刻的自由液面形状
+7　结论
+　　本文把ALE有限元的思想运用到边界方法中,推导了ALE边界元的计算格式及系统非线性方程的预测——多次较正步迭代格式,针对动力边界条件的数值计算上的困难,提出了修正解法,得到了令人比较满意的结果。分别对强迫振动和自由振动进行了数值计算,所得结果和有关文献比较基本吻合。
+参考文献
+　1　Huerta A and Liu W K.Viscous flow with large free surface motions.Compt.Meths.Appl.Mech.Engrg.1988,69,277-324
+　2　Muta K,Kasai Y,and Nakahara M,Experimental tests for suppression effects of water restraint plates on sloshing of a water pool.ASMEJ.of pressure vessel Tech.1988,110,240-252
+　3　Nakayama T and Washiza K.The bounday element method applied to the analysis of twodimensional nonlineal sloshing problems Int.J.for Numer.Meths.in Engrg.1981,17,1631-1646
+　4　Brebbia C A.The Boundary element method for engineers Pentech Prers.1978
+　5　Hirt C W and Harlow F H.Ageneral corrective-procedure for the numerical solution of initial-value problem J.Comp.Phy.1967,2,114-119
+　6　曾江红,王照林.粘性流体大幅晃动的ALE有限元模拟.强度与环境,1996,3,22-27

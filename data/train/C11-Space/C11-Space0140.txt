@@ -1,0 +1,227 @@
+宇 航 学 报
+JOURNAL OF ASTRONAUTICS
+1998年4月  第19卷  第2期科技期刊
+
+改进的推广KALMAN滤波器
+在导弹被动制导中的应用*
+周 荻
+(清华大学自动化系*北京*100084)
+胡恒章 杨旭东
+(哈尔滨工业大学航天学院*哈尔滨*150001)
+摘  要　　本文研究将改进的推广Kalman滤波器(MEKF)应用于导弹被动制导
+问题。为了提高系统的可观性，我们采用一种双重指标来设计最优导引律。
+仿真结果表明，如果系统状态的均值较高，波动较小，那么MEKF的估计精度
+明显优于推广Kalman滤波器(EKF)。
+
+主题词　　推广Kalman滤波器  改进的推广Kalman滤波器   导弹被动制导  
+　　　　　双重指标导引律
+
+
+
+APPLICATION OF MODIFIED EXTENDED KALMAN
+FILTER TO PASSIVE MISSILE GUIDANCE
+Zhou Di
+(Department of Automation,Tsinghua University·Beijing
+*100084)
+Hu Hengzhang Yang XuDong
+(Aerospace School,Harbin Institute of Technology*Harbin
+*150001)
+Abstract  A modified extended Kalman filter(MEKF)is proposed and applied to passive 
+missile guidance.We adopt a dual control method to design guidance law for enhancing the 
+observability content of the control system.Simulation results indicate that if the expectation 
+of the system state is relatively large and the wave of the state is relatively minor,the 
+performance of the MEKF is much better than that of the extended Kalman filter(EKF).
+
+Key words Extended kalman filter  Modified extended kalman filter   Passive missile 
+guidance  Dual control guidance law
+
+1  引言
+
+　　随着被动测量技术在跟踪和制导中的广泛应用，如何在仅有角度测量的
+条件下对目标的状态进行估计引起了人们的浓厚兴趣。仅有角度测量的导弹
+制导问题又称被动制导问题。从数学上讲，可以在直角坐标系中用一个线性
+动态模型和一个非线性观测模型来描述这一问题，也可以在极坐标系中用一
+个非线性动态模型和一个线性观测模型来描述它［1］。在被动制导条件下，
+导弹的机动飞行轨迹会对滤波器的性能产生直接影响［2］、［3］，因此在
+设计导引律时有必要考虑系统可观性指标。
+
+　　被动制导问题中常用的非线性滤波方法是推广Kalman滤波(EKF)。然而，
+只有当系统的动态模型和观测模型都很接近于线性时，EKF的估计结果才有
+可能接近于真值。一种改进的推广Kalman滤波器［4］(MEKF)可以克服这一
+约束，因此我们提出在导弹被动制导中应用MEKF进行目标状态估计。
+
+2  直角坐标系中被动制导问题的描述
+
+图1 导弹与目标相对运动关系在仿真时，导弹和目标都可以用质点来表示(见
+图1)。设目标加速度用一个Gauss-Markov随机过程描述。系统动态模型
+为
+dX=AXdt+bdt+wdt
+(1)
+其中X=［x y z vx vy vz aTx aTy aTz］T，前三个变量代表目标与导弹之间的
+相对位置，中间的三个变量代表相对速度，后三个变量代表目标加速度；b=
+［0 0 0 -aMx -aMy -aMz 0 0 0］T是控制向量，aMx、aMy、aMz代表导弹加速度；
+w=［0 0 0 0 0 0 wTx wTy wTz］T是噪声向量。另外，
+
+
+
+系统观测模型为
+dY=h(x)dt+vdt
+(2)
+其中h(x)=［tan-1y/x  tan-1-z/(x2+y2)1/2］T，v代表观测噪声。
+w和v都是均值为零的高斯白色随机向量，且w和v相互独立。
+
+3  双重指标导引律
+
+    系统(1)—(2)所对应的确定性系统为
+
+
+在线性二次型控制方案中，我们要在满足微分方程约束(3)，始端条件约束t0，x0,y0,z0,vx0,vy0,vz0,aTx0,aTy0,aTz0以及终端条件约束tf的前提下，求出控制
+量aMx，aMy，aMz，使得性能指标最小。xf,yf,zf代表终端脱靶量。
+(5)
+在双重指标控制方案中，我们要在性能指标(5)的基础上加入系统(3)—(4)
+的可观性指标，我们定义这一指标为
+
+(6)
+其中Φ(t,t0)是=Ax的转移矩阵，即
+
+
+Δt=t-t0,H=? h/?xT,S和N是正定对角加权矩阵，tr表示矩阵的迹。
+令
+
+
+s1,s2,s3是非负常数，时变矩阵
+
+
+其中q1=(x2+y２)(x2+y2+z2)/［2(x2+y2+z2)］。利用矩阵迹的性质，(6)式可
+以写作
+
+(7)
+把H,N,Φ，S按定义代入(7)式可得
+
+(8)
+当只考虑位置信息时，令s1=1,s2=s3=0,则(8)式化为
+
+(9)
+综合(5)、(9)两式，设双重性能指标为
+
+(10)
+其中c和s是大于零的常数。
+
+    上述双重指标控制问题可以沿直角坐标系的x、y、z轴解耦成三个子问题，
+这样只需考虑求aMy使得在满足约束=Vy,y=aTy-aMy,Ty=-λaTy以及t0,y0,vy0,aTy0和tf的条
+件下，性能指标
+
+(11)
+最小。
+
+    应用最优控制理论可以求得
+aMy=c1y+c2vy+c3aTy
+(12)
+其中
+c1=Λ21Γ11+Λ22Γ21+Λ23Γ31
+c2=Λ21Γ12+Λ22Γ22+Λ23Γ32
+c3=Λ21Γ13+Λ22Γ23+Λ23Γ33
+
+矩阵Λ和Γ的定义和解法较繁琐，这里不
+再详述，读者可参阅文献［3］中的附录。4  改进的推广Kalman滤波器(MEKF)
+
+    考虑非线性系统
+dX=f(t,X)dt+Budt+ε1σ(t)dw,X(0)=X0,t≥0
+(13)
+dY=h(t,X)dt+ε2σ0(t)dv,Y0=0,t≥0
+(14)
+其中状态X∈Rn，观测Y∈Rm，控制u∈Rl，随机过程w、v是两个相互独立的布朗
+运动，它们的维数分别是n1和m1，ε1、ε2是大于零的常数，B是n×l矩阵，
+σ(t)是n×n1矩阵，σ0(t)是m×m1矩阵，h：［0,∞)×Rn→Rm,f：［0,∞)×Rn→Rn,
+X0是L可测向量，它具有有限的二次矩且独立于w和v。
+
+    利用Taylor级数围绕条件均值X^展开可得EKF方程
+
+(15)
+
+(16)
+其中A(t,X)和H(t,X)代表Hessian矩阵fX和hX。
+
+    只有当f和h都很接近于线性时，才能期望(15)—(16)的解接近于真值。
+为了克服这一约束，我们将f和h围绕已知量进行线性化而不是围绕被估计量
+进行线性化可得一种改进的推广Kalman滤波器(MEKF)。
+
+    令为确定性微分方程
+d=f(t,)dt+Budt,0=EX0
+(17)
+的解，且令X为随机微分方程
+dX=f(t,X)dt+Budt+ε1σ(t)dw,X(0)=X0
+(18)
+的真实解。定义X~为围绕确定流X-的波动，从而有X=-+X~。把f和h围绕进行
+Taylor展开可以推出MEKF方程，X-是(17)式的精确解。
+
+    设A(t,)=fX-,H(t,)=hX-，那么
+f(t,)=f(t,-)+A(t,)X~+0(X~)
+(19)
+h(t,)=h(t,)+H(t,)X~+0(X~)
+(20)
+把(19)—(20)式代入(13)—(14)式可得波动量的动态方程和观测方程
+dX~=A(t,)X~dt+ε1σ(t)dw,X~0=0
+(21)
+dY=［h(t,)+H(t,)X~］dt+ε2σ0(t)dv,Y(0)=0
+(22)
+　　这样，滤波问题被解耦成两个子问题。第一个子问题是由初值问题(17)
+所决定的确定性问题；第二个子问题是由波动量方程(21)—(22)所确定的随
+机性问题。显然，对于已知的X-，(21)和(22)是线性的，而X~和Y是高斯过
+程。定义X~的最小方差无偏估计为^=E{X~/Yt}，误差协方差矩阵为P=E{(X
+~-^)(X~-^)T/Yt}，其中Yt代表直至t时刻,过程Y所产生的最小σ—代数。应
+用线性系统的Kalman-Bucy理论，模型(21)—(22)的最优估计器为
+
+初始条件为^0=0,P(0)=0。X~的误差协方差矩阵P(t)与X的误差协方差矩阵相同。
+在MEKF中，联立解(17)、(21)、(22)可得估计值X^=X-+X~。
+
+5  MEKF在导弹被动制导中的应用
+
+    在MEKF中，线性化的参考点是一个确定值，而在很多情况下，这个确定
+值就等于状态的均值。由此可知，如果系统状态均值较高，波动较小，那么
+由这种方法得到的估值可能具有相当高的精度。当系统中存在确定性输入项，
+而且其功率远大于噪声功率时，就属这种情况。在被动制导问题中，系统中
+的确定性输入项b是导弹的加速度项，它的功率远大于系统中的噪声项w的功
+率。另外，系统的动态模型(1)式是线性的，当初值较准确时，容易求得它的
+精确解。基于以上两个原因，在被动制导中应用MEKF必然可得高精度的状态
+估计值。为了证明这一点，我们把EKF和MEKF同时应用于被动制导问题，进
+行仿真研究。
+
+    仿真时，系统初始状态为x0=3500m,y0=1500m，z0=1000m，vx0=-1
+100m/s，vy0=-150m/s,vZ0=-50m/s,aTx0=aTy0=aTz0=0m/s2。EKF和MEKF初始误差
+的均值设定为零，初始方差阵P(0)=0，系统动态噪声强度ε1=1m/s2，测量噪
+声强度ε2=10-3。经过50次Monte-Carlo仿真所得到的滤波器估计误差的统计
+结果如图1—图3所示。图1中，在某一时刻t，相对距离估计误差利用公式
+
+
+求得，其中E［ex］代表x的估计误差的均值。同理可求得速度估计量的均方根
+型误差的统计结果E［ev］以及目标加速度估计量的均方根型误差的统计结果
+E［ea］。图1—3中的仿真结果表明，MEKF的估计精度明显高于EKF。
+
+
+图2 相对距离估计误差
+图3 相对速度估计误差
+图4 相标加速度估计误差
+6  结论
+
+    我们提出在导弹被动制导问题中采用改进的推广Kalman滤波器(MEKF)。
+为了提高系统的可观性，我们用一种双重指标来设计最优导引规律。仿真结
+果表明，MEKF的精度明显高于推广Kalman滤波器(EKF)。
+
+
+本文于1995年12月18日收到
+
+*本文得到国家教委博士点基金资助
+
+参考文献
+1  Balakrishnan S N.Extention to Modified Polar Coordinates and Application with 
+Passive Measurements.Journal of Guidance,Control,and Dynamics,1989,12(6):906-912
+2  Nardone S C,Aidala V J.Observability Criteria for Bearing-only Target Motion 
+Analysis.IEEE Transactions on Aerospace and Electronic Systems,1981,AES-17(2):162-166
+3  Hull D G,Speyer J L,Burris D B.Linear Quadratic Guidance Law for Dual Control of 
+Homing Missiles.Journal of Guidance,Control and Dynamics,1990,13(1):137-144
+4  Ahmed N U,Radaideh S M.Modified Extended Kalman Filtering.IEEE Transactions 
+on Automatic Control 1994,39(6):1322-1326
+5  Song T L,Speyer J L.A Stochastic Analysis of Modified Gain Extended Kalman Filter 
+with Applications to Estimation with Bearings Only Measutements.IEEE Transactions on 
+Automatic Control,1985,AC-30(10):940-949

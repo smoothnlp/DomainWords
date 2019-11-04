@@ -1,0 +1,81 @@
+航空材料学报
+JOURNAL OF AERONAUTICAL MATERIALS
+1999年　第19卷　第1期　Vol.19　No.1　1999
+
+
+
+低膨胀高温合金膨胀系数的物理表征
+林　政　张绍维　吴学仁　颜鸣皋
+摘要： 测定了低膨胀高温合金的膨胀系数和饱和磁化强度随温度变化的曲线，并将实验结果与普通的高温合金及低膨胀合金进行了比较。提高低膨胀高温合金的低膨胀特性及使用的最高温度，应通过各种手段使合金具有一定的饱和磁化强度，但并非越高越好，同时应尽量减缓其随温度升高而降低的速度，并提高合金的居里点温度。导致合金低膨胀的原因之一是在正常的热膨胀过程中叠加了磁性行为的变化，从而引起负膨胀。
+关键词： 低膨胀高温合金； 膨胀系数； 饱和磁化强度
+中图分类号： TG132.11　　文献标识码： A　　文章编号： 1005-5053(1999)01-0001-05
+Physical denotation of thermal expansion coefficient
+of low thermal expansion superalloys
+LIN Zheng　　ZHANG Shao-wei　　WU Xue-ren　　YAN Ming-gao
+(Institute of Aeronautical Materials， Beijing 100095， China)
+Abstract： The relationship between mean linear expansion coefficient and saturation magnetization of low thermal expansion superalloy with temperature was studied.Comparing the data gained in this experiment with those of conventional superalloy and low expansion alloy showed that in the proper scope of saturation magnetization the best result of the property of low expansion for the low expansion superalloy could be gained and such low expansion feature could be retained to the reasonable higher temperature;on the contrary,too high saturation magnetization was detrimental. We should pay much attention to raise Curie temperature and decrease the rate of lowering of the saturation magnetization.The results also showed that the one of the reasons of low expansion was that the change of the magnetic behavior overlapped on the normal expansion process;this behavior induced the negative expansion of superalloy.This investigation opened a new prospect and made a good foundation to the development of low expansion superalloy.
+Key words: low thermal expansion superalloys; coefficient of thermal expansion; saturate intensity of magnetization
+
+　　金属及合金的热膨胀是晶格点阵的非协调振动的结果。普通金属材料的体积是随温度的上升而几乎直线性地膨胀，其线膨胀系数α约为10～20×10-6/℃。科学家Guillaume［1］早年在研究36Ni-Fe合金时发现，其在常温附近具有非常小的热膨胀系数(α约为1.2×10-6/℃以下)。其后具有更低膨胀系数的各种合金相继被发现［2～4］。
+　　近年来，国外低膨胀系数的高温合金仍在向提高使用温度和强度方向发展，获得应用的有IN783合金。对于低膨胀高温合金，我国的研究及探索起步较晚。对于低膨胀高温合金膨胀系数之低机理性的探索，国内外未见报导。因此，本文试图通过测定低膨胀高温合金的膨胀系数与饱和磁化强度随温度变化的曲线，并将实验结果与普通的高温合金及低膨胀合金进行比较，用以探索低膨胀高温合金膨胀系数低与饱和磁化强度的关系，为今后低膨胀高温合金的发展提供理论基础。
+1　实验用料及方法
+　　为便于比较，本研究选择低膨胀高温合金GH903，GH909以及低膨胀的Fe-Ni合金和高温合金IN718，其合金成分如表1所示。GH903合金是由上钢五厂供料，经真空感应+真空自耗双联工艺冶炼的φ360mm钢锭，再经1140℃/1160℃×30h均匀化处理，然后在3t蒸气锤上锻造开坯再进行镦饼、冲孔、扩环等工序，加工成φ590mm×φ455mm×70mm环形件［5］；GH909合金是由北京冶金研究所真空冶炼的150kg锭子，北京航空材料研究院真空自耗，经1160℃/12h→1180℃/36h炉冷的均匀化工艺后供实验用料；低膨胀的Fe-Ni合金为钢铁研究总院提供的试验用料。
+表1　所选择合金的化学成分， wt%
+Table 1　Chemical composition of selected alloys， wt%
+
+　CSiNiCoCrAlTiNbFeBMnMo
+GH9090.0230.3437.6413.55＜0.13＜0.21.444.85Bal.0.0050.04-
+GH9030.0250.06538.1615.06-0.901.573.30Bal.0.0080.02-
+Fe-Ni0.006-49.79-----Bal.---
+IN7180.0350.1151.770.2418.410.551.075.02Bal.0.00380.082.99
+
+
+　　合金的线膨胀系数(CTE)由日本富士电波生产的Formastor-Digital仪，按线膨胀系数的测定方法［6］进行。材料的饱和磁化强度随温度变化的实验是在中国科学院物理研究所磁学国家重点实验室进行的。所用设备为日本岛津MB-2型的磁天平(Magnetic Balance T=77～1200K,H=0～10KOe，磁化率灵敏度Sensitivity x=10-7 emu)。
+2　实验结果与讨论
+　　测得的GH903和GH909以及低膨胀的Fe-Ni合金的线膨胀系数及饱和磁化强度随温度变化的曲线示于图1。
+
+图1　3种合金的线膨胀系数及饱和磁化强度随温度变化的曲线
+Fig.1　Variation of CTE and saturation magnetization
+of three alloys with temperature
+　Fe-Ni mean CTE；
+-　Fe-Ni saturation magnetization;
+△　GH903 mean CTE；
+…　GH903 saturation magnetization;
+□　GH909 mean CTE；
+---　GH909 saturation magnetization
+　　因过饱和磁化强度曲线二阶导数等于零的点作该曲线的切线与温度轴的交点即为材料的居里点温度，所以，由图1可知Fe-Ni合金的居里点温度约为510℃；GH903合金的居里点温度约为460℃；而GH909合金的居里点温度约为420℃。从线膨胀系数随温度变化曲线比较可以看出，其恰好也在居里点温度附近出现拐点，即在居里点温度之前由于足够的饱和磁化强度存在，材料呈现出低膨胀的特性；而在居里点温度之后饱和磁化强度减弱且随温度的升高进一步减弱直至消失，从而导致低膨胀特性减弱甚至消失，接近甚至达到普通高温合金的膨胀水平。
+　　测得的高温合金IN718线膨胀系数［7］及饱和磁化强度随温度变化的曲线示于图2。可以看出，饱和磁化强度随温度变化的曲线上不存在有二阶导数等于零的点，即不存在顺磁性与逆磁性相互转换的居里点温度。而且，与图1相比，IN718合金在室温下的磁饱和强度比GH903合金在600℃下的磁饱和强度还低。所以，如此低的磁饱和强度不足以对合金的线膨胀系数产生影响。因此，IN718合金不存在低膨胀的特性。
+
+图2　高温合金IN718的线膨胀系数及饱和磁强度随温度变化的曲线
+Fig.2　Variation of CTE and saturation magnetiza-tion 
+of IN718 alloy with temperature
+△　Mean CTE　　　　　　　
+-　Saturaion magnetization
+　　据文献资料报导［8］，对于出现反常热膨胀的现象一般从物质的磁性行为上去解释。对于因瓦合金，认为导致合金低膨胀的原因是在正常的热膨胀过程中叠加了磁性行为的变化，从而引起负膨胀的结果。这种磁性行为的变化到达居里点温度后，由于铁磁性物质转变为顺磁性，使其导致的负膨胀这个叠加因素随温度的升高而降低直至消失，这样就只有正常的热膨胀，膨胀系数增大到正常值。这就是说，在低温状态时，由于合金的磁性行为使晶体点阵常数增大了，即由于原子磁矩的作用使晶体点阵偏离平衡位置而导致点阵常数变大；当温度升高时，由于原子磁矩是随温度的升高而降低的，从而消弱了因原子磁矩而引起的扩张，使晶体点阵常数缩小。这个量是和晶体点阵常数因温度升高时的正常热膨胀同时发生，相互抵消，互相作用的，是一个相当复杂的作用过程。
+　　合金饱和磁化强度的大小间接地反映了原子磁矩的大小，即合金的饱和磁化强度越大则反映出其原子磁矩的作用越大。因此，由图1和图2进一步分析比较可以得出，本试验的结果与上述的解释是基本吻合的，即所测得的膨胀系数在居里点温度以下比较低，在居里点温度以上时膨胀系数则增大到正常值；合金的居里点温度越高则合金所具有的低膨胀特性能达到的最高温度越高。但是，并非饱和磁化强度越高则合金的膨胀系数越低，这一结果也在本试验中得以显示。进一步分析可以认为，原子磁矩的作用并非可无限制地使晶体点阵偏离平衡位置而导致点阵常数无限地变大，尤其是存在一极限值(或许可称之为门坎值)。超过这一极限值后，原子磁矩的作用不仅不能使膨胀系数降低，反而会使膨胀系数提高。这一结果也得到了本试验的验证，即在图2中显示出由于IN718合金即使在室温下也未能够达到原子磁矩的这一门坎值。所以，IN718合金不存在低膨胀的特性；而在图1中100℃温度下，虽然Fe-Ni合金和GH909合金的原子磁矩均超过了这一门坎值，并且Fe-Ni合金的饱和磁化强度高于GH909合金，但GH909合金的膨胀系数仍低于Fe-Ni合金。
+　　对上述实验结果的分析与比较说明，并非合金的饱和磁化强度越高越好，温度越高膨胀系数越低，关键是要使材料饱和磁化强度达到某一值(即上述的门坎值)之后，尽量减缓其随温度升高而降低的速度，延长其作用温度范围，从而提高低膨胀合金所能达到的最高温度。因此，要提高低膨胀高温合金的低膨胀特性及使用的最高温度，应通过各种办法来提高合金的居里点温度，使合金具有一定的饱和磁化强度而非越高越好，并使其随温度变化趋于缓慢，延长原子磁矩的作用温度范围。
+　　另据资料介绍［8］，Cr元素的添加对铁基合金、钴基合金以及镍基合金等均使平均原子磁矩降低。因此，对由铁基合金、钴基合金以及镍基合金等构成的低膨胀合金来说，Cr元素的添加将使膨胀系数提高，破坏低膨胀的特性。所以，在这类合金中Cr元素的添加是不利的。
+3　结　论
+　　(1)导致合金低膨胀的可能原因之一是在正常的热膨胀过程中叠加了磁性行为的变化，从而引起负膨胀的结果。
+　　(2)要提高低膨胀高温合金的低膨胀特性及使用的最高温度，应通过各种手段使合金具有一定的饱和磁化强度而非越高越好，并尽量减缓其随温度升高而降低的速度。
+　　(3)要提高低膨胀高温合金的低膨胀特性及使用的最高温度，应通过各种办法来提高合金的居里点温度。
+　　(4)对由铁基合金、钴基合金以及镍基合金等构成的低膨胀合金来说，Cr元素的添加将使膨胀系数提高，破坏低膨胀的特性。所以，在这类合金中Cr元素的添加是不利的。
+　　致谢　在本研究过程中，得到了北京航空材料研究院科技委周瑞发研究员的热心协助。实验工作得到了中国科学院物理研究所磁学国家重点实验室贾克昌高级工程师及北京钢铁研究总院合金钢研究部杨胜蓉高级工程师的大力协助。在此一并致谢。
+作者简介：林政(1961-)， 男， 博士 
+作者单位:北京航空材料研究院， 北京　100095
+参考文献：
+［1］　齐滕英夫，藤森启安.インバ问题につムて.日本金属学会会报，1968(7)：263～278
+［2］　增本　量.铁-ニツクル-コバルト系合金の热膨胀及びその微小なる热膨胀性の原因に就
+　　　　て.金属の研究，1931(8)：237～252
+［3］　Smith D F， Smith J S.A History of Controlled Low Thermal Expansion 
+　　　　Superalloys.In:Russell K C,Smith D F,ed. Physical Metallurgy of Controlled 
+　　　　Expansion Invar-Type Alloys. The Minerals,Metals Materials Society,1990.273
+［4］　Sato K， Ohno T.Development of Low Thermal Expansion Superalloys.Journal of 
+　　　　Materials Engineering and Performance,1993,2(4):511～516
+［5］　郑汉平.GH903合金全面性能研究.航空材料学报，1992增刊，11～23
+［6］　合金钢手册：上册第三分册. 北京： 冶金工业出版社，1992.48～51
+［7］　中国航空材料手册：变形高温合金分册.北京：中国标准出版社，1989
+［8］　王润.金属材料物理性能.北京：冶金工业出版社，1993
+
+
+收稿日期： 1998-12-02

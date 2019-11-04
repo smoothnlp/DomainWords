@@ -1,0 +1,32 @@
+上海航天
+AEROSPACE SHANGHAI
+2001 Vol.18 No.2 P.61-68
+
+
+
+
+卫星电磁兼容性设计技术
+宋明龙　 魏致坤　 
+摘　要：根据卫星上电子元器件多的特点，对气象卫星的电磁兼容性问题进行了研究，着重对卫星接地、搭接、电磁屏蔽和电缆布线束的设计进行了分析。针对上述技术进行了讨论，提出了实施要求。经卫星在轨飞行验证，对FY-1C所进行的电磁兼容性设计是正确的。
+关键词：电磁兼容性；电磁环境；电子设备；接地；屏蔽
+分类号：V474.2　文献标识码：A
+文章编号：1006－1630(2001)02－0061－08
+EMC Design Technology of Satellit
+SONG Ming-long（No.509 Institute of SAST, Shanghai 200240, China）　
+WEI Zhi-kun（No.509 Institute of SAST, Shanghai 200240, China）　
+
+Abstract：The Electromagnetic Compatibility(EMC)of meteorological satellite is s tudied and the satellite grounding and contacting, shielding and the design of c able lines are analyzed emphatically. The in-orbit flight shows that the EMC de sign for FY-1C is correct.
+Keywords：Electromagnetic compatibility; Electromagnetic environment; Electroni c device; Grounding; Shielding
+作者简介：宋明龙(1940-)，男，研究员，上海市宇航学会会员，研究领域：卫星总体。 
+作者单位：宋明龙（上海航天技术研究院509所，上海 200240）　
+　　　　　魏致坤（上海航天技术研究院509所，上海 200240）　
+
+参考文献：
+［1］GJB 1210-91,接地、搭接和屏蔽设计的实施[S].
+［2］GJB 72-85,电磁干扰和电磁兼容性设计名词术语[S].
+［3］MIL-STD-1587,接地、搭接和屏蔽设计的应用[S].
+［4］吕仁清,蒋全兴.电磁兼容性结构设计[M] .南京：东南大学出版社,1990.
+
+收稿日期：2000年9月29日
+修稿日期：2001年1月5日
+出版日期：2001年4月25日

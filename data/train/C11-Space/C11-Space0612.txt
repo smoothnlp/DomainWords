@@ -1,0 +1,35 @@
+上海航天
+AEROSPACE SHANGHAI
+2001 Vol.18 No.3 P.53-56
+
+
+
+
+基于磁场映像的印制电路板故障诊断方法研究
+毛端海　 刘光斌　 刘伟　 
+摘　要：简要分析了印制电路板的电磁场。提出了用电磁感应法测量磁场的电路故障诊断新方法，并给出了测试系统组成方案。最后通过验证实验证明了该方法是确实可行的。
+关键词：故障诊断；磁场映像；无接触测试；无损检验
+分类号：TM133　文献标识码：A
+文章编号：1006-1630(2001)03-0053-04
+Approach Study of PCB Fault Diagnosis Based on Magnetic Image 
+MAO Duan-hai（Xi'an Second Artillery Engineering College, Xi'an Shaanxi 710025, China）　
+LIU Guang-bin（Xi'an Second Artillery Engineering College, Xi'an Shaanxi 710025, China）　
+LIU Wei（Xi'an Second Artillery Engineering College, Xi'an Shaanxi 710025, China）　
+
+Abstract：Through the analysis of PCB's electromagnetic field, a new circuit fault diagnosis method on magnetic field measurement by means of electromagnetic induction is presented in this paper, and a constitute project of the test system is given. The verification experiment proves that this method is really feasible.
+Keywords：Fault diagnosis；Magnetic image；Non-contact testing; Nondestructive testing
+
+作者简介：毛端海（1968-），男，讲师，研究领域：电气测量、电磁兼容性设计；刘光斌（1963-），男，教授，研究领域：制导与控制、电磁兼容、智能仪器；刘伟（1975-），男，硕士生，研究领域：电磁兼容、图像通信。 
+作者单位：毛端海（西安第二炮兵工程学院，陕西西安 710025）　
+　　　　　刘光斌（西安第二炮兵工程学院，陕西西安 710025）　
+　　　　　刘伟（西安第二炮兵工程学院，陕西西安 710025）　
+
+参考文献：
+［1］Bradley J R, Nestor G S,John P W. Using a magnetic magnetometer to image a two-dimensional current distribution[J].J.Appl.Phys.,1988,65(1).
+［2］Hugh F S. Printed circuit board diagnosis using artificial neural networks and circuit magnetic fields[J].IEEE,1993.
+［3］陈国瑞. 工程电磁场与电磁波[M]. 西安：西北工业大学出版社,1998.
+［4］毛振珑. 磁场测量[M]. 北京：原子能出版社,1985.
+［5］毛端海. 基于电磁检测的电路故障诊断方法研究[D]. 第二炮兵工程学院,2000.
+
+收稿日期：2000年1月17日
+出版日期：2001年3月1日

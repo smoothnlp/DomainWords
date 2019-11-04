@@ -1,0 +1,94 @@
+宇航学报
+JOURNAL OF ASTRONAUTICS
+1999年 第2期　No.2 1999
+
+
+
+GPCM控制气动伺服系统的理论分析与实验研究
+王宣银　岳继光　王旭永　刘庆和
+　　摘　要　广义脉冲编码调制(GPCM)控制是针对脉冲编码调制(PCM)控制气动系统中控制精度与控制范围、稳定性与快速性之间的矛盾而提出的。本文建立了GPCM控制气动伺服系统的数学模型,并进行了详细的仿真和实验研究,结果证明了该方法的有效性。
+　　主题词　GPCM控制　PCM控制　气动伺服系统
+THE THEORETICAL ANALYSIS AND EXPERIMENTAL 
+RESEARCH ON THE PNEUMATIC SERVO SYSTEM 
+WITH GENERALIZED PULSE CODE MODULATION
+Wang Xuanyin Yue Jiguang
+(The State Key Laboratory for Fluid Power Transmission and Control,
+Zhejiang University.Hangzhou.310027)
+Wang Xuyong
+(Shanghai Jiao Tong University.Shanghai.200030)
+Liu Qinghe
+(Harbin Institute of Technology.Harbin.150001)
+　　Abstract　Be aimed at the contradictions between accuracy and control range and between stability and fastness in pulse code modulation (PCM) pneumatic system,a generalized pulse code modulation(GPCM) is proposed.This paper builds the mathematic model of the GPCM,and does simulation and experiment in datail.The results prove its effectiveness. 
+　　Key words　GPCM control PCM control Pneumatic servo system
+1　引　言
+　　气动PCM控制是八十年末出现的一种新的气动伺服控制方式,它用廉价的普通开关阀作电-气转换元件来获得较好的伺服控制性能。它的显著优点是寿命长,价格低,能直接与数字电路接口实现计算机控制,而且对环境要求很低;它的缺点是PCM方式自身所固有的离散性。图1是PCM阀的静态流量特性,它的工作原理是用数字信号来控制多个开关阀,开关阀的面积调节为［1-3］
+　　　　　　S0∶S1∶S2∶…∶Sn=20∶21∶22∶…∶2n　　　　　　　　　　(1)
+
+图1　PCM阀的静态特性
+2　GPCM控制原理
+　　从PCM阀的流量特性可知,PCM阀的有效截面积与控制码的比值等于最小有效截面积,而系统的快速性又决定于最大有效截面积,进一步分析可知最小有效截面积影响系统的稳定性,当S0大到一定值时,系统会出现振荡、不稳定。最大有效截面积和最小有效截面积之差决定了系统的控制范围。因此,对于PCM控制来说,控制精度与控制范围、稳定性与快速性是矛盾的。GPCM控制较好地解决了上述问题,它的基本原理是改变PCM那种固定的编码方式。低位阀之间的截面积关系按二进制来调节,高位阀之间的截面积则按其它关系来调节,即采用GPCM阀。本文采用7个开关阀组成GPCM阀,标定原则是前5个阀按二进制编码,后2个阀按四进制和八进制编码,即
+　　　　　　S0∶S1∶S2∶S3∶S4∶S5∶S6=20∶21∶22∶23∶24∶26∶29　　　　　　(2)
+显然,
+　　　　　　　　　　　　Smin=S0　　　　　　　　　　　　(3)
+　　　　　　　　　　　　Smax=607S0　　　　　　　　　　 (4)
+而9个开关阀组成的PCM阀的最大截面积
+　　　　　　　　　　　　Smax=511S0　　　　　　　　　　　(5)
+　　可见,GPCM控制大大拓宽了系统的控制范围。实际调定S0和Smax时可兼顾考虑控制精度与控制范围、稳定性与快速性,使四者都得到改善。图2是GPCM阀的静态特性。从图2可发现GPCM阀流量的增益变化会引起较大的流量波动,这对系统的稳定性会产生影响。文献［4］详细地分析了双阀变增益电液伺服系统的稳定性,认为伺服阀非线性变增益对加速度环的影响最为严重和直接,但加速度环不会因为给伺服阀设置非线性增益而出现不稳定,即不会产生极限环,合适的双阀变增益比可保证系统稳定,从这可知,选择合适的GPCM阀增益能保证系统的稳定性。
+
+图2　GPCM阀的静态特性
+3　GPCM控制气动系统数学模型
+　　气压驱动回路如图3所示,可简化成图4所示的抽象模型。
+
+图3　GPCM控制气压驱动回路
+ 
+图4　系统的抽象数学模型
+　　根据热力学定律可推得气缸两腔的压力微分方程:
+　　　　　　　　　　　　　　　　　　(6)
+　　　　　　　　　　　　　　　(7)
+根据牛顿第二定律得:
+　　　　　　　　　　　　(8)
+　　方程(6)、(7)、(8)为描述气动位置系统的非线性数学模型。由于阀控缸系统的实质是用阀控制进入或排出气缸两腔的气体质量,调节两腔压力,从而控制气缸的位置。因此,上述非线性数学模型中,qmi(i=1,2)直接影响系统的特性。经过分析,针对本文采用的气动回路和GPCM控制,可用下述公式来计算流量qmi,
+　　当u(k)≥0,且|e|＞es时
+　　　　qm1=　　　(9)
+　　　　qm2=qm3-qmc　　　　　　　　　　　　　　　　　　　　　　　　　　　(10)
+　　　　qm3=　　　(11)
+　　　　　　 (12)
+当u(k)＜0,且|e|＞es时
+　　　　qm1=qm3-qmc　　　　　　　　　　　　　　　　　　　　　　　　　　　(13)
+　　　　　　(14)
+　　　　　　 (15)
+　　　　　　(16)
+当|e|＜es时
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　(17)
+　　　　　　Sc=S0f(u)　　　　　　　　　　　　　　　　　　　　　　(18)
+　　　　　　　　　　　　(19)
+　　式中,e:偏差信号,e=yr-y,m;es:定位精度,m;yr:目标位移,m;y实际位移,m;S1:气缸左腔进气时的综合有效面积,mm2;S2:气缸右腔进气时的综合有效面积;mm2;S3背压气源进气时的综合有效面积,mm2;Sc:PCM阀的有效面积,mm2;S0:PCM阀的最小有效面积,mm2;l:活塞最大行程,m;A1、A2:活塞两腔作用面积,m2;Ps1、Ps2、Ps3:气源压力,N/m2;P1、P2:气缸两腔工作压力,N/m2;Pa:大气压,Pa=1.034.105N/m2。以上非线性方程组为GPCM控制气动位置系统的数学模型。控制信号按下式求得:
+　　　　　　　　(20)
+　　为了防止饱和,采取限幅措施如下:
+　　　　　　　　　　　　　　　　(21)
+4　仿真分析
+　　非线性微分方程组的数值解法很多,而最常见的是龙格-库塔(Runge-Kutta)法,这里采用变步长四阶龙格-库塔法。系统仿真参数如下:
+　　　　A1=1.257.10-3m2　　　A2=1.056.10-3m2　　　l=0.2m
+　　　　r=1.4　　　　　　　　b=60N.s/m　　　　　 R=287J/kg.K
+　　　　T=298K　　　　　　 　M=50Kg　　　　　　　S1=3mm2
+　　　　S2=3mm2　　　　　　　S3=3mm2　　　　　　　S0=0.005mm2
+　　　　es=10-7m　　　　　　 Fd=9.8N　　　　　　　Fj=12N
+　　　　Ps1=0.485MPa　　　　 Ps2=0.569MPa　　　　 Ps3=0.315MPa
+　　图5是PCM和GPCM控制阶跃响应仿真曲线。从图中可以看出,当S0不变时,GPCM明显地提高了系统的快速性,这一点在正弦响应中表现得更为突出。图6是PCM和GPCM控制正弦响应仿真曲线。
+　　　
+图5　PCM和GPCM控制阶跃响应仿真曲线　　　图6　PCM和GPCM控制正弦响应仿真曲线
+5　实验研究
+　　图7是PCM控制阶跃响应实验曲线,从图可以看出,系统的过渡时间较长。此外由于最小阀的有效截面积S0调得较大,气缸在定位过程中出现了爬行,这大大影响了系统性能。图8是PCM控制正弦响应实验曲线,从图看出,系统跟踪正弦的能力较差,显然这是由于PCM阀的流量不够,但如果再增大S0,系统的快速性会有所提高,跟踪性能会得到改善,但系统的超调大大增加,甚至出现振荡、不稳定的结果。
+　　　
+图7　PCM控制阶跃响应实验曲线　　　　　图8　PCM控制正弦响应实验曲线
+　　图9是GPCM控制阶跃响应实验曲线,对照图7可知,系统的超调和过渡时间都大大减少。图10是系统跟踪正弦信号的实验曲线,对照图10和图8可知,系统的跟踪性能大为改善。
+　　
+　图9　GPCM控制阶跃响应实验曲线　　　　图10　GPCM控制正弦响应实验曲线
+　　作者单位：王宣银　岳继光(浙江大学流体传动及控制国家重点实验室.杭州.310027)；王旭永(上海交通大学.上海.200030)；刘庆和(哈尔滨工业大学.哈尔滨.150001)
+参考文献
+　1　Hirohisa Tanaka.Electr-Hydrulic PCM Control.The Journal of Fluid Control,1988,17(2):34-46
+　2　宁舒.气动位移系统的计算机“PCM”控制初探.液压与气动,1991,(1):18-23
+　3　Ning Shu et al. Computer “PCM” and Learning Control for Positioning of Pneumatic Cylinder.Proc.of the Second JHPS International Symposium on Fluid Power,Tokyo,1993:583-588
+　4　王旭永.三轴转台外框电液位置伺服系统低速运动的研究.哈尔滨工业大学,博士论文,1993
+　　本文为博士后科学基金和浙江大学流体传动及控制国家重点实验室开放基金资助
+收稿日期:1996年4月10日,修回日期:1998年10月22日

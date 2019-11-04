@@ -1,0 +1,200 @@
+宇 航 学 报
+JOURNAL OF ASTRONAUTICS
+1998年4月  第19卷  第2期科技期刊
+
+
+钛合金表面等离子喷涂ZrO２-NiCoCrAIY
+梯度涂层的抗热震行为
+向兴华 全成军 朱景川 尹钟大
+(哈尔滨工业大学材料科学与工程学院*哈尔滨*150001)
+来忠红
+(哈尔滨工业大学分析测试中心*哈尔滨*150001)
+摘  要  ZrO２-梯度涂层的成分沿厚度方向呈连续梯度化分布，
+提高了涂层与基体的粘结强度和涂层的内聚强度，其抗热震性能优于双层
+涂层。在较大热冲击应力作用下，梯度涂层整体自基体表面剥落而失效；
+在较小热冲击应力作用下，由于NiCoCrAIY底层与TC4合金基体发生了热相
+互作用，改善了涂层与基体的结合状况，梯度涂层纵向断裂并部分自基体
+表面剥落而失效。
+
+主题词  等离子喷涂  热障涂层  抗热震性能   ZrO２陶瓷  Ni基合金
+
+　
+THERMAL SHOCK BEHAVIOUR OF PLASMA
+SPRAYED ZrO2-NiCoCrAIY GRADED
+COATING ON Ti-6AL-4V SUBSTRATE
+Xiang Xinghua Quan Chengjun Zhu Jingchuan 
+Yin Zhongda
+(School of Materials Science and Engineering,Harbin Insti
+tute of Technology*Harbin*150001)
+Lai Zhonghong
+(Center of Analysis and Test,Harbin Institute of Technology
+*Harbin*150001)
+Abstract  Since the components in ZrO２-NiCoCrAlY graded coating distribute gradually 
+along the direction of thickness,the adherent strength of coating and the coherent strength 
+between coating and substrate are improved,and the thermal shock property of the graded 
+coating is superior to that of the duplex coating.Under the condition of greater thermal 
+shock stress,the coating spalls integrally from the surface of Ti-6Al-4V substrate;Under 
+the condition of weaker thermal shock stress,the coating fractures and spalls partly from 
+the surface of the substrate.
+
+Key words  Plasma spraying  Thermal barrier coatings Thermal shock property  
+ZrO２ ceramics  Ni-base alloy
+
+1  引言
+
+    等离子喷涂陶瓷-金属梯度涂层是应航空、航天、兵器等高技术迅速发展
+的需要于近年来开发出来的一种新型热障涂层，其成分(或组元)沿厚度方向呈
+梯度化分布，能够充分缓和因温度梯度形成的热应力［１－４］。考察梯度涂
+层的抗热震性能，研究其热震失效机理，对于优化梯度涂层的成分分布，开
+发涂层的后处理新工艺，进一步提高涂层的抗热震性能、延长其使用寿命和
+扩大其应用范围具有重要意义。本文通过热循环试验探讨了钛合金表面等离子
+喷涂ZrO２-NiCoCrAIY梯度涂层的抗热震行为。
+
+    
+2  实验方法
+
+　　本文采用大气等离子喷涂法在5mm厚TC4(Ti-6Al-4V)基体表面制备了两
+种成分分布方式的热障涂层，分别称之为双层涂层(记为DC)和梯度涂层(记为
+GC)，如表1所示。涂层总厚度为1.4mm左右，其中每一层的实际厚度与设计厚
+度的误差控制在0.015mm之内。DC试样与GC试样的厚度一致，目的是在相同试
+验条件下具有可比性。
+
+    
+
+表1 等离子喷涂热障涂层的组成分布设计
+涂层结构底层第二层第三层第四层第五层表面层
+成份含量(vol%)100%N20%Z+N40%Z+N60%Z+N80%Z+N100%Z
+厚度
+(mm)GC0.20.20.20.20.20.4
+DC0.6----0.8
+
+
+
+图1 拉伸强度测试方法示意图
+(a)粘结强度；(b)内聚强度
+1-拉伸偶；2-涂层；3-基体
+将涂层侧面磨光制备金相试样，采用光学显微镜观察梯度涂层的组织分布状
+况。在Instron-1186电子万能试验机对两类涂层进行拉伸试验(试验方法如图1
+所示)，测定涂层与基体的粘结强度(图1a)和涂层的内聚强度(图1b)。试样
+直径为φ17mm，试样与拉伸偶之间用环氧树脂胶结。采用试样整体加热、
+淬水冷却的热循环方式进行热震试验，考察梯度涂层与双层涂层在不同受热
+温度条件下的热震行为。将试样分别于700°C、900°C、1000°C、1100°C和
+1200°C保温20min后取出淬水，如此反复循环直至涂层剥落或破坏，记录热循
+环次数。涂层试样尺寸为15×8×6.4ｍｍ３，采用扫描电镜(SEM)和能谱仪(ED)
+研究涂层的热震失效特征。
+
+3  结果与分析
+3.1  梯度涂层的宏观组织特征
+
+图2为梯度涂层的宏观金相组织照片。图中左部为TC4基体，涂层中呈白色
+的组织为NiCoCrAlY，呈灰色的组织是ZrO２。从基体至涂层表面，沿涂层
+厚度方向，ZrO２的含量逐渐增多，NiCoCrAlY的含量则逐渐减少，表现出
+组元成分的连续梯度化分布。而双层涂层中因陶瓷表面层与金属底层直接结
+合，致使在涂层中存在着成分的突变和由此形成的宏观界面，如图3所示。由
+此可见，成分梯度化分布将涂层间的宏观结合方式转化成了喷涂粒子间的微
+观结合方式，并且其微观结合界面弥散分布于各成分区域之中，从根本上消
+除了涂层中的成分跃变现象和由此造成的宏观结合界面。
+
+
+图2 ZrO２-ＮｉＣｏＣｒＡｌＹ梯度涂层的截面金组织照片
+图3 ZrO２-ＮｉＣｏＣｒＡｌＹ双层涂层的金相组织照片
+图4 两种热障涂层的拉伸试验结果
+3.2  梯度涂层的结合强度
+
+　　涂层的结合强度包括涂层与基体的结合强度(即粘结强度，记作CS)和涂层
+层间结合强度(即内聚强度，记作AS)，采用拉伸试验对涂层的两种结合强度进
+行了评价，如图4所示。由图可见，梯度涂层的两种结合强度均高于双层涂层
+的强度。内聚强度取决于层间粒子的结合强度，粘结强度取决于NiCoCrAl
+Y粒子与TC4基体的结合状况，并都受到涂层中残余应力的影响。成分梯度化
+分布消除了涂层中的宏观层间界面，和由此造成的物理性质突变，因此改善
+了层间粒子结合状况，缓和了涂层中的制备应力，使涂层的结合强度得以提
+高。
+
+　　两种涂层的内聚强度值均大于粘结强度值，并且测定粘结强度时，在外
+加拉应力的作用下，两种涂层的拉伸断裂位置均处于涂层与基体的结合界面，
+涂层与基体发生机械分离，这说明NiCoCrAlY底层与钛合金基体的结合界
+面是整个涂层-基体体系中的最薄弱之处。
+
+3.3  梯度涂层的抗热震行为
+
+　　图5为两类热障涂层的抗热震循环试验结果。由图可见，梯度涂层的抗热
+震温度高于双层涂层，即双层涂层在1100°C、1次循环后失效，而梯度涂层在
+1200°C、1次循环后方才失效；在相同热震试验温度下，梯度涂层的抗热震循
+环次数明显多于双层涂层，并且随试验温度的降低，梯度涂层的抗热震循环
+次数更显著的增多，尤其在900°C试验时，梯度涂层经历了近55次热循环后方
+才失效，而双层涂层仅仅经受了大约10次热循环即失效。由此可见，梯度涂
+层的抗热震性能优于双层涂层。
+
+　　涂层的抗热震性能取决于涂层中热应力的大小和涂层的结合强度［８］。
+在热震试验条件下，由于ZrO２、ＮｉＣｏＣｒＡｌＹ和TC4基体的热膨胀系
+数不相同，导致在涂层的各部分内部形成热应力，并在结合界面上形成应力
+集中。梯度涂层的成分呈梯度化分布，克服了陶瓷表面层与金属底层间的物
+理性质突变现象，缓和了涂层中的热应力及界面应力集中，因此其抗热震性
+能得以显著提高［５］。
+
+    
+
+图5 两种热障涂层的热震试验结果
+
+另外，由图5还可看出，两类涂层的热循
+环次数随着试验温度的变化趋势不同，随着试验温度的升高，双层涂层的循
+环次数基本上呈线性降低，而梯度涂层的循环次数则呈非线性变化。这种变
+化趋势可能与涂层的热震失效方式随温度的变化有关。在900-1100°C的
+试验温度范围内，双层涂层的失效方式未发生变化，均表现为涂层整体自基
+体表面剥落，断面较为平整，表明涂层与基体为机械分离。梯度涂层的失效
+方式则随试验温度的改变而变化，在1100°C和1200°C试验时，梯度涂层
+整体自基体表面剥落，剥离面平整，表现为涂层与基体的机械式分离；在10
+00°C试验时，梯度涂层也自基体表面剥落，但其剥离面凹凸不平，表现为
+部分区域发生涂层与基体机械分离，而另一部分区域则以撕裂基体表面层的
+方式发生剥离；在900°C试验时，其失效方式发生了较大的改变，表现为涂
+层的纵向断裂和一部分涂层自基体表面剥落，如图6所示。梯度涂层的失效方
+式随试验温度的改变而发生变化的现象反映出涂层在经受不同程度的热冲击
+应力的作用时，其失效行为有所不同。
+
+
+图6 梯度涂层试样于900°C试验时的热震失效形貌
+
+图7 经900°C，25次热循环后梯度涂层与
+基体结合区域的截面SEM形貌
+
+梯度涂层在900°C热震试验时，其抗热震循环次数显著增多与在涂层与基体
+结合界面形成了元素富集区有关。图7为经900°C、25次热循环后涂层与基
+体结合区截面的SEM形貌。由图可见，经高温反复多次热循环后，在NiCoC
+rAlY底层与TC4基体结合区形成了既不同于涂层组织，也不同于基体组织的
+新相区，采用能谱仪对该区域的合金元素含量进行测定，其结果为(at%):N
+i:48.6%，Ti:27.4%，Al:10.1%，Cr：8.2%，Co：0.9%，Y：0.35%，
+V：0.4%，杂质(Fe,Si等)：其余。可见该区域富含元素Ni、Ti和Al等，这
+表明梯度涂层经900°C长时间热循环后，NiCoCrAlY底层与TC4合金基体
+发生了热相互作用。这种热的相互作用改善了涂层与基体的结合状况，提高
+了涂层与基体的结合强度，从而提高了涂层的抗热震性能。
+
+    
+4  结论
+
+　(1)ZrO２-ＮｉＣｏＣｒＡｌＹ梯度涂层的成分呈连续梯度化分布，消除了
+双层涂层中的成分跃变现象和由此造成的宏观结合界面，提高了涂层与基体
+的粘结强度和涂层的内聚强度，其抗热震性能优于双层涂层。
+　(2)ZrO２-ＮｉＣｏＣｒＡｌＹ梯度涂层的热震失效方式随试验温度的改变
+而有所变化。在较大热冲击应力作用下，涂层整体自基体表面剥落而失效；
+在较小热冲击应力下，由于ＮｉＣｏＣｒＡｌＹ底层与TC4合金基体发生了
+热相互作用，改善了涂层与基体的结合状况，涂层纵向断裂并部分自基体表
+面剥落而失效。
+
+本文于1996年12月2日收到
+参考文献
+1  Masanobu Taki,Yoshiaki Fujisawa,Yasushi Sofue,Toyoaki Yoshida.A fundamental 
+study on the application of FGM to high-temperature rotating members.in:M.Yamanouchi,
+M.kaoizumi,T.Hirai and I.Shiota ed.Proc.of the first Inter.Symp.on FGM,Sendai,Japan,
+1990:353-358
+2  K Kokini,Y Takeuchi.Mulitilayer ceramic thermal barrier coatings under transient 
+thermal loads.in:M.Yamanouchi,M.kaoizumi,T.Hirai and I.Shiota ed.Proc.of the first 
+Inter.Symp.on FGM,Sendai,Japan,1990:31-36
+3  M I Mendelson,T N Mckechnie.Functionally gradient thermal barrier coatings:design.
+Ceramic Transactions(Functionally Gradient Materials),J.Birch Holt,Mitsus Koizumi,
+Toshio Hirai,Zuhair A.Munir ed.the American Ceramic Society,Westerville,Ohio,USA,
+1995;(34)417-424
+4  H D Steffens,Z Babiak,U Fischer.Influence of residual and thermal stresses on the 
+thermal shock resistance of ZrO２-7Ｙ２Ｏ３ thermal barrier coatings.Surface Engineering,
+1987,(7):471-482
+5  M Fukumoto,刘世永译.涂层结构和热处理对等离子喷涂陶瓷涂层耐热冲击
+性能的影响.表面工程，上海：上海交通大学出版社，1988：139-143

@@ -1,0 +1,30 @@
+上海航天
+AEROSPACE SHANGHAI
+2001 Vol.18 No.3 P.1-4
+
+
+
+
+星载合成孔径雷达回波多普勒频率的计算
+袁孝康　 
+摘　要：从星载合成孔径雷达(SAR)与目标的相对运动关系出发，以SAR发射信号的波长、卫星的轨道参数和目标的位置(地心经纬度)为已知条件，导出了计算目标回波的多普勒频率的解析公式，这对于星载SAR系统的性能分析和初步设计具有重要作用。
+关键词：合成孔径雷达；星载合成孔径雷达；回波多普勒频率计算；多普勒效应
+分类号：TN958.2　文献标识码：A
+文章编号：1006-1630(2001)03-0001-04
+Calculation of Echo Doppler Frequency for Satellite-Borne SAR 
+YUAN Xiao-kang（No.509 Institute of SAST,Shanghai 200240,China）　
+
+Abstract：In this paper,the formula for calulating echo Doppler frequency of satellite-borne synthetic aperture radar (SAR) is derived in detail.In the formula,the target position (the longitude and latitude) are considered as a known condition .The formula is significative for analysis of performance and preliminary design for satellite-borne SAR.
+Keywords：Synthetic aperture Radar (SAR);Satellite-borne SAR;Calculation of Echo Doppler frequency;Doppler effect
+
+作者简介：袁孝康（1939-），男，研究员，上海市宇航学会会员，研究领域：空间电子学。 
+作者单位：袁孝康（上海航天技术研究院509所，上海 200240）　
+
+参考文献：
+［1］Li F K,Held D N,Curlander J.Doppler parameter estimation for spaceborne synthetic radar[J].IEEE Transactian an Geoscience and Remote Sensing.1985;GE-23(1):47-55.
+［2］QJ1028-86 航天产品常用坐标系规范 [S].
+［3］QJ1667-89 卫星位置预报简易计算方法 [S].
+［4］QJ1437-88 计算卫星运行轨道的数学模型直角坐标方程 [S].文章编号：1006-1630（2001）03-0019-03
+
+收稿日期：2000年8月31日
+出版日期：2001年3月1日

@@ -1,0 +1,130 @@
+环境科学学报
+ACTA SCIENTIAE CIRCUMSTANTIAE
+1999年　第19卷　第4期　Vol.19　No.4　1999
+
+
+
+含湿Ca(OH)2颗粒脱硫反应特性的模型研究
+高　翔　骆仲泱　陈亚非　周劲松　李绚天　倪明江　岑可法
+摘要　在半干法脱硫装置中脱硫反应主要表现为含湿Ca(OH)2颗粒与SO2的反应.在液相反应溶解和传质理论基础上，通过对含湿Ca(OH)2颗粒内反应机理的研究分析提出了含湿Ca(OH)2的脱硫反应模型.通过分析和计算可发现，含湿Ca(OH)2颗粒由于液相的存在使反应特性与干燥Ca(OH)2颗粒相比发生明显变化.反应速率随含湿量的提高而增加，含湿颗粒的粒径减少和钙转化率提高均会使反应速率下降，当温度低于某一临界温度Tcr时，温度升高反应速率增加，当温度超出某临界温度Tcr时，反应速率随温升而下降.
+关键词　含湿Ca(OH)2颗粒；脱硫反应；模型.
+Modeling the reactivity of aqueous Ca(OH)2 particle
+GAO Xiang,LUO Zhongyang,CHEN Yafei,ZHOU Jinsong,LI Xuantian,NI Mingjiang,CEN Kefa 
+(Institute for Thermal Power Engineering,Zhejiang University,Hangzhou 310027) 
+Abstract　The reaction between aqueous Ca(OH)2 particle and SO2 is the mainly sulfation reaction in semi-dry FGD system.Based on reaction,dissolution and mass transfer theory and by the way of reaction mechanism analysis.A desulphurization model of aqueous Ca(OH)2 particle is proposed.It can be found that the sulfation reaction mechanism of aqueous Ca(OH)2 particle is obviously different from dry Ca(OH)2 particle,and the reaction rate increased with water content in aqueous sorbent and decreased with particle size and conversion ratio.The temperature effect on reaction rate of aqueous sorbent is relatively complex and there is a critical temperature point in the related curve.Below this point,the reaction rate increased with temperature increasing,while alove the point,the reaction rate decreased with the temperature increasing.The results supply the optimum parameters for semi－dry FGD system designed.
+Keywords　aqueous Ca(OH)2 particle,desulphurization reaction,model.
+　　
+1　前言
+　　随着经济的发展导致了能源生产和消费量的增长，由此造成了相当严重的SO2等气态污染物的污染问题.烟气脱硫是一项有效控制SO2污染的技术.在众多烟气脱硫技术中，喷钙增湿、喷雾干燥等半干法脱硫装置以其系统简单，投资费用低、脱硫效率较高和无二次污染等性能得到越来越多的重视和发展.
+　　在现有的半干法脱硫装置中脱硫反应主要表现为含湿Ca(OH)2颗粒和SO2的反应.目前，已有研究者对其反应特性进行实验研究［1］.然而由于反应涉及到的传质扩散和反应机理的复杂性，至今有关反应理论模型方面的研究还较少见有报道.本文在对于含湿Ca(OH)2颗粒内部SO2、HSO3-、SO32-、Ca2+等成份传质、扩散和反应机理分析的基础上提出了单颗含湿Ca(OH)2的脱硫反应模型.模型通过计算，研究了颗粒含湿量、温度、粒度和Ca(OH)2转化率等因素对含湿Ca(OH)2颗粒的脱硫反应特性的影响.计算和实验结果取得了较好的一致.本文为半干法脱硫装置的深入研究和完善优化提供了理论基础.
+
+2　脱硫反应机理分析
+　　相对于干燥CaO和Ca(OH)2吸收剂脱硫反应而言，含湿Ca(OH)2颗粒由于水分存在使其反应机制发生了一定的变化.首先，颗粒表面的水分通过吸收溶解SO2，形成的新反应成份HSO3-、SO32-有利于反应的进行；其次水分在颗粒内部的渗透在Ca(OH)2颗粒间形成液膜，使气体分子在孔隙和产物层内扩散转变为液相中的离子扩散.含湿Ca(OH)2颗粒的硫盐化反应式一般形式可写成：
+
+(1)
+但是实际上含湿吸收剂颗粒的硫盐化反应过程将分成以下5个步骤［2，3］：反应物SO2从主流体向颗粒表面的外部气相传质；颗粒表面对SO2的吸收溶解；形成HSO-3和SO2-3离子；硫份在液相中扩散；Ca(OH)2颗粒在液相中溶解；钙与硫的液相反应.
+　　对于上述5个反应步骤，我们要建立一个通用的反应模型，全部给予描述是很困难的.只能对于反应的主要控制步骤建立模型进行研究，一些研究者［4，5］发现液相反应比传质扩散快得多.早期的研究者们认为控制浆状含湿颗粒硫盐化反应的步骤只有一个，即SO2的水合反应.由此Jo'zewiez和Rochelle(1984)建立了一维的浆状液滴硫盐化模型［1］.在以后更多的研究中发现，Ca(OH)2的溶解扩散速率也是反应的制约因素.Karlson和Klingspor(1987)发展了两个一维模型，分别成功地模拟了含湿Ca(OH)2颗粒在同时考虑SO2和Ca(OH)2溶解扩散控制时的硫盐化反应［6］.总之，从前人研究可知对于含湿Ca(OH)2颗粒的硫盐化反应，反应物在液相中的溶解和传质扩散过程同样都是控制整个反应速率的关键步骤.在液相中反应物溶解和传质的理论基础是液相伴有化学反应的传质理论.在本文中将以概念简明、数学处理方便、能够反映通过相间滞流层进行分子和离子扩散传递这一基本事实的膜理论为基础，建立气-液-固三相传质反应模型［7］.
+
+3　模型的建立
+　　本文在提出考虑SO2溶解扩散的单个含湿Ca(OH)2颗粒的反应模型之前，首先对反应过程作出以下几个假设：溶解的钙离子与亚硫酸根之间的液相离子反应与传质过程相比非常迅速；在颗粒中水和吸收剂颗粒相对静止；液相中浓度梯度变化足够慢可视为准稳态过程；可忽略反应热和吸收剂溶解热；在颗粒中不考虑温度梯度；颗粒和Ca(OH)2晶粒为球状.　　
+
+
+图1　含湿吸收剂颗粒反应及结构示意图
+Fig.1 Conceptual construction and reaction diagram of aqueous sorbent particle
+　　由图1可见，吸收剂内部是由许多固相的钙基吸收剂微粒和溶液组成.在模型中，我们首先用膜理论对浆滴中单颗Ca(OH)2微粒近壁面液膜中的溶解传质反应过程进行研究，然后在前面的基础上对整个浆滴建立起描述Ca(OH)2和SO2溶液传质反应的宏观微分方程.
+　　稳态时，在单颗微粒所附液膜中，则颗粒表面的溶解方程为：
+NCa=Ks(Ap/A)(Ccs-C*cl)
+(2)
+　　式中，NCa是吸收剂溶解速率，mol/(m2.s);Ks是液固传质系数，m/s;Ap是单位体积含湿吸收剂颗粒的液固相界面积，m2/m3［8］;A是单位体积含湿吸收剂颗粒的控制单元界面积,m2/m3；Ccs是钙基吸收剂的饱和浓度,mol/m3；C*cl是近颗粒的液相主体浓度，mol/m3.
+　　从近颗粒液相主体向反应液面扩散传质的Ca(OH)2溶质量为：
+N′Ca=4πr2DCa(dCcl)/(dr)
+(3)
+　　边界条件：r=dpl/2+λ时，Ccl=0;r=dpl/2时，Ccl=C*cl
+　　式中，dpl表示含湿吸收剂颗粒中Ca(OH)2微粒的粒径，m.根据反应物质量守恒原理，我们知道从颗粒表面溶解的Ca(OH)2量，必然与近颗粒液相主体向反应界面扩散的量相等.
+πd2plNCa=N′Ca
+(4)
+　　那么存在以下关系式：
+
+(5)
+　　式中，λ表示颗粒内微粒表面至反应界面的距离.在单个颗粒的液膜内SO2的扩散主要在边界(dpl/2+δ)和反应界面(dpl/2+λ)之间，因而液膜界面到反应界面的溶解SO2液相扩散流量可表示为：
+
+(6)
+　　这里，Ds表示溶液中硫份的扩散系数，m2/s;Cs表示溶液浓度，mol/m3;而根据反应物平衡原理，可知进入微粒单元溶解SO2的流量与它的扩散流量一致，则：
+
+(7)
+　　根据方程(6)和(7)即可推得反应界面位置的计算公式：
+
+(8)
+　　而根据方程(4)和(8)可获得求解C*cl的方程：
+
+(9)
+　　综上所述，对于含湿吸收剂颗粒中单颗微粒溶解速率的方程可表示为：
+
+(10)
+　　SO2和Ca(OH)2为等摩尔反应，整个含湿Ca(OH)2颗粒中的存在以下守恒方程：颗粒表面扩散入SO2摩尔数等于反应消耗Ca(OH)2摩尔数.
+　　则从颗粒外表面到颗粒反应界面区域内的R至R+dR层上存在微分方程：
+
+(11)
+　　边界条件：　
+　　式中，C0表示颗粒表面SO2的溶解浓度，mol/m３；Rrf表示颗粒内的反应界面；R＝0表示吸收剂颗粒的中心位置.而从颗粒反应界面到颗粒核心区域浆液中Ca(OH)2溶液在颗粒中的溶解和扩散根据反应物平衡原理可得，在R至R+dR层有：
+
+(12)
+　　边界条件：
+　　单个颗粒的反应速率可由下式计算：
+
+(13)
+　　式中，dps表示吸收剂颗粒直径,m;X表示吸收剂颗粒中吸收剂的转化率，即Ca(OH)2转化为CaSO３或CaSO４的比率；βw表示吸收剂颗粒中水分含量.
+4　计算结果及分析
+　　图2至图5分别显示了含湿量、粒度、温度和吸收剂中Ca(OH)2转化率对含湿吸收剂颗粒反应速率影响计算结果的特性曲线.在计算中，参数选取为：含湿量βw=0.3，CSO2=2000ppm，转化率X＝0.1，温度T＝80℃，干燥吸收剂颗粒粒度dp＝100μm.在模型计算中需要确定SO2和Ca(OH)2的溶解度和扩散系数等物性参数分别由文献［8］和［9］给出.对于溶液中H2SO３,HSO３和Ca(OH)2等成分的扩散系数由表1给出，表中T表示温度(℃).
+表1　溶液中H2SO3、HSO3-和Ca(OH)2成分的扩散系数
+Table 1 Diffusion cofficrent of H2SO３,H2SO３and Ca(OH)2 in solution
+
+成分计算公式引自
+H2SO3DH2SO3=(T+273)exp[-19.895-1800/(T+273)]文献［12］
+HSO3-文献［12］
+总硫分文献［12］
+Ca(OH)2DCa=3.954×10-9exp[-2046/(T+273)]文献［11］
+
+　　从图2中可看出吸收剂颗粒含湿量增加可有效地提高颗粒的反应速率，含湿量从0.08增至0.50，其反应速率从1.73×10-4mol/(mol.s)增至4.03×10-4mol/(mol.s)反应速率提高了2.3倍.而已有研究表明，当转化率为0.1时，Ca(OH)2硫盐化反应速率仅为6.1×10-6mol/(mol.s).这样可简单算得吸收剂颗粒含湿量从0增至0.08，反应速率的提高幅度约为28.4倍［1］．研究发现，只要吸收剂颗粒含湿量逾越了临界含湿量后，其增幅明显下降.这提示我们吸收剂颗粒均匀增湿的重要性.并且也说明在喷水增湿活化脱硫过程中，在喷水点的布置上应考虑吸收剂颗粒全程的湿度尽可能保持在临界点以上，一味单纯增加喷水量并不一定会对反应活性起到显著作用.在喷水量选择上，应根据效果和系统承受能力适当选取.由图还可发现，模型计算结果与实验值基本一致.
+　　图3显示了含湿颗粒粒度对硫盐化反应速率的影响，吸收剂颗粒粒度增加，其反应速度下降，这基本与干燥吸收剂硫盐化反应特性接近.然而在实际过程中吸收剂粒度减少不仅存在前述水分蒸发过快的不足，还会缩短颗粒在系统内的停留时间，因此在颗粒吸收剂粒度选择上应充分考虑到各方面的影响作用.
+
+
+图2　颗粒含湿量对反应速率的影响
+Fig.2 Effect of water content on reaction rate
+
+
+图3　颗粒粒度对反应速率的影响
+Fig.3 Effect of particle size on reaction rate
+　　图4反映了温度对含湿吸收剂颗粒反应速率的影响.计算结果表明，含湿吸收剂颗粒的反应温度低于某一临界温度Tcr值时，反应速率随温度的增加而提高；但超过了临界温度Tcr后，反应速率随温度的升高反而下降.因为含湿吸收剂颗粒反应速率由反应物在液相中的溶解和扩散同时控制.而温度对溶解和扩散的作用正好是相反，温度升高溶解度下降，但反应物扩散系数提高.计算结果说明含湿吸收剂颗粒温度低于某一临界值时，反应物在溶液中扩散对颗粒反应速率的影响作用较大，因此温度升高反应速率提高.当超出了临界温度点后，则反应物溶解成了反应的主要影响因素，这样反应速率随温度的提高反而下降.F.Ruhland(1991)在25—70℃范围内进行Ca(OH)2浆液的脱硫试验，结果也证实了在较低温度条件下脱硫反应速率随温度升高这一事实［3］.
+
+
+图4　温度对反应速率的影响
+Fig.4 Effect of temperature on reaction rate
+
+
+图5　吸收剂转化率对反应速率的影响
+Fig.5 Effect of sorbent conversion on reaction rate
+　　在图5中显示了含湿吸收剂颗粒转化率对反应速率影响的计算结果.从中可看出，转化率对含湿吸收剂颗粒反应速率的影响远弱于它对干燥吸收颗粒的影响.当转化率从0增至0.4时，其反应速率仅下降了15%，这从另一个侧面说明了喷水增湿强化脱硫反应的原因.
+
+5　结论
+　　本文在对含湿Ca(OH)2内在机理分析的基础上提出了基于液相反应溶解和传质理论的单颗含湿Ca(OH)2颗粒脱硫反应模型.通过分析和计算可以发现含湿Ca(OH)2的脱硫盐化反应机理相对于干燥Ca(OH)2已发生明显变化，液相的存在使反应速率有明显提高.反应速度随颗粒含湿量的提高而增加，含湿颗粒的粒度减小和转化率提高均会使反应速度有所下降；温度对含湿颗粒反应特性的影响比较复杂，当温度低于某一临界Tcr时温度升高反应速度增加，当超过临界温度Tcr后，反应速率随温升反而下降，而下降幅度显著.
+　　因此，本文认为喷水增湿活化脱硫过程，均匀布置喷水点有利于提高脱硫效率.
+* 国家自然科学基金资助项目(编号：29277275)
+作者单位：(浙江大学热能工程研究所，杭州　310027)
+参考文献
+　1　高　翔.余热回收、除尘、脱硫多功能烟气净化装置的基础研究.浙江大学［博士学位论文］，1995
+　2　Newton G H,Kramlich J.Modeling the SO2-slurry droplet reaction.A I Ch E J,1990,36(12):1865—1872
+　3　Ruhland F,Kind R,Weiss S.The kinetics of the absorption of sulfur dioxide in calcium hydroxide suspension.Chem Eng Sci,1991,46(4):939—947
+　4　Babu D R,Narsimhan G,Phillips C R.Absorption of sulfur dioxide in calcium hydroxide solutions.Ind Eng Chem Fund,1984,23:373—374
+　5　Sada E H,Kumazawa H,Sawada Y et al.Kinetics of sulfur dioxide into aqueous slurries of calcium carbonate and magnesium hydroxide.Chem Eng Sci,1981,36:149—153
+　6　Kalsan H T,Kingspor J.Tentative modelling of spray-dry scrubbing of SO2.Chem Eng Tech,1987,10:104—112
+　7　谭天恩等.传质-反应过程.杭州：浙江大学出版社.1990
+　8　朱炳长.化学反应工程.北京：化学工业出版社.1993
+　9　Rabe A E,Harris J F.Vapor liquid equilibrium data for the binary system sulfur dioxide and water.J Chem Eng Data,1963,8:333
+　10 Ho E S,Shin S M.Ca(OH)2/fly ash sorbent for SO2 removal ind.Eng Chem Res,1992,31:1130—1135
+　11 Brid R B,Stewart W E,Lightfoot E N.Transport phenomena.New York:Wiley.1960
+　12 Kinzey M.Modeling the gas and liquid-Phase resistances in the dry scrubbing process for removal.MS Thesis,Cornall Univ.1988
+1997-11-25收到原稿
+1998-03-22收到修改稿
+
+

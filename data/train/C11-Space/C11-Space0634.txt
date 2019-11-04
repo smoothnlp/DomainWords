@@ -1,0 +1,26 @@
+上海航天
+AEROSPACE SHANGHAI
+2001 Vol.18 No.2 P.8-14
+
+
+
+
+“风云”系列气象卫星的发展现状及其展望
+张文建　 
+摘　要：介绍了我国第一代极地气象卫星“风云一号”（FY-1）系列和静止气象卫星“风云二号”（FY-2）系列的发展历程、主要性能。FY-1系列包括4颗卫星及其相应的地面数据接收、处理和应用系统。介绍了FY-2后续卫星及FY-3的发展计划。最后还介绍了遥感卫星遥感器辐射校正场计划。
+关键词：气象卫星；卫星遥感；太阳同步轨道卫星
+分类号：P414+.2　文献标识码：A
+文章编号：1006－1630(2001)02－0008－07
+Status and Development of FY Series of Meteorological Satellites
+ZHANG Wen-jian（National Satellite Meteorological Center CMA，Beijing 100081，China）　
+
+Abstract：The developmental course and main performances of first generation of FY-1 series of polar orbiting meteorological satellites and FY-2 series of sta tionary meteolorogical satellites of our country and the developmental plan of FY-2's s u ccessors and FY-3 satellite are introduced. The plan of radiation-correcting f ield of sensors is also introduced.
+Keywords：Meteorological satellite; Satellite remote sensing; Sun-synchronous satellite
+作者简介：张文建(1954-)，男，理学博士，研究员，中国气象学会卫星气象学委员会主任，中国地理学会遥感分会常务副理事长。 
+作者单位：张文建（中国气象局国家卫星气象中心，北京 100081）　
+
+参考文献：
+［1］温克刚主编.辉煌的二十世纪新中国大记录：气象卷 1949-1999[M].北京：红旗出版社,1999.
+
+收稿日期：2001年3月7日
+出版日期：2001年4月25日

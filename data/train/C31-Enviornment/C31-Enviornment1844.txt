@@ -1,0 +1,92 @@
+环境科学研究
+RESEARCH OF ENUIRONMENTAL SCIENCES
+1999年 第 12卷 第6期 vol.12 No.6 1999
+
+
+
+硝基苯好氧降解菌筛选及其降解特性*
+侯　轶　任　源　韦朝海**
+摘　要　针对化学试剂厂和制药厂废水中的硝基苯，经菌源筛选与长期好氧驯化，分离到1株能有效降解硝基苯的菌株Bacillus subilis(枯草芽孢杆菌)。系统研究了其生长条件及降解硝基苯的特性，适宜生长条件： pH为5.0～8.0，温度为30～40℃，NH4Cl浓度为100～200 mg/L，在降解硝基苯的过程中有苯胺生成，这为含低浓度硝基苯废水的生物处理提供了新的途径，即不需要厌氧工艺而直接用好氧技术就可将废水完全无害化。
+关键词　硝基苯　好氧降解　枯草芽孢杆菌　苯胺
+Selection of Nitrobenzene-Degrading Microorganism under Aerobic Conditions and Its Degrading Character
+HOU Yi　REN Yuan　WEI Chaohai
+(College of Chem.Eng.,South China University of Technology,Guangzhou 510640)
+Abstract　The biodegradation of nitrobenzene existing extensively in the effluent wastewater of pharmaceutical factory and chemistry industries is specialized. High effective nitrobenzene-degrading microorganism is selected and acclimated under aerobic conditions, and named as Bacillus subilis. The growth conditions and the degrading characters of the strain are systematically studied. The suitable growth conditions are: pH 5.0～8.0, 30～40℃,NH\-4Cl 100～200 mg/L. The fact that nitrobenzene can be partly biodegraded into aniline under aerobic condition provides a new way of biodegradation treatment of nitrobenzene wastewater with low nitrobenzene concentration,i.e. the wastewater can be biodegraded thoroughly just by the aerobic technique,not necessary for anaerobic technique.
+Keywords　Nitrobenzene; Aerobic biodegradation; Bacillus subilis; Aniline
+　　工业上广泛应用硝基苯制造苯胺、染料、TNT、肥皂及香料等。硝基苯是高毒性物质，列于世界“环境优先控制有毒有机污染物”的名单前列［1］，国际上对其在工业废水中的合理排放有极为严格的限制。一般来说，针对水量不大但含高浓度硝基苯的废水，首先通过萃取的方法加以处理并回收；而当水量大且硝基苯含量不高(<100 mg/L)时，则考虑生物处理技术。在笔者的前期研究工作中发现，硝基苯易厌氧降解为苯胺［2］。尽管如此，在实际废水处理过程中，一方面厌氧过程不能将初级基质即硝基苯类化合物完全无害化；另一方面，由于水力学及其概率分布的问题，厌氧—好氧联合工艺中的好氧阶段，始终存在着不同浓度的硝基苯类化合物，给废水处理的彻底性带来了一定的困难。因此，有必要研究好氧条件下硝基苯类化合物的降解行为。笔者通过长期好氧驯化，筛选分离出1株高效好氧菌，可将硝基苯及其中间产物(如苯胺)彻底降解。
+1　实验材料与方法
+1.1　菌种来源
+　　菌种来自某制药厂废水处理系统曝气池污泥。
+1.2　实验仪器及设备
+　　HYD恒温摇床(产地：武汉)；LRH－150B型生化培养箱(产地：广州)；722型分光光度计(产地：上海)；pHS－3型酸度计(产地：上海)；STM型电子显微镜(产地：上海)；Vitek－32型微生物全自动鉴定仪(产地：法国梅里埃公司)。
+1.3　试剂及溶液
+　　无机盐组成：0.5% K2HPO4，0.5% KH2PO4，0.5% NaCl，0.05% MgSO4。
+　　种子培养液：0.3%牛肉膏，1%蛋白胨，0.5% NaCl，调节pH值为7.0～7.2。
+　　硝基苯培养液：无机盐溶液，上一周期培养菌液离心后的部分菌体，一定量的硝基苯溶液，自然pH。
+1.4　分析项目和测定方法［3，4］
+　　硝基苯和苯胺浓度：萘乙二胺偶氮光度法。
+　　COD值：重铬酸钾法。
+　　光密度OD值：722分光光度计(λ为600 nm)。
+1.5　研究内容与方法
+1.5.1　菌种的筛选、驯化及鉴定
+　　菌种驯化过程在35℃的恒温水浴摇床中进行。在长期好氧驯化过程中发现，微生物在硝基苯培养液条件下生长还需要额外加入一定的氮源，通过试验，加入约100 mg/L NH4Cl于溶液中，菌体生长良好。驯化过程结束后，菌种经鉴定为Bacillus subilis(枯草芽孢杆菌)。通过增殖培养，将其制成菌悬液，质量浓度约为29 mg/mL,每毫升菌悬液含菌数约为2.44×1019个。
+1.5.2　Bacillus subilis生长条件的确定
+　　pH值：选择硝基苯初始浓度约为150 mg/L，调节培养液不同pH值，于35℃摇床上培养48 h后，以初始溶液为空白参比测定OD值，确定菌体生长适宜pH值范围。
+　　温度：选择硝基苯初始浓度约为150 mg/L，置于恒温摇床中，分别在10，15，20，25，30，35，40，45，50℃培养48 h，以初始溶液为空白参比测定OD值，确定菌体生长适宜温度范围。
+　　NH4Cl浓度：选择硝基苯初始浓度约为150 mg/L，分别加入一定量的NH4Cl，使NH4Cl浓度分别为20，50，100，200，250，300，400 mg/L，于35℃的恒温摇床上培养48 h后，以初始溶液为空白参比测定OD值，确定菌体生长适宜NH4Cl浓度范围。
+1.5.3　硝基苯降解特性实验
+　　于所确定的生长条件下间隔一定的时间取样，测定培养液中硝基苯浓度、苯胺浓度、CODCr及OD值的变化。通过细菌生长曲线、基质降解曲线等过程来分析Bacillus subilis降解硝基苯的基本特性。
+2　结果与讨论
+2.1　Bacillus subilis生长条件
+　　pH值：Bacillus subilis在不同pH值下的生长见图1。菌体生长适应pH值范围较宽，在pH为4.0～9.5条件下生长均较好，其适宜pH条件为5.0～8.0。以后实验中将培养液pH值调至7.0。
+
+
+图1　pH值对Bacillus subilis生长的影响
+　　温度：Bacillus subilis在不同温度下的生长见图2。枯草芽孢杆菌在25～40℃内均能较好生长，以30～40℃为最佳生长温度区间。
+
+
+图2　温度对Bacillus subilis生长的影响
+　　NH4Cl浓度：Bacillus subilis在不同的NH4Cl浓度下的生长见图3。NH4Cl作为微生物生长初期的氮源非常重要。本实验条件下确定NH4Cl的浓度为100 mg/L。
+
+
+图3　NH4Cl浓度对菌生长的影响
+2.2　菌种降解特性试验
+　　根据前述试验设计，测定培养体系中硝基苯浓度和溶液CODCr，绘制曲线如图4所示。可见24 h以内为Bacillus subilis生长停滞期，硝基苯及微生物浓度没有明显变化。当微生物细胞适应环境后，在24～48 h内菌体生长达到对数期，菌体个数成对数增长，此时硝基苯浓度急剧下降。48～86 h内，细胞经过对数期大量繁殖后，进入生长静止期。86 h后，由于环境中营养物质的不足及基质的耗尽，微生物生长进入衰减期。
+
+
+图4　枯草芽孢杆菌生长曲线
+　　由图5可知，Bacillus subilis在降解硝基苯的过程中有苯胺生成，且苯胺的浓度曲线有最大值，48 h以内苯胺的量一直在增加，可以认为该时间段内微生物不断降解硝基苯产生中间产物(苯胺只是其中间产物的一种)，结合图5，6可发现，在50～100 h内，微生物处于对数生长期或平衡期，微生物的活性较高，微生物除了不断利用培养液中的硝基苯作为其生长所需的有机碳源外，还可利用前50 h降解过程中所产生的中间产物(如苯胺)，苯胺在生成的过程中不断地被利用，因而就表现为这段时间内苯胺的量基本保持不变，而硝基苯的量不断降低，即其降解率不断提高，此时溶液总COD值也大幅度降低。100 h以后，培养液中硝基苯的量很少，为满足微生物代谢需要，Bacillus subilis继续利用溶液中仅存的中间产物作为其生长代谢的营养物质，从图5，6中反映出苯胺浓度迅速下降，溶液COD值继续降低。由此可知，枯草芽孢杆菌不仅可以好氧降解溶液中的硝基苯，还可以进一步分解其代谢中间产物，可以实现含硝基苯废水的彻底无害化。
+
+
+图5　降解过程中硝基苯与苯胺的相关性曲线
+
+
+图6　硝基苯及溶液COD成分的降解曲线
+2.3　Bacillus subilis与人苍白杆菌的协同作用
+　　结合本实验室前期研究工作已得到降解苯胺的高效菌种——人苍白杆菌(Ochrobactrum anthropi)［5］来探讨好氧生物降解硝基苯的彻底性。于500 mL锥形瓶中配制硝基苯培养液300 mL等体积分装于2个锥形瓶中，并向其中一个培养液中接入人苍白杆菌，测定2种降解体系中硝基苯、苯胺浓度随时间的变化结果如图7，8所示。
+
+
+图7　2种降解体系苯胺浓度的不同变化
+
+
+图8　2种降解体系硝基苯浓度的不同变化
+　　当Bacillus subilis与人苍白杆菌共同降解硝基苯时，降解速率大大提高，完全降解初始浓度为232 mg/L的硝基苯，枯草芽孢杆菌单独作用时需145h，而当Bacillus subilis与人苍白杆菌混合作用时只需85 h，且降解过程中苯胺的浓度大大降低，这进一步证明了Bacillus subilis在好氧降解硝基苯的过程中确实有苯胺生成，且人苍白杆菌的加入加快了硝基苯的降解速率。
+　　一般说来，硝基苯在厌氧条件下会被微生物分泌产生的酶还原生成苯胺［2，6］，在好氧条件下硝基苯被降解为苯胺的情况国内外都没有报道［7，8］，在本实验过程中硝基苯在好氧条件下被Bacillus subilis部分降解为苯胺的原因是因为降解过程中某些还原性物质或还原性酶参与了共代谢作用所致，其具体的降解路径还有待于通过实验研究探索查明。
+3　结论
+　　a. 通过长期好氧驯化，筛选得到能有效降解硝基苯的菌株，经鉴定为枯草芽孢杆菌(Bacillus subilis)。确定了该菌的适宜生长条件：pH为5.0～8.0，温度为30～40 ℃，NH4Cl浓度为100～200 mg/L。
+　　b. Bacillus subilis好氧降解硝基苯的过程中有苯胺生成，该菌不仅可以降解初始污染物硝基苯，还可以降解各种中间产物，表现为其对溶液中CODCr的彻底去除，这为低浓度硝基苯的废水处理提供了新的途径，即不需要厌氧工艺而直接可用好氧技术就可以将废水完全无害化。
+　　c. 通过添加中间产物高效降解菌与初始污染物降解菌的协同作用，可以明显提高体系的降解速率和废水无害化的彻底性。
+*国家教育部跨世纪优秀人才培养计划基金、国家自然科学基金(29407051)及广东省自然科学基金(940758)资助项目
+**通讯联系人
+作者简介：女，1973年生，在读硕士研究生
+作者单位：华南理工大学化工学院，广州　510640
+4　参考文献
+1　王连生.有机污染物化学.北京：科学出版社，1990.482～490.
+2　韦朝海，任源，吴超飞，等.硝基苯与苯胺类废水生物降解协同作用研究.环境科学研究，1999，12(3)：10～13.
+3　国家环保局.水和废水监测分析方法(第3版).北京：中国环境科学出版社，1989.424～426.
+4　俞毓馨.环境工程微生物检验手册.北京：中国环境科学出版社，1990.129～144.
+5　任源，吴超飞，韦朝海，等.苯胺分解菌的驯化筛选研究.环境科学研究，1998，11(4)：3～5.
+6　Frank M Dunnivant,Rene P Schwarzenbach. Reduction of substituted nitrobenzene in aqueous solutions containning natural organic matter. Environ Sci & Technol,1992,26(10):2133～2141.
+7　Billy E Haigler,Jim C Spain. Biotransformation of nitrobenzene by bacteria containing toluene degradative pathways. App & Environ Microbiol,1991,57(11):3156～3162.
+8　Jung Kwan-Hye,Lee Jang-Young,Kim Hak-Sung.Biodegradation of nitrobenzene through a hybrid pathway in Pseudomonas putida. Biotech & Bioeng,1995,48(6):625～630.
+收稿日期：1999－05－17

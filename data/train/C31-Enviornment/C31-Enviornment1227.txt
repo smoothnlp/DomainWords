@@ -1,0 +1,146 @@
+环境科学学报
+ACTA　SCIENTIAE　CIRCUMSTANTIAE
+1998年5月第18卷第5期科技期刊
+黄曲霉素B1-DNA加合物的实验研究*
+刘淑芬　蒋湘宁　徐晓白
+(中国科学院生态环境研究中心,　北京　100085)
+
+摘要　用32P后标记的方法测小牛胸腺DNA和黄曲霉素B1体外反应产物里的DNA-AFB加合物，发现有4种不同的DNA加合物，加合物含量的RAL=1.08(加合物)/107(正常核酸)，对比用DNA的4种碱基和AFB1反应所形成的加合物，发现有3种DNA-AFB1的加合物是来自鸟嘌呤碱基被修饰所形成的，占DNA加合物总量的90%.用定量的黄曲霉素B1腹腔注射入大白鼠中，24h取其肝、肾、肺、脾等组织，加合物的总含量分别是肝＞肾＞肺＞脾.用AROCLOR诱导能促进各组织中DNA加合物的形成，但是对不同的组织有不同的促进作用.
+关键词　DNA加合物；32P后标记；黄曲霉素.
+INVESTIGATION ON DNA-AFB1 ADDUCTS IN VITRO AND IN VIVO BY　32P-POSTLABLEING
+
+Liu Shufen, Jiang Xiangning, Xu Xiaobai
+(Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing 100085)
+
+ABSTRACT　DNA-AFB1 adducts in the samples reacted with DNA and AFB1 (in vitro) and in various organs of SD rat treated with AFB1 have been analyzed by 32P-postlabeling. the results showed that four DNA-AFB1 adducts were detected and RAL of the four DNA adduct were (6.17—44.86) adduct/10\+9 normal nucleotide. The primary site of DNA modification was deoxyguanosine in vitro. Some DNA-AFB1 adducts were detected in organs of rat (live, kidney, lung, spleen) and extent of DNA adduxts formation in the organs was liver>kidney>lung>spleen.
+Keywords　DNA adduct, 32P-postlabeling, AFB1.
+　　黄曲霉素B1是一种强的致癌物，大量流行病学的调查研究得出黄曲霉素B1是肝癌的诱发因子［1］.一些研究证明，黄曲霉素的致癌机理主要是生物体P-450酶能使黄曲霉素氧化成环氧化合物，不稳定的环氧化物是极强的亲电化合物，能和亲核性的DNA纤维大分子共价结合形成DNA加合物，DNA加合物是诱发癌的最小因子，这是致癌物普遍的一种致癌机理［4］.还有的研究认为黄曲霉素能直接氧化生物DNA中的鸟嘌呤碱基，形成8-羟基鸟嘌呤化合物，后者有致癌性［3］.近年来的研究，自由基致癌也是黄曲霉素致癌的机理之一.随着分子生物学和DNA加合物分析方法的发展，尤其是用32P后标记方法测DNA加合物的建立和发展，大大推进了致癌物分子生物学机理的研究，本文是用32P后标记的方法对黄曲霉素B1与生物体DNA形成加合物的研究，实验结果证明黄曲霉素B1不用氧化代谢也能直接和DNA反应形成DNA加合物，对DNA造成损伤，直接引起癌变.当然,有诱导酶或其他诱导剂存在能促进DNA加合物的形成，不同的诱导剂对不同的组织中形成加合物的促进作用不同，研究结果对更全面理解黄曲霉素致癌的分子生物学机理提供一些依据.
+
+1　材料和仪器
+1.1　材料
+　　小牛胸腺DNA，小球菌内切酶，脾磷酸外切酶，2′-脱氧核苷3′-单磷酸(3′-dNmp)，T4多核苷酸激酶，RNAse酶，蛋白酶K，P1核酸酶，土豆腺苷三磷酸酶，黄曲霉素B1等购自SIGMA公司；γ32P-ATP(＞3000Ci/mmol)购自亚辉公司；ODS-TLC吸附薄板和PEI-TLC阴离子交换薄板购自Allteth Associates公司；其余的化学药品购自北京化学试剂公司(均为分析纯).
+1.2　仪器
+　　高速离心机(调温)，恒温水浴，紫外分光光度计，液闪计数器等.
+2　实验方法
+2.1　DNA加合物样品的制备
+2.1.1　体外反应　取0.5mg的小牛胸腺DNA样品，加入过量的黄曲霉素B1.在37℃下培养12—14h(或过夜)，反应物用乙醚二次提取去掉多余的有机物，水相用冷乙醇沉淀，然后将沉淀的DNA溶于0.1×SSC溶剂中.DNA和DNA加合物的浓度用紫外分光光度计测量(1.0单位的OD260nm值相当于50μg(DNA)/mL).用同样的方法制备DNA的4个碱基(dNmP)的加合物样品.
+2.1.2　动物组织样品的制备
+表1　动物实验处理及剂量
+Table 1 Types and dosages of various treatments
+
+处理方法代号诱导剂量，mg/kg黄曲霉素B1,mg/kg
+空白对照CK00
+黄曲霉素B1AFB108.0
+AROCCLOR诱导对照A-CK200.00.0
+AROCLOR+黄曲霉素A-AFB1200.08.0
+
+(A)动物实验：用雌性大鼠(SD)，体重200—300g(购自科学院动物所)，采用腹腔注射的施药方式，将有毒物溶液注入大鼠的腹腔中，24h后采集动物各组织，迅速冷冻贮存于低温冰箱中.施药状况见表1.
+
+　　(B)DNA加合物的提取和纯化：将经处理的动物组织细胞匀浆，在已破碎的细胞中加蛋白酶温育45min(37℃)，后依次用饱和酚、酚/Sevay((V/V）1∶1)、Sevay(氯仿/异戊醇：24∶1(V/V))提取，水相用冷乙醇沉淀.为纯化DNA，用RNAse在37℃下培育1h除去少量RNA.DNA的浓度用紫外分光光度计测量.
+2.2　32P后标记过程
+　　4μg的DNA和加合物的混合物，加8μg的外切酶和8μg的内切酶(二倍DNA的量)，有适量的酶解缓冲溶液存在，37℃下培育2—3h，使DNA完全酶解成2′-脱氧核苷3′-单磷酸(3′-dNmP+3′dXmP)，用适量的P1核酸酶在37℃培育40min，以除掉大量正常DNA的水解物，然后在T4多核苷酸激酶的催化下，γ32P-ATP(100μCi)和底物(2′-脱氧核苷3′-单磷酸)反应(37℃，30min)，生成带放射磷的2′-脱氧核苷3′5′二磷酸酯(*3′5′dDNP+\+*3′5′dXDP)，最后加1μL的腺苷三磷酸酶，37℃下培育30min，除掉多余的无机放射磷.
+2.3　加合物的分离和分辨
+　　依据DNA和DNA加合物的酶解物色谱性能的差异，将全部标记过的DNA加合物的酶解物样品点在经过一定处理的ODS-TLC吸附板上(10cm×10cm)，用相应的展开剂展开，分离加合物与正常核酸，然后将留在ODS-TLC板上的加合物接触转移到PIE-TLC阴离子交换板上(10cm×10cm)，用不同的展开剂多次多相地展开，将不同的加合物分离分辨开.
+2.4　自显影和定量
+　　将展好的PEI-TLC板进行自显影处理，制出DNA加合物的自显影指纹图.然后将相应的PEI-TLC板上的多余斑点(与空白对照)取下，液闪计数定量计算，加合物含量用RAL(相对加合物标记率)表示：
+
+式中，SP ACT:代表32P ATP的比活度(CPM/pmol);G：代表实验用DNA量(4μg)；3240：每μg DNA相当于3240pmol.
+以上实验方法的详细过程参见文献［4，5］.
+
+3　结果与讨论
+3.1　体外反应条件下DNA-AFB1加合物的形成
+　　
+
+
+图1　AFB1于DNA及各碱基反应生产DNA加合物的自显影指纹图
+A：空白对照　B：DNA-AFB1　C：DGMP-AFB1
+D：DAMP-AFB1　E：DCMP-AFB1 F:DTMP-AFB1
+Fig.1 Autoradiogram of DNA-AFB1 adducts in vitro
+图1为用32P后标记方法测得的黄曲霉素B1与小牛胸腺DNA和4个碱基反应生成的DNA加合物的自显影指纹图.对比图1-A和图1-B，发现在图1-B上有4个多余的斑点，其代表4种不同的DNA-AFB1加合物.对比图1-B与图1-C、1-D、1-E、1-F可以看出，DNA-AFB1的加合物主要来自鸟嘌呤碱基的取代物，说明AFB1对DNA的损伤主要在鸟嘌呤碱基上，这个结果与用其他方法测的DNA加合物相似［6］.
+　　表2、表3列出AFB1与DNA及鸟嘌呤碱基反应生成加合物的定量结果RAL值(相对加合物标记值)，综合对照图1和表2、3可以看出DNA-AFB1的4个加合物的总RAL值是1.08(加合物)/107(正常核酸)，4个DNA-AFB1的加合物中3个来源dGmP-AFB1加合物，占总量的90%(4个的总合)，由加合物的鉴定可知，其中最大的一个是N-7位的鸟嘌呤碱基取代物［1］，占总量的44.5%.
+表2　DNA-AFB1加合物及定量
+Table 2 RAL of DNA-ANB1 adducts in vitro
+
+斑点号CPM**RAL(×10-9)BMR*加合物含量fmol/μg
+(DNA)百分比***，%备注
+1339.06.170.620.196.12　
+2393.017.21.740.5217.14dG-AFB-1
+3527.044.864.491.3544.50dG-AFB-2
+4467.032.513.250.6932.25dG-AFB-3
+
+　*BMR：碱基修饰率，1(加合物)/1010(碱基)
+　**CPM为扣除本底的总放射计数
+***每种加合物占总加合物的比例
+表3　鸟嘌呤-AFB1加合物和定量
+Table 3 RAL of dGmp-AFB adducts in vitro
+
+斑点号　CPMRAL(
+×10-9)　BMR加合物
+含量，
+fmol/μg
+(DNA)百分比*　*，
+%备注
+2523.03.090.390.0936.83dG-AFB-1
+3898.080.258.032.4163.17dG-AFB-2
+4NC*////dG-AFB-3
+
+*未计算
+**每种加合物占总加合物的比例
+3.2　用黄曲霉素B1处理过的大鼠中肝、肾、肺，脾等组织里DNA-AFB1加合物的形成和分布
+　　图2示出用32P后标记法测的黄曲霉素B1腹腔注射入大鼠，24h取其肝、肾、肺、脾组织中DNA加合物自显影指纹图，初步从图中代表加合物的多余斑点看出，不用诱导，直接反应，大鼠4种组织中都测出有DNA加合物存在，肝脏中形成的加合物最多.
+　　表4、图3示出用AROCLOR诱导前后的大鼠中各组织里DNA加合物形成、分布、定量值.对照图2，图3和表4，无论是从定性还是从定量的角度看，诱导前肝脏中DNA加合物的含量最多，占加合物总量的60%，4种加合物的含量依次是肝＞脾＞肾＞肺，即黄曲霉素
+
+
+图2　AFB处理大鼠组织中DNA加合物自显影图
+A：肝　B：肾　C：肺　D：脾
+Fig.2 Autoradiogram of DNA adductsin organs of rat
+
+
+图3　诱导与非诱导大鼠各器官中DNA加合物的分配示意图
+Fig.3 Distribution of DNA adducts in organs
+of rat treated with AFB1 or Aroclor+AFB1
+表4　大鼠中DNA-AFB加合物的分布和定量
+Table 4 Distribution and RAL of DNA-AFB1 adducts in rat
+
+　处理方式器官CPM
+(×103)RAL
+(×10-7）加合物含量，
+fmol/
+μg(DNA)
+AFB1处理肝37.6877.53232.59
+AFB1处理肾4.399.0327.09
+AFB1处理肺3.226.6319.90
+AFB1处理脾17.4835.96107.88
+A-诱导-AFB1处理*肝88.29181.68545.01
+A-诱导-AFB1处理肾22.2645.81137.43
+A-诱导-AFB1处理肺32.5967.06201.17
+A-诱导-AFB1处理脾18.6638.40115.20
+
+　*A-诱导-AFB1处理：AROCLO诱导后用AFB1处理B1对动物的肝脏损伤最大，这就是黄曲霉素能诱发肝癌的一种理论依据［2］.还能看出用AROCLOR诱导能明显的促进动物各组织里DNA加合物的形成，但是各组织对同样剂量的诱导剂的敏感程度不同，即诱导前后各组织中DNA加合物含量的增加倍数不同，诱导剂促进作用大小依次是肺(10.0倍)＞肾(5.0倍)＞肝(2.3倍)＞脾(1.0倍)，但是肝脏中DNA加合物仍占总量的55%，无论是诱导还是不诱导，肝脏都是黄曲霉素B1作用于动物的主要靶器官.各组织中DNA加合物的分布
+表5　加合物的共价结合相对标记指数
+Table 5 CBALlr of DNA-AFB addcts in rat
+
+　CBALIr(×102)*
+　肝　肾　肺　脾总计
+AFB1处理60.717.075.1928.15101.12
+A-诱导-AFB1处理140.0735.3151.6929.61256.70
+A-AFB1/AFB1**2.315.0010.001.05　/
+
+　　
+　　**A-AFB1/AFB1:诱导处理与不诱导处理CBALr两者之比和定量的相关性在图3上可以明显看出.
+3.3　DNA加合物的相对标记指数(CBALIr)
+
+　　表5所示的DNA加合物的加合物相对标记指数是指一定剂量单位下的单位体重形成的加合物的相对标记率，它可以对某些化合物在生物体中形成加合物的能力进行综合评述.
+4　小　结
+(1)综合实验结果黄曲霉素B1能直接和DNA进行反应形成DNA加合物，用灵敏度很高的32P后标记方法可以测出有4种不同取代位置的DNA-AFB1加合物，这个结果可以说明黄曲霉素B1有不通过代谢能直接损伤DNA而导致癌变的可能.
+　　(2)黄曲霉素B1对DNA的损伤主要是对DNA中鸟嘌呤碱基的损伤，用32P后标记的方法测DNA加合物的定量结果可看出，鸟嘌呤碱基形成的加合物(N-7位)占DNA形成加合物的90%，这个结果与用其他方法［6］测的结果相附.
+　　(3)黄曲霉素B1能与动物组织(肝，肾，肺，脾)中的DNA形成DNA加合物，无论有否诱导剂都能引起组织中DNA的损伤，对肝的损伤最重，所以肝是黄曲霉素作用的主要靶器官，这与通过流行病学调查黄曲霉素能引起肝癌的结果［2］是相附的.诱导剂或酶能促进黄曲霉素B1和生物体DNA的反应形成DNA加合物，但是不同的组织对不同的诱导剂有不同的敏感作用，这也就是某些致癌物诱导活化致癌的机理.
+　　(4)对比实验结果表明，体外反应形成量多(强的)的加合物在动物组织中没有测出，而量少的(弱的)加合物测出，初步可解释为动物组织中DNA加合物是黄曲霉素B1经代谢活化后与DNA作用所形成的主要途径，而直接反应形成DNA加合物为辅.对DNA加合物的详细鉴定，剂量与DNA加合物，加合物与癌变相关性等诸多的问题有待进一步的研究.
+　　*国家自然科学基金(29577289)资助项目
+参考文献
+　1　Ball R W, Wilson D W, Coulombe R A. Comparative formation and removal of Aflatoxin B1-DNA adducts in cultured mammalian tracheal epithelium, Cancer Reserch, 1990,50:4918—4922
+　2　Groopman J D, Hasler J A, Trudel L J et al. Molecular dosimetry in rat urine of Aflatoxin-N7-guanine and other Aflatoxin metabolites by mltiple monoclonal antibody affinity chromatography and immunoaffinity/high performance liquid chromatography. Cancer Research, 1992,52:267—274
+　3　Shen H M, Ong C N, Lee B L et al. 　Aflatoxin B1-induced 8-hydroxydeoxyguanosine formation in rat hepatic DNA. Carcinogenesis, 1995,16:419—422
+　4　刘淑芬，Rappaport S M, Bodell W J. 用32P后标记法测定职业接触苯乙烯工人静脉血中DNA环氧苯乙烯加合物.环境化学，1992，11(3)：22—31
+　5　Gupta R C. Nonrandom binding of the crcinogen N-hydroxy-2-acetyl-aminofluorene to repetitive sequesces of rat liver DNA in vivo. Proc Natl Acad Sci USA, 1984,85:6943—6947
+　6　Zhang Y J, Chen C J, Lee C S et al. Aflatoxin B1-DNA adducts and hepatitis Bvirus antigens in hepatocellular carcinoma and non-rumorous liver tissue. Carcinogenesis, 1991,12:2247—2252

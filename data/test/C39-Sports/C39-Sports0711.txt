@@ -1,0 +1,250 @@
+【 文献号 】3-3677
+【原文出处】天津体育学院学报
+【原刊期号】199802
+【原刊页号】15～22
+【分 类 号】G8
+【分 类 名】体育
+【复印期号】199809
+【 标  题 】身体锻炼的情绪效益：研究与思考（注：第5届中国体育科学大会专题    报告论文）
+【英文标题】STUDY ON MOOD ENHANCEMENT OF PHYSICAL EXERCISE   Mao Zhixiong/Han Xu
+【 作  者 】毛志雄/韩旭
+【作者简介】（毛志雄  男 35岁  博士生  北京体育大学运动训练与运动心理学教研室  北京100084）
+【摘 要 题】通过对国内外关于身体活动与情绪的关系问题的研究进行综述和讨论，在介绍、分析已有研究的基础上探讨该领域研究的现状和
+存在的问题，并探讨未来的发展动向。主要内容如下：(1)身体活动与身体锻炼的主要情绪效益；(2)产生最佳情绪效益的身体锻炼特征；(3)该
+研究领域今后应努力的方向是：拓宽锻炼项目研究、对活动/锻炼特征进行分解并寻求测量工具的完善。
+【英文摘要】The present study discusses the relationshipbetween physical activity and mood.Based on statements andanalyses o
+f previous researches,the paper explores thecurrent situation,problemes and future developmental trend.Followingsare main th
+eses:(1)major mood enhancement of physicalactivity/exercise;(2)features of physical exercies exertingoptimum mood enhancemen
+t;(3)future effort directions ofspreading out studies on physical exercise items,decomposingfeatures of physical activity/ex
+ercise and seeking theperfection of measurement means.
+【关 键 词】身体锻炼  身体活动  情绪效益  心理健康physical exercise physical activity moodenhancement mentalhealth
+【 正  文 】
+    自从1949年世界卫生组织(WHO) 对“健康”作了一个理想化的解释之后，“心理健康”这一概念就成为近半个世纪以来各国学者普遍议论
+的话题。虽然心理健康的含义和标准至今尚不统一，但研究者们普遍认为健康的情绪是心理健康的主要内容。而且，对身体锻炼与情绪的关系
+研究，也是锻炼－心理健康关系领域中研究最多、内容最丰富、方法最成熟的热点问题。本文试图通过对国内外关于身体活动与情绪的关系问
+题的研究进行综述和讨论，在介绍、分析已有研究的基础上探讨该领域研究的现状、存在的问题和未来的发展动向。
+1  身体活动与身体锻炼的情绪效益
+1.1  身体活动与短期情绪效益
+    身体活动(physical activity)是导致能量消耗高于休息时的新陈代谢水平的人类身体运动[1]。其概念至少包括三个要素[2]，即：由骨骼
+肌产生的身体位移；引起能量由低向高变化的消耗；对体质有积极影响。  身体活动一般是指持续时间为30min左右的一次性运动活动[3]。 研
+究表明，身体活动可产生如下情绪效益：第一，与心境状态的改善有关[4～7]；第二，可缓解焦虑与紧张情绪[8]；第三，活动中可产生诸如流
+畅(flow)[9]和跑步者高潮(the runner's high)[10]等良好的情绪体验[11]。
+    从研究方法上看，这类研究所选择的运动活动多为跑步、游泳、功率自行车、跑台或专门设计的运动活动课程，测量的因变量主要是心境
+状态、焦虑、应激和紧张等。其研究过程中对运动负荷多能够严格控制，但由于随机分组设计较少、前后测设计和被试内设计较多、且难以排
+除霍桑效应等额外变量的影响，因此可能造成情绪效益的高估。
+1.2  身体锻炼与长期情绪效益
+    身体锻炼(physical exercise)是以发展身体、增进健康、增强体质、调节精神和丰富文化生活为目的的身体活动[2]。身体锻炼的概念也
+包括身体活动的前两个要素，但它是“以保持和提高体质为目的的有计划、有内容安排和重复从事的身体运动”[2]。也有人将其定义为闲暇时
+间的身体活动[13]。从这个意义上讲，身体锻炼是身体活动的下位概念，它是更有目的、有计划、有规律的身体活动。身体锻炼的操作定义是
+：每天都进行或者定期进行的锻炼活动，且这种锻炼活动持续很长的时间。一般说来，持续8～10周，每周2～4次的身体活动就构成了身体锻炼
+，而长期身体锻炼是指持续10～12个月的身体锻炼。[11,3]
+    身体锻炼的情绪效益主要表现在： 第一，它与心理自我良好感(psychological well-being)有正相关：第二，长期身体锻炼对焦虑、抑郁
+的治疗作用[11]。
+    心理自我良好感指与积极参加身体锻炼有关的某种兴奋、自信和自尊的情绪和态度体验，并且没有消极情绪[1]。目前大量研究使用自评量
+表法（如，POMS）对心理自我良好感进行测量。
+    许多研究表明，长期慢性锻炼计划(chronic exercise program)对心理疾病患者的焦虑、抑郁具有长期稳定的缓解作用[14～20]。
+    一项研究[21]对1960年至1989年间进行的104项有关身体锻炼对焦虑的控制作用的研究进行了元分析，结果表明：①身体活动量必须长于2
+0min，才能有效地降低焦虑；②渐进性放松练习同身体锻炼一样可以有效地降低状态焦虑；③身体锻炼比渐进性放松练习能更有效地降低特质
+焦虑；④无氧练习不能降低焦虑；⑤长期的和一次性的有氧练习均可有效地降低状态焦虑；⑥身体锻炼必须坚持10周以上，才可能有效地降低
+特质焦虑。
+    几项对老年人的研究指出身体锻炼与抑郁的减少有关[22～25]。这些发现特别重要，因为就老年人而言，抑郁或许是最主要的精神健康问
+题。然而，并非所有的研究都支持身体锻炼减缓抑郁的假设。毛志雄、王则珊(1996)[26]对北京城区中老年人身体锻炼与抑郁关系的研究表明
+：身体锻炼既未能缓释抑郁－沮丧情绪，也无助于提高精力感。其原因可能是由于：①中老年人的情绪比年轻人稳定，不易随环境的改变（如
+锻炼）而波动；②抑郁、沮丧等深层负性情绪即使可能通过锻炼手段得到暂时缓解，但从长远意义上看，远非身体锻炼所能彻底解决的问题；
+③用POMS这样的测量工具，其效度可能存在问题；④对于情绪健康基础水平较高的人来说，通过身体锻炼很难继续使心境状态得到大幅度改善
+。
+    尽管这一问题尚有争议，但许多研究仍表明身体活动和（或）身体锻炼是具有抗抑郁作用的。许多元分析研究支持这一点[27～29]。
+    例如，一项元分析研究[28]分析了1969年至1989年间进行的80项有关身体锻炼对抑郁的控制作用的研究，得出8项结果：①一次性身体活动
+和长期的身体锻炼均能有效地降低抑郁；②这种作用在需要得到特殊心理照顾的被试身上体现得最为明显；③身体锻炼既可降低特质性抑郁，
+也可降低状态性抑郁；④身体锻炼既可降低正常人的抑郁，也可降低精神病患者的抑郁；⑤有氧练习和无氧练习均可降低抑郁；⑥身体锻炼的
+持续时间（多少周）和频率（每周多少次）与抑郁的降低程度有关；⑦身体锻炼比放松练习和其他愉快活动能更有效地降低抑郁；⑧身体锻炼
+与心理治疗相结合比单纯进行身体锻炼能更有效地降低抑郁。
+    由上述佩特鲁茨罗(Petruzzello)和诺斯(North)的研究结果相比较，不难发现：身体锻炼控制焦虑和缓解抑郁的作用是同时产生的，但可
+能存在一点不同，这就是无氧练习可有效地降低抑郁，却不能有效地降低焦虑。这一点提示我们：如果希望改善整体的情绪状况，最好采用有
+氧练习[3]。
+2  与情绪效益有关的身体活动
+    并非任何形式的身体活动都能产生相同的情绪效益，只有科学的身体活动和（或）身体锻炼才与适当的心理效益相联系。对于不同的个体
+，怎样为其制订适当的锻炼计划，或者对于心理疾病患者，怎样为其开出锻炼处方，以使身体活动产生最大的情绪效益，这是需要医学心理学
+工作者和锻炼心理学工作者回答的严肃问题。遗憾的是，目前这方面的研究还远不能满足锻炼者的需要，我们只能就现有的研究成果进行讨论
+，以深化人们的认识并为进一步的研究开扩思路。
+2.1  愉快和有趣的活动
+    参与者从活动项目中获得乐趣并感到愉快，是产生情绪效益的前提。假如一个锻炼者为了寻求心境的改善而锻炼却没有通过活动和锻炼获
+得快感，却奇迹般地增加了积极情绪，这是很难想象的。此外，由于乐趣很可能与锻炼的坚持性相联系，因此它影响着长时间用身体锻炼提高
+自我良好感的成败[30]。产生最佳情绪效益的身体活动首先必须是令参与者愉快和感兴趣的活动，这一点是毫无疑问的。
+    由于对愉快和乐趣的追求存在巨大的个体差异，因此为保证身体活动和（或）身体锻炼的参加者获得乐趣并感到愉快，在项目和锻炼环境
+的选择上应做到因人制宜[31]。
+2.2  有氧运动或者有节奏的腹式呼吸的运动
+    许多研究考察了慢跑、游泳等有氧练习的情绪效益，得出的基本看法是：有氧练习与心境改变和（或）应激减少有关，而且有氧练习与许
+多放松训练的作用是等价的[19,32～41]。
+    虽然许多研究指出有氧练习的重要性，各种类型的有氧锻炼与心理自我良好感相关，但是目前还没有一项单独以“有氧”作为独立因素进
+行的情绪效益研究。在以往的研究中，“有氧”条件常常与低强度、腹式呼吸等特征相联系，因此我们还无法判断到底是“有氧”还是腹式呼
+吸或是低强度锻炼对情绪产生积极影响。
+    除有氧练习因素之外，对身体活动和（或）身体锻炼有益情绪原因的另一种可能解释是腹式呼吸。然而对瑜珈功、步行以及低运动负荷功
+率自行车的心理效益研究显示，虽然它们也符合慢跑、游泳等项目的“有氧”特征，但上述项目对呼吸类型的改变并不比练习质量与心理学效
+益关系更为密切[42]。我国传统的东方健身术一直很重视有节奏的腹式呼吸对健康的积极作用，太极、气功、导引等项目十分强调呼吸技术，
+这也是腹式呼吸身心双健作用的一个佐证。
+    总之，“有氧”运动或有节奏的腹式呼吸对情绪的积极作用问题，应该成为今后该领域进一步研究和探讨的问题。
+2.3  回避人际竞争的运动活动
+    一项研究[43]对参加持续高强度、长耐力训练的高等院校校代表队的女游泳运动员与只参加康复性锻炼的游泳者进行了比较研究，发现前
+者积极的心境剖面少于后者。更为特别的是，游泳运动员疲劳感显著高于休闲游泳者(recreational swimmers)，紧张感也比休闲游泳者和静止
+控制组偏高。休闲游泳者在抑郁、愤怒和困惑感方面显著低于代表队运动员和静止控制组。这一研究提示：选择回避人际竞争的锻炼方式，更
+有利于积极健康的情绪。
+    回避人际竞争的锻炼方式之所以加强身体活动的的心理效益，理由有许多。其中之一是，非比赛性的身体活动能使参与者回避因失败而产
+生的消极心理。当一个人与别人直接比赛的时候，失败的概率大约为50%。对于许多个体来说，失败减损了许多有益的情绪，如兴奋、自认效能
+、自豪感、成就感、胜任感以及控制感等。另一种可能的解释是：竞技运动与其说是减少应激倒不如说是增加应激[44]。
+2.4  可自定步调的运动活动
+    这类活动泛指那些关闭性的、（结果）可预测的、时间和空间上可确定的以及动作具有节奏和重复性的运动活动。比如，慢跑和游泳等活
+动项目均符合这一特征。在“封闭性”运动的前提下，重复性的和有节奏的运动活动不需要太多的注意力。因此锻炼中，锻炼者的思想是“自
+由和随意的”[45～46]。这类活动通过单调重复性的技术动作，也可能促使锻炼者思维的反省和脑力的恢复，从而有利于锻炼者的情绪健康。
+    锻炼者之所以选择可自定步调的运动活动，很大程度上是与这类活动对注意力的有效调节分不开的。通过注意力的有效集中和（或）转移
+，可以达到调节情绪的目的。同时，这种关于注意力的解释也为后面所要谈到的转移注意力学说提供了支持。
+    应当注意的是，锻炼者在项目的选择上存在巨大的个体差异。许多人发现封闭性的运动活动令人厌烦，他们喜欢开放性运动(open sports
+)的不可预测性，如选择网球和篮球。目前还极少见到或根本没有关于开放性活动利于心理健康的报道。这可能是由于开放性身体活动通常涉及
+到至少与一个对手的比赛，运动的结果有胜负两种情况，这无疑增加了研究过程的复杂性。但目前十分缺乏的正是对开放性运动活动健心效果
+的研究。
+2.5  中等负荷强度的运动   虽然关于锻炼的强度问题仍有争议，但中等强度的锻炼看来与增强心理健康联系最为密切。有些研究指出：高强度的锻炼（如，80%VO[,2max]）可能降低应激[33,47,48]。另一些研究报道：高强度的锻炼增加应激且对增加心理自我良好感产生相反效果[14,16]。有人[49]建议锻炼强度应维持在安静心率至最大
+
+    几项研究结果表明：中等强度比高强度的锻炼对增强心境更有效[6,14～16,51]。其中一项研究[16]报道：8min高强度（100W功率自行车）
+锻炼后心境状态剖面图(POMS)测量发现紧张感和疲劳感短时间增加；低强度的锻炼(25W)导致了精力感和朝气蓬勃感方面的积极的心境变化。这
+一研究似乎证明，低强度的锻炼对心境更具积极作用。在有进一步证据证明低强度锻炼对大众心理健康的促进作用之前，我们只能说最佳锻炼
+强度或许应是“中等强度”。
+2.6  锻炼的持续时间
+    虽然也有研究[6]报道：步行5min也能提高心境，但大多数研究认为心理效益的产生需要20～30min[8,14,15,40]。也有人[52,53]认为60m
+in的持续时间可能更好。
+    看来，每次锻炼持续时间如果少于20min，在多数情况下是不会出现心理效益的，因为可能相应的效益还未来得及出现身体活动就已经结束
+了。有人[54]认为通过身体锻炼进入积极陶醉状态并使大脑得以自由运转所需要的时间是40～50min。
+    在某一特定的强度下，如果锻炼时间过长，就有可能造成疲劳、厌倦，不仅不利于增加情绪效益，而且可能对情绪造成损害。目前，每次
+锻炼的持续时间（或距离）与心理效益的关系说法尚不统一，但有一点几乎是可以肯定的，那就是：至少20～30min。
+2.7  长期坚持，养成习惯
+    一项研究[33]使用脚踏车让被试单独进行高强度（最大心率的80%～85%）的身体锻炼，并对锻炼者进行了生理、心理测试。结果发现，状
+态焦虑短时下降并且脑电图能量上升的人，是那些曾在过去的两年之内每周习惯性地跑48.27km(30英里)以上的人，没有锻炼习惯的人在高强度
+锻炼后，未见其焦虑有任何程度的下降。
+    上述结果的可能解释之一是：有锻炼习惯的人通过长期锻炼可能已经学会了解释不同的身体感受，并用这种感受为自己设定了调节锻炼的
+步调，从而在锻炼中能使自己有效地放松[42]。此外，有人[55][56]认为，一般人锻炼后心理效益大约可持续2～4h；锻炼后造成焦虑短暂下降
+和收缩压降低的效果可以持续2～3h,这个时间长于简单的休息。因此，要维持身体锻炼的心理学效益并使之长期发挥效益，就必须使锻炼形成
+一种生活规律，并且长期坚持，养成习惯。
+3  今后应努力的方向
+3.1  应拓宽锻炼项目的研究
+    这一领域的研究给人留下的强烈印象是：所研究的活动和锻炼项目范围较窄，大量研究集中于慢跑和游泳这两个封闭性运动技能和周期性
+活动项目上。而现实生活中，人们选择的活动和（或）项目千差万别，因此仅揭示个别或一两类项目的情绪效益是远远不够的。对那些开放性
+项目如球类，协作性项目如交谊舞、国际标准舞，以及下棋、打牌、钓鱼、登山及东方健身术等的研究目前在正式出版的体育期刊中所见甚少
+。
+    当然，对这些项目的研究难度较大，它不仅需要在研究设计上考虑更多的问题（如胜负、参与者的技术水平等），同时可能还涉及一些哲
+学、文化和社会背景的问题。为了避免研究的盲目性，围绕身体锻炼的心理健康的效益问题对身体活动和（或）身体锻炼项目进行系统，合理
+的分类也许是十分重要的问题，但遗憾的是，近20年来在运动动作技能的分类系统所取得的进展中，几乎没有一种分类专门针对身体活动与锻
+炼的健心问题进行[41]。这是该领域今后需要努力的方向之一。
+3.2  应对活动/锻炼特征进行分解研究
+    在分析某种身体活动或身体锻炼的情绪效益时，人们很自然地关心到底是这一项目的哪一种特征改善了情绪。例如，慢跑的情绪效益究竟
+是来自“有氧”特点还是腹式呼吸；是由于回避了人际竞争还是提供了冥想的机会等等。遗憾的是目前多数研究还未能将这些锻炼项目及负荷
+特征中的各个因素分解开来进行更细致的分析，在大多数研究中，锻炼特征往往是混合交叉的。例如，游泳锻炼既是有氧运动，又可以提供有
+节奏的腹式呼吸，同时可以自定步调，还可以回避人际竞争，转移锻炼者对消极情绪的注意力等等。假如某项研究能够阐明究竟是哪一种锻炼
+因素对优化情绪起作用或起主要作用，这无疑是本领域研究的一项重大突破。我们期待着这一突破。
+    当然，要实现这一突破并非容易，所面临的困难很多。首先，锻炼项目与活动特点密切联系，有些因素很难分解；其次，对实验设计的要
+求提高；第三，即使有了理想的实验设计，但实施过程难度巨大，因为研究对象未必接受随机分组，研究方案可能由于不能满足参与者的乐趣
+而难于顺利实施等。
+3.3  应寻求测量工具的完善
+    目前，该领域的主要测量工具不外乎两类：一类是生理指标如心率、血压、脑电与肌电等，主要测量与应激有关的情绪；另一类是以POMS
+和各种焦虑量表为代表的纸笔自评量表。两类工具均不理想，因为前者不能明确解释情绪的性质；后者则因表面效度偏高可能造成对研究结果
+估计的偏差。如果能够开发出一种更理想的测量工具，无疑可大大提高本领域研究的质量，从而增加研究结果的说服力。但在目前情况下，或
+许两类工具的合理结合是较为理想的研究手段。
+【责任编辑】梁进
+【参考文献】
+    1  Anshel M H,Freedson P,Hamill J,Haywood K,Horvat M,Plowman S A.Dictionary of the Sport and Exercise Sciences.Human Kin
+etics Books.Champaign Illinois,1991
+    2  Caspersen C J,Powell K E,Christenson G M.Physical Activity, Exercise and Physical Fitness:Definition and Distinctions
+ for Health-related Research.Public Health Reports,1985;(100):126～131
+    3  张力为，毛志雄。体育锻炼与心理健康的关系（综述）。广州体育学院学报，1995;(4):42～47
+    4  Weinberg R S,Jackson A,Kolodny K.The Relationship of Massage and Exercise to Mood Enhancement.The Sport Psychologist,
+1988;(2):202～221
+    5  Roth D L. Acute Emotional and Psychophysiological Effects of Aerobic Exercise.Psychophysiology,1989;26:593～602
+    6  Thayer R E. Energy,Tiredness,and Tension Effects of a Sugar Snack versus Moderated Exercise.Journal of Personality an
+d Social Psychology,1987;52:119～125
+    7  姒刚彦，黄志剑，余水清．关于老年人参加体育锻炼的心理前因及心理效益的初步研究．西安体育学院学报，1995;(3):69～74
+    8  Bahrke M S,Morgan W P.Anxiety Reduction Following Exercise and Meditation.Cognitive Therapy and Research,1978;(2):323
+～333
+    9  Privette G,Bundrick C M.Measurement of Experience:Construct and Content Validity of the Experience Questionnaire.Perc
+eptual and Motor Skills,1987;65:315～332
+    10 Sachs M L. The Runner's High.In M L Sachs,G  W Buffone(Eds.),Running as Therapy:An Integrated Approach.Lincoln, NE:Un
+iversity of Nebraska Press,1984:273～287
+    11  任未多。身体活动与运动锻炼的心理效应研究综述。体育科学,1997:(2):75～81
+    12  主则珊。“身体锻炼”（辞条）。见:中国大百科全书。体育。北京:中国大百科全书出版社，1982:308
+    13  Bouchard C,Shephard R J,Stephens T,Sutton J R,McPhersonB D(Eds). Exercise,Fitness and Health: A Consensus of Current
+Knowledge.Champaign:Human Kinetics,1990
+    14  Berger B G, Owen D R.Stress Reduction and MoodEnhancement in Four Exercise Modes:swimming, Body Conditioning,Hatha Y
+oga,and Fencing.Research Quarterly for Exercise andSport,1989;59:148～159
+    15  Steptoe A, Bolton J.The Short-term Influence of Highand Low Intensity Physical Exercise on Mood.Psycholigy andHealth
+,1988;(2):91～106
+    16  Steptoe A, Cox S.Acute Effects of Aerobic Exercise onMood.Health Psychology,1988;(7)329～340
+    17  Bosscher R J. Running the Rapie Bij Depressie.Unpublished Doctoral Dissertation.Amsterdam:VrijeUniversiteit,1991
+    18  Martinsen E W, Hoffart A,Solberg O.Comparing Aerobicwith NonaerobicForms ofExercisein the Treatment of ClinicalDepre
+ssion:A Randomized Trial.Comprehensive psychiatry,1989;30:324～331
+    19  Morgan W P, Goldston S E(Eds.).Exercise and MentalHealth.New York:Hemisphere,1987
+    20  Long B C.Aerobic Conditioning and Stress Reduction:Partcipation or  Conditioning? Human Movement Science,1983;(2):17
+1～186
+    21  Petruzzello S J, Landers D M, Hatfield B D,KubitzK A,Salazar W.A Meta-analysis on the Anxiety Reducing Effects ofAcu
+te and Chronic Exercise. Sports Medicine,1991;11(3):143～182
+    22   Bennett J, Carmack M A,Gardner V J.The Effect of aProgram of Physical  Exercise on Depression in Older Adults.Physi
+cal Educator,1982,39:21～24
+    23   Martinsen E W,Medhus A, Sandvik L.Effects of AerobicExercise on Depression:A Controlled Study.British MedicalJourna
+l,1985:291:109
+    24   Valliant P M, Asu M E.Exercise and Its Effects onCognition and Physiology in Older Adults.Perceptual and MotorSkill
+s,1985;61:1031～1038
+    25   Uson P P, Larrosa V R.Physical Activities in RetirementAge.In J Partington,T Orlick,J Samela(Eds).Sport in Perspect
+ive.Canada:Coaching Association of Canada,1982;149～151
+    26  毛志雄，王则珊。北京城区中老年人身体锻炼与心理健康的关系：情绪维度的研究．北京体育大学学报，1996;19（增刊）:5～10
+    27  McCullagh P, North T C,Mood D.Exercise as a Treatmentfor Depression:A Meta-analysis.Paper Presented at the Meetingof
+ the North American Society for the Psychology of Sport andPhysical Activity,Knoxville,TN.1988,June
+    28  North T C,McCullagh P,Tran Z V. Effect of Exercise onDepression.In K B Pandolf,J O Holloszy(Eds.) Exercise andSport 
+Sciences Reviews,1990,18:379～415
+    29  Lafontaine T P, DiLorenzo T M,Frensch P A,Stucky-Ropp RC,Bargman E P,McDonald D G.Aerobic Exercise and Mood:ABriefre
+view,1985-1990.Sports Medictine,1992;13(3):160～170
+    30  Wankel L M, Berger B G.The Psychological and SocialBenefits of Sport and Physical Activity.Leisure Research,1990;21:
+167～182
+    31  Berger B G Owen D R. Mood Alteration with Swimming:ARe-evaluation.In L Vander Velden,J H Humphrey (Eds.).CurrentSele
+cted Research in the Psychology and Sociology of Sport.NewYork:AMS Press.1986:97～114
+    32  Berger B G, Friedmann E,Eaton M.Comparison of  Jogging,the Relaxation Response,and Group Interaction for StressReduc
+tion.Jourhal of Exercise Psychology,1988;10(4):431～447
+    33 Boutcher S H, Landers D M.The Effects of VigorousExercise on Anxiety,Heart Rate,and Alpha Activity of Runnersand Nonr
+unners.Psychophysiology,1988;25:696～702
+    34   Friedman in E, Berger B G.Influence of Gender,Masculinityand Femininity on the Effectiveness of Three Stress Reduct
+ionTechniques:Jogging,Relaxation Response,and Group Interaction.of Applied Sport Psychology,1991;(3):61～86
+    35   Long B C,Haney C J. Coping Strategies for Working Women:Aerobic Exercise And Relaxation Interventions.Behavior Ther
+apy,1988;19:75～83
+    36  Long B C, Haney C J.Long-term Follow-up of StressedWomen:A Comparison of Aerobic Exercise and ProgressiveRelaxation.
+Journal of Sport and Exercise Psychology,1988;10:416～470
+    37  Long B C. Stress-management Interventions:A 15-monthFollow-up of Aerobic Conditioning and Stress InoculationTraining
+.Cognitive Therapy and Research,1985;9:471～478
+    38  Sachs M L, Buffone G  W(Eds.).Psychology of Running.Champaigh,IL:Human Kinetics,1981
+    39  Sacks M  H & Sachs M L(Eds.).Psychology of  Running.Champaign,IL:Human Kinetics,1981
+    40   Berger B  G, Owen D R.Mood Alteration with Swimming-swimmers really Do"Feelbetter."Psychosomatic Medicine,1983;45:4
+25～433
+    41  Sharp B I.Swimming and"Well-being".Unpublished DoctoralDissertation.Yeshiva University,New York,1987
+    42   Berger B G, McInman A.Exercise and the Quality of Life.In R N Singer,M Murphey,L K Tennant(Eds.) Handbook ofResearc
+h on Sport Psychology.New York:Macmillan PublishingCompany,1993
+    43  Riddick C C.Comparative Psychological Profiles of ThreeGroup of Female Collegians:Competitive Swimmers,Recreational 
+Swimmers,and Inactive Swimmers.Journal of Sport Behavior,1984;7:160～174
+    44   Hackfort D, Spielberger C D(Eds.)Anxiety in Sports:AnInternational Perspective.New Yors:Hemisphere Publishing,1989
+    45   Berger B G. The Meaning  of Regular Jogging:A Phenomenological Approach.In R Cox(Ed):American Alliance forHealth Ph
+sical  Education,and Recreation Research Consortium Symposium Papers(Vol.2,Book 2).Washington,DC:American Alliancefor Health
+,Physical Education,Recreation,and Dance,1980
+    46  Berger B G,Mackenzie M M.A Case Study of a WomanJogger:A Psychodynamic Analysis.Journal of Sport Behavior,1980;3:3～
+16
+    47   Dishman R K. Mental Health.In V Seefled(Ed.):PhysicalActivity and Well Being.Reston VA:American Association forHeal
+th,Physical Education,Recreation and Dance,1986;304～341
+    48   Morgan W P, Ellickson K A.Health,Anxiety,and PhysicalExercise.In D Hackfort,C D Spielberger(Eds.):Anxiety in Sports
+.An International Perspective.New York: Hemisphere,1989;165～182
+    49   De  Vries H A.Tranquilizer Effects of Exercise:ACritical Review.The Physician and Sports Medicine,1981;9(11):46～55
+    50   DeVries H A,Adams G M. Electromyographic Comparison ofSingle Doses of Exercise and Meprobamate as to Effects onMusc
+ular Relaxation.Medicine and Science in Sports andExercise,1972;23:846～852
+    51   Carmack M A, Martens R.Measuring Commitment to Running:A Survey of Runners'Attitudes and  Mental States.Journal of 
+Sport Psychology,1977;1:25～42
+    52   Mandell A. The Second Wind. Psychiatric Annals,1979;9:57～69
+    53   Glasser W.Possitive Addiction.New York:Haper,Row, 1976
+    54   Morgan W P. Reduction of State Anxiety Following AcutePhysical Activity.In W P Morgan,S E Goldston(Eds.):Exercisean
+d Mental Health.Washington,DC:Hemisphere,1987;105～109
+    55   Raglin J S, Morgan W P.Influence of Exercise and QuietRest on State Anxiety and Blood Pressure.Medicine and Science
+in Sport and Exercise,1987;19:456～463
+    
+    
+    
+ 

@@ -1,0 +1,50 @@
+环境科学研究
+RESEARCH OF ENVIRONMENTAL SCIENCES
+2001 Vol.14 No.1 P.57-58,60
+
+
+
+
+内分泌扰乱化学品活性筛选和测试方法
+邱东茹　 吴振斌　 贺锋　 
+摘　要：对近年来对内分泌扰乱化学品(EDCs)的筛选和测试方法进行了述评。目前倾向于采用包括与激素受体结合的亲和力测试、体外和活体测试在内的层式检测法对EDCs的活性进行筛选和测试，并评价人体和野生动物内分泌扰乱的性质、可能性和剂量-反应关系。目前也致力于EDCs的结构-效应关系特别是定量关系的研究，旨在提供一种简便低廉的筛选方法。总的说来，稳定可靠的标准化筛选和检测方法的建立仍待努力。
+关键词：内分泌扰乱物；　筛选和测试；　受体；　定量构效关系
+分类号：X174　文献标识码：A
+文章编号：1001-6929(2001)01-0057-02
+Advance in Screening and Testing Methods of Endocrine Disrupting Chemicals
+QIU Dong-ru（Institute of Hydrobiology,The Chinese Academy of Sciences,Wuhan　430072,China）　
+WU Zhen-bin（Institute of Hydrobiology,The Chinese Academy of Sciences,Wuhan　430072,China）　
+HE Feng（Institute of Hydrobiology,The Chinese Academy of Sciences,Wuhan　430072,China）　
+Abstract：The advance in screening and testing assays for identifying endocrine-disrupting chemicals (EDCs) is reviewed.A tiered test program is recommended for prescreening,evaluation of the potential of endocrine disruption,and assessment of consequence of endocrine-disrupting potential of specific chemicals.The prescreening stage consists of automated assays to detect the binding affinity of chemicals with hormone receptors.Tier 1 involves a battery of in vitro and in vitro assays designed to detect the potential of a chemical to disrupt endocrine system.Tier 2 tests are designed to characterize the nature,likelihood,and dose-response relationship of endocrine disruption in humans and wildlife.A wide variety of SARs,especially QSARs,have been developed to predict the hormone binding affinity for the simple and inexpensive screening approaches.Great efforts are still needed for the development of validated and standardized program for screening and testing endocrine-disrupting effects of chemicals.
+Keywords：endocrine disrupters;　screening and test;　receptor;　quantitative structure-activity relationship
+基金项目：国家杰出青年科学基金资助项目(39925007)；欧盟国际合作资助项目(ERBIC18CT960059)
+作者简介：邱东茹(1968-)，男，湖北麻城县人，助理研究员，在读博士研究生. 
+作者单位：邱东茹（中国科学院 水生生物研究所 淡水生态与生物技术国家重点实验室，湖北 武汉　430072）　
+　　　　　吴振斌（中国科学院 水生生物研究所 淡水生态与生物技术国家重点实验室，湖北 武汉　430072）　
+　　　　　贺锋（中国科学院 水生生物研究所 淡水生态与生物技术国家重点实验室，湖北 武汉　430072）　
+参考文献：
+［1］Kavelock R J.Research needs for risk assessment of health and environmental effects of endocrine disrupters:A report of the U.S.EPA-sponsored workshop［J］.Environ Health Perspect,1996,104:715～740.
+［2］European Community.European workshop on the impact of endocrine disrupters on human health and wildlife ［R］.Paris:Workshop Publication EUR,1997.17549.
+［3］Korach K S,Sarver P,Chae K,et al.Estrogen receptor binding activity of polychlorinated hydroxybiphenyls:conformationally restricted structural probes ［J］.Mol Pharmacol,1988,33:120～126.
+［4］Soto A M,Justica H,Wray J W,et al.P-Nonyl-phenol:an estrogenic xenobiotic released from “modified” polystyrene ［J］.Environ Health Perspect,199 1,92:167～173.
+［5］Soto A M,Chung K L,Sonnenschein C.The pesticide endosulfan,toxaphene,and dieldin have estrogenic effects on human estrogen-sensitive cells ［J］.Environ Health Perspect,1994,102:380～383.
+［6］Kuiper G G,Enmark E,Pelto-Huikko M,et al.Cloning of a novel estrogen receptor expressed in rat prostate and ovary ［J］.Proc Natl Acad Sci USA,1996,93: 5925～5930.
+［7］Sumpter J P,Jobling S.Vitellogenesis as a biomarker for estrogenic contamination of the aquatic environment ［J］.Environ Health Perspect,1995,103(suppl .):173～177.
+［8］Arukwe A,Knudsen F R,Goksoyr A.Fish zona radiata(eggshell) protein:A sensitive biomarker for environmental estrogens［J］.Environ Health Perspect,1997,105:418～422.
+［9］Palmer B D,Huth L K,Pieto D L,et al.Vitellogenin as a biomarker for xenobiotic estrogens in an amphibian model system ［J］.Envrion Toxicol Chem,1998,17 :30～36.
+［10］Parks L G,LeBlanc G A.Reductions in steroid hormone biotransformation/ elimination as a biomarker of pentachlorophenol chronic toxicity［J］.Aquat Toxicol,1996,34(4):291～303.
+［11］Monoson E,Fleming W J,Sullivan C V.Effects of the planar PCB 3,3′,4,4′ -tetrachlorobiphenyl(TCB) on ovarian development,plasma levels of sex steroid hormones and vitellogenin,and progeny survival in the white perch (Morone americana)［J］.Aquat Toxicol,1994,29:1～19.
+［12］Ankely G T,Johnson R D,Detenbeck N E,et al.Development of a research strategy for assessing the ecological risk of endocrine disruptors［J］.Rev Toxico l,1997,1:231～267.
+［13］Walker M K,Spitsbergen J M,Olson J R,et al.2,3,7,8-Tetrachlorodiben-p-dioxin (TCDD) toxicity during early stage development of lake trout (Salv elinus namaycush)［J］.Can J Fish Aquat Sci,1991,48:875～883.
+［14］White R,Jobling S,Hoare S A,et al.Environmentally persistent alkylphenolic compounds are estrogenic ［J］.Endocrinology,1994,135:175～182.
+［15］Rao S S,Metcalfe C D,Neheli T A,et al.Assessing the toxicity of environmental contaminants with early life stages of Japanese medaka (Oryzias latipes )［J］.Environ Toxicol Water Qual,1997,12(4):349～354.
+［16］Arcand-Hoy L D,Benson W H.Fish reproduction:An ecologically relevant indicatior of endocrine disruption［J］.Environ Toxicol Chem,1998,17:49～57.
+［17］Wine R N,Li L-H,Barnes L H,et al.Reproductive toxicity of di-n-butylphthalate in a continuous breeding protocal in Sprague-Dawley rats［J］.Environ Health Perspect,1997,105:102～107.
+［18］Spearow J L,Doemeny P,Sera R,et al.Genetic variation in susceptibility to endocrine disruption by estrogen in mice ［J］.Science,1999,285:1259～1261.
+［19］Ankley G T,Mihaich E,Stahl R,et al.Overview of a workshop on screening methods for detecting potential(anti-)estrogenic/androgenic chemicals in wildlife ［J］.Environ Toxicol Chem,17:68～87.
+［20］Waller C L,Minor D L,Geisey J P,et al.Using three-dimensional quantitative structure-activity relationships to examine estrogen receptor binding affinities of polychlorinated hydroxybiphenyls［J］.Environ Health Perspect,1995,103 :702～707.
+［21］Bradbury S P,Mekenyan O G,Ankley G T.The role of ligand flexibility in predicting biological activity:Structure-activity relationships for aryl hydroca rbon,estrogen,and estrogen receptor binding affinity［J］.Environ Toxicol Chem, 1998,17:15～25.
+［22］Baldwin W S,Milam D L,Leblanc G A.Physiological and biochemical perturbations in Daphnia magna following exposure to the model environmental estrogen diethylstilbestrol［J］.Environ Toxicol Chem,1995,14(6):945～952.
+［23］Zou E,Fingerman M.Synthetic estrogenic agents do not inhibit molting of the cladocran Daphnia magna［J］.Bull Environ Contam Toxico,1997,58:596～602.
+收稿日期：2000年1月3日
+出版日期：2001年1月30日

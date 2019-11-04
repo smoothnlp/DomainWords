@@ -1,0 +1,23 @@
+上海航天
+AEROSPACE SHANGHAI
+2001 Vol.18 No.2 P.74-78
+
+
+
+
+FY-1C卫星的资料处理及应用研究
+刘玉洁　 
+摘　要：介绍了FY-1C的轨道特征、对地观测能力、星上数据贮存能力和数据传输能力等，以及卫星仪器特性、光谱波段特征和应用能力。最后给出了卫星资料的应用情况。
+关键词：气象卫星；数据处理；卫星遥感；太阳同步轨道卫星
+分类号：P414+.2；P412.3　文献标识码：A
+文章编号：1006－1630(2001)02－0074－05
+Study on the Data Processing and Application of FY-1C Satellite
+LIU Yu-jie（National Satellite Meteorological Center CMA, Beijing 100081,China）　
+
+Abstract：he orbital features, performance of earth-observation, data storage and transm ission, and the characteristics of satellite-borne instrument, freque ncy band and their application are introduced. Finally the application of the sa tellite data is described.
+Keywords：Meteolorogical satellite; Data processing; Satellite remote sensing; Sun-synchr onous satellite
+作者简介：刘玉洁(1945-)，女，卫星气象研究所所长，正研级高工，研究领域：气象卫星遥感资料处理和应用。 
+作者单位：刘玉洁（中国气象局国家卫星气象中心,北京 100081）　
+
+收稿日期：2001年3月6日
+出版日期：2001年4月25日
