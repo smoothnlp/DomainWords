@@ -37,7 +37,7 @@
 
 ![经济](https://raw.githubusercontent.com/smoothnlp/DomainWords/master/img/经济.png)
 
-![计算机](https://raw.githubusercontent.com/smoothnlp/DomainWords/master/img/计算机.png)
+![计算机](img/计算机.png)
 
 ![艺术](https://raw.githubusercontent.com/smoothnlp/DomainWords/master/img/艺术.png)
 
