@@ -3,8 +3,8 @@ from smoothnlp.algorithm.phrase import extract_phrase
 import pandas as pd
 
 
-news_path = 'domainPhrase/'
-file_path1, file_path2 = 'data/test/', 'data/train/'
+news_path = 'DomainPhrase_Fudan/'
+file_path1, file_path2 = 'Corpus_Fudan/test/', 'Corpus_Fudan/train/'
 
 
 def read_data(file_name):
